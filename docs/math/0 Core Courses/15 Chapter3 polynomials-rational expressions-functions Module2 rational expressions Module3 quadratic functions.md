@@ -564,6 +564,8 @@ x=\frac{-2+10}{2}=4 & \textsf{axis of symmetry} \\
 \end{array}
 $  
 :::  
+<iframe src="https://www.desmos.com/calculator/ljpzs1jxvz?embed" width="480" height="330" style="border: 1px solid #ccc" frameborder=0></iframe>
+
 #### Conclusion
 - Derived Solution  
   ::: wrap
@@ -588,3 +590,4 @@ $
 | YouTube     | [Watch](https://www.youtube.com/watch?v=ZPNYstpg-VU&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                         | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
 | Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvrs?playlist=x9h6d2)                                                   |                                                                   |
 | Rumble      | [Watch](https://rumble.com/v6s95ex-chapter3-polynomials-rational-expressions-functions-module2-rational-expres.html) |                                                                   |
+
