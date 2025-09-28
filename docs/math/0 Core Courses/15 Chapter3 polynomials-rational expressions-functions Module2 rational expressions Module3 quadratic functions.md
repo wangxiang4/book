@@ -3,13 +3,6 @@ title: Chapter3 Polynomials, Rational Expressions, and Functions – Module2 Rat
 lang: en-US
 ---
 
-| Platform    | Course                                                                                                               | Coursewares                                                       |
-|-------------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=ZPNYstpg-VU&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                         | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvrs?playlist=x9h6d2)                                                   |                                                                   |
-| Rumble      | [Watch](https://rumble.com/v6s95ex-chapter3-polynomials-rational-expressions-functions-module2-rational-expres.html) |                                                                   |
-
-
 # Module 3-02 Rational Expressions and Operations
 
 ## 1.Concept of Rational Expressions
@@ -439,3 +432,159 @@ $
 
   :::
 ---
+
+### $\fbox{33}\:$Given that the parabola $\small y=ax^2+bx+c$ intersects the x-axis at point $\small A(-3,0)$, has its axis of symmetry at $\small x=-1$, and the distance from its vertex $\small M$ to the x-axis is $\small 2$, what is the y-intercept of this parabola $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: -\frac{3}{2} &
+\textsf{(B)} \: \pm\frac{3}{2} &
+\textsf{(C)} \: \frac{3}{2} &
+\textsf{(D)} \: \frac{1}{2} &
+\textsf{(E)} \: \pm\frac{1}{2} & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question quadratic functions figure Q-33 solve-1.svg](../../public/math/Core%20Courses/Question%20quadratic%20functions%20figure%20Q-33%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \frac{-3+1}{2}=-1 \Longrightarrow
+  \begin{array}{ll}
+  x_1=-3 \\
+  x_2=1 \\
+  \end{array} \\
+  y=a(x+3)(x-1) \\
+  \textsf{let }x=-1 & x=\mathbb{R} \\
+  x=-1 \longrightarrow y=\pm2 \\
+  a(-1+3)(-1-1)=\pm2 \\
+  -4a=\pm2 \\
+  a=-\frac{1}{2} \lor a=\frac{1}{2} \\
+  y=\pm\frac{1}{2}(x+3)(x-1) & \textsf{substitute }a \\
+  \textsf{let }x=0 & \textsf{y-intercept} \\
+  \pm\frac{1}{2}(0+3)(0-1)=y \\
+  y=\pm\frac{3}{2} \\
+  \end{array}
+  $   
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $y=\pm\frac{3}{2}$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Courses/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-the-coordinates-of-the-midpoint-between-two-points}{\textsf{midpoint formula}} \\
+  y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Courses/15%20Chapter3%20polynomials-rational%20expressions-functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{root form of a quadratic function}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 4.Focus 2
+__The finding extremum__  
+- The most important aspect of quadratic functions is solving for __the extremum of the expression__,
+  which can be determined by __analyzing the axis of symmetry__.
+
+
+### $\fbox{34}\:$What is the maximum value of $\small 2x(2-x)\,\mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 1 &
+\textsf{(B)} \: 0.1 &
+\textsf{(C)} \: 1.5 &
+\textsf{(D)} \: 0.25 &
+\textsf{(E)} \: 2 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+2x(2-x) \\
+-2x^2+4x \\
+-2(x^2-2x) \\
+-2\cdot x(x-2) \\
+-2(x-0)(x-2) \\
+x_1=0 \lor x_2=2 \\
+\textsf{let }x=\frac{0+2}{2}=1 & x=\mathbb{R} \\
+y_{\textsf{max}}=2\cdot1(2-1)=2 & \textsf{substitute }x \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $y_{\textsf{max}}=2$, so choose $E$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Courses/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-the-coordinates-of-the-midpoint-between-two-points}{\textsf{midpoint formula}} \\
+  y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Courses/15%20Chapter3%20polynomials-rational%20expressions-functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{root form of a quadratic function}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{35}\:$A store purchases a product at a unit cost of $\small 18$ dollars. When selling it at $\small 20$ dollars per unit, $\small 100$ units can be sold per day. For each 1-dollar increase in the selling price (per unit), the daily sales volume decreases by $\small 10$ units. At what selling price should the product be set to maximize the daily profit $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 22 &
+\textsf{(B)} \: 23 &
+\textsf{(C)} \: 24 &
+\textsf{(D)} \: 25 &
+\textsf{(E)} \: 26 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let price increase}=x \\
+\textsf{profit}=\textsf{unit profit}\times\textsf{sales volume} \\
+y=(2+x)(100-10x) \\
+x=\frac{-2+10}{2}=4 & \textsf{axis of symmetry} \\
+\textsf{selling price}=20+4=24 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $\textsf{selling price}=24$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Courses/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-the-coordinates-of-the-midpoint-between-two-points}{\textsf{midpoint formula}} \\
+  y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Courses/15%20Chapter3%20polynomials-rational%20expressions-functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{root form of a quadratic function}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+| Platform    | Course                                                                                                               | Coursewares                                                       |
+|-------------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| YouTube     | [Watch](https://www.youtube.com/watch?v=ZPNYstpg-VU&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                         | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvrs?playlist=x9h6d2)                                                   |                                                                   |
+| Rumble      | [Watch](https://rumble.com/v6s95ex-chapter3-polynomials-rational-expressions-functions-module2-rational-expres.html) |                                                                   |
