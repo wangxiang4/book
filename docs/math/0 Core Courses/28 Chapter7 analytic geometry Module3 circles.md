@@ -865,7 +865,7 @@ $
   >$
 
   :::   
-- Logical relationship between __having intersection points__ and __intersecting__    
+- Derivation relationship between __having intersection points__ and __intersecting__    
   ::: wrap
   >$
   \begin{array}{ll}
