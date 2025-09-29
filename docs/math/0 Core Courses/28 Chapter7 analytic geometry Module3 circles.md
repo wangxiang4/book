@@ -145,7 +145,7 @@ $
   \begin{array}{ll}
   x^2+y^2=1 \\
   x^2=1-y^2 \\
-  x=\sqrt{1-y^2} & x > 0 \textsf{ since it's the right half} \\
+  x=\sqrt{1-y^2} & x > 0 \textsf{ since it has the right half} \\
   x-\sqrt{1-y^2}=0 & \textsf{right semicircle}\\
   y-\sqrt{1-x^2}=0 \rightarrow y=\sqrt{1-x^2} & y \in \mathbb{R_+} \textsf{ upper semicircle} \\
   y+\sqrt{1-x^2}=0 \rightarrow y=-\sqrt{1-x^2} & y \in \mathbb{R_-} \textsf{ lower semicircle} \\

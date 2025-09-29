@@ -372,7 +372,7 @@ $
 
 ## 12.Focus 6
 __Two lines intersect__  
-- When __the slopes of two lines aren't equal__, __the lines intersect__.
+- When __the slopes of two lines are not equal__, __the lines intersect__.
   Additionally, you should know how to find __the coordinates of the intersection point__.
 - intersection point $=$ solve the system of equations formed by the two lines.
 

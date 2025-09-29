@@ -518,8 +518,8 @@ $
   > | Operation                                           | Inequality sign changes? |
   > |-----------------------------------------------------|--------------------------|
   > | __Multiply $\boldsymbol{\lor}$ Divide__ by negative | ✅ Flip the sign          |
-  > | __Multiply $\boldsymbol{\lor}$ Divide__ by positive | ❌ Don't flip the sign    |
-  > | __Add $\boldsymbol{\lor}$ Subtract__ both sides     | ❌ Don't flip the sign    |
+  > | __Multiply $\boldsymbol{\lor}$ Divide__ by positive | ❌ Do not flip the sign   |
+  > | __Add $\boldsymbol{\lor}$ Subtract__ both sides     | ❌ Do not flip the sign   |
 ---
 
 

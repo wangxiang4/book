@@ -10,7 +10,7 @@ lang: en-US
 - If an experiment satisfies the following conditions:  
   __(1)__ The experiment can be __repeated__ under the same conditions;  
   __(2)__ The experiment __has many possible outcomes__;  
-  __(3)__ The result of the experiment __can't be determined in advance__, only __the set of all possible outcomes is known__.  
+  __(3)__ The result of the experiment __cannot be determined in advance__, only __the set of all possible outcomes is known__.  
 - Such an experiment is called a random experiment, abbreviated as $E$.
 
 ## 2.Random Event
@@ -162,7 +162,7 @@ $
 - ###### __Sequential sampling__ (by default, one element is taken each time)  
   - With replacement: __the sample remains unchanged__.  
   - Without replacement: __the sample decreases progressively__.  
-- ###### Single sampling: __the order of the selected elements doesn't matter__.  
+- ###### Single sampling: __the order of the selected elements does not matter__.  
 
 
 ## 11.Sampling with Numbered Samples
@@ -173,7 +173,7 @@ $
 __The sampling methods__  
 - The sampling methods are divided into __sequential sampling__
   (with replacement, without replacement) and __single sampling__.
-  In __sequential sampling, the order matters__, while in __single sampling, the order doesn't__.
+  In __sequential sampling, the order matters__, while in __single sampling, the order does not__.
   __The probability of sequential sampling without replacement is equal to the probability of single sampling__.
 
 
@@ -413,7 +413,7 @@ $
 # Module 10–02 Independent Events
 
 ## 1.Concept of Independent Events
-- If the occurrence of either of two events __doesn't affect the probability of the other__,
+- If the occurrence of either of two events __does not affect the probability of the other__,
   then __these two events are said to be independent__.  
 
 ## 2.Mathematical Definition
@@ -709,7 +709,7 @@ __The competition template__
   then write __the corresponding probabilities__.
 
 
-### $\fbox{12}\:$In a guessing game with $\small 5$ rounds, if a player passes $\small 2$ consecutive rounds, they're considered to have successfully completed the challenge. The probability of Mike passing each round is $\small \frac{1}{2}$. What is the probability that he successfully completes the challenge $\small \mathpunct{?}$.
+### $\fbox{12}\:$In a guessing game with $\small 5$ rounds, if a player passes $\small 2$ consecutive rounds, they are considered to have successfully completed the challenge. The probability of Mike passing each round is $\small \frac{1}{2}$. What is the probability that he successfully completes the challenge $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -759,7 +759,7 @@ $
 ---
 
 
-### $\fbox{13}\:\small A, B$, and $\small C$ are participating in a competition where two players compete in each round with no draws; the probability of $\small A$ defeating $\small B$ is $\small \frac{3}{5}$, $\small A$ defeating $\small C$ is $\small \frac{4}{5}$, and $\small B$ defeating $\small C$ is $\small \frac{3}{5}$, with the rule that the first round is between $\small A$ and $\small B$, and the winner of each round competes with the player who didn't participate in that round in the next round, and the competition ends when one player wins two rounds.
+### $\fbox{13}\:\small A, B$, and $\small C$ are participating in a competition where two players compete in each round with no draws; the probability of $\small A$ defeating $\small B$ is $\small \frac{3}{5}$, $\small A$ defeating $\small C$ is $\small \frac{4}{5}$, and $\small B$ defeating $\small C$ is $\small \frac{3}{5}$, with the rule that the first round is between $\small A$ and $\small B$, and the winner of each round competes with the player who did not participate in that round in the next round, and the competition ends when one player wins two rounds.
 #### (1) What is the probability that $\small A$ wins the competition after only two rounds $\small \mathpunct{?}$.
 ::: wrap  
 $
@@ -868,7 +868,7 @@ __The circuit template__
 - For a series circuit, the probability that the system functions normally is equal to the product of the probabilities that each circuit functions normally.   
   - Normal (all working): $P_1 \times P_2 \times P_3$  
   ![Circuit series system probability.svg](../../public/math/Core%20Courses/Circuit%20series%20system%20probability.svg)  
-- For a parallel circuit, the probability that the system functions normally is equal to 1 minus the product of the probabilities that each circuit doesn't function normally.  
+- For a parallel circuit, the probability that the system functions normally is equal to 1 minus the product of the probabilities that each circuit does not function normally.  
   - At least one normal (working): $1-(1-P_1)(1-P_2)(1-P_3)$  
   ![Circuit parallel system probability.svg](../../public/math/Core%20Courses/Circuit%20parallel%20system%20probability.svg)  
 

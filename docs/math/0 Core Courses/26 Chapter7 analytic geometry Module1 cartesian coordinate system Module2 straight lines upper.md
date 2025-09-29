@@ -8,7 +8,7 @@ lang: en-US
 ## 1.Coordinate Relationship Between Two Points  
 ![Coordinate Relationship Between Two points.svg](../../public/math/Core%20Courses/Coordinate%20Relationship%20Between%20Two%20points.svg)   
 
-- Points on the coordinate axis don't belong to any quadrant.   
+- Points on the coordinate axis do not belong to any quadrant.   
   - points on x-axis $(x,0)$.
   - points on y-axis $(0,y)$.
 
@@ -520,7 +520,7 @@ __The equation of a line__
 $
 \begin{array}{lllll}
 \textsf{(1)} \: \textsf{a line passing through the origin can be represented in intercept form} & \\
-\textsf{(2)} \: \textsf{a horizontal line can't be represented in intercept form} & \\
+\textsf{(2)} \: \textsf{a horizontal line cannot be represented in intercept form} & \\
 \textsf{(3)} \: \textsf{a vertical line can be represented in point-slope form} & \\
 \textsf{(4)} \: \textsf{all lines can be represented in general form} & \\
 \textsf{(A)} \: 0 & \\
@@ -537,7 +537,7 @@ $
 \begin{array}{ll}
 \textsf{(1)} \: \frac{x}{a}+\frac{y}{b}=0 \,❌\;\\
 \textsf{(2)} \: \textsf{a horizontal line has no intersection with the x-axis} \,✅\;\\
-\textsf{(3)} \: \textsf{the slope of a vertical line doesn't exist} \,❌\;\\
+\textsf{(3)} \: \textsf{the slope of a vertical line does not exist} \,❌\;\\
 \textsf{(4)} \: \textsf{all lines can be transformed into the general form} \,✅\;\\
 \end{array}
 $  
@@ -586,7 +586,7 @@ $
 $  
 :::
 #### Solution
-- collinearity of three points $\Leftrightarrow$ any two points have the same slope $\Leftrightarrow$ they can't form $\triangle$  
+- collinearity of three points $\Leftrightarrow$ any two points have the same slope $\Leftrightarrow$ they cannot form $\triangle$  
   ::: wrap   
   $
   \begin{array}{ll}
@@ -808,7 +808,7 @@ __The line passes through quadrants__
   ![Line cross quadrants.svg](../../public/math/Core%20Courses/Line%20cross%20quadrants.svg)    
 
 
-### $\fbox{11}\:$(Sufficiency judgment) Line $\small l:\: ax+bx+c=0$ definitely doesn't pass through the third quadrant.
+### $\fbox{11}\:$(Sufficiency judgment) Line $\small l:\: ax+bx+c=0$ definitely does not pass through the third quadrant.
 ::: wrap   
 $
 \begin{array}{lllll}

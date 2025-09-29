@@ -233,10 +233,10 @@ $
            \end{cases} \\
            \end{array}
   > $
-  >   3. ###### __Combination formula__ (order doesn't matter, remove duplicates caused by different orders)
+  >   3. ###### __Combination formula__ (order does not matter, remove duplicates caused by different orders)
   >      $\boldsymbol{C_n^k=\frac{n!}{k!(n-k)!}}$   
   >      - $n$: total number of available items (supply)   
-  >      - $k$: number of elements to choose (demand, order doesn't matter)    
+  >      - $k$: number of elements to choose (demand, order does not matter)    
   >      - __Example__   
   > $
            \begin{array}{ll}
@@ -437,7 +437,7 @@ It is denoted as $\boldsymbol{C_n^m}$.
   ::: wrap  
   - ###### __Formula for the number of combinations__: $C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1}=\frac{n!}{m!(n-m)!}=\boldsymbol{\frac{A_n^m}{m!}}$.
     - $n$: total number of available items (supply).
-    - $m$: number of elements to choose (demand, order doesn't matter).   
+    - $m$: number of elements to choose (demand, order does not matter).   
     - one permutation when all or none are selected: $C_n^0=C_n^n=1$.
     - __Example__    
       $

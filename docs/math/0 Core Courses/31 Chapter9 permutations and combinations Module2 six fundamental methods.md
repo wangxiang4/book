@@ -167,10 +167,10 @@ $
 
 ## 4.Focus 2
 __The alternating element insertion method__   
-- First __arrange the other elements__, then insert the elements __that mustn't be adjacent__ into __the available gaps__.
+- First __arrange the other elements__, then insert the elements __that must not be adjacent__ into __the available gaps__.
 
 
-### $\fbox{14}\:$Seven people are standing in a line for a photo. if $\small A, B$, and $\small C$ mustn't be adjacent to each other, how many different arrangements are possible $\small \mathpunct{?}$.
+### $\fbox{14}\:$Seven people are standing in a line for a photo. if $\small A, B$, and $\small C$ must not be adjacent to each other, how many different arrangements are possible $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -220,7 +220,7 @@ $
   :::
 ---
 
-### $\fbox{15}\:$A performance has $\small 3$ dances, $\small 2$ dramas, and $\small 2$ solos. The dance performances can't appear consecutively. How many different sequences of performances are possible $\small \mathpunct{?}$.
+### $\fbox{15}\:$A performance has $\small 3$ dances, $\small 2$ dramas, and $\small 2$ solos. The dance performances cannot appear consecutively. How many different sequences of performances are possible $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -292,7 +292,7 @@ $
   \textsf{on}:5 \\
   \textsf{off (not adjacent)}:3 \\
   \end{cases} \\
-  \textsf{the lights (on or off) don't require sorting because they're the same} \\
+  \textsf{the lights (on or off) do not require sorting because they are the same} \\
   C_{[?,?,?,?,?,?]}^{\textsf{off}, \textsf{off}, \textsf{off}}=C_6^3 \\
   C_6^3=\frac{6\times5\times4}{3\times2\times1}=20 \\
   \end{array}
@@ -433,7 +433,7 @@ $
 
 ## 6.Focus 4
 __The case where both types are non-adjacent__  
-- When the two types of elements __mustn't be adjacent__, first __arrange one type__,
+- When the two types of elements __must not be adjacent__, first __arrange one type__,
   then __insert the other into the gaps__
   — making sure __all the available positions in between__ are __filled__.
 - Alternating arrangement  
@@ -445,7 +445,7 @@ __The case where both types are non-adjacent__
   $
 
 
-### $\fbox{19}\:$Six people — three men and three women — stand in a line. If the women aren't adjacent to each other and the men aren't adjacent to each other, how many different arrangements are possible $\small \mathpunct{?}$.
+### $\fbox{19}\:$Six people — three men and three women — stand in a line. If the women are not adjacent to each other and the men are not adjacent to each other, how many different arrangements are possible $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -497,7 +497,7 @@ $
 ---
 
 
-### $\fbox{20}\:$Seven people — four men and three women — stand in a line. If the women aren't adjacent to each other and the men aren't adjacent to each other, how many different arrangements are possible $\small \mathpunct{?}$.
+### $\fbox{20}\:$Seven people — four men and three women — stand in a line. If the women are not adjacent to each other and the men are not adjacent to each other, how many different arrangements are possible $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -579,7 +579,7 @@ $
   treat __the elements as $\boldsymbol{m+n}$ items__ and apply the divider method.
   In this case, there are $C_{n+m-1}^{m-1}$ ways.   
   ![Divider method formula explanation.svg](../../public/math/Core%20Courses/Divider%20method%20formula%20explanation.svg)   
-- In the divider method, dividers can't be placed before the first element or after the last element,
+- In the divider method, dividers cannot be placed before the first element or after the last element,
   nor can two dividers be placed in the same gap.
 
 ## 8.Focus 5
@@ -788,7 +788,7 @@ $
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Introduction to the method
 - The characteristic of __permutation problems with repetition allowed__ is __that elements are the objects of study__,
-  and __their positions aren't constrained__.
+  and __their positions are not constrained__.
   Each element can be __placed one by one__.
   In general,
   the number of ways to __arrange $\boldsymbol{n}$ different elements__ into __$\boldsymbol{m}$ different positions__ is $\boldsymbol{m^n}$.
@@ -953,7 +953,7 @@ $
 - There is __a correspondence__ between elements and objects.
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Introduction to the method
-- Regardless of the number of elements, as long as they're __correctly matched__, there is __only one way__ to do it.
+- Regardless of the number of elements, as long as they are __correctly matched__, there is __only one way__ to do it.
 - For $n$ elements, if __$(n-1)$ elements are correctly matched__, it means __all the elements are correctly matched__.
 - For incorrect matching arrangements, the number of methods is as follows:  
   - __$\boldsymbol{2}$ incorrect matches: $\boldsymbol{1}$ way__.
@@ -968,7 +968,7 @@ $
 ## 12.Focus 7
 __The correct matching and incorrect matching__  
 - When elements are __correctly matched__, there is __only one way to arrange them__.
-  When they're __incorrectly matched__, you can __memorize the results__:
+  When they are __incorrectly matched__, you can __memorize the results__:
   $2$ incorrect matches: $1$ way,
   $3$ incorrect matches: $2$ ways,
   __$\boldsymbol{4}$ incorrect matches: $\boldsymbol{9}$ ways__,
@@ -1117,12 +1117,12 @@ $
 ## 13.Exhaustive Listing Method
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$When to use
-- When __elements interfere with each other__ or __can't be directly selected__,
+- When __elements interfere with each other__ or __cannot be directly selected__,
   use __exhaustive listing__ to solve __the problem based on the requirements of the question__.
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Notes
-- When listing, it's important to __establish a clear reference standard__;
-  otherwise, it's easy to __overcount__ or __undercount__ the possibilities.
+- When listing, it is important to __establish a clear reference standard__;
+  otherwise, it is easy to __overcount__ or __undercount__ the possibilities.
 
 
 ## 14.Focus 8

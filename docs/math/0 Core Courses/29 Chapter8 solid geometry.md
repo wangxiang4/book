@@ -460,7 +460,7 @@ $
 
 - Notes:
   - In these relationships, be sure to make use of __the axial section of the solid__ when identifying geometric relationships.
-  - The relationships are reciprocal: you can describe the circumscribed sphere of a cube, or the inscribed cube of a sphere — essentially, they're the same.  
+  - The relationships are reciprocal: you can describe the circumscribed sphere of a cube, or the inscribed cube of a sphere — essentially, they are the same.  
 
 ## 4.Focus 1
 __The basic formulas of a sphere__   

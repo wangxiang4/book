@@ -246,7 +246,7 @@ $
 ## 6.Focus 2
 __The general term of a geometric sequence__
 - $a_n=a_1q^{n-1}=a_{k}q^{n-k}=\boldsymbol{\frac{a_1}{q}}q^n$
-- In a geometric sequence, __no term can be zero__, and __the common ratio can't be zero__.
+- In a geometric sequence, __no term can be zero__, and __the common ratio cannot be zero__.
   ::: wrap  
   $
   \begin{array}{ll}

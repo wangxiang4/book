@@ -342,7 +342,7 @@ $
 
 ## 10.Area Ratio Theorem for Common-Angle Triangles
 ::: wrap  
-- If two triangles have $\overbrace{\textsf{angle that is equal or supplementary}}^{\href{https://www.mathsisfun.com/sine-cosine-tangent.html}{\textsf{same sine value}}}$, they're called __common-angle triangles__.
+- If two triangles have $\overbrace{\textsf{angle that is equal or supplementary}}^{\href{https://www.mathsisfun.com/sine-cosine-tangent.html}{\textsf{same sine value}}}$, they are called __common-angle triangles__.
 :::  
 - For common-angle triangles, __the ratio of their areas equals the ratio of the products of the two sides enclosing the equal (or supplementary) angle__.
 ::: wrap  

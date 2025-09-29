@@ -56,7 +56,7 @@ lang: en-US
 - Given $a_n$, find $S_n$   
   $S_n=a_1+a_2+\cdots+a_n=\sum_{i=1}^{n}a_i$
 - ###### Given $S_n$, find $a_n$    
-  - __The constant term__ in $S_n$ __only affects $\boldsymbol{a_1}$__, but __doesn't affect the other terms__.   
+  - __The constant term__ in $S_n$ __only affects $\boldsymbol{a_1}$__, but __does not affect the other terms__.   
 
   $
   a_n=
