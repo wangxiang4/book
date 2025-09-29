@@ -205,7 +205,7 @@ $
 ---
 
 ### $\fbox{4}\:$Given $\small x+\frac{1}{x}=3$.
-#### (1) Then $x^2+\frac{1}{x^2}=\,\mathpunct{?}$.
+#### (1) Then $\small x^2+\frac{1}{x^2}=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -217,7 +217,7 @@ $
 \end{array}
 $  
 :::  
-#### (2) Then $x^4+\frac{1}{x^4}=\,\mathpunct{?}$.
+#### (2) Then $\small x^4+\frac{1}{x^4}=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -229,7 +229,7 @@ $
 \end{array}
 $  
 :::  
-#### (3) Then $x^3+\frac{1}{x^3}=\,\mathpunct{?}$.
+#### (3) Then $\small x^3+\frac{1}{x^3}=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -241,7 +241,7 @@ $
 \end{array}
 $  
 :::  
-#### (4) Then $|x-\frac{1}{x}|=\,\mathpunct{?}$.
+#### (4) Then $\small |x-\frac{1}{x}|=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -303,7 +303,7 @@ $
 ---
 
 ### $\fbox{5}\:$Given $\small x-\frac{1}{x}=3$.
-#### (1) Then $x^2+\frac{1}{x^2}=\,\mathpunct{?}$.
+#### (1) Then $\small x^2+\frac{1}{x^2}=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -315,7 +315,7 @@ $
 \end{array}
 $  
 :::
-#### (2) Then $x^4+\frac{1}{x^4}=\,\mathpunct{?}$.
+#### (2) Then $\small x^4+\frac{1}{x^4}=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -327,7 +327,7 @@ $
 \end{array}
 $  
 :::
-#### (3) Then $x^3-\frac{1}{x^3}=\,\mathpunct{?}$.
+#### (3) Then $\small x^3-\frac{1}{x^3}=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -339,7 +339,7 @@ $
 \end{array}
 $  
 :::
-#### (4) Then $|x+\frac{1}{x}|=\,\mathpunct{?}$.
+#### (4) Then $\small |x+\frac{1}{x}|=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}

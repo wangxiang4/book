@@ -200,7 +200,7 @@ __The finding coefficients of a polynomial__
 ::: wrap  
 ### $\fbox{21}\:$Given that $\small (2x-1)^5=a_5x^5+a_4x^4+a_3x^3+a_2x^2+a_1x+a_0$ is an identity in $\small x$, find:
 :::  
-#### (1) $a_0+a_1+a_2+a_3+a_4+a_5=\,\mathpunct{?}$.
+#### (1) $\small a_0+a_1+a_2+a_3+a_4+a_5=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -212,7 +212,7 @@ $
 \end{array}
 $  
 :::
-#### (2) $a_0-a_1+a_2-a_3+a_4-a_5=\,\mathpunct{?}$.
+#### (2) $\small a_0-a_1+a_2-a_3+a_4-a_5=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -224,7 +224,7 @@ $
 \end{array}
 $  
 :::
-#### (3) $a_0+a_2+a_4=\,\mathpunct{?}$.
+#### (3) $\small a_0+a_2+a_4=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -236,7 +236,7 @@ $
 \end{array}
 $  
 :::
-#### (4) $a_1+a_2+a_3+a_4+a_5=\,\mathpunct{?}$.
+#### (4) $\small a_1+a_2+a_3+a_4+a_5=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}

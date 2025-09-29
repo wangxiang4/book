@@ -99,7 +99,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(D)}$  
-  > According to the Solution, get $D\;✅\;$, so choose $D$. 
+  > According to the Solution, get $\textsf{(D)}$, so choose $D$. 
 
   :::
 - Formulas used  
@@ -143,7 +143,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(C)}$  
-  > According to the Solution, get $C\;✅\;$, so choose $C$. 
+  > According to the Solution, get $\textsf{(C)}$, so choose $C$. 
 
   :::
 - Formulas used  
