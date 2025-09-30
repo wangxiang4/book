@@ -176,7 +176,7 @@ $
   a=3 \lor a=-1 \\
   \textsf{parabola analysis} \\
   1>0\textsf{:}\, \textsf{opens upward} \\
-  \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x=-1\textsf{ and }x=3 \\
+  \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=-1\textsf{ and }x_2=3 \\
   \textsf{range}\textsf{:}\, f(x)\ge0\textsf{ outside the two roots} \\
   f(x)\ge0 \longrightarrow a\le-1 \lor a\ge3 \\
   \end{array}
@@ -186,7 +186,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(E)}$  
-  > According to the Solution, get $a\le-1 \lor a\ge3$, so choose $E$. 
+  > According to the Solution, get $f(x)\ge0 \longrightarrow a\le-1 \lor a\ge3$, so choose $E$. 
 
   :::
 ---
@@ -210,9 +210,189 @@ $
   These three are __closely related__ and can be __analyzed using the graph of a parabola__.
 
 
-| Quadratic Expression                                                               |                                                                                $\Delta>0$                                                                                |                                                                                $\Delta=0$                                                                                |                                                                               	$\Delta<0$                                                                                |
+| Quadratics                                                                         |                                                                                $\Delta>0$                                                                                |                                                                                $\Delta=0$                                                                                |                                                                               	$\Delta<0$                                                                                |
 |:-----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | __Quadratic function__<br/>$y=ax^2+bx+c \textsf{ (}a>0\textsf{)}$ graph            | ![Discriminant cases of upward-opening quadratics graph 1.svg](../../public/math/Core%20Courses/Discriminant%20cases%20of%20upward-opening%20quadratics%20graph%201.svg) | ![Discriminant cases of upward-opening quadratics graph 2.svg](../../public/math/Core%20Courses/Discriminant%20cases%20of%20upward-opening%20quadratics%20graph%202.svg) | ![Discriminant cases of upward-opening quadratics graph 3.svg](../../public/math/Core%20Courses/Discriminant%20cases%20of%20upward-opening%20quadratics%20graph%203.svg) |
 | __Quadratic equation__<br/>$ax^2+bx+c=0 \textsf{ (}a>0\textsf{)}$ roots            |                                                 Two distinct real roots<br/>$x_1,x_2 \textsf{ (} x_1 \lt x_2 \textsf{)}$                                                 |                                                             Two equal real roots<br/>$x_1=x_2=-\frac{b}{2a}$                                                             |                                                                              No real roots                                                                               |
 | __Quadratic inequality__<br/>$ax^2+bx+c\gt0 \textsf{ (}a>0\textsf{)}$ solution set |                                                             $\Big\{ x \,\|\, x\lt x_1 \lor x\gt x_2 \Big\}$                                                              |                                                               $\Big\{ x \,\|\, x \ne -\frac{b}{2a} \Big\}$                                                               |                                                                               $\mathbb{R}$                                                                               |
 | __Quadratic inequality__<br/>$ax^2+bx+c\lt0 \textsf{ (}a>0\textsf{)}$ solution set |                                                                 $\Big\{ x \,\|\, x_1\lt x\lt x_2 \Big\}$                                                                 |                                                                              $\varnothing$                                                                               |                                                                              $\varnothing$                                                                               |
+
+## 4.Focus 1
+__The finding solution set__  
+- If an inequality is given,
+  first __factorize it to find the roots__,
+  then write the solution set.
+  For inequalities involving parameters,
+  __compare the sizes of the two roots__ before writing the solution set.
+
+
+### $\fbox{17}\:$What is the solution set of the quadratic inequality $\small x^2-3x+2<0 \,\mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \left\{ x \,|\, x<-2 \lor x>-1 \right\} &
+\textsf{(B)} \: \left\{ x \,|\, x<1 \lor x>2 \right\} & \\
+\textsf{(C)} \: \left\{ x \,|\, 1< x <2 \right\} &
+\textsf{(D)} \: \left\{ x \,|\, -2< x <-1 \right\} & \\
+\textsf{(E)} \: \left\{ x \,|\, -1< x <2 \right\} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+x^2-3x+2<0 \\
+x^2-3x+2\Rightarrow(x-1)(x-2)=0 \\
+x=1 \lor x=2 \\
+\textsf{parabola analysis} \\
+1>0\textsf{:}\, \textsf{opens upward} \\
+\textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=1\textsf{ and }x_2=2 \\
+\textsf{range}\textsf{:}\, f(x)<0\textsf{ between the two roots} \\
+f(x)<0 \longrightarrow 1 < x < 2 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $f(x)<0 \longrightarrow 1 < x < 2$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+   & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{relationship among quadratics}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{18}\:$What is the solution set of the quadratic inequality $\small 3x^2-4ax+a^2<0 \textsf{ (}a<0\textsf{)} \,\mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \frac{a}{3}\lt x\lt a &
+\textsf{(B)} \: x\gt a \lor x\lt \frac{a}{3} &
+\textsf{(C)} \: a\lt x\lt \frac{a}{3} & \\
+\textsf{(D)} \: x\gt \frac{a}{3} \lor x\lt a &
+\textsf{(E)} \: a\lt x\lt 3a & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+3x^2-4ax+a^2<0 \\
+3x^2-4ax+a^2\Rightarrow(1x-a)(3x-a)=0 \\
+x=a \lor x=\frac{a}{3} \\
+a<0 \Longrightarrow a<\frac{a}{3} \\
+\textsf{parabola analysis} \\
+3>0\textsf{:}\, \textsf{opens upward} \\
+\textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=a\textsf{ and }x_2=\frac{a}{3} \\
+\textsf{range}\textsf{:}\, f(x)<0\textsf{ between the two roots} \\
+f(x)<0 \longrightarrow a < x < \frac{a}{3} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $f(x)<0 \longrightarrow a < x < \frac{a}{3}$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{relationship among quadratics}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 5.Focus 2 
+__The finding solution set parameters__  
+- If the solution set of an inequality is known,
+  the endpoints of the solution set are __the roots of the corresponding equation__.
+  Substituting them into __the original equation allows us to determine the parameters__.
+
+
+### $\fbox{19}\:$If the solution set of the inequality $\small 5x^2-bx+c<0$ is $\small \left\{ x \,|\, -1< x <3 \right\}$, then what is the value of $\small b+c \,\mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 5 &
+\textsf{(B)} \: -5 &
+\textsf{(C)} \: -25 &
+\textsf{(D)} \: 10 &
+\textsf{(E)} \: 15 & \\
+\end{array}
+$  
+:::
+#### Solution
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by setting up a system of equations       
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  x_1=-1 \lor x_2=3 \\
+  5x^2-bx+c=0 & & \textsf{substitute }x_1,x_2\textsf{ respectively} \\
+  \begin{cases}
+  5+b+c=0 \\
+  45-3b+c=0 \\
+  \end{cases} \\
+  b+c=-5 & ① \\
+  -3b+c=-45 & ② \\
+  (-3b+c)-(b+c)=-45-(-5) & ②\,-① \\
+  -4b=-40 \\
+  b=\frac{-40}{-4}=10 \\
+  10+c=-5 & \textsf{substitute }b \\
+  c=-15 \\
+  b+c=10+(-15)=-5 \\
+  \end{array}
+  $  
+  :::
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the vieta's formulas  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  x_1=-1 \lor x_2=3 \\
+  5x^2-bx+c=0 \\
+  \begin{cases}
+  -1+3=-\frac{-b}{5} \\
+  -1\cdot3=\frac{c}{5} \\
+  \end{cases} \\
+  2=\frac{b}{5} \\
+  b=10 \\
+  -3=\frac{c}{5} \\
+  c=-15 \\
+  b+c=10+(-15)=-5 \\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $b+c=-5$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \begin{cases}
+  x_1 + x_2=-\frac{b}{a} \\
+  x_1 \cdot x_2=\frac{c}{a} \\
+  \end{cases} & \textsf{vieta's formulas} \\
+  \end{array}
+  >$
+
+  :::
+---

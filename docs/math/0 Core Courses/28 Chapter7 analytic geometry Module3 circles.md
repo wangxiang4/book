@@ -336,7 +336,7 @@ P(2m, m) \\
 m=1 \lor m=\frac{1}{5} \\
 \textsf{parabola analysis} \\
 5>0\textsf{:}\, \textsf{opens upward} \\
-\textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x=\frac{1}{5}\textsf{ and }x=1 \\
+\textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=\frac{1}{5}\textsf{ and }x_2=1 \\
 \textsf{range}\textsf{:}\, f(x)<0\textsf{ between the two roots} \\
 f(x)<0 \longrightarrow \frac{1}{5} < m < 1 \\
 \end{array}
@@ -630,7 +630,7 @@ $
   a=-3 \lor a=1 \\
   \textsf{parabola analysis} \\
   1>0\textsf{:}\, \textsf{opens upward} \\
-  \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x=-3\textsf{ and }x=1 \\
+  \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=-3\textsf{ and }x_2=1 \\
   \textsf{range}\textsf{:}\, f(x)\le0\textsf{ between the two roots} \\
   f(x)\le0 \longrightarrow -3 \le a \le 1 \\
   \end{array}
@@ -640,7 +640,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(B)}$  
-  > According to the Solution, get $-3 \le a \le 1$, so choose $B$. 
+  > According to the Solution, get $f(x)\le0 \longrightarrow -3 \le a \le 1$, so choose $B$. 
 
   :::
 - Formulas used  
