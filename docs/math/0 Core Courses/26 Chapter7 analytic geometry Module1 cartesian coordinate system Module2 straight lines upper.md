@@ -563,13 +563,13 @@ $
 - Line representation of the equation of a straight line  
   > <br/>
   >
-  >| Equations            | Horizontal Line  | Vertical Line  | Line Passing Through the Origin  |  Other Lines  |
-  >|:---------------------|:----------------:|:--------------:|:--------------------------------:|:-------------:|
-  >| Slope-intercept form |        ✅         |       ❌        |                ✅                 |       ✅       |
-  >| Point-slope form     |        ✅         |       ❌        |                ✅                 |       ✅       |
-  >| Intercept form       |        ❌         |       ❌        |                ❌                 |       ✅       | 
-  >| Two-point form       |        ❌         |       ❌        |                ✅                 |       ✅       | 
-  >| General form         |        ✅         |       ✅        |                ✅                 |       ✅       |
+  >| Equation             | Horizontal Line | Vertical Line | Line Passing Through the Origin | Other Lines |
+  >|:---------------------|:---------------:|:-------------:|:-------------------------------:|:-----------:|
+  >| Slope-intercept form |        ✅        |       ❌       |                ✅                |      ✅      |
+  >| Point-slope form     |        ✅        |       ❌       |                ✅                |      ✅      |
+  >| Intercept form       |        ❌        |       ❌       |                ❌                |      ✅      | 
+  >| Two-point form       |        ❌        |       ❌       |                ✅                |      ✅      | 
+  >| General form         |        ✅        |       ✅       |                ✅                |      ✅      |
 ---
 
 

@@ -6,10 +6,10 @@ lang: en-US
 ## 9.Positional Relationships Between Two Lines
 
 | Positional Relationship | Slope-Intercept Form<br/>$\boldsymbol{l_1:\;y=k_1x+b_1}$<br/>$\boldsymbol{l_2:\;y=k_2x+b_2}$ |      General Form<br/>$\boldsymbol{l_1:\;a_1x+b_1y+c_1=0}$<br/>$\boldsymbol{l_2:\;a_2x+b_2y+c_2=0}$      |
-|:-----------------------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
-|        Parallel         |                   $l_1 \parallel l_2 \Leftrightarrow k_1=k_2,b_1 \ne b_2$                    |         $l_1 \parallel l_2 \Leftrightarrow \frac{a_1}{a_2}=\frac{b_1}{b_2} \ne \frac{c_1}{c_2}$          |
-|      Intersecting       |                                        $k_1 \ne k_2$                                         |                                  $\frac{a_1}{a_2} \ne \frac{b_1}{b_2}$                                   |
-|      Perpendicular      |                          $l_1 \perp l_2 \Leftrightarrow k_1k_2=-1$                           | $l_1 \perp l_2 \Leftrightarrow \frac{a_1}{b_1} \cdot \frac{a_2}{b_2}=-1 \Leftrightarrow a_1a_2+b_1b_2=0$ |
+|:------------------------|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
+| Parallel                |                   $l_1 \parallel l_2 \Leftrightarrow k_1=k_2,b_1 \ne b_2$                    |         $l_1 \parallel l_2 \Leftrightarrow \frac{a_1}{a_2}=\frac{b_1}{b_2} \ne \frac{c_1}{c_2}$          |
+| Intersecting            |                                        $k_1 \ne k_2$                                         |                                  $\frac{a_1}{a_2} \ne \frac{b_1}{b_2}$                                   |
+| Perpendicular           |                          $l_1 \perp l_2 \Leftrightarrow k_1k_2=-1$                           | $l_1 \perp l_2 \Leftrightarrow \frac{a_1}{b_1} \cdot \frac{a_2}{b_2}=-1 \Leftrightarrow a_1a_2+b_1b_2=0$ |
 
 __Examples__  
 - __Slope-intercept form__

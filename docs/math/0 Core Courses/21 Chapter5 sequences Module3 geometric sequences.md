@@ -10,11 +10,11 @@ lang: en-US
   then the sequence $\left\{ a_n \right\}$ is called __a geometric sequence__, and $\boldsymbol{q}$ is called __the common ratio__.
 - Essence: the ratio is constant __(common ratio)__ — __a multiplicative relationship__.  
 
-  | Sequences              | Multiples($q$) | Rule($q$)                           |
-  |------------------------|----------------|-------------------------------------|
-  | $2,-6,18,-54,\cdots$   | __-3__         | $q<0:$ __terms alternate in sign__  |
-  | $2,6,18,54,\cdots$     | __3__          | $q>0:$ __terms have the same sign__ |
-  | $-2,-6,-18,-54,\cdots$ | __3__          | $q>0:$ __terms have the same sign__ |
+  | Sequence               | Multiple($q$) | Rule($q$)                           |
+  |------------------------|---------------|-------------------------------------|
+  | $2,-6,18,-54,\cdots$   | __-3__        | $q<0:$ __terms alternate in sign__  |
+  | $2,6,18,54,\cdots$     | __3__         | $q>0:$ __terms have the same sign__ |
+  | $-2,-6,-18,-54,\cdots$ | __3__         | $q>0:$ __terms have the same sign__ |
   
 
 

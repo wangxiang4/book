@@ -53,7 +53,7 @@ lang: en-US
 
 ## 2.Special Circles (Standard Form)  
 
-|  	Special Circles   |         Equations         |                                                               Graphs                                                               |      Properties       |
+|   	Special Circle   |         Equation          |                                                               Graph                                                                |       Property        |
 |:-------------------:|:-------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|
 |       $x_0=0$       |    $x^2+(y-y_0)^2=r^2$    | ![Special circles standard form graph 1.svg](../../public/math/Core%20Courses/Special%20circles%20standard%20form%20graph%201.svg) | Center on the y-axis  |
 |       $y_0=0$       |    $(x-x_0)^2+y^2=r^2$    | ![Special circles standard form graph 2.svg](../../public/math/Core%20Courses/Special%20circles%20standard%20form%20graph%202.svg) | Center on the x-axis  |
