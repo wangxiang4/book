@@ -3,12 +3,6 @@ title: Chapter4 Equations Inequalities – Module1 Inequalities
 lang: en-US
 ---
 
-| Platform    | Course                                                                                       | Coursewares                                                       |
-|-------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=oJRcX7dnz00&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvrw?playlist=x9h6d2)                           |                                                                   |
-| Rumble      | [Watch](https://rumble.com/v6s95br-17-chapter4-equations-inequality-module1-inequality.html) |                                                                   |
-
 # Module 4-03 Linear Inequalities (Systems)
 
 ## 1.Definition of Inequalities
@@ -519,3 +513,71 @@ $
 
   :::
 ---
+
+### $\fbox{22}\:$If the inequality $\small \frac{2x^2+2kx+k}{4x^2+6x+3}<1$ holds for all real numbers $\small x$, then how many integers are contained in the range of real numbers $\small k\,\mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 0 &
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 3 &
+\textsf{(E)} \: \infty & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+4x^2+6x+3 & \textsf{denominator} \\
+\textsf{discriminant analysis} \\
+\begin{cases}
+a>0 \\
+\Delta=6^2-4\cdot4\cdot3=-12<0 \\
+\end{cases} \\
+4x^2+6x+3<0 \longrightarrow \varnothing & 4x^2+6x+3\ne\varnothing \textsf{ (no solution)}\\
+4x^2+6x+3>0 \longrightarrow \mathbb{R} & \textsf{always positive} \\
+2x^2+2kx+k<4x^2+6x+3 \\
+2x^2+(6-2k)x+3-k>0 & x=\mathbb{R} \\
+\begin{cases}
+a>0 \\
+\Delta=(6-2k)^2-8(3-k)<0 \\
+\end{cases} \\
+36-24k+4k^2-24+8k<0 & ② \\
+4k^2-16k+12<0 \\
+k^2-4k+3<0 \\
+k^2-4k+3 \Rightarrow (k-1)(k-3)=0 \\
+k=1 \lor k=3 \\
+\textsf{parabola analysis} \\
+1>0\textsf{:}\, \textsf{opens upward} \\
+\textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=1\textsf{ and }x_2=3 \\
+\textsf{range}\textsf{:}\, f(x)<0\textsf{ between the two roots} \\
+f(x)<0 \longrightarrow 1 < k < 3 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $f(x)<0 \longrightarrow 1 < k < 3$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+| Platform    | Course                                                                                       | Coursewares                                                       |
+|-------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| YouTube     | [Watch](https://www.youtube.com/watch?v=oJRcX7dnz00&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvrw?playlist=x9h6d2)                           |                                                                   |
+| Rumble      | [Watch](https://rumble.com/v6s95br-17-chapter4-equations-inequality-module1-inequality.html) |                                                                   |
