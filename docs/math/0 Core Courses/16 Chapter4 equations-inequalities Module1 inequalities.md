@@ -142,7 +142,7 @@ __The linear inequalities (systems)__
   and then find __the solution set of the system__ by considering __the intersection of the individual solution sets__.
 
 
-### $\fbox{16}\:$For the system of inequalities $\small \begin{cases} x-1 \le a^2 \\ x-4 \ge 2a \end{cases}$ to have a solution, how many integers are contained in the range of values of the real number $\small a\,\mathpunct{?}$.
+### $\fbox{16}\:$For the system of inequalities $\scriptsize \begin{cases} x-1 \le a^2 \\ x-4 \ge 2a \end{cases}$ to have a solution, how many integers are contained in the range of values of the real number $\small a\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
