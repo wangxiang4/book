@@ -324,7 +324,7 @@ __The finding solution set parameters__
   Substituting them into __the original equation allows us to determine the parameters__.
 
 
-### $\fbox{19}\:$If the solution set of the inequality $\small 5x^2-bx+c<0$ is $\small \left\{ x \,|\, -1< x <3 \right\}$, then what is the value of $\small b+c \,\mathpunct{?}$.
+### $\fbox{19}\:$If the solution set of the inequality $\small 5x^2-bx+c<0$ is $\small \left\{ x \,|\, -1< x <3 \right\}$, then find the value of $\small b+c$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -391,6 +391,129 @@ $
   x_1 + x_2=-\frac{b}{a} \\
   x_1 \cdot x_2=\frac{c}{a} \\
   \end{cases} & \textsf{vieta's formulas} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 6.Focus 3
+__The solution set is either all real numbers or the empty set__  
+- For a quadratic inequality $ax^2+bx+c<0\textsf{ (or }>0\textsf{)}$,
+  __the necessary and sufficient conditions__ for the solution set to be __all real numbers__ are
+  $
+  \begin{cases}
+  a<0 \textsf{ (or }>0\textsf{)} \\
+  \Delta<0 \\
+  \end{cases}
+  $
+- Note: If __the coefficient $\boldsymbol{a}$ contains a parameter__, remember to also consider __the case $\boldsymbol{a=0}$__.  
+ ![Quadratic inequality with all-real solution set.svg](../../public/math/Core%20Courses/Quadratic%20inequality%20with%20all-real%20solution%20set.svg)
+
+
+### $\fbox{20}\:$Given the quadratic inequality $\small ax^2+(a-1)x+a-1<0$ in $\small x$, if its solution set is $\small \mathbb{R}$, find the range of values of $\small a$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: a<\frac{1}{3} &
+\textsf{(B)} \: a>\frac{1}{3} &
+\textsf{(C)} \: a<-\frac{1}{3} & \\
+\textsf{(D)} \: a>-\frac{1}{3} &
+\textsf{(E)} \: a>-3 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{discriminant analysis} \\
+\begin{cases}
+a<0 \\
+\Delta=(a-1)^2-4a(a-1)<0 \\
+\end{cases} \\
+(a-1)(-3a-1)<0 & ② \\
+(a-1)(3a+1)>0 \\
+a<0 \Longrightarrow 3a+1<0 \\
+3a<-1 \\
+a<-\frac{1}{3} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $a<-\frac{1}{3}$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{21}\:$Given $\small (a^2-1)x^2-(a-1)x-1\ge0$ has an empty solution set, then how many integers are contained in the range of real numbers $\small a\,\mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 0 &
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 3 &
+\textsf{(E)} \: \infty & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+(a^2-1)x^2-(a-1)x-1<0 & \varnothing \Leftrightarrow \mathbb{R} \\
+\textsf{discriminant analysis} \\
+\begin{cases}
+a^2-1<0 \\
+\Delta=(a-1)^2+4(a^2-1)<0 \\
+\end{cases} \\
+a^2<1 \Longrightarrow -1\lt a\lt 1 & ① \\
+(a-1)^2+4(a-1)(a+1)<0 & ② \\
+(a-1)(5a+3)<0 \\
+5a^2-2a-3 \Rightarrow (a-1)(5a+3)=0 \\
+a=1 \lor a=-\frac{3}{5} \\
+\textsf{parabola analysis} \\
+5>0\textsf{:}\, \textsf{opens upward} \\
+\textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=-\frac{3}{5}\textsf{ and }x_2=1 \\
+\textsf{range}\textsf{:}\, f(x)<0\textsf{ between the two roots} \\
+f(x)<0 \longrightarrow -\frac{3}{5} < a < 1 \\
+(-1\lt a\lt 1) \cap \left( -\frac{3}{5} < a < 1 \right)=-\frac{3}{5} < a < 1 \\
+a^2-1=0 \Longrightarrow a=\pm1 & \textsf{existence of linear case }a=0 \\
+2x-1<0 & \textsf{substitute }a=-1 \\
+x<\frac{1}{2} \Longrightarrow \textsf{solution set}\ne\mathbb{R} \\
+-1<0 \Longrightarrow \textsf{solution set}=\mathbb{R} & \textsf{substitute }a=1 \\
+\left( -\frac{3}{5} < a < 1 \right) \cup \left\{ 1 \right\} = (-\frac{3}{5},1] \\
+-\frac{3}{5} < a \le 1 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $-\frac{3}{5} < a \le 1$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  f(x)\ge0 \Longleftrightarrow f(x)\lt0  & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic inequalities }\varnothing \Leftrightarrow \mathbb{R}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  a^2-b^2=(a-b)(a+b) & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
   \end{array}
   >$
 

@@ -518,7 +518,7 @@ $
 \textsf{(B)} \: m=n+2 &
 \textsf{(C)} \: m=\sum_{k=1}^{n} k & \\
 \textsf{(D)} \: m=1+\sum_{k=1}^{n} k &
-\textsf{(E)} \: \textsf{cannot be determined} & \\
+\textsf{(E)} \: \nexists & \\
 \end{array}
 $  
 :::
