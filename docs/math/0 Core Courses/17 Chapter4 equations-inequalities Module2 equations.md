@@ -154,3 +154,80 @@ $
 
   :::
 ---
+
+# Module 4-02 Quadratic Equations
+
+## 1.Definition
+- An equation containing __only one unknown__,
+  with __the highest degree of the unknown being $\boldsymbol{2}$__,
+  is called __a quadratic equation in one variable__.
+- Its general form is $\boldsymbol{ax^2+bx+c=0} \textsf{ (}a\ne0\textsf{)}$.
+
+
+## 2.Cases of the Roots
+- Let $\boldsymbol{\Delta=b^2-4ac}$. The solutions of the equation fall into __three cases__:
+  1. When $\boldsymbol{\Delta>0}$, the equation has __two distinct real roots__, given by $x_{1,2}=\frac{-b\pm\sqrt{\Delta}}{2a}$.
+  2. When $\boldsymbol{\Delta=0}$, the equation has __two equal real roots__, $x_{1,2}=-\frac{b}{2a}$.
+  3. When $\boldsymbol{\Delta<0}$, the equation has __no real roots__.
+- Because of its importance in determining the solutions of a quadratic equation in one variable,
+  $\Delta=b^2-4ac$ is called __the discriminant of the quadratic equation__.
+  
+## 3.Steps for Solving Quadratic Equations
+- Step 1: First, try factorization using __the cross-multiplication method__.
+  After factorization, the roots of the equation can be __obtained__.
+  - Condition for cross-multiplication: $\boldsymbol{\Delta=\textsf{perfect square}}$.  
+    ::: wrap  
+    $
+    \begin{array}{ll}
+    \Delta=16 \longrightarrow \sqrt{16}=4 \\
+    \Delta=25 \longrightarrow \sqrt{25}=5 \\
+    \Delta=49 \longrightarrow \sqrt{49}=7 \\
+    \Delta=18 \longrightarrow \sqrt{18} \approx 4.24\,❌ & \textsf{solve by using }\frac{-b\pm\sqrt{\Delta}}{2a} \\
+    \end{array}
+    $  
+    :::
+- Step 2: If factorization by cross-multiplication is __not possible__,
+  use the quadratic formula: $\boldsymbol{x_{1,2}=\frac{-b\pm\sqrt{\Delta}}{2a}}$.
+
+
+## 4.Relationship Between Roots and Coefficients (Vieta's Theorem)
+- $\boldsymbol{x_1, x_2}$ are the two roots of the equation
+  $
+  ax^2+bx+c=0 \textsf{ (}a\ne0\textsf{)}
+  \Longleftrightarrow
+  \boxed{
+  \begin{array}{ll}
+  x_1+x_2=\boldsymbol{-\frac{b}{a}} \\ 
+  x_1\cdot x_2=\boldsymbol{\frac{c}{a}} \\
+  \end{array}}
+  $
+- __Theorem derivation__  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  x=\frac{-b\pm\sqrt{\Delta}}{2a} & \href{https://en.wikipedia.org/wiki/Quadratic_formula}{\textsf{quadratic formula}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  x_1=\frac{-b-\sqrt{\Delta}}{2a} \quad x_2=\frac{-b+\sqrt{\Delta}}{2a} \\
+  x_1+x_2=\frac{-b-b}{2a}=-\frac{b}{a} \\
+  x_1\cdot x_2=\frac{(-b+\sqrt{\Delta})(-b-\sqrt{\Delta})}{4a^2}=\frac{(-b)^2-\Delta}{4a^2} \\
+  \frac{(-b)^2-(b^2-4ac)}{4a^2}=\frac{4ac}{4a^2}=\frac{c}{a} \\
+  \end{array}
+  $  
+  ::: 
+
+
+## 5.Extended Applications of Vieta's Theorem
+- Using Vieta's theorem, one can find __the values of symmetric expressions__ involving __the two roots__.  
+  1. $\frac{1}{x_1}+\frac{1}{x_2}=\frac{x_1+x_2}{x_1x_2}=\frac{-\frac{b}{a}}{\frac{c}{a}}=\boldsymbol{-\frac{b}{c}}$
+  2. $\frac{1}{x_1^2}+\frac{1}{x_2^2}=\frac{(x_1+x_2)^2-2x_1x_2}{(x_1x_2)^2}$
+  3. $|x_1-x_2|=\sqrt{(x_1-x_2)^2}=\sqrt{(x_1+x_2)^2-4x_1x_2}=\boldsymbol{\frac{\sqrt{\Delta}}{|a|}}$  
+     $
+     \begin{array}{ll}
+     x_1=\frac{-b+\sqrt{\Delta}}{2a} \quad x_2=\frac{-b-\sqrt{\Delta}}{2a} \\
+     |x_1-x_2|=\left|\frac{-b+\sqrt{\Delta}}{2a}-(\frac{-b-\sqrt{\Delta}}{2a})\right| \\
+     \left|\frac{2\sqrt{\Delta}}{2a}\right|=\boldsymbol{\frac{\sqrt{\Delta}}{|a|}} \\
+     \end{array}
+     $
+  4. $x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2$
+  5. $x_1^2-x_2^2=(x_1+x_2)(x_1-x_2)$
+  6. $x_1^3+x_2^3=(x_1+x_2)(x_1^2-x_1x_2+x_2^2)=(x_1+x_2)[(x_1+x_2)^2-3x_1x_2]$

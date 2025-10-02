@@ -62,7 +62,7 @@ lang: en-US
   \sqrt[n]{a}>\sqrt[n]{b}>0 \textsf{ (}n \in \mathbb{Z_+}\textsf{)}}
   $
 :::  
-- Derivation relationship between inequalities  
+- __Derivation relationship between inequalities__  
   $
   \begin{array}{ll}
   a>b \underset{❌}{\overset{❌}{\Longleftrightarrow}} a^2>b^2 \\
@@ -352,7 +352,7 @@ $
   \end{array}
   $  
   :::
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the vieta's formulas  
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the vieta's theorem  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -382,9 +382,9 @@ $
   >$
   \begin{array}{ll}
   \begin{cases}
-  x_1 + x_2=-\frac{b}{a} \\
-  x_1 \cdot x_2=\frac{c}{a} \\
-  \end{cases} & \textsf{vieta's formulas} \\
+  x_1+x_2=-\frac{b}{a} \\
+  x_1\cdot x_2=\frac{c}{a} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \end{array}
   >$
 

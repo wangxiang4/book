@@ -23,7 +23,7 @@ lang: en-US
 - ###### Note: if __two terms are known__, __the common ratio__ can be found by $\boldsymbol{\frac{a_n}{a_m}=q^{n-m}}$.
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Derivations
-- Derivation of $\boldsymbol{a_n=a_1q^{n-1}}$  
+- __Derivation of $\boldsymbol{a_n=a_1q^{n-1}}$__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -34,7 +34,7 @@ lang: en-US
   \end{array}
   $  
   :::
-- Derivation of $\boldsymbol{a_n=a_{k}q^{n-k}}$
+- __Derivation of $\boldsymbol{a_n=a_{k}q^{n-k}}$__
   ::: wrap  
   $
   \begin{array}{ll}
@@ -45,7 +45,7 @@ lang: en-US
   \end{array}
   $  
   :::
-- Derivation of $\boldsymbol{a_n=\frac{a_1}{q}q^n}$
+- __Derivation of $\boldsymbol{a_n=\frac{a_1}{q}q^n}$__
   ::: wrap  
   $
   \begin{array}{ll}
@@ -55,7 +55,7 @@ lang: en-US
   \end{array}
   $  
   :::
-- Derivation of $\boldsymbol{\frac{a_n}{a_m}=q^{n-m}}$
+- __Derivation of $\boldsymbol{\frac{a_n}{a_m}=q^{n-m}}$__
   ::: wrap  
   $
   \begin{array}{ll}
@@ -89,7 +89,7 @@ lang: en-US
 :::
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Derivations
-- Derivation of $\boldsymbol{S_n=na_1}$  
+- __Derivation of $\boldsymbol{S_n=na_1}$__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -98,7 +98,7 @@ lang: en-US
   \end{array}
   $  
   :::
-- Derivation of $\boldsymbol{S_n=\frac{a_{1}-a_{n}q}{1-q}=\frac{a_{1}-a_{n+1}}{1-q}}$  
+- __Derivation of $\boldsymbol{S_n=\frac{a_{1}-a_{n}q}{1-q}=\frac{a_{1}-a_{n+1}}{1-q}}$__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -110,7 +110,7 @@ lang: en-US
   \end{array}
   $  
   :::
-- Derivation of $\boldsymbol{S_n=\frac{a_{1}(1-q^n)}{1-q}}$  
+- __Derivation of $\boldsymbol{S_n=\frac{a_{1}(1-q^n)}{1-q}}$__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -398,11 +398,12 @@ $
 a_4a_7=a_3a_8=-512 \\
 a_3+a_8=124 \\
 \end{cases} & a_ma_n=a_ka_t \\
-x^2-124x-512=0 & 
-\begin{cases}
-x_1 + x_2=-\frac{b}{a} \\
-x_1 \cdot x_2=\frac{c}{a} \\
-\end{cases} \\
+x^2-124x-512=0 &
+\boxed{
+\begin{array}{ll}
+x_1+x_2=-\frac{b}{a} \\
+x_1\cdot x_2=\frac{c}{a} \\
+\end{array}} \\
 (x+4)(x-128)=0 \\
 x=-4 \lor 128 \\
 \begin{cases}
@@ -429,9 +430,9 @@ $
   \begin{array}{ll}
   a_ma_n=a_ka_t & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#if-then}{\textsf{geometric sequence product property}} \\
   \begin{cases}
-  x_1 + x_2=-\frac{b}{a} \\
-  x_1 \cdot x_2=\frac{c}{a} \\
-  \end{cases} & \textsf{vieta's formulas} \\
+  x_1+x_2=-\frac{b}{a} \\
+  x_1\cdot x_2=\frac{c}{a} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \frac{a_m}{a_n}=q^{m-n} & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{term ratio formula}} \\
   x^3=a \longrightarrow x=\sqrt[3]{a} & \textsf{definition of cube root} \\
   a_n=a_{k}q^{n-k} & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_2-general-term}{\textsf{general term formula}}
@@ -726,9 +727,9 @@ $
   \begin{array}{ll}
   a_ma_n=a_ka_t & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#if-then}{\textsf{geometric sequence product property}} \\
   \begin{cases}
-  x_1 + x_2=-\frac{b}{a} \\
-  x_1 \cdot x_2=\frac{c}{a} \\
-  \end{cases} & \textsf{vieta's formulas} \\
+  x_1+x_2=-\frac{b}{a} \\
+  x_1\cdot x_2=\frac{c}{a} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \end{array}
   >$
 

@@ -580,7 +580,7 @@ $
   >1. $C_n^0=C_n^n=1$  
   >2. $C_n^1=C_n^{n-1}=n$   
   >3. $C_n^2=C_n^{n-2}=\frac{n(n-1)}{2}$  
-  >    - Derivation  
+  >    - __Derivation__  
   >$
          \begin{array}{ll}
          C_n^{n-2}=\frac{n!}{(n-2)!\times2!}=\frac{n(n-1)(n-2)!}{(n-2)!\times2!} \\

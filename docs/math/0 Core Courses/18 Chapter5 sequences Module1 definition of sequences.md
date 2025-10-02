@@ -38,7 +38,7 @@ lang: en-US
 - The sum of the first $n$ terms of a sequence is denoted by $\boldsymbol{S_n=a_1+a_2+a_3+\cdots+a_n}$.
 - Note: the sum of the first $n$ terms must __start from $\boldsymbol{a_1}$__.
   $a_n$ represents __an individual term__, while $S_n$ represents __the whole sum__.
-- Derivation of $\boldsymbol{S_n-S_{n-1}=a_n}$  
+- __Derivation of $\boldsymbol{S_n-S_{n-1}=a_n}$__  
   ::: wrap  
   $
   \begin{array}{ll}

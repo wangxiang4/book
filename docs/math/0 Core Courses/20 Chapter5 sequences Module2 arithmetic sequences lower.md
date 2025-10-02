@@ -201,9 +201,9 @@ $
   \begin{array}{ll}
   a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Courses/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{arithmetic sequence terms property}} \\
   \begin{cases}
-  x_1 + x_2=-\frac{b}{a} \\
-  x_1 \cdot x_2=\frac{c}{a} \\
-  \end{cases} & \textsf{vieta's formulas} \\
+  x_1+x_2=-\frac{b}{a} \\
+  x_1\cdot x_2=\frac{c}{a} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \end{array}
   >$
 

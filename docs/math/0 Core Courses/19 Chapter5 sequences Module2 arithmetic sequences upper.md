@@ -41,7 +41,7 @@ lang: en-US
   :::
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Derivations
-- Derivation of $\boldsymbol{a_n=a_1+(n-1)d}$  
+- __Derivation of $\boldsymbol{a_n=a_1+(n-1)d}$__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -59,7 +59,7 @@ lang: en-US
   \end{array}
   $  
   :::
-- Derivation of $\boldsymbol{a_n=a_k+(n-k)d}$
+- __Derivation of $\boldsymbol{a_n=a_k+(n-k)d}$__
   ::: wrap  
   $
   \begin{array}{ll}
@@ -71,7 +71,7 @@ lang: en-US
   \end{array}
   $  
   :::
-- Derivation of $\boldsymbol{a_n=nd+a_1-d}$  
+- __Derivation of $\boldsymbol{a_n=nd+a_1-d}$__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -80,7 +80,7 @@ lang: en-US
   \end{array}
   $  
   :::
-- Derivation of $\boldsymbol{d=\frac{a_n-a_m}{n-m}}$  
+- __Derivation of $\boldsymbol{d=\frac{a_n-a_m}{n-m}}$__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -123,7 +123,7 @@ lang: en-US
 
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Derivations
-- Derivation of $\boldsymbol{S_n=\frac{a_1+a_n}{2}n}$  
+- __Derivation of $\boldsymbol{S_n=\frac{a_1+a_n}{2}n}$__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -131,7 +131,7 @@ lang: en-US
   \end{array}
   $  
   :::
-- Derivation of $\boldsymbol{S_n=na_1+\frac{n(n-1)}{2}d}$  
+- __Derivation of $\boldsymbol{S_n=na_1+\frac{n(n-1)}{2}d}$__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -144,7 +144,7 @@ lang: en-US
   \end{array}
   $  
   :::
-- Derivation of $\boldsymbol{S_n=\frac{d}{2}n^2+(a_1-\frac{d}{2})n}$  
+- __Derivation of $\boldsymbol{S_n=\frac{d}{2}n^2+(a_1-\frac{d}{2})n}$__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -156,7 +156,7 @@ lang: en-US
   \end{array}
   $  
   :::
-- Derivation of $\boldsymbol{\frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d}$  
+- __Derivation of $\boldsymbol{\frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d}$__  
   ::: wrap  
   $
   \begin{array}{ll}
