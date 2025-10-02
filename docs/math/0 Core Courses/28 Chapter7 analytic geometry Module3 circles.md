@@ -333,7 +333,7 @@ P(2m, m) \\
 4m^2+m^2-8m+2m+1<0 & \textsf{substitute }P \\
 5m^2-6m+1<0 \\
 5m^2-6m+1\Rightarrow(1m-1)(5m-1)=0 \\
-m=1 \lor m=\frac{1}{5} \\
+m=1 \lor \frac{1}{5} \\
 \textsf{parabola analysis} \\
 5>0\textsf{:}\, \textsf{opens upward} \\
 \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=\frac{1}{5}\textsf{ and }x_2=1 \\
@@ -622,7 +622,7 @@ $
   -4a^2-8a+12 \ge 0 \\
   a^2+2a-3 \le 0 \\
   a^2+2a-3\Rightarrow(a+3)(a-1)=0 \\
-  a=-3 \lor a=1 \\
+  a=-3 \lor 1 \\
   \textsf{parabola analysis} \\
   1>0\textsf{:}\, \textsf{opens upward} \\
   \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=-3\textsf{ and }x_2=1 \\

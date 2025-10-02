@@ -461,7 +461,7 @@ $
   x=-1 \longrightarrow y=\pm2 \\
   a(-1+3)(-1-1)=\pm2 \\
   -4a=\pm2 \\
-  a=-\frac{1}{2} \lor a=\frac{1}{2} \\
+  a=-\frac{1}{2} \lor \frac{1}{2} \\
   y=\pm\frac{1}{2}(x+3)(x-1) & \textsf{substitute }a \\
   \textsf{let }x=0 & \textsf{y-intercept} \\
   \pm\frac{1}{2}(0+3)(0-1)=y \\

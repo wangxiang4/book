@@ -167,7 +167,7 @@ $
   2a+4 \le a^2+1 \\
   a^2-2a-3\ge0 \\
   a^2-2a-3\Rightarrow(a-3)(a+1)=0 \\
-  a=3 \lor a=-1 \\
+  a=3 \lor -1 \\
   \textsf{parabola analysis} \\
   1>0\textsf{:}\, \textsf{opens upward} \\
   \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=-1\textsf{ and }x_2=3 \\
@@ -238,7 +238,7 @@ $
 \begin{array}{ll}
 x^2-3x+2<0 \\
 x^2-3x+2\Rightarrow(x-1)(x-2)=0 \\
-x=1 \lor x=2 \\
+x=1 \lor 2 \\
 \textsf{parabola analysis} \\
 1>0\textsf{:}\, \textsf{opens upward} \\
 \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=1\textsf{ and }x_2=2 \\
@@ -283,7 +283,7 @@ $
 \begin{array}{ll}
 3x^2-4ax+a^2<0 \\
 3x^2-4ax+a^2\Rightarrow(1x-a)(3x-a)=0 \\
-x=a \lor x=\frac{a}{3} \\
+x=a \lor \frac{a}{3} \\
 a<0 \Longrightarrow a<\frac{a}{3} \\
 \textsf{parabola analysis} \\
 3>0\textsf{:}\, \textsf{opens upward} \\
@@ -478,7 +478,7 @@ a^2<1 \Longrightarrow -1\lt a\lt 1 & ① \\
 (a-1)^2+4(a-1)(a+1)<0 & ② \\
 (a-1)(5a+3)<0 \\
 5a^2-2a-3 \Rightarrow (a-1)(5a+3)=0 \\
-a=1 \lor a=-\frac{3}{5} \\
+a=1 \lor -\frac{3}{5} \\
 \textsf{parabola analysis} \\
 5>0\textsf{:}\, \textsf{opens upward} \\
 \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=-\frac{3}{5}\textsf{ and }x_2=1 \\
@@ -548,7 +548,7 @@ a>0 \\
 4k^2-16k+12<0 \\
 k^2-4k+3<0 \\
 k^2-4k+3 \Rightarrow (k-1)(k-3)=0 \\
-k=1 \lor k=3 \\
+k=1 \lor 3 \\
 \textsf{parabola analysis} \\
 1>0\textsf{:}\, \textsf{opens upward} \\
 \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=1\textsf{ and }x_2=3 \\

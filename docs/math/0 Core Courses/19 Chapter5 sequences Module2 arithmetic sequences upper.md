@@ -785,7 +785,7 @@ S_n=\frac{-3}{2}n^2+(18-\frac{-3}{2})n=54 \\
 \frac{-3n^2+39n-108}{-3}=\frac{0}{-3} \\
 n^2-13n+36=0 \\
 (n-4)(n-9)=0 \\
-n=4 \lor n=9 \\
+n=4 \lor 9 \\
 \textsf{parabola analysis} \\
 -3>0\textsf{:}\, \textsf{opens downward} \\
 c=0\textsf{:}\, \textsf{passes through origin }(0, 0) \\

@@ -130,7 +130,7 @@ x^2-4x-32=0 \\
 x=\frac{-b\pm \sqrt{b^2-4ac}}{2a} \\
 \Delta=(-4)^2-4\times1\times(-32)=16+128=144 \\
 x=\frac{4\pm \sqrt{144}}{2}=\frac{4\pm 12}{2} \\
-x=\frac{4+12}{2}=8 \lor x=\frac{4-12}{2}=-4 \\
+x=\frac{4+12}{2}=8 \lor \frac{4-12}{2}=-4 \\
 \end{array}
 $  
 :::  
@@ -138,7 +138,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(D)}$  
-  > According to the Solution, get $x=8 \lor x=-4 \\$, so choose $D$. 
+  > According to the Solution, get $x=8 \lor -4 \\$, so choose $D$. 
 
   :::
 - Formulas used  
@@ -146,7 +146,7 @@ $
   >$
   \begin{array}{ll}
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Courses/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{two-point distance formula}} \\
-  x=\frac{-b\pm\sqrt{\Delta}}{2a} & \href{https://en.wikipedia.org/wiki/Quadratic_formula}{\textsf{quadratic formula}} \\
+  x=\frac{-b\pm\sqrt{\Delta}}{2a} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_3-steps-for-solving-quadratic-equations}{\textsf{quadratic formula}} \\
   \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \end{array}

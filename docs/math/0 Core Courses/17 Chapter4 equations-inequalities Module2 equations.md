@@ -205,7 +205,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  x=\frac{-b\pm\sqrt{\Delta}}{2a} & \href{https://en.wikipedia.org/wiki/Quadratic_formula}{\textsf{quadratic formula}} \\
+  x=\frac{-b\pm\sqrt{\Delta}}{2a} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_3-steps-for-solving-quadratic-equations}{\textsf{quadratic formula}} \\
   \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   x_1=\frac{-b-\sqrt{\Delta}}{2a} \quad x_2=\frac{-b+\sqrt{\Delta}}{2a} \\
   x_1+x_2=\frac{-b-b}{2a}=-\frac{b}{a} \\
@@ -231,3 +231,43 @@ $
   4. $x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2$
   5. $x_1^2-x_2^2=(x_1+x_2)(x_1-x_2)$
   6. $x_1^3+x_2^3=(x_1+x_2)(x_1^2-x_1x_2+x_2^2)=(x_1+x_2)[(x_1+x_2)^2-3x_1x_2]$
+
+
+## 6.Focus 1
+__The definition of an equation__  
+- Determine __the unknown parameters__ according to the definitions of __the number of variables__ and __the degree of the equation__. 
+
+
+### $\fbox{3}\:$For what values of $\small m$ is $\small (m-5)x^{m^{2}-6m+7}+(m^3+2m^2+m)x+1=0$ a quadratic equation in one variable $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 1 &
+\textsf{(B)} \: 2 &
+\textsf{(C)} \: -1 &
+\textsf{(D)} \: -2 &
+\textsf{(E)} \: 0 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+ax^2+bx+c=0 \textsf{ (}a\ne0\textsf{)} \\
+m^2-6m+7=2 \\
+m^2-6m+5=0 \\
+(m-1)(m-5)=0 \\
+m=1 \lor 5 & a\ne0 \Longrightarrow m\ne5 \\
+m=1 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $m=1$, so choose $A$. 
+
+  :::
+---
