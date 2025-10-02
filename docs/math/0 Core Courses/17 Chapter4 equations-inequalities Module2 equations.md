@@ -254,7 +254,6 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-ax^2+bx+c=0 \textsf{ (}a\ne0\textsf{)} \\
 m^2-6m+7=2 \\
 m^2-6m+5=0 \\
 (m-1)(m-5)=0 \\
@@ -268,6 +267,114 @@ $
   ::: wrap
   > $\boldsymbol{(A)}$  
   > According to the Solution, get $m=1$, so choose $A$. 
+
+  :::
+---
+
+
+## 7.Focus 2
+__The cases of real roots of an equation__  
+- Use the sign of the discriminant to determine whether __real roots exist__ and __how many there are__.
+  Note that when the discriminant equals $\boldsymbol{0}$,
+  the equation still has __two real roots__,
+  but they are __equal roots__.
+
+
+### $\fbox{4}\:$Given the quadratic equation in $\small x$: $\small k^2x^2-(2k+1)x+1=0$ has two distinct real roots, find the range of values of $\small k$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: k \gt -\frac{1}{4} &
+\textsf{(B)} \: k \ge -\frac{1}{4} &
+\textsf{(C)} \: k \gt -\frac{1}{4} \land k \ne 0 & \\
+\textsf{(D)} \: k \ge -\frac{1}{4} \land k \ne 0 &
+\textsf{(E)} \: k \le -\frac{1}{4} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\Delta=(2k+1)^2-4k^2>0 \\
+4k^2+4k+1-4k^2 \\
+4k+1>0 \\
+k>-\frac{1}{4} \land k\ne0 & a\ne0 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $k>-\frac{1}{4} \land k\ne0$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 8.Focus 3
+__The vieta's theorem__  
+- Use __the relevant formulas and forms__ of vieta's theorem for analysis.
+  Since vieta's theorem applies to both __real and complex roots__,
+  when __solving for real roots__,
+  remember to check __the discriminant__ after applying vieta's theorem.
+
+
+### $\fbox{5}\:$If one root of the equation $\small x^2+px+q=0$ is twice the other, then what conditions must $\small p$ and $\small q$ satisfy $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: p^2=4q &
+\textsf{(B)} \: 2p^2=9q &
+\textsf{(C)} \: 4p=9q^2 & \\
+\textsf{(D)} \: 2p=3q^2 &
+\textsf{(E)} \: 2p=9q^2 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let }x_1=2x_2 \\
+\begin{cases}
+x_1+x_2=3x_2=-p \\
+x_1\cdot x_2=2x_2^2=q \\
+\end{cases} \\
+x^2=-\frac{p}{3} \\
+2(-\frac{p}{3})^2=q \\
+2\frac{p^2}{9}=q \\
+2p^2=9q \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $2p^2=9q$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \begin{cases}
+  x_1+x_2=-\frac{b}{a} \\
+  x_1\cdot x_2=\frac{c}{a} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{array}
+  >$
 
   :::
 ---
