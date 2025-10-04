@@ -637,25 +637,27 @@ $
   $
   \begin{array}{ll}
   3x^2+bx+c=0 \\
+  3x^2-bx+c=0 \\
+  \textsf{system}1
   \begin{cases}
   \alpha+\beta=-\frac{b}{3} \\
   \alpha\beta=\frac{c}{3} \\
   \end{cases} \\
-  3x^2-bx+c=0 \\
+  \textsf{system}2
   \begin{cases}
   \alpha+\beta+\alpha\beta=\frac{b}{3} \\
   (\alpha+\beta)\alpha\beta=\frac{c}{3} \\
   \end{cases} \\
   \left.
   \begin{array}{ll}
-  \alpha\beta=\frac{c}{3} \\
-  (\alpha+\beta)\alpha\beta=\frac{c}{3} \\
+  \alpha\beta=\frac{c}{3} & \textsf{system}1_{②} \\
+  (\alpha+\beta)\alpha\beta=\frac{c}{3} & \textsf{system}2_{②} \\
   \end{array}
   \right\} \Longrightarrow \alpha+\beta=1 & c\ne0 \\
-  \alpha+\beta=-\frac{b}{3} \\
+  \alpha+\beta=-\frac{b}{3} & \textsf{system}1_{①} \\
   1=-\frac{b}{3} & \textsf{substitute }\alpha+\beta \\
   b=-3 \\
-  \alpha+\beta+\alpha\beta=\frac{b}{3} \\
+  \alpha+\beta+\alpha\beta=\frac{b}{3} & \textsf{system}2_{①} \\
   -\frac{b}{3}+\frac{c}{3}=\frac{b}{3} & \textsf{substitute }\alpha+\beta,\alpha\beta  \\
   c-b=b \\
   c=2b=2\cdot-3=-6 \\
@@ -767,6 +769,108 @@ $
   \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   x=-\frac{b}{2a} & \href{/math/0%20Core%20Courses/15%20Chapter3%20polynomials-rational%20expressions-functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#axis-of-symmetry}{\textsf{axis of symmetry}} \\
   \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 9.Focus 4
+__The signs of roots of an equation__  
+- Use vieta's theorem to analyze the signs of the roots,
+  such as __both positive roots__ or __both negative roots__.
+  Additionally, remember to check __the discriminant__ after applying vieta's theorem.
+  - __Two positive roots__  
+    $
+    \begin{cases}
+    x_1+x_2>0 \\
+    x_1x_2>0 \\
+    \Delta\ge0 \\
+    \end{cases}
+    $
+  - __Two negative roots__  
+    $
+    \begin{cases}
+    x_1+x_2<0 \\
+    x_1x_2>0 \\
+    \Delta\ge0 \\
+    \end{cases}
+    $
+  - __One positive root and one negative root__  
+    $
+    \begin{cases}
+    x_1x_2=\frac{c}{a}<0 \\
+    \Delta=b^2-4ac>0 & \bcancel{\Delta>0}\textsf{ (}a,c\textsf{ opposite signs}\Rightarrow\Delta>0\textsf{)} \\
+    \end{cases}
+    $
+
+
+### $\fbox{13}\:$(Sufficiency judgment) The equation $\small 4x^2+(a-2)x+a-5=0$ has two distinct negative real roots.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(1)} \: 5\lt a \lt6 &
+\textsf{(2)} \: a\gt14 & \\
+\textsf{(A)} \: \textsf{(1)} &
+\textsf{(B)} \: \textsf{(2)} & \\
+\textsf{(C)} \: \textsf{(1)}+\textsf{(2)} &  
+\textsf{(D)} \: \textsf{(1)},\textsf{(2)} & \\
+\textsf{(E)} \: \varnothing & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\begin{cases}
+x_1+x_2=\frac{2-a}{4}<0 \\
+x_1x_2=\frac{a-5}{4}>0 \\
+\Delta=(a-2)^2-16(a-5)>0 \\
+\end{cases} \\
+\frac{2-a}{4}<0 \Longrightarrow a>2 & ① \\
+\frac{a-5}{4}>0 \Longrightarrow a>5 & ② \\
+(a-2)^2-16(a-5)>0 & ③ \\
+a^2-4a+4-16a+80>0 \\
+a^2-20a+84>0 \\
+a^2-20a+84\Rightarrow(a-6)(a-14)=0 \\
+a=6 \lor 14 \\
+\textsf{parabola analysis} \\
+1>0\textsf{:}\, \textsf{opens upward} \\
+\textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=6\textsf{ and }x_2=14 \\
+\textsf{range}\textsf{:}\, f(x)>0\textsf{ outside the two roots} \\
+f(x)>0 \longrightarrow a<6 \lor a>14 \\
+(a<6 \lor a>14)\cap(a>2)\cap(a>5) \\
+5\lt a\lt6 \lor a>14 \\
+\textcolor{#9333EA}{\textsf{verify condition }(1)} \\
+5\lt a\lt6 \\
+\textcolor{#9333EA}{\textsf{verify condition }(2)} \\
+a>14 \\
+\end{array}
+$  
+:::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $\textsf{(1)}\,✅\;,\textsf{(2)}\,✅\;$, so choose $D$.
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \begin{cases}
+  x_1+x_2<0 \\
+  x_1x_2>0 \\
+  \Delta\ge0 \\
+  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_9-focus-4}{\textsf{sign conditions of two roots}} \\
+  \begin{cases}
+  x_1+x_2=-\frac{b}{a} \\
+  x_1\cdot x_2=\frac{c}{a} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \end{array}
   >$
 

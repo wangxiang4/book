@@ -360,6 +360,7 @@ $
   -\frac{b}{2a}=-1 & \textsf{axis of symmetry} \\
   \frac{4ac-b^2}{4a}=2 & \textsf{vertex} \\
   \end{cases} \\
+  c=0 & ① \\
   -\frac{b}{2a}=-1 & ② \\
   b=2a \\
   \frac{4ac-b^2}{4a}=2 & ③ \\
