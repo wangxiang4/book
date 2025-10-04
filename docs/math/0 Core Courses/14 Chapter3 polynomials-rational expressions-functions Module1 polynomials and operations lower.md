@@ -781,7 +781,7 @@ $
   \textsf{(A)} \: \begin{cases}
   f(1)=7\cdot1+2=9 \\
   f(2)=7\cdot2+2=16 \\
-  \end{cases} \,✅\;\\
+  \end{cases} & ✅\;\\
   \end{array}
   $   
   :::

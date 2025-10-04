@@ -74,8 +74,8 @@ $
   >$
   \begin{array}{ll}
   \frac{b-c}{c}=\frac{b-c}{b+c-a} \\
-  ① \;\, \frac{b-c}{\cancel{c}}=\frac{b-c}{\cancel{b+c-a}} = b-c=0 & \textsf{let }b-c=0  \\
-  ② \;\, \frac{\cancel{b-c}}{c}=\frac{\cancel{b-c}}{b+c-a} = c=b+c-a & \textsf{let }b-c\ne0  \\
+  \textsf{①} \;\, \frac{b-c}{\cancel{c}}=\frac{b-c}{\cancel{b+c-a}} = b-c=0 & \textsf{let }b-c=0  \\
+  \textsf{②} \;\, \frac{\cancel{b-c}}{c}=\frac{\cancel{b-c}}{b+c-a} = c=b+c-a & \textsf{let }b-c\ne0  \\
   b=c \lor a=b \\
   \end{array}
   >$

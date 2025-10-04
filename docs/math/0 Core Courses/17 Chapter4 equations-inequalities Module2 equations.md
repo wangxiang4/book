@@ -217,7 +217,7 @@ $
 
 
 ## 5.Extended Applications of Vieta's Theorem
-- Using Vieta's theorem, one can find __the values of symmetric expressions__ involving __the two roots__.  
+- Using vieta's theorem, one can find __the values of symmetric expressions__ involving __the two roots__.  
   1. $\frac{1}{x_1}+\frac{1}{x_2}=\frac{x_1+x_2}{x_1x_2}=\frac{-\frac{b}{a}}{\frac{c}{a}}=\boldsymbol{-\frac{b}{c}}$
   2. $\frac{1}{x_1^2}+\frac{1}{x_2^2}=\frac{(x_1+x_2)^2-2x_1x_2}{(x_1x_2)^2}$
   3. $|x_1-x_2|=\sqrt{(x_1-x_2)^2}=\sqrt{(x_1+x_2)^2-4x_1x_2}=\boldsymbol{\frac{\sqrt{\Delta}}{|a|}}$  
@@ -373,6 +373,400 @@ $
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
   \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{6}\:$Let the quadratic equation $\small 3x^2+mx+5=0$ have two real roots $\small x_1,x_2$ satisfying $\small \frac{1}{x_1}+\frac{1}{x_2}=2$, then find the value of $\small m$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 5 &
+\textsf{(B)} \: -10 &
+\textsf{(C)} \: 10 &
+\textsf{(D)} \: -5 &
+\textsf{(E)} \: 2 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\frac{1}{x_1}+\frac{1}{x_2}=-\frac{b}{c}=-\frac{m}{5}=2 \\
+m=-5\cdot2=-10 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $m=-10$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \frac{1}{x_1}+\frac{1}{x_2}=-\frac{b}{c} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_5-extended-applications-of-vieta-s-theorem}{\textsf{vieta's theorem symmetric expressions}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{7}\:$Given that the roots of $\small 2x^2-3x-1=0$ are $x_1,x_2$, find the value of $\small |x_1-x_2|$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \frac{\sqrt{17}}{2} &
+\textsf{(B)} \: -\frac{\sqrt{17}}{2} &
+\textsf{(C)} \: \frac{\sqrt{17}}{3} &
+\textsf{(D)} \: -\frac{\sqrt{17}}{3} &
+\textsf{(E)} \: \frac{\sqrt{17}}{4} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+|x_1-x_2|=\frac{\sqrt{\Delta}}{|a|}=\frac{\sqrt{(-3)^2-4\cdot2\cdot-1}}{2}=\frac{\sqrt{9+8}}{2}=\frac{\sqrt{17}}{2} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $|x_1-x_2|=\frac{\sqrt{17}}{2}$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  |x_1-x_2|=\frac{\sqrt{\Delta}}{|a|} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_5-extended-applications-of-vieta-s-theorem}{\textsf{vieta's theorem symmetric expressions}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{8}\:$Given the quadratic equation in $\small x$: $\small x^2-2(m-\frac{1}{2})x+m^2-2=0$ with two real roots $\small x_1,x_2$, and $\small x_1^2-x_1x_2+x_2^2=12$, find the value of $\small m$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 5 \lor -1 &
+\textsf{(B)} \: 5 &
+\textsf{(C)} \: -1 &
+\textsf{(D)} \: 0 &
+\textsf{(E)} \: -5 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+x_1^2-x_1x_2+x_2^2=(x_1+x_2)^2-3x_1x_2 \\
+(-\frac{-2(m-\frac{1}{2})}{1})^2-3\frac{m^2-2}{1}  \\
+(2m-1)^2-3(m^2-2) \\
+4m^2-4m+1-3m^2+6 \\
+m^2-4m+7=12 \\
+m^2-4m-5=0 \\
+(m+1)(m-5)=0 \\
+m= -1 \lor 5 \\
+\textsf{verify discriminant} \\
+\Delta=(2m-1)^2-4(m^2-2) \\
+4m^2-4m+1-4m^2+8=-4m+9 \\
+-4\cdot-1+9=13>0 & \textsf{substitute }m=-1 \\
+-4\cdot5+9=-11<0 & \textsf{substitute }m=5 \\
+m=-1 & m\ne5 \textsf{ ( }\Delta>0 \textsf{)} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $m=-1$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2 & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_5-extended-applications-of-vieta-s-theorem}{\textsf{vieta's theorem symmetric expressions}} \\
+  \begin{cases}
+  x_1+x_2=-\frac{b}{a} \\
+  x_1\cdot x_2=\frac{c}{a} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{9}\:$Given that $\small m$ is a positive real number, for the equation in $\small x$: $\small 2x^2-mx-30=0$ with roots $x_1,x_2$, and satisfying $\small 5x_1+3x_2=0$, find the value of $\small m$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 1 &
+\textsf{(B)} \: 2 &
+\textsf{(C)} \: 3 &
+\textsf{(D)} \: 4 &
+\textsf{(E)} \: 5 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+5x_1+3x_2=0 \\
+x_1=-\frac{3}{5}x_2 \\
+\begin{cases}
+x_1+x_2=-\frac{3}{5}x_2+\frac{5}{5}x_2 \\
+x_1\cdot x_2=-\frac{3}{5}x_2\cdot x_2 \\
+\end{cases} \\
+\frac{2}{5}x_2=\frac{m}{2} & ① \\
+-\frac{3}{5}x_2^2=-15 & ② \\
+x_2^2=\frac{-15}{-\frac{3}{5}}=25 \\
+x^2=5 & m\gt0 \\
+\frac{2}{5}5=\frac{m}{2} & \textsf{substitute }x^2 \\
+m=2\cdot2=4 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $m=4$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \begin{cases}
+  x_1+x_2=-\frac{b}{a} \\
+  x_1\cdot x_2=\frac{c}{a} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{10}\:$Given that $\small a,b,c$ form both an arithmetic sequence and a geometric sequence, let $\alpha,\beta$ be the two roots of the equation $\small ax^2+bx-c=0$ with $\alpha > \beta$. Then find the value of $\small \alpha^3\beta-\alpha\beta^3$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \sqrt{5} &
+\textsf{(B)} \: \sqrt{2} &
+\textsf{(C)} \: \sqrt{3} &
+\textsf{(D)} \: \sqrt{7} &
+\textsf{(E)} \: \sqrt{11} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+a=b=c\ne0 \\
+\alpha^3\beta-\alpha\beta^3=\alpha\beta(\alpha^2-\beta^2)=\alpha\beta(\alpha+\beta)(\alpha-\beta) \\
+ax^2+ax-a=0 \\
+x^2+x-1=0 \\
+\begin{cases}
+\alpha+\beta=-1 \\
+\alpha\beta=-1 \\
+\end{cases} \\
+\alpha-\beta=|\alpha-\beta| & \alpha > \beta \\
+|\alpha-\beta|=\frac{\sqrt{\Delta}}{|a|}=\frac{\sqrt{1+4}}{1}=\sqrt{5} \\
+\alpha\beta(\alpha+\beta)(\alpha-\beta)=-1\cdot-1\cdot\sqrt{5}=\sqrt{5} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $\alpha\beta(\alpha+\beta)(\alpha-\beta)=\sqrt{5}$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  a^2-b^2=(a-b)(a+b) & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
+  \begin{cases}
+  x_1+x_2=-\frac{b}{a} \\
+  x_1\cdot x_2=\frac{c}{a} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  |x_1-x_2|=\frac{\sqrt{\Delta}}{|a|} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_5-extended-applications-of-vieta-s-theorem}{\textsf{vieta's theorem symmetric expressions}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{11}\:$The quadratic equation $\small 3x^2+bx+c=0 \textsf{ (}c\ne0\textsf{)}$ has two roots $\small \alpha,\beta$. If the quadratic equation with roots $\small \alpha+\beta$ and $\small \alpha\beta$ is $\small 3x^2-bx+c=0$, then what are the values of $\small b$ and $\small c \,\mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 2,6 &
+\textsf{(B)} \: 3,4 &
+\textsf{(C)} \: -2,-6 &
+\textsf{(D)} \: -3,-6 &
+\textsf{(E)} \: -3,6 & \\
+\end{array}
+$  
+:::
+#### Solution
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using vieta's theorem on the two equations  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  3x^2+bx+c=0 \\
+  \begin{cases}
+  \alpha+\beta=-\frac{b}{3} \\
+  \alpha\beta=\frac{c}{3} \\
+  \end{cases} \\
+  3x^2-bx+c=0 \\
+  \begin{cases}
+  \alpha+\beta+\alpha\beta=\frac{b}{3} \\
+  (\alpha+\beta)\alpha\beta=\frac{c}{3} \\
+  \end{cases} \\
+  \left.
+  \begin{array}{ll}
+  \alpha\beta=\frac{c}{3} \\
+  (\alpha+\beta)\alpha\beta=\frac{c}{3} \\
+  \end{array}
+  \right\} \Longrightarrow \alpha+\beta=1 & c\ne0 \\
+  \alpha+\beta=-\frac{b}{3} \\
+  1=-\frac{b}{3} & \textsf{substitute }\alpha+\beta \\
+  b=-3 \\
+  \alpha+\beta+\alpha\beta=\frac{b}{3} \\
+  -\frac{b}{3}+\frac{c}{3}=\frac{b}{3} & \textsf{substitute }\alpha+\beta,\alpha\beta  \\
+  c-b=b \\
+  c=2b=2\cdot-3=-6 \\
+  \end{array}
+  $   
+  :::
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the quadratic equation with symmetric roots  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  ax^2+bx+c=0 & x_1,x_2 \\  
+  ax^2-bx+c=0 & -x_1,-x_2 \\
+  \left\{
+  \begin{array}{ll}
+  \alpha+\beta=-\alpha \\
+  \alpha\beta=-\beta \\
+  \end{array}
+  \right. \\
+  \alpha=\frac{-\beta}{\beta}=-1 & c\ne0 \textsf{ (}0\notin\left\{\textsf{equation roots}\right\}\textsf{)} \\
+  -1+\beta=-(-1) & \textsf{substitute }\alpha \\
+  \beta=2 \\
+  3x^2+bx+c=0 \\
+  \begin{cases}
+  \alpha+\beta=-\frac{b}{3} \\
+  \alpha\beta=\frac{c}{3} \\
+  \end{cases} \\
+  -1+2=-\frac{b}{3} & \textsf{substitute }\alpha,\beta \\
+  b=-3 \\
+  -1\cdot2=\frac{c}{3} & \textsf{substitute }\alpha,\beta \\
+  c=-6 \\
+  \end{array}
+  $   
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $-3,-6$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \begin{cases}
+  x_1+x_2=-\frac{b}{a} \\
+  x_1\cdot x_2=\frac{c}{a} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{array}
+  >$
+
+  :::
+- Quadratic equations with symmetric root transformations  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{①} \;\, ax^2+bx+c=0 & x_1,x_2 \\
+  \textsf{②} \;\, ax^2-bx+c=0 & -x_1,-x_2 \\
+  \textsf{③} \;\, cx^2+bx+a=0 & \frac{1}{x_1},\frac{1}{x_2}\\
+  \textsf{④} \;\, cx^2-bx+a=0 & -\frac{1}{x_1},-\frac{1}{x_2}\\
+  \end{array}
+  >$
+
+  :::
+---
+
+
+### $\fbox{12}\:$Given the quadratic equation $\small x^2-2ax+10x+2a^2-4a-2=0$ has real roots, find the minimum value of the product of its two roots.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: -4 &
+\textsf{(B)} \: -3 &
+\textsf{(C)} \: -2 &
+\textsf{(D)} \: -1 &
+\textsf{(E)} \: -6 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+x_1\cdot x_2=2a^2-4a-2 \\
+2a^2-4a-2 & a>0\textsf{ (opens upward)}\\
+a=-\frac{b}{2a}=\frac{-4}{-4}=1 \\
+2-4-2=-4 & \textsf{substitute }a=1 \\
+\textsf{verify discriminant} \\
+x^2+8x-4=0 & \textsf{substitute }a=1 \\
+\Delta=8^2+8=72>0 \\
+\textsf{minimum}=-4 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $\textsf{minimum}=-4$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \begin{cases}
+  x_1+x_2=-\frac{b}{a} \\
+  x_1\cdot x_2=\frac{c}{a} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  x=-\frac{b}{2a} & \href{/math/0%20Core%20Courses/15%20Chapter3%20polynomials-rational%20expressions-functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#axis-of-symmetry}{\textsf{axis of symmetry}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   \end{array}
   >$
 

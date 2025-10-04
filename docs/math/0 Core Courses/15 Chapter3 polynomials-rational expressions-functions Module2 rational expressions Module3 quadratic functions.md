@@ -312,7 +312,7 @@ $
 ## 2.Properties
 - Opening direction: determined by $a$. When $\boldsymbol{a>0}$, the parabola __opens upward__; when $\boldsymbol{a<0}$, it __opens downward__.  
   ![Quadratic function opening directions.svg](../../public/math/Core%20Courses/Quadratic%20function%20opening%20directions.svg)
-- Axis of symmetry: $\boldsymbol{x=-\frac{b}{2a}}$.
+- ###### Axis of symmetry: $\boldsymbol{x=-\frac{b}{2a}}$.
   - Note: when $\boldsymbol{b=0}$, the graph of the quadratic function is __symmetric about the y-axis__.
   - $y=ax^2+c$  
     <iframe src="https://www.desmos.com/calculator/3juw4onztz?embed" width="250" height="250" style="border: 1px solid #ccc; margin: 10px 0" frameborder=0></iframe>

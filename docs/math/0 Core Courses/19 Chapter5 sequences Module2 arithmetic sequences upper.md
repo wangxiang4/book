@@ -787,7 +787,7 @@ n^2-13n+36=0 \\
 (n-4)(n-9)=0 \\
 n=4 \lor 9 \\
 \textsf{parabola analysis} \\
--3>0\textsf{:}\, \textsf{opens downward} \\
+-3<0\textsf{:}\, \textsf{opens downward} \\
 c=0\textsf{:}\, \textsf{passes through origin }(0, 0) \\
 \end{array}
 $  
@@ -861,7 +861,7 @@ $
   >$
   \begin{array}{ll}
   S_n=na_1+\frac{n(n-1)}{2}d=\frac{d}{2}n^2+(a_1-\frac{d}{2})n & \href{/math/0%20Core%20Courses/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
-  x=-\frac{b}{2a} & \textsf{axis of symmetry formula} \\
+  x=-\frac{b}{2a} & \href{/math/0%20Core%20Courses/15%20Chapter3%20polynomials-rational%20expressions-functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#axis-of-symmetry}{\textsf{axis of symmetry}} \\
   \end{array}
   >$
 
@@ -871,7 +871,7 @@ $
   >$
   \begin{array}{ll}
   S_m=S_k & \textsf{(} d\ne0 \textsf{)} \\
-  ① \;\, \frac{m+k}{2}=\frac{1}{2}-\frac{a_1}{d} & \textsf{axis of symmetry formula} \\
+  ① \;\, \frac{m+k}{2}=\frac{1}{2}-\frac{a_1}{d} & \textsf{axis of symmetry} \\
   ② \;\, S_{m+k}=0 \\
   \end{array}
   >$
