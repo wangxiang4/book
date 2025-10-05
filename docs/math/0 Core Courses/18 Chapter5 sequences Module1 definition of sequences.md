@@ -54,17 +54,22 @@ lang: en-US
 
 ## 4.Formulas for the Relationship between
 - Given $a_n$, find $S_n$   
+  ::: wrap  
   $S_n=a_1+a_2+\cdots+a_n=\sum_{i=1}^{n}a_i$
-- ###### Given $S_n$, find $a_n$    
-  - __The constant term__ in $S_n$ __only affects $\boldsymbol{a_1}$__, but __does not affect the other terms__.   
-
+  :::  
+- ###### Given $S_n$, find $a_n$  
+  ::: wrap  
   $
   a_n=
   \begin{cases}
   a_1=S_1 & n=1 \\
   S_n-S_{n-1} & n \ge 2 \\
   \end{cases}
-  $  
+  $
+  :::  
+  - __The constant term__ in $S_n$ __only affects $\boldsymbol{a_1}$__, but __does not affect the other terms__.   
+
+    
 
 
 ## 5.Focus 1
@@ -247,13 +252,15 @@ $
 
 
 ## 6.Focus 2
-__For the given $a_n$, find $S_n$__
+__For the given $a_n$, find $S_n$__  
+::: wrap  
 - Use the formula $\boldsymbol{S_n=a_1+a_2+\cdots+a_n=\sum_{i=1}^{n}a_i}$ together with __the decomposition of the general term__,
   we apply __the method of telescoping sums__ (__cancellation method__).
   This is a concrete application of __the idea of decomposition and recombination in summing sequences__.
   The essence of the telescoping method is __to decompose each term (the general term) of the sequence__,
   then __recombine them__ so that __certain terms cancel out__,
   __ultimately yielding the sum__.
+:::  
   
 
 
@@ -345,7 +352,9 @@ $
   :::
 ---
 
+::: wrap  
 ### $\fbox{7}\:$Find the value of $S_{99}=\frac{1}{2!}+\frac{2}{3!}+\frac{3}{4!}+\cdots+\frac{99}{100!}$.
+:::  
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -385,8 +394,9 @@ $
 
   :::
 ---
-
+::: wrap  
 ### $\fbox{8}\:$Find the value of $\small S_{99}=1\times1!+2\times2!+3\times3!+\cdots+99\times99!$.
+:::  
 ::: wrap  
 $
 \begin{array}{lllll}

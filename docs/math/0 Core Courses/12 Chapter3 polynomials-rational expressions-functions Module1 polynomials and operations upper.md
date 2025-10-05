@@ -574,7 +574,9 @@ $
   :::
 ---
 
+::: wrap  
 ### $\fbox{9}\:$If real numbers $\small a,b,c$ satisfy $\small a+b+c=1$ and $\small \frac{1}{b+2}+\frac{1}{b+3}+\frac{1}{c+4}=0$, then the algebraic expression $(a+2)^2+(b+3)^2+(c+4)^2=\,\mathpunct{?}$.
+:::  
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -615,7 +617,9 @@ $
   :::
 ---
 
+::: wrap  
 ### $\fbox{10}\:$If real numbers $\small a,b,c$ satisfy $\small a^2+b^2+c^2=9$, then what is the maximum value of the algebraic expression $(a-b)^2+(b-c)^2+(c-a)^2\,\mathpunct{?}$.
+:::  
 ::: wrap  
 $
 \begin{array}{lllll}
