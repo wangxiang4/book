@@ -1,5 +1,5 @@
 ---
-title: Chapter4 Equations Inequalities – Module1 Inequalities
+title: Chapter4 Equations Inequalities – Module2 Inequalities
 lang: en-US
 ---
 
@@ -129,7 +129,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-   & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-basic-properties-of-inequalities-note-the-direction-of-inference-some-cannot-be-reversed}{\textsf{properties of inequalities}} \\
+   & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-basic-properties-of-inequalities-note-the-direction-of-inference-some-cannot-be-reversed}{\textsf{properties of inequalities}} \\
   \end{array}
   >$
 
@@ -258,7 +258,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-   & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{relationship among quadratics}} \\
+   & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{relationship among quadratics}} \\
   \end{array}
   >$
 
@@ -304,7 +304,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{relationship among quadratics}} \\
+  & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{relationship among quadratics}} \\
   \end{array}
   >$
 
@@ -336,7 +336,7 @@ $
   $
   \begin{array}{ll}
   x_1=-1 \lor x_2=3 \\
-  5x^2-bx+c=0 & & \textsf{substitute }x_1,x_2\textsf{ respectively} \\
+  5x^2-bx+c=0 & \textsf{substitute }x_1 \land x_2 \\
   \begin{cases}
   5+b+c=0 \\
   45-3b+c=0 \\
@@ -384,7 +384,7 @@ $
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \end{array}
   >$
 
@@ -446,7 +446,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   \end{array}
   >$
 
@@ -506,8 +506,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  f(x)\ge0 \Longleftrightarrow f(x)\lt0  & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic inequalities }\varnothing \Leftrightarrow \mathbb{R}} \\
-  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  f(x)\ge0 \Longleftrightarrow f(x)\lt0  & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic inequalities }\varnothing \Leftrightarrow \mathbb{R}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   a^2-b^2=(a-b)(a+b) & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
   \end{array}
   >$
@@ -570,7 +570,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \end{array}
   >$

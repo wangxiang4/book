@@ -432,7 +432,7 @@ $
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \frac{a_m}{a_n}=q^{m-n} & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{term ratio formula}} \\
   x^3=a \longrightarrow x=\sqrt[3]{a} & \textsf{definition of cube root} \\
   a_n=a_{k}q^{n-k} & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_2-general-term}{\textsf{general term formula}}
@@ -729,7 +729,7 @@ $
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \end{array}
   >$
 

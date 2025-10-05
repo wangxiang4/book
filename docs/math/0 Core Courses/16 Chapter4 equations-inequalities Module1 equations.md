@@ -1,13 +1,7 @@
 ---
-title: Chapter4 Equations Inequalities – Module2 Equations
+title: Chapter4 Equations Inequalities – Module1 Equations
 lang: en-US
 ---
-
-| Platform    | Course                                                                                       | Coursewares                                                       |
-|-------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=hK8elaKSvBI&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvs0?playlist=x9h6d2)                           |                                                                   |
-| Rumble      | [Watch](https://rumble.com/v6s95bx-18-chapter4-equations-inequality-module2-equations.html)  |                                                                   |
 
 # Module 4-01 Linear Equations (Systems)
 
@@ -205,8 +199,8 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  x=\frac{-b\pm\sqrt{\Delta}}{2a} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_3-steps-for-solving-quadratic-equations}{\textsf{quadratic formula}} \\
-  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  x=\frac{-b\pm\sqrt{\Delta}}{2a} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_3-steps-for-solving-quadratic-equations}{\textsf{quadratic formula}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   x_1=\frac{-b-\sqrt{\Delta}}{2a} \quad x_2=\frac{-b+\sqrt{\Delta}}{2a} \\
   x_1+x_2=\frac{-b-b}{2a}=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{(-b+\sqrt{\Delta})(-b-\sqrt{\Delta})}{4a^2}=\frac{(-b)^2-\Delta}{4a^2} \\
@@ -314,7 +308,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \end{array}
   >$
@@ -372,7 +366,7 @@ $
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \end{array}
   >$
 
@@ -411,7 +405,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{1}{x_1}+\frac{1}{x_2}=-\frac{b}{c} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_5-extended-applications-of-vieta-s-theorem}{\textsf{vieta's theorem symmetric expressions}} \\
+  \frac{1}{x_1}+\frac{1}{x_2}=-\frac{b}{c} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_5-extended-applications-of-vieta-s-theorem}{\textsf{vieta's theorem symmetric expressions}} \\
   \end{array}
   >$
 
@@ -449,8 +443,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  |x_1-x_2|=\frac{\sqrt{\Delta}}{|a|} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_5-extended-applications-of-vieta-s-theorem}{\textsf{vieta's theorem symmetric expressions}} \\
-  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  |x_1-x_2|=\frac{\sqrt{\Delta}}{|a|} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_5-extended-applications-of-vieta-s-theorem}{\textsf{vieta's theorem symmetric expressions}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   \end{array}
   >$
 
@@ -501,13 +495,13 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2 & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_5-extended-applications-of-vieta-s-theorem}{\textsf{vieta's theorem symmetric expressions}} \\
+  x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2 & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_5-extended-applications-of-vieta-s-theorem}{\textsf{vieta's theorem symmetric expressions}} \\
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
-  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   \end{array}
   >$
 
@@ -559,7 +553,7 @@ $
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \end{array}
   >$
 
@@ -611,8 +605,8 @@ $
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
-  |x_1-x_2|=\frac{\sqrt{\Delta}}{|a|} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_5-extended-applications-of-vieta-s-theorem}{\textsf{vieta's theorem symmetric expressions}} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  |x_1-x_2|=\frac{\sqrt{\Delta}}{|a|} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_5-extended-applications-of-vieta-s-theorem}{\textsf{vieta's theorem symmetric expressions}} \\
   \end{array}
   >$
 
@@ -705,7 +699,7 @@ $
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \end{array}
   >$
 
@@ -766,9 +760,9 @@ $
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   x=-\frac{b}{2a} & \href{/math/0%20Core%20Courses/15%20Chapter3%20polynomials-rational%20expressions-functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#axis-of-symmetry}{\textsf{axis of symmetry}} \\
-  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   \end{array}
   >$
 
@@ -864,15 +858,95 @@ $
   x_1+x_2<0 \\
   x_1x_2>0 \\
   \Delta\ge0 \\
-  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_9-focus-4}{\textsf{sign conditions of two roots}} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_9-focus-4}{\textsf{sign conditions of two roots}} \\
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
-  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \end{array}
   >$
 
   :::
 ---
+
+## 10.Focus 5
+__The range of roots of an equation__  
+- When dealing with the range of the roots,
+  __draw the parabola__ and analyze based on __the intersection points with the x-axis__.
+  Note __that vieta's theorem should not be used__ for this analysis.
+
+### $\fbox{14}\:$If the quadratic equation in $\small x$: $\small mx^2-(m-1)x+m-5=0$ has two real roots $\small \alpha,\beta$ satisfying $\small -1<\alpha<0$ and $\small 0<\beta<1$, then how many integers are contained in the range of $\small m\,\mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 0 &
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 3 &
+\textsf{(E)} \: \infty & \\
+\end{array}
+$  
+:::
+#### Solution
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the signs of function values at endpoints  
+  ![Question quadratic equations figure Q-14 solve-1.svg](../../public/math/Core%20Courses/Question%20quadratic%20equations%20figure%20Q-14%20solve-1.svg)  
+  ::: wrap   
+  $
+  \begin{array}{ll}
+  \begin{cases}
+  f(-1)\cdot f(0)<0 \\
+  f(0)\cdot f(1)<0 \\
+  \end{cases} \\
+  f(-1)\cdot f(0)<0 & ① \\
+  (m+m-1+m-5)(m-5)<0 & \textsf{substitute }x=-1\land0 \\
+  m+m-1+m-5<0 \\
+  3m-6<0 \\
+  m-2<0 \\
+  (m-2)(m-5)<0 \\
+  m^2-7m+10\Rightarrow(m-2)(m-5)=0 \\
+  m=2 \lor 5 \\
+  \textsf{parabola analysis} \\
+  1>0\textsf{:}\, \textsf{opens upward} \\
+  \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=2\textsf{ and }x_2=5 \\
+  \textsf{range}\textsf{:}\, f(x)<0\textsf{ between the two roots} \\
+  f(x)<0 \longrightarrow 2 < m < 5 \\
+  f(0)\cdot f(1)<0 & ② \\
+  (m-5)(m-m+1+m-5)<0 & \textsf{substitute }x=0\land1 \\
+  (m-5)(m-4)<0 \\
+  m^2-9m+20\Rightarrow(m-5)(m-4)=0 \\
+  m=4 \lor 5 \\
+  \textsf{parabola analysis} \\
+  1>0\textsf{:}\, \textsf{opens upward} \\
+  \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=4\textsf{ and }x_2=5 \\
+  \textsf{range}\textsf{:}\, f(x)<0\textsf{ between the two roots} \\
+  f(x)<0 \longrightarrow 4 < m < 5 \\
+  (2 < m < 5)\cap(4 < m < 5)=4 < m < 5 \\
+  \end{array}
+  $   
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $4 < m < 5$, so choose $A$. 
+
+  :::
+- Root existence based on function values at endpoints  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{opposite signs at endpoints} \Longrightarrow \textsf{root exists} \\
+  \textsf{same signs at endpoints} \Longrightarrow \textsf{root uncertain} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+| Platform    | Course                                                                                       | Coursewares                                                       |
+|-------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| YouTube     | [Watch](https://www.youtube.com/watch?v=hK8elaKSvBI&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvs0?playlist=x9h6d2)                           |                                                                   |
+| Rumble      | [Watch](https://rumble.com/v6s95bx-18-chapter4-equations-inequality-module2-equations.html)  |                                                                   |

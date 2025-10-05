@@ -203,7 +203,7 @@ $
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Courses/17%20Chapter4%20equations-inequalities%20Module2%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \end{array}
   >$
 
