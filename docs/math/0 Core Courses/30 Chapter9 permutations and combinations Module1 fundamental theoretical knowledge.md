@@ -233,7 +233,7 @@ $
            \end{cases} \\
            \end{array}
   > $
-  >   3. ###### __Combination formula__ (order does not matter, remove duplicates caused by different orders)
+  >   3. __Combination formula__ (order does not matter, remove duplicates caused by different orders)
   >      $\boldsymbol{C_n^k=\frac{n!}{k!(n-k)!}}$   
   >      - $n$: total number of available items (supply)   
   >      - $k$: number of elements to choose (demand, order does not matter)    
