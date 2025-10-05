@@ -241,15 +241,8 @@ li > ol {
       max-width: none !important;
     }
 
-    /*tr {
-      td:nth-child(2) {
-        font-family: var(--font-family);
-      }
-    }*/
-
     th,
     td {
-      white-space: nowrap;
       border-top: 1px solid var(--border-color);
       border-bottom: 1px solid var(--border-color);
       padding: 0.6em 1em;
