@@ -185,6 +185,7 @@ $
 
 
 ## 4.Relationship Between Roots and Coefficients (Vieta's Theorem)
+::: wrap  
 - $\boldsymbol{x_1, x_2}$ are the two roots of the equation
   $
   ax^2+bx+c=0 \textsf{ (}a\ne0\textsf{)}
@@ -195,6 +196,7 @@ $
   x_1\cdot x_2=\boldsymbol{\frac{c}{a}} \\
   \end{array}}
   $
+::::
 - __Theorem derivation__  
   ::: wrap  
   $
@@ -212,6 +214,7 @@ $
 
 ## 5.Extended Applications of Vieta's Theorem
 - Using vieta's theorem, one can find __the values of symmetric expressions__ involving __the two roots__.  
+  ::: wrap  
   1. $\frac{1}{x_1}+\frac{1}{x_2}=\frac{x_1+x_2}{x_1x_2}=\frac{-\frac{b}{a}}{\frac{c}{a}}=\boldsymbol{-\frac{b}{c}}$
   2. $\frac{1}{x_1^2}+\frac{1}{x_2^2}=\frac{(x_1+x_2)^2-2x_1x_2}{(x_1x_2)^2}$
   3. $|x_1-x_2|=\sqrt{(x_1-x_2)^2}=\sqrt{(x_1+x_2)^2-4x_1x_2}=\boldsymbol{\frac{\sqrt{\Delta}}{|a|}}$  
@@ -225,14 +228,15 @@ $
   4. $x_1^2+x_2^2=(x_1+x_2)^2-2x_1x_2$
   5. $x_1^2-x_2^2=(x_1+x_2)(x_1-x_2)$
   6. $x_1^3+x_2^3=(x_1+x_2)(x_1^2-x_1x_2+x_2^2)=(x_1+x_2)[(x_1+x_2)^2-3x_1x_2]$
-
+  ::::  
 
 ## 6.Focus 1
 __The definition of an equation__  
 - Determine __the unknown parameters__ according to the definitions of __the number of variables__ and __the degree of the equation__. 
 
-
+::: wrap  
 ### $\fbox{3}\:$For what values of $\small m$ is $\small (m-5)x^{m^{2}-6m+7}+(m^3+2m^2+m)x+1=0$ a quadratic equation in one variable $\small \mathpunct{?}$.
+:::  
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -718,8 +722,9 @@ $
   :::
 ---
 
-
+::: wrap  
 ### $\fbox{12}\:$Given the quadratic equation $\small x^2-2ax+10x+2a^2-4a-2=0$ has real roots, find the minimum value of the product of its two roots.
+:::  
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -791,12 +796,14 @@ __The signs of roots of an equation__
     \end{cases}
     $
   - __One positive root and one negative root__  
+    ::: wrap  
     $
     \begin{cases}
     x_1x_2=\frac{c}{a}<0 \\
     \Delta=b^2-4ac>0 & \bcancel{\Delta>0}\textsf{ (}a,c\textsf{ opposite signs}\Rightarrow\Delta>0\textsf{)} \\
     \end{cases}
     $
+    :::  
 
 
 ### $\fbox{13}\:$(Sufficiency judgment) The equation $\small 4x^2+(a-2)x+a-5=0$ has two distinct negative real roots.
