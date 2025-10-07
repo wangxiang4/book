@@ -73,77 +73,197 @@ import { renderMarkup } from '~/utils'
 
 const tableHeaderRow = {
   label_1: '$\\boldsymbol{y=x^\\alpha}$',
-  label_2: 'Test2',
-  label_3: 'Test3',
-  label_4: 'Test4',
-  label_5: 'Test5',
-  label_6: 'Test6',
-  label_7: 'Test7',
-  label_8: 'Test8',
-  label_9: 'Test9'
+  label_2: '$\\alpha=\\frac{m}{n}$, $m,n\\in\\mathbb{N_+}$, $m,n$ are coprime',
+  label_3: '$\\alpha=-\\frac{m}{n}$, $m,n\\in\\mathbb{N_+}$, $m,n$ are coprime',
+  label_4: '$m$ is odd',
+  label_5: '$n$ is odd',
+  label_6: '$m$ is even',
+  label_7: '$n$ is odd',
+  label_8: '$m$ is odd',
+  label_9: '$n$ is even'
 }
 
 const tableData = [
   {
     col_1: {
       type: 'text',
-      content: 'Test1'
+      content: 'Functions'
     },
     col_2: {
       type: 'text',
-      content: 'Test2'
+      content: '$y=x$, $y=x^3$, $y=x^\\frac{1}{3}$'
     },
     col_3: {
       type: 'text',
-      content: 'Test3'
+      content: '$y=x^2$, $y=x^\\frac{2}{3}$'
     },
     col_4: {
       type: 'text',
-      content: 'Test4'
+      content: '$y=x^\\frac{1}{2}$'
     },
     col_5: {
       type: 'text',
-      content: 'Test5<p>123</p>'
+      content: '$y=x^{-1}$, $y=\\frac{1}{x}$'
     },
     col_6: {
       type: 'text',
-      content: 'Test6'
+      content: '$y=x^{-2}$'
     },
     col_7: {
       type: 'text',
-      content: 'Test7'
+      content: '$y=x^{-\\frac{1}{2}}$'
     }
   },
   {
     col_1: {
       type: 'text',
-      content: 'Test1'
+      content: 'Graph'
+    },
+    col_2: {
+      type: 'image',
+      content: 'Graph1 TODO'
+    },
+    col_3: {
+      type: 'image',
+      content: 'Graph2 TODO'
+    },
+    col_4: {
+      type: 'image',
+      content: 'Graph3 TODO'
+    },
+    col_5: {
+      type: 'image',
+      content: 'Graph4 TODO'
+    },
+    col_6: {
+      type: 'image',
+      content: 'Graph5 TODO'
+    },
+    col_7: {
+      type: 'image',
+      content: 'Graph6 TODO'
+    }
+  },
+  {
+    col_1: {
+      type: 'text',
+      content: 'Domains'
     },
     col_2: {
       type: 'text',
-      content: 'Test2'
+      content: '$\\mathbb{R}$'
     },
     col_3: {
       type: 'text',
-      content: 'Test3'
+      content: '$\\mathbb{R}$'
     },
     col_4: {
       type: 'text',
-      content: 'Test4'
+      content: '$[0, +\\infty)$'
     },
     col_5: {
       type: 'text',
-      content: 'Test5<p>123</p>'
+      content: '$(-\\infty, 0)\\;\\cup$<br/>$(0, +\\infty)\\hspace{0.5cm}$'
     },
     col_6: {
       type: 'text',
-      content: 'Test6'
+      content: '$(-\\infty, 0)\\;\\cup$<br/>$(0, +\\infty)\\hspace{0.5cm}$'
     },
     col_7: {
       type: 'text',
-      content: 'Test7'
+      content: '$(0, +\\infty)$'
     }
-  }
+  },
+  {
+    col_1: {
+      type: 'text',
+      content: 'Parity'
+    },
+    col_2: {
+      type: 'text',
+      content: 'Odd function'
+    },
+    col_3: {
+      type: 'text',
+      content: 'Even function'
+    },
+    col_4: {
+      type: 'text',
+      content: 'Neither odd nor even'
+    },
+    col_5: {
+      type: 'text',
+      content: 'Odd function'
+    },
+    col_6: {
+      type: 'text',
+      content: 'Even function'
+    },
+    col_7: {
+      type: 'text',
+      content: 'Neither odd nor even'
+    }
+  },
+  {
+    col_1: {
+      type: 'text',
+      content: 'Monotonicity'
+    },
+    col_2: {
+      type: 'text',
+      content: 'Increasing on $\\mathbb{R}$'
+    },
+    col_3: {
+      type: 'text',
+      content: 'Decreasing on $(-\\infty, 0]$,<br/>increasing on $[0, +\\infty)$'
+    },
+    col_4: {
+      type: 'text',
+      content: 'Increasing on $[0, +\\infty)$'
+    },
+    col_5: {
+      type: 'text',
+      content: 'Decreasing on $(-\\infty, 0)$,<br/>decreasing on $(0, +\\infty)$'
+    },
+    col_6: {
+      type: 'text',
+      content: 'Increasing on $(-\\infty, 0)$,<br/>decreasing on $(0, +\\infty)$'
+    },
+    col_7: {
+      type: 'text',
+      content: 'Increasing on $(0, +\\infty)$'
+    }
+  },
+  {
+    col_1: {
+      type: 'text',
+      content: 'Ranges'
+    },
+    col_2: {
+      type: 'text',
+      content: '$\\mathbb{R}$'
+    },
+    col_3: {
+      type: 'text',
+      content: '$[0, +\\infty)$'
+    },
+    col_4: {
+      type: 'text',
+      content: '$[0, +\\infty)$'
+    },
+    col_5: {
+      type: 'text',
+      content: '$(-\\infty, 0)\\;\\cup$<br/>$(0, +\\infty)\\hspace{0.5cm}$'
+    },
+    col_6: {
+      type: 'text',
+      content: '$(0, +\\infty)$'
+    },
+    col_7: {
+      type: 'text',
+      content: '$(0, +\\infty)$'
+    }
+  },
 ]
 
 function renderColumnMap(row: any, prop: string): string {
