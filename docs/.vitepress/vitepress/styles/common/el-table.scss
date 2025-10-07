@@ -1,0 +1,9 @@
+@use '../mixins' as *;
+
+.el-table {
+  margin: 25px auto;
+
+  &__body tr:hover > &__cell {
+    background-color: transparent !important;
+  }
+}

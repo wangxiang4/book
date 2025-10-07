@@ -214,6 +214,11 @@ audio, canvas, embed, iframe, img, object, video {
   max-width: 100%;
 }
 
+video {
+  display: block;
+  vertical-align: middle;
+}
+
 ul,
 ol {
   padding-left: 1.25em;

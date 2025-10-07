@@ -79,7 +79,7 @@ __The properties of inequalities__
   especially when dealing with __fractional inequalities or absolute value inequalities__.
   Care must be taken to __avoid mistakes__.
 
-### $\fbox{15}\:$Given that $\small \frac{1}{a}<\frac{1}{b}<0$, determine which of the following inequalities is correct: $\small ①\hspace{0.2cm}\frac{1}{a+b}<\frac{1}{ab}$; $\small ②\hspace{0.2cm}|a|+b>0$; $\small ③\hspace{0.2cm}a-\frac{1}{a}>b-\frac{1}{b}$; $\small ④\hspace{0.2cm}\ln{a^2} > \ln{b^2}$. Which inequality is correct $\small \mathpunct{?}$.
+### $\fbox{15}\:$Given that $\small \frac{1}{a}\lt\frac{1}{b}\lt0$, determine which of the following inequalities is correct: $\small ①\hspace{0.2cm}\frac{1}{a+b}<\frac{1}{ab}$; $\small ②\hspace{0.2cm}|a|+b>0$; $\small ③\hspace{0.2cm}a-\frac{1}{a}>b-\frac{1}{b}$; $\small ④\hspace{0.2cm}\ln{a^2} > \ln{b^2}$. Which inequality is correct $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}

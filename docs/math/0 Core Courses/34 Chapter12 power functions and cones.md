@@ -5,7 +5,35 @@ lang: en-US
 
 | Platform    | Course                                                                                       | Coursewares                                                       | Exercises                                                                           |
 |-------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=xswEYoH6ybA&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) | [Exercise](../../public/math/Core%20Courses/pdf/35%20Exercises.pdf)                 |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gx65i?playlist=x9h6d2)                           |                                                                   | [Exercise answer](../../public/math/Core%20Courses/pdf/35%20Exercise%20answers.pdf) |
+| YouTube     | [Watch](https://www.youtube.com/watch?v=xswEYoH6ybA&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) | [Exercise](../../public/math/Core%20Courses/pdf/34%20Exercises.pdf)                 |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gx65i?playlist=x9h6d2)                           |                                                                   | [Exercise answer](../../public/math/Core%20Courses/pdf/34%20Exercise%20answers.pdf) |
 | Rumble      | [Watch](https://rumble.com/v6s95j1-35-chapter12-power-function-and-cone.html)                |                                                                   |
+
+# Module 12-01 Power Function
+
+## 1.Power Function
+- $\boldsymbol{y=x^\alpha}$, whose domain varies depending on the value of $\alpha$.
+  However, __regardless of $\boldsymbol{\alpha}$__,
+  the function is __always defined on $\boldsymbol{(0, +\infty)}$__,
+  and its graph __passes through the point $\boldsymbol{(1, 1)}$__.
+  When $\boldsymbol{\alpha>0}$, the graph also __passes through the origin__.
+  - __First quadrant__: always has a graph
+  - __Fourth quadrant__: never has a graph
+  - __Second quadrant__: has a graph when $\boldsymbol{\alpha}$ is even (symmetric about the y-axis)
+  - __Third quadrant__: has a graph when $\boldsymbol{\alpha}$ is odd (symmetric about the origin)
+  ![Power function three cases of α in first quadrant.svg](../../public/math/Core%20Courses/Power%20function%20three%20cases%20of%20%CE%B1%20in%20first%20quadrant.svg)  
+    <iframe src="https://www.desmos.com/calculator/6vy5dm8pt8?embed" width="500" height="380" style="border: 1px solid #ccc" frameborder=0></iframe>
+- Definitions of __exponential and power functions__  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  y=x^3 & y=x^\alpha \textsf{ (power function)} \\
+  y=3^x & y=\alpha^x \textsf{ (exponential function)} \\
+  \end{array}
+  $
+  :::  
+
+## 2.Overview of Power Function Properties Table
+<PowerFunctionTable/>
+
 

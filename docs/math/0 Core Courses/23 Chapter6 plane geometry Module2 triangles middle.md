@@ -10,7 +10,7 @@ lang: en-US
 
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\: \small S=\frac{1}{2}ab\textsf{sin}C$, where $\small C$ is the included angle between sides $\small a$ and $\small b$
-- __angle-sine table__   
+- __Angle-Sine Table__   
 
   | $\boldsymbol{C}$ | $\boldsymbol{30^\circ \, \lor \, 150^\circ}$ | $\boldsymbol{45^\circ \, \lor \, 135^\circ}$ | $\boldsymbol{60^\circ \, \lor \, 120^\circ}$ | $\boldsymbol{90^\circ}$ |
   |------------------|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|:-----------------------:|

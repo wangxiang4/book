@@ -1,4 +1,5 @@
 import type { Route } from 'vitepress'
+import { renderTeX } from './tex2svg'
 
 const hashRE = /#.*$/, extRE = /(index)?\.(md|html)$/;
 
@@ -60,4 +61,20 @@ export const isActiveLink = (
   const regex = new RegExp(pathPattern)
 
   return regex.test(normalize(`/${route.data.relativePath}`))
+}
+
+/**
+ * Render content by replacing formulas, icons, or custom markers
+ * @param content
+ * @returns
+ */
+export function renderMarkup(content: string): string {
+  let renderedContent = content.trim()
+  const mathInlineRegex = /(?<!\\|\$)\$(?!\$)((?:[^$]|\\\$)*)(?<!\\)\$(?!\$)/g
+
+  // Rendering Mathematical Formulas
+  renderedContent = renderedContent.replace(mathInlineRegex, (match, formula: string) =>
+    renderTeX(formula.trim()))
+
+  return renderedContent
 }
