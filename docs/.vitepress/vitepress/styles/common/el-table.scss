@@ -6,4 +6,10 @@
   &__body tr:hover > &__cell {
     background-color: transparent !important;
   }
+
+  &__cell {
+    .cell {
+      text-overflow: clip !important;
+    }
+  }
 }

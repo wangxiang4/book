@@ -1,6 +1,6 @@
 <template>
   <el-table :data="tableData">
-    <el-table-column align="center">
+    <el-table-column align="center" min-width="90">
       <template #header>
         <span v-html="renderColumnMap(tableHeaderRow, 'label_1')" />
       </template>
@@ -12,7 +12,7 @@
       <template #header>
         <span v-html="renderColumnMap(tableHeaderRow, 'label_2')" />
       </template>
-      <el-table-column align="center">
+      <el-table-column align="center" min-width="100">
         <template #header>
           <span v-html="renderColumnMap(tableHeaderRow, 'label_4')" />
         </template>
@@ -20,7 +20,7 @@
           <span v-html="renderColumnMap(scope.row, 'col_2')" />
         </template>
       </el-table-column>
-      <el-table-column align="center">
+      <el-table-column align="center" min-width="100">
         <template #header>
           <span v-html="renderColumnMap(tableHeaderRow, 'label_5')" />
         </template>
@@ -28,7 +28,7 @@
           <span v-html="renderColumnMap(scope.row, 'col_3')" />
         </template>
       </el-table-column>
-      <el-table-column align="center">
+      <el-table-column align="center" min-width="100">
         <template #header>
           <span v-html="renderColumnMap(tableHeaderRow, 'label_6')" />
         </template>
@@ -41,7 +41,7 @@
       <template #header>
         <span v-html="renderColumnMap(tableHeaderRow, 'label_3')" />
       </template>
-      <el-table-column align="center">
+      <el-table-column align="center" min-width="100">
         <template #header>
           <span v-html="renderColumnMap(tableHeaderRow, 'label_7')" />
         </template>
@@ -49,7 +49,7 @@
           <span v-html="renderColumnMap(scope.row, 'col_5')" />
         </template>
       </el-table-column>
-      <el-table-column align="center">
+      <el-table-column align="center" min-width="100">
         <template #header>
           <span v-html="renderColumnMap(tableHeaderRow, 'label_8')" />
         </template>
@@ -57,7 +57,7 @@
           <span v-html="renderColumnMap(scope.row, 'col_6')" />
         </template>
       </el-table-column>
-      <el-table-column align="center">
+      <el-table-column align="center" min-width="100">
         <template #header>
           <span v-html="renderColumnMap(tableHeaderRow, 'label_9')" />
         </template>
