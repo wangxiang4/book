@@ -277,7 +277,7 @@ function renderColumnMap(row: any, prop: string): string {
   }
 }
 
-onMounted(async () => {
+onMounted( () => {
   const tableEl = document.querySelector('.el-table')
   if (!tableEl) return
   const observer = new MutationObserver(() => {

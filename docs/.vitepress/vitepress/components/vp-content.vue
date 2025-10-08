@@ -26,7 +26,7 @@ watch(
 
 watch(
   () => route.path,
-  () => {
+  async () => {
     if (shouldUpdateProgress) nprogress.done()
     initImageZoom()
   }, { flush: 'post' }
