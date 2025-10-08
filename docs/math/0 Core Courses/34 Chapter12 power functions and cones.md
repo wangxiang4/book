@@ -22,7 +22,7 @@ lang: en-US
   - __Second quadrant__: has a graph when $\boldsymbol{\alpha}$ is even (symmetric about the y-axis)
   - __Third quadrant__: has a graph when $\boldsymbol{\alpha}$ is odd (symmetric about the origin)
   ![Power function three cases of α in first quadrant.svg](../../public/math/Core%20Courses/Power%20function%20three%20cases%20of%20%CE%B1%20in%20first%20quadrant.svg)  
-    <iframe src="https://www.desmos.com/calculator/6vy5dm8pt8?embed" width="500" height="380" style="border: 1px solid #ccc" frameborder=0></iframe>
+    <iframe src="https://www.desmos.com/calculator/j7x2gvljoh?embed" width="500" height="380" style="border: 1px solid #ccc" />
 - Definitions of __exponential and power functions__  
   ::: wrap  
   $
@@ -36,4 +36,36 @@ lang: en-US
 ## 2.Overview of Power Function Properties Table
 <PowerFunctionTable/>
 
+- When $\boldsymbol{\alpha>0}$, it can be divided into __three types__ based on symmetry:
+  __odd function__ (graph in the first and third quadrants),
+  __even function__ (graph in the first and second quadrants),
+  __neither odd nor even__ (graph only in the first quadrant).
+  1. $m$ is odd, $n$ is odd
+     - Graph of multiple functions  
+       <iframe src="https://www.desmos.com/calculator/z4by6wgqfv?embed" width="460" height="300" style="border: 1px solid #ccc" />
+     - Properties  
+  2. $m$ is even, $n$ is odd
+     - Graph of multiple functions  
+       <iframe src="https://www.desmos.com/calculator/os3d53cfbj?embed" width="460" height="300" style="border: 1px solid #ccc" />
+     - Properties  
+  3. $m$ is odd, $n$ is even
+     - Function graph  
+       <iframe src="https://www.desmos.com/calculator/jvmndyrlhf?embed" width="460" height="300" style="border: 1px solid #ccc" />
+     - Properties  
 
+- When $\boldsymbol{\alpha<0}$, it can be divided into __three types__ based on symmetry:
+  __odd function__ (graph in the first and third quadrants),
+  __even function__ (graph in the first and second quadrants),
+  __neither odd nor even__ (graph only in the first quadrant).
+  1. $m$ is odd, $n$ is odd
+     - Function graph  
+       <iframe src="https://www.desmos.com/calculator/givdh77tix?embed" width="460" height="300" style="border: 1px solid #ccc" />
+     - Properties  
+  2. $m$ is even, $n$ is odd
+     - Function graph  
+       <iframe src="https://www.desmos.com/calculator/l3elhvrzx7?embed" width="460" height="300" style="border: 1px solid #ccc" />
+     - Properties  
+  3. $m$ is odd, $n$ is even
+     - Function graph  
+       <iframe src="https://www.desmos.com/calculator/n01tjrdix9?embed" width="460" height="300" style="border: 1px solid #ccc" />
+     - Properties  
