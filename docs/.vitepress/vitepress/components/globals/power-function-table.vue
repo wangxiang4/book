@@ -121,27 +121,27 @@ const tableData = [
     },
     col_2: {
       type: 'image',
-      content: 'Graph1 TODO'
+      content: '/math/Core%20Courses/Power%20functions%20positive%20graph%201.svg'
     },
     col_3: {
       type: 'image',
-      content: 'Graph2 TODO'
+      content: '/math/Core%20Courses/Power%20functions%20positive%20graph%202.svg'
     },
     col_4: {
       type: 'image',
-      content: 'Graph3 TODO'
+      content: '/math/Core%20Courses/Power%20functions%20positive%20graph%203.svg'
     },
     col_5: {
       type: 'image',
-      content: 'Graph4 TODO'
+      content: '/math/Core%20Courses/Power%20functions%20negative%20graph%201.svg'
     },
     col_6: {
       type: 'image',
-      content: 'Graph5 TODO'
+      content: '/math/Core%20Courses/Power%20functions%20negative%20graph%202.svg'
     },
     col_7: {
       type: 'image',
-      content: 'Graph6 TODO'
+      content: '/math/Core%20Courses/Power%20functions%20negative%20graph%203.svg'
     }
   },
   {
@@ -263,7 +263,7 @@ const tableData = [
       type: 'text',
       content: '$(0, +\\infty)$'
     }
-  },
+  }
 ]
 
 function renderColumnMap(row: any, prop: string): string {
