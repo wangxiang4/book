@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import { useRoute } from 'vitepress'
+import {useRoute, useRouter} from 'vitepress';
 import { isActive } from '../../utils'
 
 import type { Link } from '../../types'
@@ -8,27 +8,51 @@ defineProps<{
   item: Link
 }>()
 
-defineEmits(['close'])
+const emitEvent = defineEmits(['close'])
 
 const route = useRoute()
+
+// todo tempe teat
+const router = useRouter()
+function handleLink(link: string) {
+  router.go(link)
+  emitEvent('close')
+}
 </script>
 
 <template>
-  <a
+  <button
     :class="{
       link: true,
       active: isActive(route, item.link),
       'flex items-center': item.promotion,
     }"
-    :href="item.link"
-    @click="$emit('close')"
+    :data-path="item.link"
+    @click="handleLink(item.link)"
   >
     <p class="link-text">{{ item.text }}</p>
     <VersionTag v-if="item.promotion" class="ml-2 whitespace-normal h-auto min-h-[20px] pb-0.4" :version="item.promotion" />
-  </a>
+  </button>
 </template>
 
 <style scoped lang="scss">
+button {
+  all: unset;
+  cursor: pointer;
+  display: inline;
+  color: inherit;
+  text-decoration: none;
+  background: none;
+  border: none;
+  font: inherit;
+  line-height: inherit;
+  text-align: inherit;
+}
+
+button:focus {
+  outline: none;
+}
+
 .link:not(.flex) {
   display: block;
 }

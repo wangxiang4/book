@@ -33,6 +33,21 @@
     window.addEventListener(
       'click',
       (e) => {
+
+        // todo tempe teat
+        const buttonLink = (e.target as HTMLElement).closest('button[data-path]')
+        if (buttonLink) {
+          const path = buttonLink?.dataset?.path
+          e.preventDefault()
+          if (!e.ctrlKey &&
+              !e.shiftKey &&
+              !e.altKey &&
+              !e.metaKey &&
+              path !== window.location.pathname) {
+            nprogress.start()
+          }
+        }
+
         const link = (e.target as HTMLElement).closest('a')
         if (!link) return
 
