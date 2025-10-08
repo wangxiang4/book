@@ -9,9 +9,7 @@
   import VPSidebar from './vp-sidebar.vue'
   import VPContent from './vp-content.vue'
   import VPOverlay from './vp-overlay.vue'
-  import { nextTick, onMounted, watch } from 'vue'
-  import { useRoute } from 'vitepress'
-  import mediumZoom from 'medium-zoom'
+  import { onMounted } from 'vue'
 
   const [isSidebarOpen, toggleSidebar] = useToggle(false)
   const { hasSidebar } = useSidebar()
@@ -22,20 +20,7 @@
     }
   })
 
-  const route = useRoute();
-  // Initialization clicks the image zoom
-  const initZoom = () => {
-    //mediumZoom('[data-zoomable]', { background: 'var(--bg-color)' });
-    mediumZoom('.doc-content img:not(a img)', { background: 'var(--bg-color)' });
-  };
-
-  watch(
-    () => route.path,
-    () => nextTick(() => initZoom())
-  );
-
-  onMounted(async () => {
-    initZoom();
+  onMounted(() => {
     window.addEventListener(
       'click',
       (e) => {

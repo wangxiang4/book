@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { nextTick, watch, ref } from 'vue';
+import { watch, ref } from 'vue';
 import { normalize} from '../../utils';
 import { useRoute, useRouter} from 'vitepress';
 import { useNav } from '~/composables/nav'
@@ -14,15 +14,14 @@ const currentActiveMatch = ref<string>('');
 
 watch(
   () => route.path,
-  () => nextTick(() =>  {
+  () => {
     currentActiveMatch.value = expandMenus.find(item => {
       const regex = new RegExp(item.activeMatch)
       return regex.test(normalize(`/${route.data.relativePath}`))
     })?.activeMatch
-  }),
-  { immediate: true }
+  },
+  { flush: 'post' }
 )
-
 </script>
 
 <template>

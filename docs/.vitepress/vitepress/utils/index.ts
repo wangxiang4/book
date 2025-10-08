@@ -1,5 +1,6 @@
 import type { Route } from 'vitepress'
 import { renderTeX } from './tex2svg'
+import mediumZoom from 'medium-zoom';
 
 const hashRE = /#.*$/, extRE = /(index)?\.(md|html)$/;
 
@@ -77,4 +78,9 @@ export function renderMarkup(content: string): string {
     renderTeX(formula.trim()))
 
   return renderedContent
+}
+
+// Initialization clicks the image zoom
+export function initImageZoom () {
+  mediumZoom('.doc-content img:not(a img)', { background: 'var(--bg-color)' })
 }
