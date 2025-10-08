@@ -80,17 +80,16 @@ const beforeChange = () => {
 </script>
 
 <template>
-  <div @click.stop="switchTheme">
-    <ClientOnly>
-      <ElSwitch
-        ref="switchRef"
-        v-model="darkMode"
-        :before-change="beforeChange"
-        :active-action-icon="DarkIcon"
-        :inactive-action-icon="LightIcon"
-      />
-    </ClientOnly>
-  </div>
+  <ClientOnly>
+    <el-switch
+      ref="switchRef"
+      v-model="darkMode"
+      v-bind="$attrs"
+      :before-change="beforeChange"
+      :active-action-icon="DarkIcon"
+      :inactive-action-icon="LightIcon"
+    />
+  </ClientOnly>
 </template>
 
 <style lang="scss" scoped>
