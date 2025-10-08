@@ -17,8 +17,12 @@ export const getCssVarValue = (name: string) => {
   watch(
     () => isDark.value,
     () => {
-      val.value = getComputedStyle(document.documentElement).getPropertyValue(name)
-    }, { flush: 'post' }
+      setTimeout(() => {
+        val.value = getComputedStyle(document.documentElement).getPropertyValue(
+          name
+        )
+      }, 100)
+    }
   )
   return val
 }

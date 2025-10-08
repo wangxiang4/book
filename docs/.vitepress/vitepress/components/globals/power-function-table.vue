@@ -69,8 +69,7 @@
   </el-table>
 </template>
 <script setup lang="ts">
-import { renderMarkup, initImageZoom } from '~/utils'
-import { onMounted } from 'vue'
+import { renderMarkup } from '~/utils'
 
 const tableHeaderRow = {
   label_1: '$\\boldsymbol{y=x^\\alpha}$',
@@ -276,17 +275,4 @@ function renderColumnMap(row: any, prop: string): string {
     return renderMarkup((typeof record === "string" ? record : record.content) || '')
   }
 }
-
-onMounted( () => {
-  const tableEl = document.querySelector('.el-table')
-  if (!tableEl) return
-  const observer = new MutationObserver(() => {
-    const tbody = tableEl.querySelector('.el-table__body-wrapper tbody')
-    if (tbody) {
-      observer.disconnect()
-      initImageZoom()
-    }
-  })
-  observer.observe(tableEl, { childList: true, subtree: true })
-})
 </script>

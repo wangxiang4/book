@@ -9,10 +9,13 @@
   import VPSidebar from './vp-sidebar.vue'
   import VPContent from './vp-content.vue'
   import VPOverlay from './vp-overlay.vue'
-  import { onMounted } from 'vue'
+  import { onMounted, watch } from 'vue'
+  import { initImageZoom } from '~/utils'
+  import { useRoute } from 'vitepress'
 
   const [isSidebarOpen, toggleSidebar] = useToggle(false)
   const { hasSidebar } = useSidebar()
+  const route = useRoute()
 
   useToggleWidgets(isSidebarOpen, () => {
     if (window.outerWidth >= breakpoints.lg) {
@@ -20,7 +23,13 @@
     }
   })
 
-  onMounted(() => {
+  watch(
+    () => route.path,
+    () => initImageZoom()
+  )
+
+  onMounted(async () => {
+    initImageZoom()
     window.addEventListener(
       'click',
       (e) => {

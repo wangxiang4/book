@@ -1,13 +1,11 @@
 <script setup lang="ts">
-import { computed, nextTick, onUpdated, ref, watch } from 'vue'
+import { computed, nextTick, ref, watch } from 'vue'
 import nprogress from 'nprogress'
 import { useData, useRoute } from 'vitepress'
 import { useSidebar } from '../composables/sidebar'
 import VPHeroContent from './vp-hero-content.vue'
 import VPDocContent from './vp-doc-content.vue'
 import VPNotFound from './vp-not-found.vue'
-import { onMounted } from 'vue'
-import { initImageZoom } from '~/utils';
 
 const { frontmatter } = useData()
 const route = useRoute()
@@ -26,15 +24,10 @@ watch(
 
 watch(
   () => route.path,
-  async () => {
+  () => {
     if (shouldUpdateProgress) nprogress.done()
-    initImageZoom()
   }, { flush: 'post' }
 )
-
-onMounted(()=> {
-  initImageZoom()
-})
 </script>
 
 <template>
