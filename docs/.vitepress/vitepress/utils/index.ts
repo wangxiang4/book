@@ -82,5 +82,8 @@ export function renderMarkup(content: string): string {
 
 // Initialization clicks the image zoom
 export function initImageZoom () {
-  mediumZoom('.doc-content img:not(a img)', { background: 'var(--bg-color)' })
+  const zoomImageList= document.querySelectorAll('.doc-content img:not(a img)')
+  if (zoomImageList.length > 0) {
+    mediumZoom(zoomImageList, { background: 'var(--bg-color)' })
+  }
 }
