@@ -75,12 +75,12 @@ const tableHeaderRow = {
   label_1: '$\\boldsymbol{y=x^\\alpha}$',
   label_2: '$\\alpha=\\frac{m}{n}$, $m,n\\in\\mathbb{N_+}$, $m,n$ are coprime',
   label_3: '$\\alpha=-\\frac{m}{n}$, $m,n\\in\\mathbb{N_+}$, $m,n$ are coprime',
-  label_4: '$m$ is odd',
-  label_5: '$n$ is odd',
-  label_6: '$m$ is even',
-  label_7: '$n$ is odd',
-  label_8: '$m$ is odd',
-  label_9: '$n$ is even'
+  label_4: '$m$ is odd,<br/>$n$ is odd',
+  label_5: '$m$ is even,<br/>$n$ is odd',
+  label_6: '$m$ is odd,<br/>$n$ is even',
+  label_7: '$m$ is odd,<br/>$n$ is odd',
+  label_8: '$m$ is even,<br/>$n$ is odd',
+  label_9: '$m$ is odd,<br/>$n$ is even'
 }
 
 const tableData = [
