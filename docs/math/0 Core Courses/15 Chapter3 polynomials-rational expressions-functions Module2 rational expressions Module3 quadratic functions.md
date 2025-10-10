@@ -109,7 +109,6 @@ $
   \begin{array}{ll}
   & \href{/math/0%20Core%20Courses/15%20Chapter3%20polynomials-rational%20expressions-functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_2-properties-of-rational-expressions}{\textsf{properties of rational expressions}} \\
   abx^2+(bp+aq)x+pq=(ax+p)(bx+q) & \href{/math/0%20Core%20Courses/14%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20lower.html#_19-focus-12}{\textsf{cross-multiplication factorization method}} \\
-  x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{definition of square root} \\
   \end{array}
   >$
 

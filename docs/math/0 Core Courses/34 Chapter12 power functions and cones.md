@@ -53,7 +53,7 @@ lang: en-US
          i.e. __$\boldsymbol{f(-x)=-f(x)}$, an odd function__.
          - For example, $\frac{5}{3} \lor \frac{7}{5} \lor \frac{1}{3}$: when __both numerator and denominator are odd__, the function is __necessarily odd__.
        - $\alpha>1$: __rises rapidly__, e.g. $\alpha=\frac{7}{5}=1.4$
-       - $\alpha>1$: __rises slowly__, e.g. $\alpha=\frac{1}{3}\approx0.33$
+       - $0\lt\alpha\lt1$: __rises slowly__, e.g. $\alpha=\frac{1}{3}\approx0.33$
   2. $m$ is even, $n$ is odd
      - Graph of multiple functions  
        <iframe src="https://www.desmos.com/calculator/os3d53cfbj?embed" width="460" height="300" style="border: 1px solid #ccc" />
@@ -167,6 +167,207 @@ $
   a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
   a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
   (a^m)^n=a^{m\cdot n} & \textsf{power of a power rule} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{2}\:$Given the power function $\small y=(m^2-3m+3)x^{m^2-m-2}$, if its graph does not pass through the origin, how many possible values does $\small m$ have $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 0 &
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 3 &
+\textsf{(E)} \: \infty & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+y=x^\alpha \Longrightarrow m^2-3m+3=1 \\
+m^2-3m+2=0 \\
+(m-1)(m-2)=0 \\
+m=1 \lor 2 \\
+y=x^{1-1-2} & \textsf{substitute }m=1 \\
+x^{-2} & x\ne0 \textsf{ (nonzero denominator)} \\
+y=x^{4-2-2} & \textsf{substitute }m=2 \\
+x^0 & x\ne0 \textsf{ (}x^0 = 1\textsf{)} \\
+\end{array}
+$  
+:::  
+![Question power function figure Q-2 solve-1.svg](../../public/math/Core%20Courses/Question%20power%20function%20figure%20Q-2%20solve-1.svg)
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $y=\frac{1}{x^2},y=1$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{3}\:$Given the power functions $\small f(x)=x^\alpha$ and $\small g(x)=x^\beta$, where $\small \alpha\gt\beta\gt0$, how many of the following statements are correct $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(1)} \: \textsf{the graphs of }f(x)\textsf{ and }g(x)\textsf{ both pass through the point }(1, 1) & \\
+\textsf{(2)} \: \textsf{the graphs of }f(x)\textsf{ and }g(x)\textsf{ both pass through the point }(-1, 1) & \\
+\textsf{(3)} \: \textsf{on the interval }[1, +\infty)\textsf{, }f(x)\textsf{ increases faster} & \\
+\textsf{(4)} \: \textsf{on the interval }[1, +\infty)\textsf{, }g(x)\textsf{ increases faster} & \\
+\textsf{(A)} \: 0 & \\
+\textsf{(B)} \: 1 & \\
+\textsf{(C)} \: 2 & \\
+\textsf{(D)} \: 3 & \\
+\textsf{(E)} \: 4 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question power function figure Q-3 solve-1.svg](../../public/math/Core%20Courses/Question%20power%20function%20figure%20Q-3%20solve-1.svg)
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{let }\alpha=2 \quad \beta=1 \\
+  f(2)=x^2 \\
+  g(1)=x \\
+  \textsf{(1)} \: \,✅\;\\
+  \textsf{(2)} \: \,❌\;\\
+  \textsf{(3)} \: \,✅\;\\
+  \textsf{(4)} \: \,❌\;\\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $\textsf{(2)},\textsf{(3)}$, so choose $C$.
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{4}\:$Among the following functions, how many have different domains and ranges $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(1)} \: y=x^\frac{1}{3} & 
+\textsf{(2)} \: y=x^\frac{5}{3} & 
+\textsf{(3)} \: y=x^\frac{1}{6} & 
+\textsf{(4)} \: y=x^\frac{2}{3} & \\
+\end{array}
+$  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 0 &  
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 3 &
+\textsf{(E)} \: 4 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{(1)} \: f(\mathbb{R})=\mathbb{R} \,❌\;\\
+\textsf{(2)} \: f(\mathbb{R})=\mathbb{R} \,❌\;\\
+\textsf{(3)} \: x^\frac{1}{6}=\sqrt[6]{x}\quad f([0, +\infty))=[0, +\infty) \,❌\;\\
+\textsf{(4)} \: f(\mathbb{R})=[0, +\infty) \,✅\;\\
+\end{array}
+$  
+:::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $\textsf{(4)}$, so choose $B$.
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{5}\:$The graph of the power function $\small y=f(x)$ passes through the point $\small (2, \sqrt{2})$. Find the smallest integer in the range of the function $\small y=x-f(x)$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: -1 &
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: -2 &
+\textsf{(D)} \: 2 &
+\textsf{(E)} \: 0 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+y=f(x)=x^\alpha \\
+2^\alpha=\sqrt{2} & \textsf{substitute }(2, \sqrt{2}) \\
+\sqrt{2}=2^\frac{1}{2} \\
+2^\frac{1}{2} \Longrightarrow \alpha=\frac{1}{2} \\
+f(x)=x^\frac{1}{2}=\sqrt{x} \\
+y=x-f(x)=x-\sqrt{x} \\
+\textsf{let }t=\sqrt{x} & \sqrt{x}\ge0\textsf{ (}x\in\mathbb{R_+}\textsf{)} \\
+y=t^2-t \\
+x=-\frac{b}{2a}=\frac{1}{2} \\
+\frac{1}{2}=0.5\in\mathbb{R_+} & \textsf{verify }x\in\mathbb{R_+} \\
+(\frac{1}{2})^2-\frac{1}{2} & \textsf{substitute }x=\frac{1}{2} \\
+\frac{1}{4}-\frac{1}{2}=-\frac{1}{4} \\
+[-\frac{1}{4}, +\infty) \Longrightarrow 0 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $[-\frac{1}{4}, +\infty) \Longrightarrow 0 $, so choose $E$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  y=x^\alpha & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
+  x=-\frac{b}{2a} & \href{/math/0%20Core%20Courses/15%20Chapter3%20polynomials-rational%20expressions-functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#axis-of-symmetry}{\textsf{axis of symmetry}} \\
   \end{array}
   >$
 

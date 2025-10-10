@@ -488,7 +488,7 @@ $
   >$
   \begin{array}{ll}
   (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
-  x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{definition of square root} \\
+  x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{n-th root property} \\
   \end{array}
   >$
 

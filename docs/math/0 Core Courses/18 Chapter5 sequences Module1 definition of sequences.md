@@ -162,7 +162,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  b^c=a \longrightarrow \log_{b}a=c & \href{https://en.wikipedia.org/wiki/Logarithm}{\textsf{definition of logarithm}} \\
+  b^x=y \longrightarrow \log_{b}y=x & \href{https://en.wikipedia.org/wiki/Logarithm}{\textsf{definition of logarithm}} \\
   a_n=
   \begin{cases}
   a_1=S_1 & n=1 \\

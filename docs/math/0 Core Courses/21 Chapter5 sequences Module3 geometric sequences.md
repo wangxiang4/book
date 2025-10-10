@@ -210,7 +210,7 @@ t^2-4t-5=0 \\
 t= 5 \lor -1 & t \ne -1 \\
 t=5 \\
 2^x=5 \\
-x=\log_{2}5 & b^c=a \longrightarrow \log_{b}a=c \\
+x=\log_{2}5 & b^x=y \longrightarrow \log_{b}y=x \\
 \end{array}
 $  
 :::
@@ -227,7 +227,7 @@ $
   \begin{array}{ll}
   ac=b^2 & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_5-focus-1}{\textsf{geometric mean}} \\
   (a-b)^2=a^2-2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
-  b^c=a \longrightarrow \log_{b}a=c & \href{https://en.wikipedia.org/wiki/Logarithm}{\textsf{definition of logarithm}} \\
+  b^x=y \longrightarrow \log_{b}y=x & \href{https://en.wikipedia.org/wiki/Logarithm}{\textsf{definition of logarithm}} \\
   \end{array}
   >$
 
@@ -434,7 +434,7 @@ $
   x_1\cdot x_2=\frac{c}{a} \\
   \end{cases} & \href{/math/0%20Core%20Courses/16%20Chapter4%20equations-inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \frac{a_m}{a_n}=q^{m-n} & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{term ratio formula}} \\
-  x^3=a \longrightarrow x=\sqrt[3]{a} & \textsf{definition of cube root} \\
+  x^5=a \longrightarrow x=\sqrt[5]{a} & \textsf{n-th root property} \\
   a_n=a_{k}q^{n-k} & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_2-general-term}{\textsf{general term formula}}
   \end{array}
   >$
@@ -496,7 +496,7 @@ $
   >$
   \begin{array}{ll}
   \frac{a_m}{a_n}=q^{m-n} & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{term ratio formula}} \\
-  x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{definition of square root} \\
+  x^6=a \longrightarrow x=\pm\sqrt[6]{a} & \textsf{n-th root property} \\
   \end{array}
   >$
 
@@ -679,7 +679,7 @@ $
   \frac{a_{1}(1-q^n)}{1-q}=\frac{a_{1}-a_{n}q}{1-q}=\frac{a_{1}-a_{n+1}}{1-q} & q \ne 1
   \end{cases} & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_3-sum-of-the-first-terms}{\textsf{geometric series sum formula}} \\
   S_n=\frac{a_1}{1-q} \times (1-q^n)=k(1-q^n) & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#properties-of}{\textsf{properties of geometric series sum formula}} \\
-  x^3=a \longrightarrow x=\sqrt[3]{a} & \textsf{definition of cube root} \\
+  x^3=a \longrightarrow x=\sqrt[3]{a} & \textsf{n-th root property} \\
   \end{array}
   >$
 
@@ -774,7 +774,7 @@ $
   >$
   \begin{array}{ll}
   ac=b^2 & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_5-focus-1}{\textsf{geometric mean}} \\
-  x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{definition of square root} \\
+  x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{n-th root property} \\
   \end{array}
   >$
 
@@ -915,7 +915,7 @@ $
   \frac{S_m}{S_n} = \frac{1-q^m}{1-q^n} \\
   S_n, S_{2n}-S_n, S_{3n}-S_{2n},\cdots\\
   \end{cases} & \href{/math/0%20Core%20Courses/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#if-is-the-sum-of-the-first-terms-of-a-geometric-sequence-then-also-form-a-geometric-sequence-with-common-ratio}{\textsf{property of geometric series sum}} \\
-  x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{definition of square root} \\  
+  x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{n-th root property} \\  
   \end{array}
   >$
 
