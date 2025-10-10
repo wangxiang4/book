@@ -11,7 +11,7 @@ lang: en-US
 
 # Module 12-01 Power Function
 
-## 1.Power Function
+## 1.Definition
 - $\boldsymbol{y=x^\alpha}$, whose domain varies depending on the value of $\alpha$.
   However, __regardless of $\boldsymbol{\alpha}$__,
   the function is __always defined on $\boldsymbol{(0, +\infty)}$__,
@@ -119,3 +119,56 @@ lang: en-US
     __the function is neither odd nor even__.  
     Its domain must __satisfy $\boldsymbol{\ge0}$__,
     since [__an even root requires $\boldsymbol{x\ge0}$__](/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#can-be-rewritten-as-an-even-root-form)
+
+## 3.Focus 1
+__The power function__  
+- When dealing with a power function,
+  analyze using __the power function properties table__ along with __its definition__.
+
+### $\fbox{1}\:$Given the power function $\small f(x)=k\cdot x^\alpha$ passes through the point $\small \left(\frac{1}{2}, \frac{\sqrt{2}}{2}\right)$, find $\small k+\alpha$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 2 &
+\textsf{(B)} \: \frac{5}{2} &
+\textsf{(C)} \: \frac{7}{2} &
+\textsf{(D)} \: 1 &
+\textsf{(E)} \: \frac{3}{2} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+y=x^\alpha \Longrightarrow k=1 \\
+f(\frac{1}{2})=\frac{1}{2}^\alpha=\frac{\sqrt{2}}{2} \\
+\frac{\sqrt{2}}{2}\cdot\frac{\sqrt{2}}{\sqrt{2}}=\frac{2}{2\sqrt{2}}=\frac{1}{\sqrt{2}} \\
+\frac{1}{\sqrt{2}}=\frac{1}{2^\frac{1}{2}} & a^\frac{m}{n}=\sqrt[n]{a^m} \\
+\frac{1}{2^\frac{1}{2}}=2^{-\frac{1}{2}} & a^{-n}=\frac{1}{a^n}\\
+2^{-\frac{1}{2}}=(2^{-1})^\frac{1}{2} & (a^m)^n=a^{m\cdot n}\\
+(\frac{1}{2})^\frac{1}{2} \Longrightarrow \alpha=\frac{1}{2} \\
+k+\alpha=1+\frac{1}{2}=\frac{3}{2} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $k+\alpha=\frac{3}{2}$, so choose $E$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  y=x^\alpha & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
+  a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
+  (a^m)^n=a^{m\cdot n} & \textsf{power of a power rule} \\
+  \end{array}
+  >$
+
+  :::
+---
