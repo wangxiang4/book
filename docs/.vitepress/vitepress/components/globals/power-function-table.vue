@@ -231,7 +231,7 @@ const tableData = [
     },
     col_7: {
       type: 'text',
-      content: 'Increasing on $(0, +\\infty)$'
+      content: 'Decreasing on $(0, +\\infty)$'
     }
   },
   {

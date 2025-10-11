@@ -358,7 +358,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(E)}$  
-  > According to the Solution, get $[-\frac{1}{4}, +\infty) \Longrightarrow 0 $, so choose $E$. 
+  > According to the Solution, get $[-\frac{1}{4}, +\infty) \Longrightarrow 0$, so choose $E$. 
 
   :::
 - Formulas used  
@@ -430,4 +430,357 @@ $
   >| Domain ($\boldsymbol{\downarrow}$) | Domain ($\boldsymbol{\downarrow}$) |  Range ($\boldsymbol{\uparrow}$)  |
   >|  Domain ($\boldsymbol{\uparrow}$)  | Domain ($\boldsymbol{\downarrow}$) | Range ($\boldsymbol{\downarrow}$) |
   >| Domain ($\boldsymbol{\downarrow}$) |  Domain ($\boldsymbol{\uparrow}$)  | Range ($\boldsymbol{\downarrow}$) |
+---
+
+### $\fbox{7}\:$Given the power function $\small f(x)=(m^2-4m+4)x^{m^2-2m}$ is increasing on $\small (0, +\infty)$, how many integer values of $\small m$ satisfy this condition $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 0 &
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 3 &
+\textsf{(E)} \: \infty  & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+y=x^\alpha \Longrightarrow m^2-4m+4=1 \\
+m^2-4m+3=0 \\
+(m-1)(m-3)=0 \\
+m=1 \lor 3 \\
+f(x)=x^{1-2} & \textsf{substitute }m=1 \\
+x^{-1}=\frac{1}{x} \\
+\frac{1}{x} \longrightarrow \textsf{decreasing on }(0, +\infty) \\
+f(x)=x^{9-6} & \textsf{substitute }m=3 \\
+x^3 \longrightarrow \textsf{increasing on }(0, +\infty) \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $m=3$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{8}\:$Given the power function $\small f(x)=(8m^2-2m)x^m$ is increasing on $\small (0, +\infty)$, find $\small f(4)$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 6 &
+\textsf{(B)} \: 4 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 3 &
+\textsf{(E)} \: 8 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+y=x^\alpha \Longrightarrow 8m^2-2m=1 \\
+8m^2-2m-1=0 \\
+(2m-1)(4m+1)=0 \\
+m=\frac{1}{2} \lor -\frac{1}{4} \\
+f(x)=x^\frac{1}{2} & \textsf{substitute }m=\frac{1}{2} \\
+x^\frac{1}{2} \longrightarrow \textsf{increasing on }(0, +\infty) \\
+f(x)=x^{-\frac{1}{4}} & \textsf{substitute }m=-\frac{1}{4} \\
+x^{-\frac{1}{4}} \longrightarrow \textsf{decreasing on }(0, +\infty) \\
+f(4)=4^\frac{1}{2}=\sqrt{4}=2 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $f(4)=2$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{9}\:$Given the power function $\small f(x)=(a^2-3a+3)x^{a+1}$ is an even function, how many integer values of $\small a$  satisfy this condition $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 0 &
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 3 &
+\textsf{(E)} \: \infty  & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+y=x^\alpha \Longrightarrow a^2-3a+3=1 \\
+a^2-3a+2=0 \\
+(a-1)(a-2)=0 \\
+a=1 \lor 2 \\
+f(x)=x^2 & \textsf{substitute }a=1 \\
+x^2 \longrightarrow \textsf{even function} \\
+f(x)=x^3 & \textsf{substitute }a=2 \\
+x^3 \longrightarrow \textsf{odd function} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $a=1$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{10}\:$Given $\small (5-2m)^\frac{1}{2} < (m-1)^\frac{1}{2}$, how many prime numbers are included in the range of $\small m \,\mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 0 &
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 3 &
+\textsf{(E)} \: \infty  & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+(5-2m)^\frac{1}{2} < (m-1)^\frac{1}{2} \\
+\sqrt{5-2m}<\sqrt{m-1} \\
+0\le5-2m\lt m-1 & \textsf{domains }[0, +\infty) \\
+5-2m\lt m-1 \\
+6\lt3m \\
+2\lt m \\
+0\le5-2m \\
+2m\le5 \\
+m\le\frac{5}{2} \\
+\left(2\lt m\right) \cap \left(m\le\frac{5}{2}\right) \\
+2\lt m\le\frac{5}{2} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $2\lt m\le\frac{5}{2}$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{11}\:$Given the power function $\small y=(m^2-m-1)x^{m^2-2m-3}$, which is not an even function, and $\small m$ is an integer, if the function is decreasing on $\small (0, +\infty)$, find $y(2)$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \frac{1}{4} &
+\textsf{(B)} \: \frac{1}{8} &
+\textsf{(C)} \: \frac{1}{16} &
+\textsf{(D)} \: 4 &
+\textsf{(E)} \: 8 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+y=x^\alpha \Longrightarrow m^2-m-1=1 \\
+m^2-m-2=0 \\
+(m+1)(m-2)=0 \\
+m=-1 \lor 2 \\
+f(x)=x^{1+2-3} & \textsf{substitute }m=-1 \\
+x^0 \longrightarrow
+\begin{cases}
+\textsf{even function} \\
+x\ne0 \textsf{ (}x^0 = 1\textsf{)} \\
+\end{cases} \\
+f(x)=x^{4-4-3} & \textsf{substitute }m=2 \\
+x^{-3} \longrightarrow 
+\begin{cases}
+\textsf{odd function} \\
+\textsf{decreasing on }(0, +\infty) \\
+\end{cases} \\  
+y(2)=2^{-3}=\frac{1}{2^3}=\frac{1}{8} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $y(2)=\frac{1}{8}$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{12}\:$Given the power function $\small y=x^{m-2}$ ($\small m\in\mathbb{N}$), its graph does not intersect either the x-axis or the y-axis, and it is symmetric about the y-axis. How many possible values can $\small m$ take $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 0 &
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 3 &
+\textsf{(E)} \: \infty  & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{no intercepts} \Longrightarrow m-2\le0 \\
+m\le2 \\
+\left\{ 0,1,2 \right\} & m\in\mathbb{N} \\
+y=x^{0-2} & \textsf{substitute }m=0 \\
+x^{-2} \longrightarrow \textsf{y-axis symmetric} \\
+y=x^{1-2} & \textsf{substitute }m=1 \\
+x^{-1} \longrightarrow \textsf{origin symmetric} \\
+y=x^{2-2} & \textsf{substitute }m=2 \\
+x^0 \longrightarrow
+\begin{cases}
+\textsf{y-axis symmetric} \\
+x\ne0 \textsf{ (}x^0 = 1\textsf{)} \\
+\end{cases} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $m=0 \lor 2$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  \end{array}
+  >$
+
+  :::
+- Intercepts of the power function $y=x^\alpha$  
+  ::: wrap
+  > - When $\boldsymbol{\alpha>0}$: it intersects both the x-axis and y-axis at $(0, 0)$.
+  > - When $\boldsymbol{\alpha\le0}$: it does not intersect either the x-axis or the y-axis.
+
+  :::
+---
+
+### $\fbox{13}\:$Given that the point $\small (\sqrt{2}, 2)$ lies on the graph of the power function $\small f(x)$, and the point $\small (-2, \frac{1}{4})$ lies on the graph of the power function $\small g(x)$, find the maximum value of $\small \min(f(x), g(x))$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 4 &
+\textsf{(B)} \: 3 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 1 &
+\textsf{(E)} \: \nexists  & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+f(x)=x^\alpha \\
+(\sqrt{2})^\alpha=2 & \textsf{substitute }(\sqrt{2}, 2) \\
+(2^\frac{1}{2})^\alpha=2^1 & a^\frac{m}{n}=\sqrt[n]{a^m} \\
+\alpha \Longrightarrow \frac{2}{1}=2 \\
+g(x)=x^\beta \\
+(-2)^\beta=\frac{1}{4} & \textsf{substitute }(-2, \frac{1}{4}) \\
+\frac{1}{(-2)^\beta}=\frac{1}{4} & a^{-n}=\frac{1}{a^n} \\
+\beta \Longrightarrow -2 \\
+\min(x^2, x^{-2})_{\textsf{max}}=1 \\
+\end{array}
+$  
+:::  
+![Question power function figure Q-13 solve-1.svg](../../public/math/Core%20Courses/Question%20power%20function%20figure%20Q-13%20solve-1.svg)
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $\min(x^2, x^{-2})_{\textsf{max}}=1$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
+  (a^m)^n=a^{m\cdot n} & \textsf{power of a power rule} \\
+  a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
+  \end{array}
+  >$
+
+  :::
 ---
