@@ -444,7 +444,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  q \in \mathbb{Z} & \textsf{monotonically increasing} \\
+  q \in \mathbb{Z} & |a_n|\textsf{ monotonically increasing} \\
   \end{array}
   >$
 

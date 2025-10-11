@@ -344,10 +344,10 @@ y=f(x)=x^\alpha \\
 2^\frac{1}{2} \Longrightarrow \alpha=\frac{1}{2} \\
 f(x)=x^\frac{1}{2}=\sqrt{x} \\
 y=x-f(x)=x-\sqrt{x} \\
-\textsf{let }t=\sqrt{x} & \sqrt{x}\ge0\textsf{ (}x\in\mathbb{R_+}\textsf{)} \\
+\textsf{let }t=\sqrt{x} & x\ge0 \\
 y=t^2-t \\
 x=-\frac{b}{2a}=\frac{1}{2} \\
-\frac{1}{2}=0.5\in\mathbb{R_+} & \textsf{verify }x\in\mathbb{R_+} \\
+\frac{1}{2}=0.5\ge0 & \textsf{verify }x\ge0 \\
 (\frac{1}{2})^2-\frac{1}{2} & \textsf{substitute }x=\frac{1}{2} \\
 \frac{1}{4}-\frac{1}{2}=-\frac{1}{4} \\
 [-\frac{1}{4}, +\infty) \Longrightarrow 0 \\
@@ -372,4 +372,62 @@ $
   >$
 
   :::
+---
+
+### $\fbox{6}\:$Given the function $\small f(x)=(x^2-4x+3)^\frac{3}{2}$, find the smallest integer in its increasing interval.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 3 &
+\textsf{(B)} \: 4 &
+\textsf{(C)} \: 5 &
+\textsf{(D)} \: 6 &
+\textsf{(E)} \: \nexists  & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+g(x)=x^2-4x+3 \\
+f(x)=g(x)^\frac{3}{2}=\sqrt{g(x)^3} & g(x)\ge0 \\
+x^2-4x+3\ge0 \\
+x^2-4x+3\Rightarrow(x-1)(x-3)=0 \\
+x=1 \lor 3 \\
+\textsf{parabola analysis} \\
+1>0\textsf{:}\, \textsf{opens upward} \\
+\textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=1\textsf{ and }x_2=3 \\
+\textsf{range}\textsf{:}\, f(x)\ge0\textsf{ outside the two roots} \\
+f(x)\ge0 \longrightarrow x\le1 \lor x\ge3 \\
+\textsf{increasing interval}=x\ge3 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $x\ge3$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
+  \end{array}
+  >$
+
+  :::
+- Monotonicity of the composite function $y=f(g(x))$  
+  > <br/>
+  >
+  >|        $\boldsymbol{g(x)}$         |        $\boldsymbol{f(x)}$         |         $\boldsymbol{y}$          |
+  >|:----------------------------------:|:----------------------------------:|:---------------------------------:|
+  >|  Domain ($\boldsymbol{\uparrow}$)  |  Domain ($\boldsymbol{\uparrow}$)  |  Range ($\boldsymbol{\uparrow}$)  |
+  >| Domain ($\boldsymbol{\downarrow}$) | Domain ($\boldsymbol{\downarrow}$) |  Range ($\boldsymbol{\uparrow}$)  |
+  >|  Domain ($\boldsymbol{\uparrow}$)  | Domain ($\boldsymbol{\downarrow}$) | Range ($\boldsymbol{\downarrow}$) |
+  >| Domain ($\boldsymbol{\downarrow}$) |  Domain ($\boldsymbol{\uparrow}$)  | Range ($\boldsymbol{\downarrow}$) |
 ---
