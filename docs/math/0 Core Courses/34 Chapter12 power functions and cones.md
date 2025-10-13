@@ -9,7 +9,7 @@ lang: en-US
 | Dailymotion | [Watch](https://www.dailymotion.com/video/x9gx65i?playlist=x9h6d2)                           |                                                                   | [Exercise answer](../../public/math/Core%20Courses/pdf/34%20Exercise%20answers.pdf) |
 | Rumble      | [Watch](https://rumble.com/v6s95j1-35-chapter12-power-function-and-cone.html)                |                                                                   |
 
-# Module 12-01 Power Function
+# Module 12-01 Power Functions
 
 ## 1.Definition
 - $\boldsymbol{y=x^\alpha}$, whose domain varies depending on the value of $\alpha$.
@@ -121,9 +121,9 @@ lang: en-US
     since [__an even root requires $\boldsymbol{x\ge0}$__](/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#can-be-rewritten-as-an-even-root-form)
 
 ## 3.Focus 1
-__The power function__  
-- When dealing with a power function,
-  analyze using __the power function properties table__ along with __its definition__.
+__The Power functions__  
+- When dealing with power functions,
+  analyze them using __the properties table of power functions__ and __their definition__.
 
 ### $\fbox{1}\:$Given the power function $\small f(x)=k\cdot x^\alpha$ passes through the point $\small \left(\frac{1}{2}, \frac{\sqrt{2}}{2}\right)$, find $\small k+\alpha$.
 ::: wrap  
@@ -784,3 +784,139 @@ $
 
   :::
 ---
+
+# Module 12-02 Cones
+
+## 1.Cone
+### $\textcolor{#1E3A5F}{\fbox{1}}\:$Formulas for a cone
+- Geometric diagram of a cone (development view): __the height is $\boldsymbol{h}$__,
+  __the base radius is $\boldsymbol{r}$__,
+  __the slant height is $\boldsymbol{l}$__,
+  and __the axial cross-section is an isosceles triangle__.  
+  ![Cone development geometric diagram.svg](../../public/math/Core%20Courses/Cone%20development%20geometric%20diagram.svg)  
+1. __Slant height of a cone__: $l=\sqrt{h^2+r^2}$  
+   ::: wrap  
+   $
+   \begin{array}{ll}
+   c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \textsf{pythagorean theorem} \\
+   \end{array}
+   $  
+   :::
+2. __Central angle of the developed sector__: $\theta=\frac{2\pi r}{l}$  
+   ::: wrap  
+   $
+   \begin{array}{ll}
+   \href{https://www.mathsisfun.com/geometry/radians.html}{\textsf{radian measure}}=\frac{\textsf{arc length}}{\textsf{radius}} \\
+   \end{array}
+   $  
+   :::
+3. __Lateral surface area of a cone__: $S_{\textsf{lateral}}=\pi rl$  
+   ::: wrap  
+   $
+   \begin{array}{ll}
+   S=\frac{1}{2}ah & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
+   S_{\textsf{lateral}}=\frac{1}{2}\cdot 2\pi r\cdot l\\
+   \end{array}
+   $  
+   :::
+4. __Total surface area of a cone__: $S_{\textsf{total}}=\pi r(l+r)$  
+   ::: wrap  
+   $
+   \begin{array}{ll}
+   S_{\textsf{total}}=S_{\textsf{lateral}}+S_{\textsf{base}}=\pi rl+\pi r^2 \\
+   \end{array}
+   $  
+   :::
+5. __Volume of a cone__: $V=\frac{1}{3}\pi r^2h$  
+   ::: wrap  
+   $
+   \begin{array}{ll}
+   V=\pi r^2h & \href{/math/0%20Core%20Courses/29%20Chapter8%20solid%20geometry.html#volume}{\textsf{cylinder volume formula}} \\
+   V=\frac{1}{3} \cdot \pi r^2h \\
+   \end{array}
+   $  
+   :::
+6. __Properties of a cross-section parallel to the base__: $\frac{S_1}{S}=\frac{h_1^2}{h^2}, \frac{V_1}{V}=\frac{h_1^3}{h^3}$  
+   ![Cone cross-sections similarity properties.svg](../../public/math/Core%20Courses/Cone%20cross-sections%20similarity%20properties.svg)  
+   ::: wrap  
+   $
+   \begin{array}{ll}
+   \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Courses/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#in-similar-triangles-or-similar-figures-the-ratios-of-corresponding-sides-are-equal-called-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
+   \frac{h_1}{h}=\frac{r_1}{r} \\
+   \frac{S_1}{S}=\frac{r_1^2}{r^2}=\frac{h_1^2}{h^2} & \href{https://www.mathsisfun.com/geometry/area.html}{\textsf{what is area}}\\
+   \frac{V_1}{V}=\frac{r_1^3}{r^3}=\frac{h_1^3}{h^3} \\
+   \end{array}
+   $  
+   :::
+
+### $\textcolor{#1E3A5F}{\fbox{2}}\:$Special types of cones
+1. __Cone with an equilateral triangle as its axial cross-section__: $l=2r, h=\sqrt{3}r, \theta=\pi$  
+   ![Cone axial cross-section equilateral triangle.svg](../../public/math/Core%20Courses/Cone%20axial%20cross-section%20equilateral%20triangle.svg)  
+   ::: wrap  
+   $
+   \begin{array}{ll}
+   l^2=h^2+r^2 &  \textsf{pythagorean theorem} \\
+   h^2=4r^2-r^2=3r^2 & l=2r \\
+   h=\sqrt{3}r \\
+   \theta=\frac{2\pi r}{l}=\frac{2\pi r}{2r}=\pi \\
+   \end{array}
+   $  
+   :::
+2. __Cone with an isosceles right triangle as its axial cross-section__: $h=r, l=\sqrt{2}r, \theta=\sqrt{2}\pi$  
+   ![Cone axial cross-section isosceles right triangle.svg](../../public/math/Core%20Courses/Cone%20axial%20cross-section%20isosceles%20right%20triangle.svg)  
+   ::: wrap  
+   $
+   \begin{array}{ll}
+   h=r \\
+   l=\sqrt{h^2+r^2}=\sqrt{r^2+r^2}=\sqrt{2}r \\
+   \theta=\frac{2\pi r}{l}=\frac{2\pi r}{\sqrt{2}r}=\frac{2\pi}{\sqrt{2}} \\
+   \frac{2\pi}{\sqrt{2}}\cdot\frac{\sqrt{2}}{\sqrt{2}}=\frac{2\sqrt{2}\pi}{2}=\sqrt{2}\pi \\
+   \end{array}
+   $  
+   :::
+3. __Cone whose developed sector has a central angle of $\boldsymbol{120^{\circ}}$__: $l=3r, h=2\sqrt{2}r$  
+   ::: wrap  
+   $
+   \begin{array}{ll}
+   120^\circ=\frac{120\pi}{180}=\frac{2\pi}{3} & \textsf{deg} \rightarrow \textsf{rad} \\
+   \frac{2\pi}{3}=\frac{2\pi}{3}\cdot\frac{180}{\pi}=\frac{360}{3}=120^\circ & \textsf{rad} \rightarrow \textsf{deg}\\
+   \theta=\frac{2\pi r}{l}=\frac{2\pi}{3} \\
+   6\pi r=2\pi l \\
+   l=3r \\
+   l^2=h^2+r^2 &  \textsf{pythagorean theorem} \\
+   h^2=9r^2-r^2=8r^2 \\
+   h=\sqrt{8}r=\sqrt{4}\cdot\sqrt{2}r=2\sqrt{2}r \\
+   \end{array}
+   $  
+   :::
+4. __Cone whose developed sector has a central angle of $\boldsymbol{90^{\circ}}$__: $l=4r, h=\sqrt{15}r$  
+   ::: wrap  
+   $
+   \begin{array}{ll}
+   90^\circ=\frac{90\pi}{180}=\frac{\pi}{2} & \href{https://www.mathsisfun.com/geometry/radians.html}{\textsf{deg} \rightarrow \textsf{rad}} \\
+   \theta=\frac{2\pi r}{l}=\frac{\pi}{2} \\
+   4\pi r=\pi l \\
+   l=4r \\
+   l^2=h^2+r^2 &  \textsf{pythagorean theorem} \\
+   h^2=16r^2-r^2=15r^2 \\
+   h=\sqrt{15}r \\
+   \end{array}
+   $  
+   :::
+- Note: when __a plane parallel to the base__ cuts a cone, it forms __a smaller cone__ and __a frustum__.
+  ![Cone cross-section forms frustum and smaller cone.svg](../../public/math/Core%20Courses/Cone%20cross-section%20forms%20frustum%20and%20smaller%20cone.svg)  
+
+## 2.Pyramid
+### $\textcolor{#1E3A5F}{\fbox{1}}\:$Triangular pyramid
+- todo
+
+### $\textcolor{#1E3A5F}{\fbox{2}}\:$Quadrangular (square) pyramid
+- todo
+
+
+## 3.Inscribed and Circumscribed Spheres
+### $\textcolor{#1E3A5F}{\fbox{1}}\:$Inscribed sphere of a cone
+- todo
+
+### $\textcolor{#1E3A5F}{\fbox{2}}\:$Circumscribed sphere of a cone
+- todo
