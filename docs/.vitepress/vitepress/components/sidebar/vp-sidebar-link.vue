@@ -39,7 +39,7 @@ function handleLink(link: string) {
 button {
   all: unset;
   cursor: pointer;
-  display: inline;
+  display: block;
   color: inherit;
   text-decoration: none;
   background: none;

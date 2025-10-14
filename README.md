@@ -1,6 +1,6 @@
 ## <img src="docs/public/images/book.png" width="24" /> Introduce
 
-### Free open source books for learners of Management admission test and Java
+### Free and open-source books for learners studying the core fundamental skills of philosophy and Java.
 
 ## 🌀 Quickly
 ```
