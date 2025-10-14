@@ -819,7 +819,7 @@ $
    \end{array}
    $  
    :::
-4. __Total surface area of a cone__: $S_{\textsf{total}}=\pi r(l+r)$  
+4. ###### __Total surface area of a cone__: $S_{\textsf{total}}=\pi r(l+r)$  
    ::: wrap  
    $
    \begin{array}{ll}
@@ -827,7 +827,7 @@ $
    \end{array}
    $  
    :::
-5. __Volume of a cone__: $V=\frac{1}{3}\pi r^2h$  
+5. ###### __Volume of a cone__: $V=\frac{1}{3}\pi r^2h$  
    ::: wrap  
    $
    \begin{array}{ll}
@@ -908,15 +908,56 @@ $
 
 ## 2.Pyramid
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Triangular pyramid
-- todo
+- A pyramid with __a triangular base__.
+- A regular triangular pyramid is a pyramid whose base is __an equilateral triangle__ and
+  whose three lateral faces are __congruent isosceles triangles__.  
+  ![Regular triangular pyramid.svg](../../public/math/Core%20Courses/Regular%20triangular%20pyramid.svg)
+- If all faces are __congruent equilateral triangles__, it is called __a regular tetrahedron__.  
+  ![Regular tetrahedron.svg](../../public/math/Core%20Courses/Regular%20tetrahedron.svg)  
 
-### $\textcolor{#1E3A5F}{\fbox{2}}\:$Quadrangular (square) pyramid
-- todo
-
+### $\textcolor{#1E3A5F}{\fbox{2}}\:$Quadrangular pyramid
+- A pyramid with __a quadrilateral base__.
+- A quadrangular pyramid with __a square base__ is called __a regular square pyramid__.  
+  ![Regular square pyramid.svg](../../public/math/Core%20Courses/Regular%20square%20pyramid.svg)  
 
 ## 3.Inscribed and Circumscribed Spheres
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Inscribed sphere of a cone
-- todo
-
+![Cone inscribed sphere.svg](../../public/math/Core%20Courses/Cone%20inscribed%20sphere.svg)  
+- The inscribed circle lies within __the triangular axial cross-section of the cone__.
+- __Inscribed circle radius formula__: $\boldsymbol{r=\frac{2S}{c}}$ (where $S$ is __the area of the axial cross-section triangle__, and $c$ is __its perimeter__)  
+  - __Formula derivation__  
+    ![Cone inscribed circle radius derivation.svg](../../public/math/Core%20Courses/Cone%20inscribed%20circle%20radius%20derivation.svg)  
+    ::: wrap  
+    $
+    \begin{array}{ll}
+    S=\frac{1}{2}ah & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
+    S=\frac{1}{2}(ar+br+cr)=\frac{r}{2}(a+b+c) \\
+    2S=r(a+b+c) \\
+    r=\frac{2S}{(a+b+c)} \\
+    \textsf{inradii of other special triangles} \\
+    r=
+    \begin{cases}
+    \frac{a+b-c}{2} & \textsf{right triangle} \\
+    \frac{\sqrt{3}a}{6} & \textsf{equilateral triangle} \\
+    \end{cases} \\
+    \end{array}
+    $  
+    :::
+- __Inscribed sphere radius formula__: $\boldsymbol{r=\frac{3V}{S_{\textsf{total}}}}$ (where $V$ is __the volume of the cone__, and $S_{\textsf{total}}$ is __its total surface area__)  
+  - __Formula derivation__  
+    ![Cone inscribed sphere radius derivation.svg](../../public/math/Core%20Courses/Cone%20inscribed%20sphere%20radius%20derivation.svg)  
+    ::: wrap  
+    $
+    \begin{array}{ll}
+    V=\frac{1}{3} \cdot \pi r^2h & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+    V=\frac{1}{3}(S_1r+S_2r+S_3r) & \href{https://www.mathsisfun.com/geometry/volume.html}{\textsf{what is volume}} \\
+    V=\frac{r}{3}(S_1+S_2+S_3) \\
+    3V=r(S_1+S_2+S_3) \\
+    r=\frac{3V}{(S_1+S_2+S_3)} \\
+    S_{\textsf{total}}=(S_1+S_2+S_3)=\pi r(l+r) & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#total-surface-area-of-a-cone}{\textsf{cone total surface area formula}}\\
+    \end{array}
+    $  
+    :::
+  
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Circumscribed sphere of a cone
 - todo
