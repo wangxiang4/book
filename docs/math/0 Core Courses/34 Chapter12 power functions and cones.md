@@ -794,7 +794,7 @@ $
   __the slant height is $\boldsymbol{l}$__,
   and __the axial cross-section is an isosceles triangle__.  
   ![Cone development geometric diagram.svg](../../public/math/Core%20Courses/Cone%20development%20geometric%20diagram.svg)  
-1. __Slant height of a cone__: $l=\sqrt{h^2+r^2}$  
+1. ###### __Slant height of a cone__: $l=\sqrt{h^2+r^2}$  
    ::: wrap  
    $
    \begin{array}{ll}
@@ -960,4 +960,20 @@ $
     :::
   
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Circumscribed sphere of a cone
-- todo
+![Cone circumscribed sphere.svg](../../public/math/Core%20Courses/Cone%20circumscribed%20sphere.svg)  
+- The circumscribed circle lies outside __the triangular axial cross-section of the cone__.
+- __Circumscribed sphere radius formula__: $\boldsymbol{R=\frac{r^2+h^2}{2h}=\frac{l^2}{2h}}$
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \textsf{pythagorean theorem} \\
+  r^2+(h-R)^2=R^2 \\
+  r^2+h^2-2hR+R^2=R^2 \\
+  r^2+h^2-2hR=0 \\
+  2hR=r^2+h^2 \\
+  R=\frac{r^2+h^2}{2h} \\
+  l=\sqrt{h^2+r^2} & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#slant-height-of-a-cone}{\textsf{cone slant height}} \\
+  \frac{r^2+h^2}{2h}=\frac{l^2}{2h} \\
+  \end{array}
+  $  
+  :::
