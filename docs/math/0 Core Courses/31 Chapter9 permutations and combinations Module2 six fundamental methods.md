@@ -720,8 +720,8 @@ $
 
   :::
 - Additionally, if the problem is about non-negative integers (i.e., __object can be empty__) 
-  > ![Question six fundamental methods figure Q-22 solve-1.svg](../../public/math/Core%20Courses/Question%20six%20fundamental%20methods%20figure%20Q-22%20solve-1.svg)
   ::: wrap  
+  > ![Question six fundamental methods figure Q-22 solve-1.svg](../../public/math/Core%20Courses/Question%20six%20fundamental%20methods%20figure%20Q-22%20solve-1.svg)  
   >$
   \begin{array}{ll}
   \underbrace{x_1}_{\ge0}+\underbrace{x_2}_{\ge0}+\underbrace{x_3}_{\ge0}+\underbrace{x_4}_{\ge0}=12 \\

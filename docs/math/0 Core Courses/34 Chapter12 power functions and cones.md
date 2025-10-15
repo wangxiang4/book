@@ -200,7 +200,7 @@ x^0 & x\ne0 \textsf{ (}x^0 = 1\textsf{)} \\
 \end{array}
 $  
 :::  
-![Question power function figure Q-2 solve-1.svg](../../public/math/Core%20Courses/Question%20power%20function%20figure%20Q-2%20solve-1.svg)
+![Question power functions figure Q-2 solve-1.svg](../../public/math/Core%20Courses/Question%20power%20functions%20figure%20Q-2%20solve-1.svg)  
 #### Conclusion
 - Derived Solution  
   ::: wrap
@@ -239,7 +239,7 @@ $
 :::
 #### Solution
 - Show known conditions  
-  ![Question power function figure Q-3 solve-1.svg](../../public/math/Core%20Courses/Question%20power%20function%20figure%20Q-3%20solve-1.svg)
+  ![Question power functions figure Q-3 solve-1.svg](../../public/math/Core%20Courses/Question%20power%20functions%20figure%20Q-3%20solve-1.svg)  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -382,7 +382,7 @@ $
 \textsf{(B)} \: 4 &
 \textsf{(C)} \: 5 &
 \textsf{(D)} \: 6 &
-\textsf{(E)} \: \nexists  & \\
+\textsf{(E)} \: \nexists & \\
 \end{array}
 $  
 :::
@@ -440,7 +440,7 @@ $
 \textsf{(B)} \: 1 &
 \textsf{(C)} \: 2 &
 \textsf{(D)} \: 3 &
-\textsf{(E)} \: \infty  & \\
+\textsf{(E)} \: \infty & \\
 \end{array}
 $  
 :::
@@ -536,7 +536,7 @@ $
 \textsf{(B)} \: 1 &
 \textsf{(C)} \: 2 &
 \textsf{(D)} \: 3 &
-\textsf{(E)} \: \infty  & \\
+\textsf{(E)} \: \infty & \\
 \end{array}
 $  
 :::
@@ -582,7 +582,7 @@ $
 \textsf{(B)} \: 1 &
 \textsf{(C)} \: 2 &
 \textsf{(D)} \: 3 &
-\textsf{(E)} \: \infty  & \\
+\textsf{(E)} \: \infty & \\
 \end{array}
 $  
 :::
@@ -687,7 +687,7 @@ $
 \textsf{(B)} \: 1 &
 \textsf{(C)} \: 2 &
 \textsf{(D)} \: 3 &
-\textsf{(E)} \: \infty  & \\
+\textsf{(E)} \: \infty & \\
 \end{array}
 $  
 :::
@@ -743,7 +743,7 @@ $
 \textsf{(B)} \: 3 &
 \textsf{(C)} \: 2 &
 \textsf{(D)} \: 1 &
-\textsf{(E)} \: \nexists  & \\
+\textsf{(E)} \: \nexists & \\
 \end{array}
 $  
 :::
@@ -763,7 +763,7 @@ g(x)=x^\beta \\
 \end{array}
 $  
 :::  
-![Question power function figure Q-13 solve-1.svg](../../public/math/Core%20Courses/Question%20power%20function%20figure%20Q-13%20solve-1.svg)
+![Question power functions figure Q-13 solve-1.svg](../../public/math/Core%20Courses/Question%20power%20functions%20figure%20Q-13%20solve-1.svg)  
 #### Conclusion
 - Derived Solution  
   ::: wrap
@@ -802,7 +802,7 @@ $
    \end{array}
    $  
    :::
-2. __Central angle of the developed sector__: $\theta=\frac{2\pi r}{l}$  
+2. ###### __Central angle of the developed sector__: $\theta=\frac{2\pi r}{l}$  
    ::: wrap  
    $
    \begin{array}{ll}
@@ -810,7 +810,7 @@ $
    \end{array}
    $  
    :::
-3. __Lateral surface area of a cone__: $S_{\textsf{lateral}}=\pi rl$  
+3. ###### __Lateral surface area of a cone__: $S_{\textsf{lateral}}=\pi rl$  
    ::: wrap  
    $
    \begin{array}{ll}
@@ -879,7 +879,7 @@ $
    $
    \begin{array}{ll}
    120^\circ=\frac{120\pi}{180}=\frac{2\pi}{3} & \textsf{deg} \rightarrow \textsf{rad} \\
-   \frac{2\pi}{3}=\frac{2\pi}{3}\cdot\frac{180}{\pi}=\frac{360}{3}=120^\circ & \textsf{rad} \rightarrow \textsf{deg}\\
+   \frac{2\pi}{3}=\frac{2\cdot180}{3}=\frac{360}{3}=120^\circ & \textsf{rad} \rightarrow \textsf{deg}\\
    \theta=\frac{2\pi r}{l}=\frac{2\pi}{3} \\
    6\pi r=2\pi l \\
    l=3r \\
@@ -977,3 +977,204 @@ $
   \end{array}
   $  
   :::
+
+
+## 4.Focus 1
+__The cone__  
+- When dealing with a cone, first analyze __its shape__, and then apply __the cone formulas__.
+
+### $\fbox{1}\:$Given that the radius of the base of a cone is $\small 6$ and its height is $\small 8$, find the lateral surface area of the cone.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 48 &
+\textsf{(B)} \: 48\pi &
+\textsf{(C)} \: 120\pi &
+\textsf{(D)} \: 60\pi &
+\textsf{(E)} \: 90\pi & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question cones figure Q-1 solve-1.svg](../../public/math/Core%20Courses/Question%20cones%20figure%20Q-1%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  l=\sqrt{8^2+6^2}=\sqrt{100}=10 \\
+  S_{\textsf{lateral}}=\pi\cdot6\cdot10=60\pi \\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $S_{\textsf{lateral}}=60\pi$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  l=\sqrt{h^2+r^2} & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#slant-height-of-a-cone}{\textsf{cone slant height}} \\
+  S_{\textsf{lateral}}=\pi rl & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#lateral-surface-area-of-a-cone}{\textsf{cone lateral surface area formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{2}\:$A sector with a central angle of $\small 90^\circ$ is rolled up to form the lateral surface of a cone. What is the relationship between the cone's lateral surface area $\small S_{\textsf{lateral}}$ and its base area $\small S_{\textsf{base}} \,\mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: S_{\textsf{lateral}}=S_{\textsf{base}} &
+\textsf{(B)} \: S_{\textsf{lateral}}=2S_{\textsf{base}} &
+\textsf{(C)} \: S_{\textsf{lateral}}=3S_{\textsf{base}} & \\
+\textsf{(D)} \: S_{\textsf{lateral}}=3.5S_{\textsf{base}} &
+\textsf{(E)} \: S_{\textsf{lateral}}=4S_{\textsf{base}} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+90^\circ=\frac{90\pi}{180}=\frac{\pi}{2} \\
+\theta=\frac{2\pi r}{l}=\frac{\pi}{2} \\
+4\pi r=\pi l \\
+l=4r \\
+\frac{S_{\textsf{lateral}}}{S_{\textsf{base}}}=\frac{\pi rl}{\pi r^2}=\frac{l}{r} \\
+\frac{4r}{r}=4 & \textsf{substitute }l \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $\frac{S_{\textsf{lateral}}}{S_{\textsf{base}}}=4$, so choose $E$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \theta=\frac{2\pi r}{l} & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#central-angle-of-the-developed-sector}{\textsf{cone sector central angle formula}} \\
+  S_{\textsf{lateral}}=\pi rl & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#lateral-surface-area-of-a-cone}{\textsf{cone lateral surface area formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{3}\:$Figure 12–1-1, a sector and a circle with radius $\small 1$ are cut from a square metal sheet, and are then used to form a cone as shown in Figure 12–1-2. What is the height of the cone $\small \mathpunct{?}$.
+![Question cones figure 12-1.svg](../../public/math/Core%20Courses/Question%20cones%20figure%2012-1.svg)  
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \sqrt{17} &
+\textsf{(B)} \: 4 &
+\textsf{(C)} \: \sqrt{15} &
+\textsf{(D)} \: \sqrt{3} &
+\textsf{(E)} \: 3.5 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question cones figure 12-1 solve-1.svg](../../public/math/Core%20Courses/Question%20cones%20figure%2012-1%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  r=1 \\
+  90^\circ=\frac{90\pi}{180}=\frac{\pi}{2} \\
+  \theta=\frac{2\pi r}{l}=\frac{\pi}{2} \\
+  4\pi r=\pi l \\
+  l=4r \\
+  l=4 \\
+  l^2=h^2+r^2 \\
+  h^2=l^2-r^2 \\
+  h=\sqrt{l^2-r^2}=\sqrt{4^2-1^2}=\sqrt{15} \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $h=\sqrt{15}$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \theta=\frac{2\pi r}{l} & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#central-angle-of-the-developed-sector}{\textsf{cone sector central angle formula}} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \textsf{pythagorean theorem} \\
+  \end{array}
+  >$
+
+  :::
+- Additionally, if the problem is to find the diagonal of the square metal sheet  
+  ::: wrap
+  > ![Question cones figure 12-1 solve-2.svg](../../public/math/Core%20Courses/Question%20cones%20figure%2012-1%20solve-2.svg)  
+  >$
+  \begin{array}{ll}
+  r=1 \\
+  90^\circ=\frac{90\pi}{180}=\frac{\pi}{2} \\
+  \theta=\frac{2\pi r}{l}=\frac{\pi}{2} \\
+  4\pi r=\pi l \\
+  l=4r \\
+  \textsf{line}1=l=4r \\
+  \textsf{line}2=r \\
+  \textsf{line}3=\sqrt{r^2+r^2}=\sqrt{2r^2}=\sqrt{2}r \\
+  \textsf{diagonal}=\textsf{line}1+\textsf{line}2+\textsf{line}3=4r+r+\sqrt{2}r=(\sqrt{2}+5)r
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{4}\:$Mike needs to make a conical birthday hat with a base radius of $\small 9$ cm and a height of $\small 12$ cm using a sector of paper. What is the central angle of the sector $\small \mathpunct{?}$.
+![Question cones figure 12-2.svg](../../public/math/Core%20Courses/Question%20cones%20figure%2012-2.svg)  
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 150^\circ &
+\textsf{(B)} \: 180^\circ &
+\textsf{(C)} \: 216^\circ &
+\textsf{(D)} \: 240^\circ &
+\textsf{(E)} \: 270^\circ & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+(9,12,15) \Longrightarrow l=15 \\
+\theta=\frac{2\pi r}{l}=\frac{2\pi\cdot9}{15}=\frac{18\pi}{15}=\frac{6\pi}{5} \\
+\frac{6\pi}{5}=\frac{6\cdot180}{5}=\frac{1080}{5}=216^\circ \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $\theta=216^\circ$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  (9,12,15) & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  \theta=\frac{2\pi r}{l} & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#central-angle-of-the-developed-sector}{\textsf{cone sector central angle formula}} \\
+  \end{array}
+  >$
+
+  :::
+---

@@ -279,7 +279,7 @@ $
   \begin{array}{ll}
   DG=x \Rightarrow HE=x \Rightarrow DH=7-x \\
   x^2+(7-x)^2=5^2 \\
-  (3,4,5) \Rightarrow x=4 \\
+  (3,4,5) \Longrightarrow x=4 \\
   GE=\sqrt{4^2+7^2}=\sqrt{65} \\
   \end{array}
   $  

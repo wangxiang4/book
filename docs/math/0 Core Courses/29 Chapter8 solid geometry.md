@@ -699,7 +699,7 @@ $
   \begin{cases}
   (3,5) \\
   (4,5) \\
-  \end{cases} \longrightarrow (3,4,5) \\
+  \end{cases} \Longrightarrow (3,4,5) \\
   d_{\textsf{opposite sides}}=4+3=7 \\
   d_{\textsf{same side}}= 4-3=1 \\
   \end{array}
