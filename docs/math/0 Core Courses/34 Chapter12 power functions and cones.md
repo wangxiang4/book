@@ -836,7 +836,7 @@ $
    \end{array}
    $  
    :::
-6. __Properties of a cross-section parallel to the base__: $\frac{S_1}{S}=\frac{h_1^2}{h^2}, \frac{V_1}{V}=\frac{h_1^3}{h^3}$  
+6. ###### __Properties of a cross-section parallel to the base__: $\frac{S_1}{S}=\frac{h_1^2}{h^2}, \frac{V_1}{V}=\frac{h_1^3}{h^3}$  
    ![Cone cross-sections similarity properties.svg](../../public/math/Core%20Courses/Cone%20cross-sections%20similarity%20properties.svg)  
    ::: wrap  
    $
@@ -897,7 +897,7 @@ $
    \theta=\frac{2\pi r}{l}=\frac{\pi}{2} \\
    4\pi r=\pi l \\
    l=4r \\
-   l^2=h^2+r^2 &  \textsf{pythagorean theorem} \\
+   l^2=h^2+r^2 & \textsf{pythagorean theorem} \\
    h^2=16r^2-r^2=15r^2 \\
    h=\sqrt{15}r \\
    \end{array}
@@ -924,7 +924,7 @@ $
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Inscribed sphere of a cone
 ![Cone inscribed sphere.svg](../../public/math/Core%20Courses/Cone%20inscribed%20sphere.svg)  
 - The inscribed circle lies within __the triangular axial cross-section of the cone__.
-- __Inscribed circle radius formula__: $\boldsymbol{r=\frac{2S}{c}}$ (where $S$ is __the area of the axial cross-section triangle__, and $c$ is __its perimeter__)  
+- ###### __Inscribed circle radius formula__: $\boldsymbol{r=\frac{2S}{c}}$ (where $S$ is __the area of the axial cross-section triangle__, and $c$ is __its perimeter__)  
   - __Formula derivation__  
     ![Cone inscribed circle radius derivation.svg](../../public/math/Core%20Courses/Cone%20inscribed%20circle%20radius%20derivation.svg)  
     ::: wrap  
@@ -949,7 +949,7 @@ $
     ::: wrap  
     $
     \begin{array}{ll}
-    V=\frac{1}{3} \cdot \pi r^2h & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+    V=\frac{1}{3}\pi r^2h & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
     V=\frac{1}{3}(S_1r+S_2r+S_3r) & \href{https://www.mathsisfun.com/geometry/volume.html}{\textsf{what is volume}} \\
     V=\frac{r}{3}(S_1+S_2+S_3) \\
     3V=r(S_1+S_2+S_3) \\
@@ -962,7 +962,7 @@ $
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Circumscribed sphere of a cone
 ![Cone circumscribed sphere.svg](../../public/math/Core%20Courses/Cone%20circumscribed%20sphere.svg)  
 - The circumscribed circle lies outside __the triangular axial cross-section of the cone__.
-- __Circumscribed sphere radius formula__: $\boldsymbol{R=\frac{r^2+h^2}{2h}=\frac{l^2}{2h}}$
+- ###### __Circumscribed sphere radius formula__: $\boldsymbol{R=\frac{r^2+h^2}{2h}=\frac{l^2}{2h}}$
   ::: wrap  
   $
   \begin{array}{ll}
@@ -1265,7 +1265,153 @@ $
   >$
   \begin{array}{ll}
   1:\sqrt{3}:2 & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
-  V=\frac{1}{3} \cdot \pi r^2h & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+  V=\frac{1}{3}\pi r^2h & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{7}\:$A conical water tank with a depth of $\small 50$ m and a top radius of $\small 100$ m is completely filled with water. The water level drops uniformly at a rate of $\small 2$ m per hour. How much water remains in the tank after $\small 10$ hours $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 108000\pi &
+\textsf{(B)} \: 36000\pi &
+\textsf{(C)} \: 54000\pi &
+\textsf{(D)} \: 21600\pi &
+\textsf{(E)} \: 10800\pi & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question cones figure Q-7 solve-1.svg](../../public/math/Core%20Courses/Question%20cones%20figure%20Q-7%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  h_{\textsf{small}}=50-2\cdot10=30\textsf{m} \\
+  \frac{h_1}{h}=\frac{r_1}{r} \Longrightarrow \frac{30}{50}=\frac{r_1}{100} \\
+  30\cdot100=50r_1 \\
+  r_1=\frac{3000}{50}=60 \\
+  V_{\textsf{small}}=\frac{1}{3}\pi\cdot60^2\cdot30=\frac{108000}{3}\pi=36000\pi \\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $V_{\textsf{small}}=36000\pi$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \frac{h_1}{h}=\frac{r_1}{r} & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#properties-of-a-cross-section-parallel-to-the-base}{\textsf{properties of parallel cross-sections of cones}} \\
+  V=\frac{1}{3}\pi r^2h & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{8}\:$A cylindrical container with a base diameter of $\small 20$ is partially filled with water. A conical rock with a base diameter of $\small 12$ and a height of $\small 10$ is submerged in the water. When the rock is removed, by how much does the water level in the container drop $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 2.4 &
+\textsf{(B)} \: 2 &
+\textsf{(C)} \: 1.6 &
+\textsf{(D)} \: 1.2 &
+\textsf{(E)} \: 0.9 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question cones figure Q-8 solve-1.svg](../../public/math/Core%20Courses/Question%20cones%20figure%20Q-8%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  V_{\textsf{rock}}=\frac{1}{3}\pi\cdot6^2\cdot10=\frac{360}{3}\pi=120\pi \\
+  V_{\textsf{drop water}}=\pi10^2h=120\pi \\
+  10^2h=120 \\
+  h=\frac{120}{100}=1.2 \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $h=1.2$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  V=\frac{1}{3}\pi r^2h & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+  V=\pi r^2h & \href{/math/0%20Core%20Courses/29%20Chapter8%20solid%20geometry.html#volume}{\textsf{cylinder volume formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{9}\:$Given that the base radius of a cone is $\small 6$ and its slant height is $\small 10$, what is the surface area of the sphere circumscribed about the cone $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 300\pi &
+\textsf{(B)} \: 360\pi &
+\textsf{(C)} \: 450\pi &
+\textsf{(D)} \: 540\pi &
+\textsf{(E)} \: \frac{625\pi}{4} & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question cones figure Q-9 solve-1.svg](../../public/math/Core%20Courses/Question%20cones%20figure%20Q-9%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  R=\frac{l^2}{2h}=\frac{10^2}{2\cdot8}=\frac{100}{16}=\frac{25}{4} \\
+  S=4\pi R^2=4\pi\frac{25^2}{4^2}=\frac{625\pi}{4} \\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $S=\frac{625\pi}{4}$, so choose $E$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  (6,8,10) & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  R=\frac{l^2}{2h} & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#circumscribed-sphere-radius-formula}{\textsf{circumscribed sphere radius formula}} \\
+  S=4\pi r^2 & \href{/math/0%20Core%20Courses/29%20Chapter8%20solid%20geometry.html#_1-volume-and-surface-area}{\textsf{sphere surface area formula}} \\
+  \end{array}
+  >$
+
+  :::
+- Additionally, if the problem is to find the surface area of the inscribed sphere  
+  ::: wrap
+  > ![Question cones figure Q-9 solve-2.svg](../../public/math/Core%20Courses/Question%20cones%20figure%20Q-9%20solve-2.svg)    
+  >$
+  \begin{array}{ll}
+  S=\frac{1}{2}\cdot12\cdot8=\frac{96}{2}=48 \\
+  r=\frac{2\cdot48}{10+10+12}=\frac{96}{32}=3 \\
+  S=4\pi r^2=4\pi3^2=36\pi \\
+  S=\frac{1}{2}ah & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
+  r=\frac{2S}{c} & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#inscribed-circle-radius-formula-where-is-the-area-of-the-axial-cross-section-triangle-and-is-its-perimeter}{\textsf{inscribed circle radius formula}} \\
   \end{array}
   >$
 
