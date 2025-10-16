@@ -1178,3 +1178,96 @@ $
 
   :::
 ---
+
+### $\fbox{5}\:$If the axial cross-section of a cone is an equilateral triangle with an area of $\small \sqrt{3}$, what is the total surface area of the cone $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 3\pi &
+\textsf{(B)} \: 3\sqrt{3}\pi &
+\textsf{(C)} \: 6\pi &
+\textsf{(D)} \: 9\pi &
+\textsf{(E)} \: 10\pi & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question cones figure Q-5 solve-1.svg](../../public/math/Core%20Courses/Question%20cones%20figure%20Q-5%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  S=\frac{\sqrt{3}}{4}l^2=\sqrt{3} \\
+  \frac{1}{4}l^2=1 \\
+  l^2=4 \\
+  l=\pm\sqrt{4}=\pm2 \\
+  l=2 & \ne-2 \textsf{ (triangle sides}>0 \textsf{)} \\
+  l=2 \Longrightarrow r=1 \\
+  S_{\textsf{total}}=\pi r(l+r)=\pi\cdot1\cdot3=3\pi \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $S_{\textsf{total}}=3\pi$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  S=\frac{\sqrt{3}}{4}a^2 & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#the-area-of-an-equilateral-triangle-is-where-is-the-side-length}{\textsf{equilateral triangle area formula}} \\
+  x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{n-th root property} \\
+  S_{\textsf{total}}=\pi r(l+r) & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#total-surface-area-of-a-cone}{\textsf{cone total surface area formula}}\\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{6}\:$Figure 12–3 within triangle $\small ABC$, $\small AB=2$, $\small BC=1.5$, and $\small \angle ABC=120^\circ$. What is the volume of the cone after subtracting the volume of the smaller inner cone $\small \mathpunct{?}$.
+![Question cones figure 12-3.svg](../../public/math/Core%20Courses/Question%20cones%20figure%2012-3.svg)  
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \frac{7}{2}\pi &
+\textsf{(B)} \: \frac{5}{2}\pi &
+\textsf{(C)} \: 2\pi &
+\textsf{(D)} \: \frac{1}{2}\pi &
+\textsf{(E)} \: \frac{3}{2}\pi & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question cones figure 12-3 solve-1.svg](../../public/math/Core%20Courses/Question%20cones%20figure%2012-3%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  V_{\textsf{large}}=\frac{1}{3}\pi\cdot\sqrt{3}^2\cdot(1+1.5) \\
+  V_{\textsf{small}}=\frac{1}{3}\pi\cdot\sqrt{3}^2\cdot1 \\
+  V_{\textsf{large}}-V_{\textsf{small}}=\frac{1}{3}\pi(3\cdot2.5-3\cdot1)=\frac{1}{3}\pi4.5 \\
+  \frac{1}{3}\cdot\frac{9}{2}\pi=\frac{9}{6}\pi=\frac{3}{2}\pi \\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $V_{\textsf{large}}-V_{\textsf{small}}=\frac{3}{2}\pi$, so choose $E$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  1:\sqrt{3}:2 & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
+  V=\frac{1}{3} \cdot \pi r^2h & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
