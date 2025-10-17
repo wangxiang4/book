@@ -321,8 +321,8 @@ $
 ## 9.Special Triangles and Their Areas 
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Right triangles
-- Pythagorean theorem: $a^2+b^2=c^2$      
-- ###### __Common Pythagorean triples__: $\boldsymbol{(3,4,5)}$, $\boldsymbol{(6,8,10)}$, $\boldsymbol{(5,12,13)}$, $\boldsymbol{(7,24,25)}$, $\boldsymbol{(8,15,17)}$, $\boldsymbol{(9,12,15)}$    
+- ###### Pythagorean theorem: $a^2+b^2=c^2$      
+- ###### __Common pythagorean triples__: $\boldsymbol{(3,4,5)}$, $\boldsymbol{(6,8,10)}$, $\boldsymbol{(5,12,13)}$, $\boldsymbol{(7,24,25)}$, $\boldsymbol{(8,15,17)}$, $\boldsymbol{(9,12,15)}$    
   - __The proportional (scaled) pythagorean triple__ equation is $\boldsymbol{(ka)^2+(kb)^2=(kc)^2}$.  
 - In __an isosceles right triangle__, the ratio of the three sides is $\boldsymbol{1:1:\sqrt{2}}$.  
   ![Side ratio of isosceles right triangle.svg](../../public/math/Core%20Courses/Side%20ratio%20of%20isosceles%20right%20triangle.svg)   
@@ -331,7 +331,7 @@ $
   ![Triangle 30-60-90 side ratio.svg](../../public/math/Core%20Courses/Triangle%2030-60-90%20side%20ratio.svg)    
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Equilateral triangles
-- __The ratio of the height to the side__ is $\boldsymbol{\sqrt{3}:2=\frac{\sqrt{3}}{2}:1}$.   
+- ###### __The ratio of the height to the side__ is $\boldsymbol{\sqrt{3}:2=\frac{\sqrt{3}}{2}:1}$.   
   - $h=\frac{\sqrt{3}}{2}a$  
 - ###### The area of an equilateral triangle is $\boldsymbol{S=\frac{\sqrt{3}}{4}a^2}$, where __$\boldsymbol{a}$ is the side length__.
   - $S=\frac{1}{2}a\times\frac{\sqrt{3}}{2}a=\frac{\sqrt{3}}{4}a^2$   

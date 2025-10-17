@@ -37,7 +37,7 @@ lang: en-US
   ::: wrap  
   $
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \textsf{pythagorean theorem} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   AB=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} \\
   \end{array}
   $  

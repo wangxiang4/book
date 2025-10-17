@@ -169,7 +169,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  EG=\sqrt{a^2+a^2}=\sqrt{2a^2}=a\sqrt{2} & \textsf{pythagorean theorem} \\
+  EG=\sqrt{a^2+a^2}=\sqrt{2a^2}=a\sqrt{2} & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   AB=EG=1 \\
   AB=\sqrt{2}\times EF=1 \\
   EF=\frac{1}{\sqrt{2}}=\frac{1}{\sqrt{2}}\times \frac{\sqrt{2}}{\sqrt{2}}=\frac{\sqrt{2}}{2} \\
@@ -198,7 +198,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \textsf{pythagorean theorem} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   S=a^2 & \href{/math/0%20Core%20Courses/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_4-square}{\textsf{square area formula}} \\
   \end{array}
   >$
@@ -295,7 +295,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \textsf{pythagorean theorem} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   (3,4,5) & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
   \end{array}
   >$
@@ -342,7 +342,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \textsf{pythagorean theorem} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   \begin{cases}
   \textsf{find one side and an acute angle }0^\circ \sim 90^\circ \\
   \textsf{find two sides (pythagorean theorem already holds)} \\
@@ -499,7 +499,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \textsf{pythagorean theorem} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   S=ab & \href{/math/0%20Core%20Courses/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_2-rectangle}{\textsf{rectangle area formula}} \\
   (a-b)^2=a^2-2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   2ab=(a+b)^2-(a^2+b^2) & \textsf{rectangle area identity} \\

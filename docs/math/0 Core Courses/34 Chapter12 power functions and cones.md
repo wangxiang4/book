@@ -3,12 +3,6 @@ title: Chapter12 Power Functions – Cones
 lang: en-US
 ---
 
-| Platform    | Course                                                                                       | Coursewares                                                       | Exercises                                                                           |
-|-------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=xswEYoH6ybA&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) | [Exercise](../../public/math/Core%20Courses/pdf/34%20Exercises.pdf)                 |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gx65i?playlist=x9h6d2)                           |                                                                   | [Exercise answer](../../public/math/Core%20Courses/pdf/34%20Exercise%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95j1-35-chapter12-power-function-and-cone.html)                |                                                                   |
-
 # Module 12-01 Power Functions
 
 ## 1.Definition
@@ -798,7 +792,7 @@ $
    ::: wrap  
    $
    \begin{array}{ll}
-   c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \textsf{pythagorean theorem} \\
+   c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
    \end{array}
    $  
    :::
@@ -855,7 +849,7 @@ $
    ::: wrap  
    $
    \begin{array}{ll}
-   l^2=h^2+r^2 &  \textsf{pythagorean theorem} \\
+   l^2=h^2+r^2 &  \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
    h^2=4r^2-r^2=3r^2 & l=2r \\
    h=\sqrt{3}r \\
    \theta=\frac{2\pi r}{l}=\frac{2\pi r}{2r}=\pi \\
@@ -883,7 +877,7 @@ $
    \theta=\frac{2\pi r}{l}=\frac{2\pi}{3} \\
    6\pi r=2\pi l \\
    l=3r \\
-   l^2=h^2+r^2 &  \textsf{pythagorean theorem} \\
+   l^2=h^2+r^2 &  \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
    h^2=9r^2-r^2=8r^2 \\
    h=\sqrt{8}r=\sqrt{4}\cdot\sqrt{2}r=2\sqrt{2}r \\
    \end{array}
@@ -897,7 +891,7 @@ $
    \theta=\frac{2\pi r}{l}=\frac{\pi}{2} \\
    4\pi r=\pi l \\
    l=4r \\
-   l^2=h^2+r^2 & \textsf{pythagorean theorem} \\
+   l^2=h^2+r^2 & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
    h^2=16r^2-r^2=15r^2 \\
    h=\sqrt{15}r \\
    \end{array}
@@ -966,7 +960,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \textsf{pythagorean theorem} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   r^2+(h-R)^2=R^2 \\
   r^2+h^2-2hR+R^2=R^2 \\
   r^2+h^2-2hR=0 \\
@@ -1112,7 +1106,7 @@ $
   >$
   \begin{array}{ll}
   \theta=\frac{2\pi r}{l} & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#central-angle-of-the-developed-sector}{\textsf{cone sector central angle formula}} \\
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \textsf{pythagorean theorem} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   \end{array}
   >$
 
@@ -1137,7 +1131,7 @@ $
   :::
 ---
 
-### $\fbox{4}\:$Mike needs to make a conical birthday hat with a base radius of $\small 9$ cm and a height of $\small 12$ cm using a sector of paper. What is the central angle of the sector $\small \mathpunct{?}$.
+### $\fbox{4}\:$Mike needs to make a conical birthday hat with a base radius of $\small 9\textsf{cm}$ and a height of $\small 12\textsf{cm}$ using a sector of paper. What is the central angle of the sector $\small \mathpunct{?}$.
 ![Question cones figure 12-2.svg](../../public/math/Core%20Courses/Question%20cones%20figure%2012-2.svg)  
 ::: wrap  
 $
@@ -1272,7 +1266,7 @@ $
   :::
 ---
 
-### $\fbox{7}\:$A conical water tank with a depth of $\small 50$ m and a top radius of $\small 100$ m is completely filled with water. The water level drops uniformly at a rate of $\small 2$ m per hour. How much water remains in the tank after $\small 10$ hours $\small \mathpunct{?}$.
+### $\fbox{7}\:$A conical water tank with a depth of $\small 50\textsf{m}$ and a top radius of $\small 100\textsf{m}$ is completely filled with water. The water level drops uniformly at a rate of $\small 2\textsf{m}$ per hour. How much water remains in the tank after $\small 10$ hours $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -1417,3 +1411,149 @@ $
 
   :::
 ---
+
+### $\fbox{10}\:$There is an inverted conical container whose axial cross-section is an equilateral triangle. A sphere is placed inside, and water is poured in until the water surface is tangent to the sphere. After the sphere is removed, what is the depth of the water in the container $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \sqrt[3]{15}r &
+\textsf{(B)} \: 2r &
+\textsf{(C)} \: \frac{3r}{2} &
+\textsf{(D)} \: \sqrt{6}r &
+\textsf{(E)} \: \sqrt[3]{14}r & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question cones figure Q-10 solve-1.svg](../../public/math/Core%20Courses/Question%20cones%20figure%20Q-10%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  r=\frac{\sqrt{3}}{6}l \\
+  6r=\sqrt{3}l \\
+  l=\frac{6r}{\sqrt{3}}=\frac{6\sqrt{3}r}{3}=2\sqrt{3}r \\
+  r_{\textsf{red}}=\frac{l}{2}=\frac{2\sqrt{3}r}{2}=\sqrt{3}r \ \\
+  h_{\textsf{red}}=\frac{\sqrt{3}}{2}l=\frac{\sqrt{3}}{2}2\sqrt{3}r=3r \lor r_{\textsf{red}}\cdot\sqrt{3}=3r \\
+  V_{\textsf{red}}=\frac{1}{3}\pi(\sqrt{3}r)^2\cdot3r=3\pi r^3 \\
+  V_{\textsf{blue}}=V_{\textsf{red}}-V_{\textsf{sphere}}=3\pi r^3-\frac{4}{3}\pi r^3 \\
+  \frac{9\pi r^3}{3}-\frac{4\pi r^3}{3}=\frac{5\pi r^3}{3} \\
+  V_{\textsf{blue}}=\frac{1}{3}\pi r^2h=\frac{5\pi r^3}{3} \\
+  r_{\textsf{blue}}=\frac{h}{\sqrt{3}} & 1:\sqrt{3}:2 \\
+  \frac{1}{3}\pi(\frac{h}{\sqrt{3}})^2\cdot h=\frac{1}{3}\cdot\frac{h^2}{3}\pi h=\frac{\pi h^3}{9}=\frac{5\pi r^3}{3} \\
+  3\pi h^3=45\pi r^3 \\
+  h^3=\frac{45\pi r^3}{3\pi}=15r^3 \\
+  h=\sqrt[3]{15}r \\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $h=\sqrt[3]{15}r$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  r=\frac{\sqrt{3}a}{6} & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#inscribed-circle-radius-formula-where-is-the-area-of-the-axial-cross-section-triangle-and-is-its-perimeter}{\textsf{inscribed circle radius formula}} \\
+  h=\frac{\sqrt{3}}{2}a & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#the-ratio-of-the-height-to-the-side-is}{\textsf{equilateral triangle height-side ratio formula}} \\
+  1:\sqrt{3}:2 & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
+  V=\frac{1}{3}\pi r^2h & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+  V=\frac{4}{3}\pi r^3 & \href{/math/0%20Core%20Courses/29%20Chapter8%20solid%20geometry.html#_1-volume-and-surface-area}{\textsf{sphere volume formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{11}\:$A conical pile of sand has a base area of $\small 20\textsf{m}^2$ and a height of $\small 1.2\textsf{m}$. The sand is to be spread over a road $\small 10\textsf{m}$ wide with a thickness of $\small 2\textsf{cm}$. How many meters of the road can be covered $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 20\textsf{m} &
+\textsf{(B)} \: 25\textsf{m} &
+\textsf{(C)} \: 30\textsf{m} &
+\textsf{(D)} \: 40\textsf{m} &
+\textsf{(E)} \: 45\textsf{m} & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question cones figure Q-11 solve-1.svg](../../public/math/Core%20Courses/Question%20cones%20figure%20Q-11%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  V=\frac{1}{3}\cdot20\cdot1.2=10\cdot0.02\cdot x \\
+  0.2x=\frac{24}{3}=8 \\
+  x=\frac{8}{0.2}=40 \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $x=40$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  V=\frac{1}{3}\pi r^2h & \href{/math/0%20Core%20Courses/34%20Chapter12%20power%20functions%20and%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+  V=abc & \href{/math/0%20Core%20Courses/29%20Chapter8%20solid%20geometry.html#_1-volume}{\textsf{cuboid volume formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{12}\:$A lamp is installed above the center of a circular restaurant with a radius of $\small 30\textsf{m}$. The beam of light forms a cone whose axial cross-section has a central angle of $\small 120^\circ$. What should the height of the lamp be so that the light illuminates the entire restaurant $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 30\sqrt{3} &
+\textsf{(B)} \: 15\sqrt{2} &
+\textsf{(C)} \: 10\sqrt{3} &
+\textsf{(D)} \: 15 &
+\textsf{(E)} \: 16 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question cones figure Q-12 solve-1.svg](../../public/math/Core%20Courses/Question%20cones%20figure%20Q-12%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  h=\frac{30}{\sqrt{3}}=\frac{30\sqrt{3}}{3}=10\sqrt{3} \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $h=10\sqrt{3}$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  1:\sqrt{3}:2 & \href{/math/0%20Core%20Courses/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+| Platform    | Course                                                                                       | Coursewares                                                       | Exercises                                                                           |
+|-------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| YouTube     | [Watch](https://www.youtube.com/watch?v=xswEYoH6ybA&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) | [Exercise](../../public/math/Core%20Courses/pdf/34%20Exercises.pdf)                 |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gx65i?playlist=x9h6d2)                           |                                                                   | [Exercise answer](../../public/math/Core%20Courses/pdf/34%20Exercise%20answers.pdf) |
+| Rumble      | [Watch](https://rumble.com/v6s95j1-35-chapter12-power-function-and-cone.html)                |                                                                   |
