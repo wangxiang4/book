@@ -4,6 +4,7 @@ lang: en-US
 ---
 
 ## 1.Definition of Sufficiency Judgment
+::: wrap  
 $
 \begin{array}{lllll}
 \textsf{(1)} \: \textsf{condition one} &
@@ -15,6 +16,7 @@ $
 \textsf{(E)} \: \varnothing & \\
 \end{array}
 $  
+:::  
 - __(A)__: condition one alone is __sufficient__, but condition two alone is __not sufficient__.
 - __(B)__: condition two alone is __sufficient__, but condition one alone is __not sufficient__.
 - __(C)__: __neither condition one nor two alone is sufficient__, but __the two conditions together are sufficient__.
