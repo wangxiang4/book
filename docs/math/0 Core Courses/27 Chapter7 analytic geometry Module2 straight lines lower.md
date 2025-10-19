@@ -412,7 +412,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(B)}$  
-  > According to the Solution, get $\textsf{(2)}\,✅\;$, so choose $B$. 
+  > According to the Solution, get $\textsf{(1)}\,❌\;,\textsf{(2)}\,✅\;$, so choose $B$. 
 
   :::
 - Formulas used  
