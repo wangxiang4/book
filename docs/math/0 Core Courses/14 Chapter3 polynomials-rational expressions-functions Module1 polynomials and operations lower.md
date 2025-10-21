@@ -11,7 +11,7 @@ lang: en-US
 - Polynomial multiplication can be done using __the distributive law__,
   meaning __each term of one polynomial__ must be __multiplied by each term of the other__,
   and then __like terms are combined__.
-  For example: $(a+b)(c+d)=ac+ad+bc+bd$.
+  __For example__: $(a+b)(c+d)=ac+ad+bc+bd$.
 :::  
 
 ## 10.Focus 7

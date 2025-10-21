@@ -209,7 +209,7 @@ $
   ::: wrap
   > ![Inner half of outer quadrilateral.svg](../../public/math/Core%20Courses/Inner%20half%20of%20outer%20quadrilateral.svg)       
   > - In any triangle, the triangle formed by joining the midpoints of two sides has an area equal to $\frac{1}{4}$ of the original triangle.        
-  > - Example: $\triangle ABD$ (similarly for the other triangles)   
+  > - __Example__: $\triangle ABD$ (similarly for the other triangles)   
   >$
   \begin{array}{ll}
   E=AB\textsf{ midpoint} \\
