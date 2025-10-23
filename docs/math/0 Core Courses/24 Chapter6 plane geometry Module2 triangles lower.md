@@ -510,7 +510,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Courses/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#definition-1}{\textsf{similar triangles definition}} \\
+  & \href{/math/0%20Core%20Courses/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#definition-1}{\textsf{definition of similar triangles}} \\
   \frac{S_1}{S_2}=k^2 & \href{/math/0%20Core%20Courses/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#the-ratio-of-the-areas-of-two-similar-triangles-or-similar-figures-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
   \end{array}
   >$

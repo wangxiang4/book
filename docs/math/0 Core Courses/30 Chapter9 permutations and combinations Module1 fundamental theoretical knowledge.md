@@ -96,7 +96,7 @@ __The addition principle__
 
 
 
-### $\fbox{1}\:$Student A plans to travel from Sonoma to Cupertino for a trip. On that day, there are $\small 3$ trains, $\small 2$ ferries, and $\small 5$ flights available from Sonoma to Cupertino. How many different travel options does Student A have $\small \mathpunct{?}$.
+### $\fbox{1}\:$Student $\small A$ plans to travel from Sonoma to Cupertino for a trip. On that day, there are $\small 3$ trains, $\small 2$ ferries, and $\small 5$ flights available from Sonoma to Cupertino. How many different travel options does Student $\small A$ have $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
