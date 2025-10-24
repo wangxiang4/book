@@ -454,6 +454,45 @@ $
   :::
 ---
 
+## 10.Focus 5
+__The general methods for solving proportions__
+- To simplify or calculate proportions,
+  one can __introduce a proportional constant $\boldsymbol{k}$__ to solve,
+  or analyze by __assigning specific values__.
+
+
+### $\fbox{18}\:$If $\small \frac{1}{a}:\frac{1}{b}:\frac{1}{c}=2:3:4$, then find $\small (a+b):(b+c):(c+a)$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 10:9:7 &
+\textsf{(B)} \: 9:7:10 &
+\textsf{(C)} \: 10:7:6 & \\
+\textsf{(D)} \: 10:7:9 &
+\textsf{(E)} \: 7:10:9 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let }\frac{1}{a}=2 \quad \frac{1}{b}=3 \quad \frac{1}{c}=4  \\
+a:b:c=\frac{1}{2}:\frac{1}{3}:\frac{1}{4}=6:4:3 & \textsf{lcm}=12 \\
+(6+4):(4+3):(3+6)=10:7:9 \\
+\end{array}
+$  
+:::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $(a+b):(b+c):(c+a)=10:7:9$, so choose $D$.
+
+  :::
+---
+
+
 | Platform    | Course                                                                                                               | Coursewares                                                       |
 |-------------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | YouTube     | [Watch](https://www.youtube.com/watch?v=yf7U73q0sk4&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                         | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
