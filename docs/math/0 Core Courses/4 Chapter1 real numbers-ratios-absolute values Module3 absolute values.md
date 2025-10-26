@@ -182,16 +182,41 @@ $
 ## 4.Properties of Absolute Value
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Symmetry
-- $\left|-a\right|=-\left|a\right|$,
-  meaning __that two opposite numbers have equal absolute values__.
+- $\left|-a\right|=\left|a\right|$,
+  meaning __that two opposite numbers have equal absolute values__.  
+  $
+  \begin{array}{ll}
+  \left|-5\right|=\left|5\right|=5 \\
+  \left|a-b\right|=\left|b-a\right| \\
+  \left|2-3x\right|=\left|3x-2\right| \\
+  \end{array}
+  $
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Equivalence
+- __Square root–absolute value identity__:  
+  $\sqrt{a^2}=\left|a\right|= \begin{cases} a & a\ge0 \\ -a & a\lt0 \\ \end{cases}$
+- __Absolute value–square identity__:  
+  $|a|^2=|a^2|=a^2$
 
+### $\textcolor{#1E3A5F}{\fbox{3}}\:$Non-negativity
+- $\boldsymbol{\left|a\right|\ge0}$: the absolute value of any real number $a$ is __non-negative__.
+- __Extension__: numbers with non-negative values include __even powers (or even-order roots)__.
+  $
+  \begin{array}{ll}
+  a^2, a^4, \cdots, \sqrt{a}, \sqrt[4]{a}, \cdots \\
+  \end{array}
+  $
 
-### $\textcolor{#1E3A5F}{\fbox{3}}\:$Intercept form
-
-
-### $\textcolor{#1E3A5F}{\fbox{4}}\:$Two-point form
+### $\textcolor{#1E3A5F}{\fbox{4}}\:$Self-comparison property
+- $-\left|a\right|\le a\le\left|a\right|$
+- $
+  \frac{\left|x\right|}{x}=
+  \frac{x}{\left|x\right|}=
+  \begin{cases}
+  1 & x\gt0 \\
+  -1 & x\lt0 \\
+  \end{cases}
+  $
 
 
 
