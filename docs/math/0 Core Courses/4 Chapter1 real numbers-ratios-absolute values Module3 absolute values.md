@@ -32,7 +32,7 @@ __The definition of absolute value__
   it only changes __the sign of negative numbers__,
   while it has __no effect on positive numbers or zero__.
 
-### $\fbox{1}\:$Which of the following statements is correct $\small \mathpunct{?}$.
+### $\fbox{19}\:$Which of the following statements is correct $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -73,3 +73,109 @@ $
 
   :::
 ---
+
+### $\fbox{20}\:$Which of the following statements is correct $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \textsf{the absolute value of a real number has two possible cases} & \\
+\textsf{(B)} \: \textsf{the absolute value of a positive number is always greater than that of a negative number} & \\
+\textsf{(C)} \: \textsf{a number with a larger absolute value is always larger itself} & \\
+\textsf{(D)} \: \textsf{the only number whose absolute value equals itself is }0 & \\
+\textsf{(E)} \: \textsf{the only number whose absolute value is }0\textsf{ is }0 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{(A)} \: \left|a\right|\ne a\land-a \,❌\;\\
+\textsf{(B)} \: \left|2\right|\lt\left|-3\right| \,❌\;\\
+\textsf{(C)} \: \left|-3\right|=3 \Longrightarrow a=-3 \,❌\;\\
+\textsf{(D)} \: \left|4\right|=4 \Longrightarrow a=4 \,❌\;\\
+\textsf{(E)} \: \left|0\right|=0 \Longrightarrow a=0 \,✅\;\\
+\end{array}
+$  
+:::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $\textsf{(E)}$, so choose $E$.
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/4%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module3%20absolute%20values.html#_1-definition}{\textsf{definition}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 3.Focus 2
+__The absolute value and number line__  
+- Based on __a point's position on the number line__,
+  determine __the magnitude and sign of each number__,
+  and then __remove the absolute value symbol__.
+  additionally,
+  __the geometric meaning of absolute value__ can be used to find
+  __the distance between points on the number line__ for analysis.
+
+
+### $\fbox{21}\:$(Sufficiency judgment) $\small \left|b-a\right|+\left|c-b\right|-\left|c\right|=a$.
+$\textsf{(1)}$ the positions of the real numbers $\boldsymbol{a,b,c}$ on the number line are:  
+![Question absolute value figure Q-21 condition-1.svg](../../public/math/Core%20Courses/Question%20absolute%20value%20figure%20Q-21%20condition-1.svg)  
+$\textsf{(2)}$ the positions of the real numbers $\boldsymbol{a,b,c}$ on the number line are:  
+![Question absolute value figure Q-21 condition-2.svg](../../public/math/Core%20Courses/Question%20absolute%20value%20figure%20Q-21%20condition-2.svg)  
+::: wrap
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \textsf{(1)} &
+\textsf{(B)} \: \textsf{(2)} & \\
+\textsf{(C)} \: \textsf{(1)}+\textsf{(2)} &  
+\textsf{(D)} \: \textsf{(1)},\textsf{(2)} & \\
+\textsf{(E)} \: \varnothing & \\
+\end{array}
+$  
+:::
+#### Solution
+- $\textcolor{#9333EA}{\textsf{verify condition }(1)}$  
+  ![Question absolute value figure Q-21 solve-1.svg](../../public/math/Core%20Courses/Question%20absolute%20value%20figure%20Q-21%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \left|b-a\right|+\left|c-b\right|-\left|c\right|=\left|a\right|=a \\
+  \end{array}
+  $  
+  :::
+- $\textcolor{#9333EA}{\textsf{verify condition }(2)}$  
+  ![Question absolute value figure Q-21 solve-2.svg](../../public/math/Core%20Courses/Question%20absolute%20value%20figure%20Q-21%20solve-2.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \left|b-a\right|+\left|c-b\right|-\left|c\right|=\left|a\right|=-a \\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $\textsf{(1)}\,✅\;,\textsf{(2)}\,❌\;$, so choose $A$.
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/4%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module3%20absolute%20values.html#_1-definition}{\textsf{definition}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
