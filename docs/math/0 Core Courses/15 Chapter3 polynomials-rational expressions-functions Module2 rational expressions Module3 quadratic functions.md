@@ -299,11 +299,11 @@ $
 ## 1.Three Forms of a Quadratic Function
 1. Standard form: $\boldsymbol{y=ax^2+bx+c}$.
 ::: wrap  
-2. Vertex form ([completed square form](/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas)): $\boldsymbol{y=a(x+\frac{b}{2a})^2+\frac{4ac-b^2}{4a}}$.
-   - __Example__: $y=x^2+4x+10=(x+2)^2+6$
+2. Vertex form ([completed square form](/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas)): $\boldsymbol{y=a(x+\frac{b}{2a})^2+\frac{4ac-b^2}{4a}}$.  
+   $y=x^2+4x+10=(x+2)^2+6$
 :::  
-3. Root form: $\boldsymbol{y=a(x-x_1)(x-x_2)}$.
-   - __Example__: $f(3)=a(x+2)(x-3)=0$
+3. Root form: $\boldsymbol{y=a(x-x_1)(x-x_2)}$.  
+   $f(3)=a(x+2)(x-3)=0$
 - Note: $\boldsymbol{x_1}$ and $\boldsymbol{x_2}$ represent the __two intersection points__ of the quadratic function with the x-axis, or the __two roots__ of the equation.  
   ![Quadratic function two intersections.svg](../../public/math/Core%20Courses/Quadratic%20function%20two%20intersections.svg)
 

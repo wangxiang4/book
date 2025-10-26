@@ -447,8 +447,8 @@ It is denoted as $\boldsymbol{C_n^m}$.
       \end{array}
       $
   :::  
-  - ###### A permutation is __a combination__ followed by __arrangement__: $A_n^m=C_n^m \boldsymbol{\cdot} A_m^m=\boldsymbol{C_n^m \cdot m!}$.
-    - __Example__: $A_4^3=C_4^3\times3!$
+  - ###### A permutation is __a combination__ followed by __arrangement__: $A_n^m=C_n^m \boldsymbol{\cdot} A_m^m=\boldsymbol{C_n^m \cdot m!}$.  
+    $A_4^3=C_4^3\times3!$
 
 ### $\textcolor{#1E3A5F}{\fbox{3}}\:$Property of combinations
 - $C_n^m=C_n^{n-m}$

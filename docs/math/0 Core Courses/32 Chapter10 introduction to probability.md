@@ -421,7 +421,6 @@ $
 
 ## 3.Understanding
 - The probability of independent events __occurring simultaneously__ is __the product of the probabilities of each event occurring__.  
-- __Example__   
   ::: wrap    
   $
   \begin{array}{ll}

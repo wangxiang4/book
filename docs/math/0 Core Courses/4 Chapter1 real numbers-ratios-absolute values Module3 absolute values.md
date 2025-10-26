@@ -179,3 +179,22 @@ $
   :::
 ---
 
+## 4.Properties of Absolute Value
+
+### $\textcolor{#1E3A5F}{\fbox{1}}\:$Symmetry
+- $\left|-a\right|=-\left|a\right|$,
+  meaning __that two opposite numbers have equal absolute values__.
+
+### $\textcolor{#1E3A5F}{\fbox{2}}\:$Equivalence
+
+
+### $\textcolor{#1E3A5F}{\fbox{3}}\:$Intercept form
+
+
+### $\textcolor{#1E3A5F}{\fbox{4}}\:$Two-point form
+
+
+
+
+
+

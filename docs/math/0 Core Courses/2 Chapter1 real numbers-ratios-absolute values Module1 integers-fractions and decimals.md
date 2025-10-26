@@ -305,13 +305,13 @@ $
 ---
 
 ## 9.Prime Numbers
-- A positive integer __greater than $\boldsymbol{1}$__ that can be __divided only by $\boldsymbol{1}$ and itself__ is called __a prime number__.
-- __Examples__: $2, 3, 5, 7, \cdots$
+- A positive integer __greater than $\boldsymbol{1}$__ that can be __divided only by $\boldsymbol{1}$ and itself__ is called __a prime number__.  
+  $2, 3, 5, 7, \cdots$
 
 ## 10.Composite Numbers
 - A positive integer that can be __divided by $\boldsymbol{1}$__, __itself__,
-  __and at least one other positive integer__ is called __a composite number__.
-- __Examples__: $4, 6, 8, 9, \cdots$
+  __and at least one other positive integer__ is called __a composite number__.  
+  $4, 6, 8, 9, \cdots$
 
 ## 11.Important Properties
 1. Both prime and composite numbers are within __the set of positive integers__,
@@ -329,8 +329,8 @@ $
    then __one of them must also be $\boldsymbol{2}$__.
 
 ## 12.Coprime Numbers
-- Two numbers whose __greatest common divisor is $\boldsymbol{1}$__ are called __coprime numbers__.
-- __Example__: $\frac{4}{9}$ (since $4$ and $9$ __share no common factors other than $\boldsymbol{1}$__).
+- Two numbers whose __greatest common divisor is $\boldsymbol{1}$__ are called __coprime numbers__.  
+  $\frac{4}{9}$ (since $4$ and $9$ __share no common factors other than $\boldsymbol{1}$__).
 - Note: two numbers do not have to be __prime themselves__ to be __coprime__.
 
 
