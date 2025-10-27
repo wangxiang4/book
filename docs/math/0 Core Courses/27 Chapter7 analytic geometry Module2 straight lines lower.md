@@ -143,11 +143,11 @@ $
 $
 \begin{array}{ll}
 (m+2)(m-2)+3m(m+2)=0 \\
-\textcolor{#9333EA}{\textsf{verify condition }(1)} \\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}} \\
 (\frac{1}{2}+2)(\frac{1}{2}-2)+3\frac{1}{2}(\frac{1}{2}+2)=0 \\
 (\frac{5}{2} \times -(\frac{3}{2})) + (3 \times \frac{5}{4})=0 \\
 -\frac{15}{4}+\frac{15}{4}=0 \\
-\textcolor{#9333EA}{\textsf{verify condition }(2)} \\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}} \\
 (-2+2)(-2-2)+3(-2)(-2+2)=0 \\
 (0\times (-4))+(-6 \times 0)=0 \\
 0+0=0 \\
@@ -401,9 +401,9 @@ m^2+m-6 \ne 0 \\
 m^2+m-6\Rightarrow(m-2)(m+3)=0 \\
 m=2 \lor -3 \longrightarrow m\ne2 \land m\ne-3 \\
 m \in \mathbb{R} \setminus \{2, -3\} \\
-\textcolor{#9333EA}{\textsf{verify condition }(1)} \\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}} \\
 m>\frac{1}{2} \Rightarrow m=2 \\
-\textcolor{#9333EA}{\textsf{verify condition }(2)} \\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}} \\
 m<-4 \Rightarrow m\ne2 \land m\ne-3 \\
 \end{array}
 $  

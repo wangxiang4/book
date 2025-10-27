@@ -91,11 +91,11 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\textcolor{#9333EA}{\textsf{verify condition }(1)} \\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}} \\
 m=\frac{p}{q}\textsf{ (rational fraction)} \\
 m^2=a \longrightarrow m=\pm\sqrt{a} & a\ge0 \\
 a=\textsf{perfect square} \Longrightarrow m\in\mathbb{Z} & a\in\mathbb{Z} \land m=\frac{p}{q} \\
-\textcolor{#9333EA}{\textsf{verify condition }(2)} \\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}} \\
 m=\frac{p}{q}\textsf{ (rational fraction)} \\
 \textsf{let }m=\frac{5}{2} \\
 \frac{2\frac{5}{2}+4}{3}=3 \\

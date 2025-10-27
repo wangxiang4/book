@@ -841,11 +841,11 @@ a=6 \lor 14 \\
 \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=6\textsf{ and }x_2=14 \\
 \textsf{range}\textsf{:}\, f(x)>0\textsf{ outside the two roots} \\
 f(x)>0 \longrightarrow a<6 \lor a>14 \\
-(a<6 \lor a>14)\cap(a>2)\cap(a>5) \\
+\left\{a<6 \lor a>14\right\}\cap\left\{a>2\right\}\cap\left\{a>5\right\} \\
 5\lt a\lt6 \lor a>14 \\
-\textcolor{#9333EA}{\textsf{verify condition }(1)} \\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}} \\
 5\lt a\lt6 \\
-\textcolor{#9333EA}{\textsf{verify condition }(2)} \\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}} \\
 a>14 \\
 \end{array}
 $  
@@ -929,7 +929,7 @@ $
   \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=4\textsf{ and }x_2=5 \\
   \textsf{range}\textsf{:}\, f(x)<0\textsf{ between the two roots} \\
   f(x)<0 \longrightarrow 4 < m < 5 \\
-  (2 < m < 5)\cap(4 < m < 5)=4 < m < 5 \\
+  \left\{2 < m < 5\right\}\cap\left\{4 < m < 5\right\}=4 < m < 5 \\
   \end{array}
   $   
   :::

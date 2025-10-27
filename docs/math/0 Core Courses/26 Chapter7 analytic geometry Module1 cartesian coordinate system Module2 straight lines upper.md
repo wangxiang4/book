@@ -824,7 +824,7 @@ $
 $  
 :::
 #### Solution
-- $\textcolor{#9333EA}{\textsf{verify condition }(1)}$   
+- $\textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}}$   
   ![Question straight lines figure Q-11 solve-1.svg](../../public/math/Core%20Courses/Question%20straight%20lines%20figure%20Q-11%20solve-1.svg)  
   ::: wrap  
   $
@@ -852,7 +852,7 @@ $
   \end{array}
   $  
   :::     
-- $\textcolor{#9333EA}{\textsf{verify condition }(2)}$  
+- $\textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}}$  
   ![Question straight lines figure Q-11 solve-2.svg](../../public/math/Core%20Courses/Question%20straight%20lines%20figure%20Q-11%20solve-2.svg)  
   ::: wrap  
   $

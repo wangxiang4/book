@@ -485,12 +485,12 @@ a=1 \lor -\frac{3}{5} \\
 \textsf{roots}\textsf{:}\, \textsf{intersects x-axis at }x_1=-\frac{3}{5}\textsf{ and }x_2=1 \\
 \textsf{range}\textsf{:}\, f(x)<0\textsf{ between the two roots} \\
 f(x)<0 \longrightarrow -\frac{3}{5} < a < 1 \\
-(-1\lt a\lt 1) \cap \left( -\frac{3}{5} < a < 1 \right)=-\frac{3}{5} < a < 1 \\
+\left\{-1\lt a\lt 1\right\} \cap \left\{-\frac{3}{5} < a < 1\right\}=-\frac{3}{5} < a < 1 \\
 a^2-1=0 \Longrightarrow a=\pm1 & \textsf{existence of linear case }a=0 \\
 2x-1<0 & \textsf{substitute }a=-1 \\
 x<\frac{1}{2} \Longrightarrow \textsf{solution set}\ne\mathbb{R} \\
 -1<0 \Longrightarrow \textsf{solution set}=\mathbb{R} & \textsf{substitute }a=1 \\
-\left( -\frac{3}{5} < a < 1 \right) \cup \left\{ 1 \right\} = (-\frac{3}{5},1] \\
+\left\{ -\frac{3}{5} < a < 1 \right\} \cup \left\{ 1 \right\} = (-\frac{3}{5},1] \\
 -\frac{3}{5} < a \le 1 \\
 \end{array}
 $  

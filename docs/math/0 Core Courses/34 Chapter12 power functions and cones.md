@@ -593,7 +593,7 @@ $
 0\le5-2m \\
 2m\le5 \\
 m\le\frac{5}{2} \\
-\left(2\lt m\right) \cap \left(m\le\frac{5}{2}\right) \\
+\left\{2\lt m\right\} \cap \left\{m\le\frac{5}{2}\right\} \\
 2\lt m\le\frac{5}{2} \\
 \end{array}
 $  

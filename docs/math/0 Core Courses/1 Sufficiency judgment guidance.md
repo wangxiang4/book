@@ -374,12 +374,12 @@ $
   \begin{array}{ll}
   \textcolor{#228B22}{\scriptsize\fbox{1}}\:\textsf{let }x>0 \\
   1>x^2 \Longrightarrow -1\lt x\lt1 \\
-  \left\{ x\,|\, x\lt-1 \right\} \not\subset \left\{ x\,|\, -1\lt x\lt1 \right\} & \textcolor{#9333EA}{\textsf{verify condition }(1)} \\
-  \left\{ x\,|\, 0\lt x\lt 1 \right\} \subset \left\{ x\,|\, -1\lt x\lt1 \right\} & \textcolor{#9333EA}{\textsf{verify condition }(2)} \\
+  \left\{ x\,|\, x\lt-1 \right\} \not\subset \left\{ x\,|\, -1\lt x\lt1 \right\} & \textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}} \\
+  \left\{ x\,|\, 0\lt x\lt 1 \right\} \subset \left\{ x\,|\, -1\lt x\lt1 \right\} & \textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}} \\
   \textcolor{#228B22}{\scriptsize\fbox{2}}\:\textsf{let }x<0 \\
   1\lt x^2 \Longrightarrow x\gt1 \lor x\lt-1 \\
-  \left\{ x\,|\, x\lt-1 \right\} \subset \left\{ x\,|\, x\lt-1 \right\} & \textcolor{#9333EA}{\textsf{verify condition }(1)} \\
-  \left\{ x\,|\, 0\lt x\lt 1 \right\} \not\subset \left\{ x\,|\, x\gt1 \lor x\lt-1 \right\}  & \textcolor{#9333EA}{\textsf{verify condition }(2)} \\
+  \left\{ x\,|\, x\lt-1 \right\} \subset \left\{ x\,|\, x\lt-1 \right\} & \textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}} \\
+  \left\{ x\,|\, 0\lt x\lt 1 \right\} \not\subset \left\{ x\,|\, x\gt1 \lor x\lt-1 \right\}  & \textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}} \\
   \end{array}
   $  
   :::
@@ -414,9 +414,9 @@ $
   x+1=+ \\
   x=+ \\
   (+)(+)(+)=+ \\
-  \textcolor{#9333EA}{\textsf{verify condition }(1)} \\
+  \textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}} \\
   \left\{ x\,|\, x\lt-1 \right\} \subset (-\infty, -1) \\
-  \textcolor{#9333EA}{\textsf{verify condition }(2)} \\
+  \textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}} \\
   \left\{ x\,|\, 0\lt x\lt 1 \right\} \subset (0,1) \\
   \end{array}
   $  

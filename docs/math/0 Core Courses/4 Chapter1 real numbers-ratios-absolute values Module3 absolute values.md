@@ -143,7 +143,7 @@ $
 $  
 :::
 #### Solution
-- $\textcolor{#9333EA}{\textsf{verify condition }(1)}$  
+- $\textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}}$  
   ![Question absolute value figure Q-21 solve-1.svg](../../public/math/Core%20Courses/Question%20absolute%20value%20figure%20Q-21%20solve-1.svg)  
   ::: wrap  
   $
@@ -152,7 +152,7 @@ $
   \end{array}
   $  
   :::
-- $\textcolor{#9333EA}{\textsf{verify condition }(2)}$  
+- $\textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}}$  
   ![Question absolute value figure Q-21 solve-2.svg](../../public/math/Core%20Courses/Question%20absolute%20value%20figure%20Q-21%20solve-2.svg)  
   ::: wrap  
   $
@@ -194,7 +194,13 @@ $
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Equivalence
 - __Square root–absolute value identity__:  
-  $\sqrt{a^2}=\left|a\right|= \begin{cases} a & a\ge0 \\ -a & a\lt0 \\ \end{cases}$
+  $
+  \sqrt{a^2}=\left|a\right|=
+  \begin{cases}
+  a & a\ge0 \\
+  -a & a\lt0 \\
+  \end{cases}
+  $
 - __Absolute value–square identity__:  
   $|a|^2=|a^2|=a^2$
 
@@ -207,7 +213,7 @@ $
   \end{array}
   $
 
-### $\textcolor{#1E3A5F}{\fbox{4}}\:$Self-comparison property
+### $\textcolor{#1E3A5F}{\fbox{4}}\:$Self-comparison
 - $-\left|a\right|\le a\le\left|a\right|$
 - $
   \frac{\left|x\right|}{x}=
@@ -219,7 +225,134 @@ $
   $
 
 
+## 5.Focus 3
+__The equivalence__  
+- __The completing the square formula__ can be used,
+  then analyze based on
+  $
+  \boldsymbol{
+  \sqrt{a^2}=\left|a\right|=}
+  \begin{cases}
+  a & a\ge0 \\
+  -a & a\lt0 \\
+  \end{cases}
+  $
 
 
+### $\fbox{22}\:$(Sufficiency judgment) $\small \sqrt{a^2b}=-a\sqrt{b}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(1)} \: a\gt0 \land b\lt0 &
+\textsf{(2)} \: a\lt0 \land b\gt0 & \\
+\textsf{(A)} \: \textsf{(1)} &
+\textsf{(B)} \: \textsf{(2)} & \\
+\textsf{(C)} \: \textsf{(1)}+\textsf{(2)} &  
+\textsf{(D)} \: \textsf{(1)},\textsf{(2)} & \\
+\textsf{(E)} \: \varnothing & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\sqrt{a^2b}=\sqrt{a^2}\cdot\sqrt{b}=\underbrace{\left|a\right|}_{a\le0}\cdot\underbrace{\sqrt{b}}_{b\ge0}=-a\sqrt{b} \\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}} \\
+a\gt0 \land b\lt0 \nRightarrow -a\sqrt{b} \\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}} \\
+a\lt0 \land b\gt0  \Rightarrow -a\sqrt{b} \\
+\end{array}
+$  
+:::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $\textsf{(1)}\,❌\;,\textsf{(2)}\,✅\;$, so choose $B$.
 
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \sqrt{a^2}=\left|a\right|=
+  \begin{cases}
+  a & a\ge0 \\
+  -a & a\lt0 \\
+  \end{cases} & \href{/math/0%20Core%20Courses/4%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module3%20absolute%20values.html#equivalence}{\textsf{equivalence property of absolute value}} \\
+  \end{array}
+  >$
 
+  :::
+- Rules for simplifying square roots  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \sqrt{a \cdot b}=
+  \begin{cases}
+  \sqrt{a}\cdot\sqrt{b} & a\ge0 \land b\ge0 \\
+  \sqrt{-a}\cdot\sqrt{-b} & a\le0 \land b\le0 \\
+  \end{cases} \\
+  \sqrt{\frac{a}{b}}=
+  \begin{cases}
+  \frac{\sqrt{a}}{\sqrt{b}} & a\ge0 \land b\gt0 \\
+  \frac{\sqrt{-a}}{\sqrt{-b}} & a\le0 \land b\lt0 \\
+  \end{cases}
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{23}\:$(Sufficiency judgment) $\small \left|1-x\right|-\sqrt{x^2-8x+16}=2x-5$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(1)} \: x\gt2 &
+\textsf{(2)} \: x\lt3 & \\
+\textsf{(A)} \: \textsf{(1)} &
+\textsf{(B)} \: \textsf{(2)} & \\
+\textsf{(C)} \: \textsf{(1)}+\textsf{(2)} &  
+\textsf{(D)} \: \textsf{(1)},\textsf{(2)} & \\
+\textsf{(E)} \: \varnothing & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\left|x-1\right|-\sqrt{(x-4)^2}=\left|x-1\right|-\left|x-4\right| \\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}} \\
+x\gt2 \Longrightarrow x-1-\left|x-4\right|\\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}} \\
+x\lt3 \Longrightarrow \left|x-1\right|+x-4 \\
+\textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}+\textsf{(2)}} \\
+\left\{2 < m < 5\right\}\cap\left\{4 < m < 5\right\}=4 < m < 5 \\
+\end{array}
+$  
+:::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $\textsf{(1)}\,❌\;,\textsf{(2)}\,❌\;,\textsf{(1)}+\textsf{(2)}\,✅\;$, so choose $C$.
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \left|-a\right|=\left|a\right| & \href{/math/0%20Core%20Courses/4%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module3%20absolute%20values.html#symmetry}{\textsf{symmetric property of absolute value}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  \sqrt{a^2}=\left|a\right|=
+  \begin{cases}
+  a & a\ge0 \\
+  -a & a\lt0 \\
+  \end{cases} & \href{/math/0%20Core%20Courses/4%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module3%20absolute%20values.html#equivalence}{\textsf{equivalence property of absolute value}} \\
+  \end{array}
+  >$
+
+  :::
+---
