@@ -3,13 +3,6 @@ title: Chapter1 Real Numbers, Ratios, and Absolute Value – Module3 Absolute Va
 lang: en-US
 ---
 
-| Platform    | Course                                                                                                          | Coursewares                                                       |
-|-------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=cL4l9Ed5w-Q&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                    | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnce?playlist=x9h6d2)                                              |                                                                   |
-| Rumble      | [Watch](https://rumble.com/v6s94zp-5-chapter1-real-numbers-ratios-absolute-values-module3-absolute-values.html) |                                                                   |
-
-
 # Module 1-03 Absolute Value
 
 ## 1.Definition
@@ -382,24 +375,185 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
- & \textsf{TODO} \\
+(\sqrt{3}-a)^2+\left|b-1\right|=0 \\
+a=\sqrt{3} \quad b=1 \\
+\frac{2}{a-b}=\frac{2}{\sqrt{3}-1}=\frac{2(\sqrt{3}+1)}{(\sqrt{3}-1)(\sqrt{3}+1)} \\
+\frac{2(\sqrt{3}+1)}{\sqrt{3}^2-1^2}=\frac{2(\sqrt{3}+1)}{3-1}=\sqrt{3}+1 \\
 \end{array}
 $  
 :::  
 #### Conclusion
 - Derived Solution  
   ::: wrap
-  > $\boldsymbol{()}$  
-  > According to the Solution, get $ $, so choose $ $. 
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $\frac{2}{a-b}=\sqrt{3}+1$, so choose $A$. 
 
   :::
 - Formulas used  
   ::: wrap
   >$
   \begin{array}{ll}
-  \left|a\right|\ge0 & \href{/math/0%20Core%20Courses/4%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module3%20absolute%20values.html#symmetry}{\textsf{non-negativity property of absolute value}} \\
+  \left|a\right|\ge0 & \href{/math/0%20Core%20Courses/4%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module3%20absolute%20values.html#non-negativity}{\textsf{non-negativity property of absolute value}} \\
+  a^2-b^2=(a+b)(a-b) & \href{/math/0%20Core%20Courses/12%20Chapter3%20polynomials-rational%20expressions-functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
   \end{array}
   >$
 
   :::
 ---
+
+### $\fbox{25}\:$Given that $\small a$ and $\small b$ are real numbers, and $\small b=\sqrt{\frac{2a+1}{4a-3}}+\sqrt{\frac{1+2a}{3-4a}}+1$, find $\small \left|a\right|+\left|b\right|$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 2 &
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: \frac{3}{2} &
+\textsf{(D)} \: \frac{5}{4} &
+\textsf{(E)} \: \frac{7}{6} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\sqrt{x} \textsf{ (}x\ge0\textsf{)} \\
+\frac{2a+1}{4a-3}\ge0 \quad \frac{1+2a}{3-4a}\ge0 \\
+\sqrt{\frac{2a+1}{4a-3}}+\sqrt{\frac{1+2a}{3-4a}}=0 \\
+2a+1=0 & \textsf{ (nonzero denominator)} \\
+a=-\frac{1}{2} \\
+b=1 \\
+\left|a\right|+\left|b\right|=\frac{1}{2}+1=\frac{3}{2} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $\left|a\right|+\left|b\right|=\frac{3}{2}$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \left|a\right|\ge0 & \href{/math/0%20Core%20Courses/4%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module3%20absolute%20values.html#non-negativity}{\textsf{non-negativity property of absolute value}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 7.Focus 5
+__The self-comparison__  
+- Using the formula
+  $
+  \boldsymbol{
+  \frac{\left|x\right|}{x}=
+  \frac{x}{\left|x\right|}=}
+  \begin{cases}
+  1 & x\gt0 \\
+  -1 & x\lt0 \\
+  \end{cases}
+  $
+  analyze __the possible values of the fraction__.
+
+
+### $\fbox{26}\:$If $\small -2\lt x\lt3$, find $\small \frac{x+2}{\left|x+2\right|}+\frac{x-3}{\left|x-3\right|}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 1 &
+\textsf{(B)} \: 2 &
+\textsf{(C)} \: -1 &
+\textsf{(D)} \: 0 &
+\textsf{(E)} \: -2 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+-2\lt x\lt3 \\
+x+2>0 \quad x-3<0 \\
+\frac{x+2}{\left|x+2\right|}+\frac{x-3}{\left|x-3\right|}=1-1=0 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $1-1=0$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \frac{\left|x\right|}{x}=
+  \frac{x}{\left|x\right|}=
+  \begin{cases}
+  1 & x\gt0 \\
+  -1 & x\lt0 \\
+  \end{cases} & \href{/math/0%20Core%20Courses/4%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module3%20absolute%20values.html#self-comparison}{\textsf{self-comparison property of absolute value}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{27}\:$How many possible values can $\small \frac{\left|a\right|}{a}+\frac{\left|b\right|}{b}+\frac{\left|c\right|}{c}+\frac{\left|abc\right|}{abc}$ take $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 4 &
+\textsf{(B)} \: 3 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 1 &
+\textsf{(E)} \: \infty & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+1+1+1+1=4 & a,b,c\textsf{ all positive}  \\
+-1-1-1-1=-4 & a,b,c\textsf{ all negative} \\
+1+1-1-1=0 & a,b,c\textsf{ two positive and one negative} \\
+-1-1+1+1=0 & a,b,c\textsf{ two negative and one positive} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $4,-4,0$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \frac{\left|x\right|}{x}=
+  \frac{x}{\left|x\right|}=
+  \begin{cases}
+  1 & x\gt0 \\
+  -1 & x\lt0 \\
+  \end{cases} & \href{/math/0%20Core%20Courses/4%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module3%20absolute%20values.html#self-comparison}{\textsf{self-comparison property of absolute value}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+| Platform    | Course                                                                                                          | Coursewares                                                       |
+|-------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| YouTube     | [Watch](https://www.youtube.com/watch?v=cL4l9Ed5w-Q&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                    | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnce?playlist=x9h6d2)                                              |                                                                   |
+| Rumble      | [Watch](https://rumble.com/v6s94zp-5-chapter1-real-numbers-ratios-absolute-values-module3-absolute-values.html) |                                                                   |
+

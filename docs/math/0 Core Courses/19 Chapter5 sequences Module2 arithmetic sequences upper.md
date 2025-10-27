@@ -821,7 +821,7 @@ $
 \textsf{(B)} \: 49 &
 \textsf{(C)} \: 59 &
 \textsf{(D)} \: 133 &
-\textsf{(E)} \: \textsf{none} & \\
+\textsf{(E)} \: \nexists & \\
 \end{array}
 $  
 :::
@@ -887,7 +887,7 @@ $
 \textsf{(B)} \: S_1,S_2,\cdots,S_5\textsf{ are all less than }0\textsf{, while }S_6,S_7,\cdots\textsf{ are all greater than }0 & \\
 \textsf{(C)} \: S_1,S_2,\cdots,S_9\textsf{ are all less than }0\textsf{, while }S_{10},S_{11},\cdots\textsf{ are all greater than }0 & \\
 \textsf{(D)} \: S_1,S_2,\cdots,S_{10}\textsf{ are all less than }0\textsf{, while }S_{11},S_{12},\cdots\textsf{ are all greater than }0 & \\
-\textsf{(E)} \: \textsf{none} & \\
+\textsf{(E)} \: \nexists & \\
 \end{array}
 $  
 :::
