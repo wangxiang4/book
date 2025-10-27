@@ -329,7 +329,8 @@ x\gt2 \Longrightarrow x-1-\left|x-4\right|\\
 \textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}} \\
 x\lt3 \Longrightarrow \left|x-1\right|+x-4 \\
 \textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}+\textsf{(2)}} \\
-\left\{2 < m < 5\right\}\cap\left\{4 < m < 5\right\}=4 < m < 5 \\
+\left\{x\gt2\right\}\cap\left\{x\lt3\right\}=2\lt x\lt3 \\
+2\lt x\lt3 \Longrightarrow x-1+x-4=2x-5 \\
 \end{array}
 $  
 :::
@@ -351,6 +352,52 @@ $
   a & a\ge0 \\
   -a & a\lt0 \\
   \end{cases} & \href{/math/0%20Core%20Courses/4%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module3%20absolute%20values.html#equivalence}{\textsf{equivalence property of absolute value}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 6.Focus 4 
+__The non-negativity__  
+- Non-negativity is an important property of absolute value.
+  If __the sum of several non-negative numbers equals zero__,
+  then __each non-negative number must be zero__;
+  __the sum of a finite number of non-negative numbers is still non-negative__.
+
+  
+### $\fbox{24}\:$If $\small (\sqrt{3}-a)^2$ and $\small \left|b-1\right|$ are opposite numbers, find $\small \frac{2}{a-b}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \sqrt{3}+1 &
+\textsf{(B)} \: \sqrt{3} &
+\textsf{(C)} \: \sqrt{3}-1 &
+\textsf{(D)} \: 0 &
+\textsf{(E)} \: 1 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+ & \textsf{TODO} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{()}$  
+  > According to the Solution, get $ $, so choose $ $. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \left|a\right|\ge0 & \href{/math/0%20Core%20Courses/4%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module3%20absolute%20values.html#symmetry}{\textsf{non-negativity property of absolute value}} \\
   \end{array}
   >$
 
