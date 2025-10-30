@@ -200,15 +200,15 @@ __The variable ratio problems (involving a constant quantity)__
   analyze __the parts of the changing quantities__,
   and then find __the value of each part__.
 
-### $\fbox{5}\:$The ratio of the amount of bread stored in warehouses $\small A$ and $\small B$ is $\small 4:3$. Now, $\small 10\textsf{K}$ of bread is moved from warehouse $\small A$. After the transfer, the ratio of the bread weight in warehouses $\small A$ and $\small B$ becomes $7:6$. Find the original amount of bread in warehouse $\small A$.
+### $\fbox{5}\:$The ratio of the amount of bread stored in warehouses $\small A$ and $\small B$ is $\small 4:3$. Now, $\small 10\textsf{K}$ of bread is moved from warehouse $\small A$. After the transfer, the ratio of the bread amount in warehouses $\small A$ and $\small B$ becomes $7:6$. Find the original amount of bread in warehouse $\small A$.
 ::: wrap  
 $
 \begin{array}{lllll}
-\textsf{(A)} \: 70\textsf{K tons} &
-\textsf{(B)} \: 78\textsf{K tons}  &
-\textsf{(C)} \: 80\textsf{K tons}  &
-\textsf{(D)} \: 85\textsf{K tons}  &
-\textsf{(E)} \: 88\textsf{K tons}  & \\
+\textsf{(A)} \: 70\textsf{K} &
+\textsf{(B)} \: 78\textsf{K}  &
+\textsf{(C)} \: 80\textsf{K}  &
+\textsf{(D)} \: 85\textsf{K}  &
+\textsf{(E)} \: 88\textsf{K}  & \\
 \end{array}
 $  
 :::
@@ -219,7 +219,7 @@ $
 B=\textsf{constant quantity} \\
 A:B=4:3=8:6 & \textsf{before}\\
 A:B=7:6=7:6 & \textsf{after} \\
-8\textsf{ parts}-7\textsf{ parts}=1\textsf{ part} \\
+A_-=8\textsf{ parts}-7\textsf{ parts}=1\textsf{ part} \\
 1\textsf{ part}=10\textsf{K} \\
 A_\textsf{origin}=8\cdot10\textsf{K}=80\textsf{K} \\
 \end{array}
@@ -229,7 +229,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(C)}$  
-  > According to the Solution, get $A_\textsf{before}=80\textsf{K}$, so choose $C$. 
+  > According to the Solution, get $A_\textsf{origin}=80\textsf{K}$, so choose $C$. 
 
   :::
 ---
@@ -253,7 +253,7 @@ $
 \textsf{boys}=\textsf{constant quantity} \\
 \textsf{boys}:\textsf{girls}=7:2 & \textsf{before} \\
 \textsf{boys}:\textsf{girls}=7:3 & \textsf{after} \\
-3\textsf{ parts}-2\textsf{ parts}=1\textsf{ part} \\
+\textsf{girls}_+=3\textsf{ parts}-2\textsf{ parts}=1\textsf{ part} \\
 9\textsf{ parts}=108 \\
 1\textsf{ part}=\frac{108}{9}=12 \\
 \textsf{girls}_\textsf{arrive}=1=12 \\
@@ -265,6 +265,45 @@ $
   ::: wrap
   > $\boldsymbol{(D)}$  
   > According to the Solution, get $\textsf{girls}_\textsf{arrive}=12$, so choose $D$. 
+
+  :::
+---
+
+### $\fbox{7}\:$On the playground, the ratio of boys to girls was originally $\small 19:12$. First, some girls were added, making the ratio $\small 20:13$. Then some boys were added, making the final ratio $\small 30:19$. If the number of boys added was $\small 3$ more than the number of girls added, find the final total number of people on the playground.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 686 &
+\textsf{(B)} \: 637 &
+\textsf{(C)} \: 700 &
+\textsf{(D)} \: 661 &
+\textsf{(E)} \: 600 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{boys}=\textsf{constant quantity} \\
+\textsf{boys}:\textsf{girls}=19:12=380:240 & \textsf{before} \\
+\textsf{boys}:\textsf{girls}=20:13=380:247 & \textsf{after} \\
+\textsf{girls}_+=247\textsf{ parts}-240\textsf{ parts}=7\textsf{ parts} \\
+\textsf{girls}=\textsf{constant quantity} \\
+\textsf{boys}:\textsf{girls}=20:13=380:247 & \textsf{before} \\
+\textsf{boys}:\textsf{girls}=30:19=390:247 & \textsf{after} \\
+\textsf{boys}_+=390\textsf{ parts}-380\textsf{ parts}=10\textsf{ parts} \\
+\textsf{boys}_+-\textsf{girls}_+=3\textsf{ parts}=3 \\
+1\textsf{ part}=\frac{3}{3}=1 \\
+\textsf{people}_\textsf{total}=390+247\cdot1=637 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $\textsf{people}_\textsf{total}=637$, so choose $B$. 
 
   :::
 ---
