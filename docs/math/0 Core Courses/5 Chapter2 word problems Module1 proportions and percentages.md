@@ -144,3 +144,127 @@ $
 
   :::
 ---
+
+## 3.Focus 3
+__The fixed ratio problems (given partial quantity, find partial quantity)__
+- First,
+  identify __the intermediary quantity that links the parts__,
+  then __set up an unknown or an equation to solve__.
+  
+
+### $\fbox{4}\:$A department has $\small 420$ male employees, and the number of male employees is $\small 1\frac{1}{3}$ times the number of female employees. Those with more than $\small 20$ years of service make up $\small 20\%$ of all employees. Employees with from $\small 10$ to $\small 20$ years of service are half the number of those with less than $\small 10$ years of service. How many employees have less than $\small 10$ years of service $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 250 &
+\textsf{(B)} \: 275 &
+\textsf{(C)} \: 392 &
+\textsf{(D)} \: 401 &
+\textsf{(E)} \: 500 & \\
+\end{array}
+$  
+:::
+#### Solution
+![Question proportions and percentages figure Q-4 solve-1.svg](../../public/math/Core%20Courses/Question%20proportions%20and%20percentages%20figure%20Q-4%20solve-1.svg)  
+::: wrap  
+$
+\begin{array}{ll}
+1\frac{1}{3}=\frac{3}{3}+\frac{1}{3}=\frac{4}{3} \\
+\textsf{male employees}=\frac{4}{3}\cdot\textsf{female employees}=420 \\
+\textsf{female employees}=\frac{3}{4}\cdot420=\frac{1260}{4}=315 \\
+x\gt20=20\% \\
+\left.
+\begin{array}{cc}
+10\le x\le20 \\
+x\lt10 \\
+\end{array}
+\right\}80\% \\
+10\le x\le20:x\lt10 = 1:2 \Longrightarrow \frac{1}{3}:\frac{2}{3} \\
+x\lt10=735\cdot80\%\cdot\frac{2}{3}=\frac{735\cdot0.8\cdot2}{3}=\frac{1176}{3}=392 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $x\lt10=392$, so choose $C$. 
+
+  :::
+---
+
+## 4.Focus 4
+__The variable ratio problems (involving a constant quantity)__  
+- The standard method is to __set unknown variables and solve__,
+  while __a more concise method is to use the combined parts of the constant quantity__,
+  analyze __the parts of the changing quantities__,
+  and then find __the value of each part__.
+
+### $\fbox{5}\:$The ratio of the amount of bread stored in warehouses $\small A$ and $\small B$ is $\small 4:3$. Now, $\small 10\textsf{K}$ of bread is moved from warehouse $\small A$. After the transfer, the ratio of the bread weight in warehouses $\small A$ and $\small B$ becomes $7:6$. Find the original amount of bread in warehouse $\small A$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 70\textsf{K tons} &
+\textsf{(B)} \: 78\textsf{K tons}  &
+\textsf{(C)} \: 80\textsf{K tons}  &
+\textsf{(D)} \: 85\textsf{K tons}  &
+\textsf{(E)} \: 88\textsf{K tons}  & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+B=\textsf{constant quantity} \\
+A:B=4:3=8:6 & \textsf{before}\\
+A:B=7:6=7:6 & \textsf{after} \\
+8\textsf{ parts}-7\textsf{ parts}=1\textsf{ part} \\
+1\textsf{ part}=10\textsf{K} \\
+A_\textsf{origin}=8\cdot10\textsf{K}=80\textsf{K} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $A_\textsf{before}=80\textsf{K}$, so choose $C$. 
+
+  :::
+---
+
+### $\fbox{6}\:$There are $\small 108$ people running on the playground. Among them, girls make up $\small \frac{2}{9}$ of the total. After some more girls arrive, the number of girls becomes $\small \frac{3}{7}$ of the number of boys. Find how many girls arrived.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 6 &
+\textsf{(B)} \: 8 &
+\textsf{(C)} \: 10 &
+\textsf{(D)} \: 12 &
+\textsf{(E)} \: 15 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{boys}=\textsf{constant quantity} \\
+\textsf{boys}:\textsf{girls}=7:2 & \textsf{before} \\
+\textsf{boys}:\textsf{girls}=7:3 & \textsf{after} \\
+3\textsf{ parts}-2\textsf{ parts}=1\textsf{ part} \\
+9\textsf{ parts}=108 \\
+1\textsf{ part}=\frac{108}{9}=12 \\
+\textsf{girls}_\textsf{arrive}=1=12 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $\textsf{girls}_\textsf{arrive}=12$, so choose $D$. 
+
+  :::
+---
