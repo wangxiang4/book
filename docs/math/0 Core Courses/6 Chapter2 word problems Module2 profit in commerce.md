@@ -165,3 +165,80 @@ __The continuous rate of change__
     \end{array}
     $  
     :::  
+
+### $\fbox{13}\:$The annual interest rate for a one-year fixed deposit at the bank is $\small 10\%$. Mike deposited $\small 10\textsf{K USD}$ on January 1, 2022, and withdrew it on January 1, 2025. If the interest is compounded annually, what is the total amount (principal plus interest) he will receive upon withdrawal $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 10.3\textsf{K USD} &
+\textsf{(B)} \: 10.303\textsf{K USD} &
+\textsf{(C)} \: 13\textsf{K USD} & \\
+\textsf{(D)} \: 13.31\textsf{K USD} &
+\textsf{(E)} \: 14.641\textsf{K USD} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+10000(1+10\%)^{4-1}=10000\cdot1.1^3 \\
+10000\cdot1.331=13310 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $13310$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  a(1+p)^{k-1} & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_11-focus-10}{\textsf{continuous rate of change formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{14}\:$
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \:  &
+\textsf{(B)} \:  &
+\textsf{(C)} \:  &
+\textsf{(D)} \:  &
+\textsf{(E)} \:  & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+ & \textsf{} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{()}$  
+  > According to the Solution, get $ $, so choose $ $. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+   & \textsf{} \\
+  \end{array}
+  >$
+
+  :::
+---
