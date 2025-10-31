@@ -7,9 +7,11 @@ lang: en-US
 
 ## 1.Focus 1
 __The fixed ratio problems (given total quantity, find partial quantity)__  
+::: wrap  
 - The standard method is to __set unknown variables and solve__,
   while __a more concise method is to use the formula__:
   $\textsf{partial quantity}=\textsf{total quantity}\cdot\textsf{corresponding ratio}$
+:::  
 
 ### $\fbox{1}\:$A company borrows $\small 340\textsf{K USD}$ from the bank and distributes it to its three departments ($\small A,B$, and $\small C$) for technical upgrades according to the ratio $\small \frac{1}{2}:\frac{1}{3}:\frac{1}{9}$. How much does department $\small A$ receive $\small \mathpunct{?}$.
 ::: wrap  
