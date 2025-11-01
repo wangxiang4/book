@@ -205,15 +205,15 @@ $
   :::
 ---
 
-### $\fbox{14}\:$
+### $\fbox{14}\:$From the end of 2005 to the end of 2009, the annual growth rate of an industry's output value was $\small q$. From the end of 2009 to the end of 2013, the average annual growth rate of its output value decreased by $\small 40\%$ compared with the previous four years. By the end of 2013, the output value was approximately $\small 14.46$ ($\small \approx 1.95^4$) times that of 2005. Find the value of $\small q$. 
 ::: wrap  
 $
 \begin{array}{lllll}
-\textsf{(A)} \:  &
-\textsf{(B)} \:  &
-\textsf{(C)} \:  &
-\textsf{(D)} \:  &
-\textsf{(E)} \:  & \\
+\textsf{(A)} \: 30\% &
+\textsf{(B)} \: 35\% &
+\textsf{(C)} \: 40\% &
+\textsf{(D)} \: 45\% &
+\textsf{(E)} \: 50\% & \\
 \end{array}
 $  
 :::
@@ -221,24 +221,42 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
- & \textsf{} \\
+\textsf{2005} \overset{q}{\longrightarrow} \textsf{2009} \xrightarrow{q(1-40\%)=0.6q} \textsf{2013} \\
+\textsf{let }\textsf{2005}=100\%=1 \\
+\textsf{2009}=1\cdot(1+q)^{5-1} \\
+\textsf{2013}=1\cdot(1+q)^{5-1}\cdot(1+0.6q)^{5-1} \\
+(1+q)^4\cdot(1+0.6q)^4=14.46=1.95^4 & \textsf{2013}=\textsf{2005}\\
+(1+q)(1+0.6q)=1.95 & \textsf{annual growth rate}\ge0 \\
+(1+0.5)(1+0.6\cdot0.5) & \textsf{substitute }q=50\% \\
+1.5\cdot1.3=1.95 \\
 \end{array}
 $  
 :::  
 #### Conclusion
 - Derived Solution  
   ::: wrap
-  > $\boldsymbol{()}$  
-  > According to the Solution, get $ $, so choose $ $. 
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $q=50\%$, so choose $E$. 
 
   :::
 - Formulas used  
   ::: wrap
   >$
   \begin{array}{ll}
-   & \textsf{} \\
+  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  a(1+p)^{k-1} & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_11-focus-10}{\textsf{continuous rate of change formula}} \\
   \end{array}
   >$
 
   :::
 ---
+
+# Module 2-02 Profit in Commerce
+
+## 1.Profit and Margin Formulas
+::: wrap
+1. $\textsf{profit}=\textsf{selling price}-\textsf{cost price}$  
+2. $\textsf{profit margin}=\frac{\textsf{profit}}{\textsf{cost price}}\cdot100\%$  
+3. $\textsf{profit}=\textsf{profit margin}\cdot\textsf{cost price}$
+4. $\textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit margin})$
+:::  
