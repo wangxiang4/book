@@ -253,10 +253,57 @@ $
 
 # Module 2-02 Profit in Commerce
 
-## 1.Profit and Margin Formulas
+## 1.Profit and Profit Rate Formulas
 ::: wrap
 1. $\textsf{profit}=\textsf{selling price}-\textsf{cost price}$  
-2. $\textsf{profit margin}=\frac{\textsf{profit}}{\textsf{cost price}}\cdot100\%$  
-3. $\textsf{profit}=\textsf{profit margin}\cdot\textsf{cost price}$
-4. $\textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit margin})$
+2. $\textsf{profit rate}=\frac{\textsf{profit}}{\textsf{cost price}}\cdot100\%$  
+3. $\textsf{profit}=\textsf{profit rate}\cdot\textsf{cost price}$
+4. $\textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate})$  
+   $\textsf{cost price}=\frac{\textsf{selling price}}{1+\textsf{profit rate}}$
 :::  
+
+## 2.Focus 1
+__The cost price or selling price__  
+- Determine based on the formula:
+  $\boldsymbol{\textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate})}$
+- __The base value for the profit rate is the cost price__.
+
+### $\fbox{15}\:$The cost of a product is $\small 240\textsf{ USD}$. If it is sold at $\small 80\%$ of its marked price, and the profit rate is $\small 15\%$, what is the marked price of the product $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 276\textsf{ USD} &
+\textsf{(B)} \: 331\textsf{ USD} &
+\textsf{(C)} \: 345\textsf{ USD} &
+\textsf{(D)} \: 360\textsf{ USD} &
+\textsf{(E)} \: 400\textsf{ USD} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate})=\textsf{marked price}\cdot0.8 \\
+240\cdot1.15=\textsf{marked price}\cdot0.8 \\
+\textsf{marked price}=\frac{240\cdot1.15}{0.8}=300\cdot1.15=345 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $\textsf{marked price}=345$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
