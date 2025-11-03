@@ -686,18 +686,27 @@ $
 ---
 
 ## 6.Focus 5
-__The todo__  
-- todo
+__The restoring the original price__  
+- If the original price is $\boldsymbol{a}$,
+  and it is first __reduced by $\boldsymbol{p\%}$__,
+  then __increased by $\boldsymbol{\frac{p\%}{1-p\%}}$__,
+  the value returns to $\boldsymbol{a}$.  
+  $a(1-p\%)(1+x)=a \quad x=\frac{p\%}{1-p\%}$
+- If the original price is $\boldsymbol{a}$,
+  and it is first __increased by $\boldsymbol{p\%}$__,
+  then __reduced by $\boldsymbol{\frac{p\%}{1+p\%}}$__,
+  the value returns to $\boldsymbol{a}$.  
+  $a(1+p\%)(1-x)=a \quad x=\frac{p\%}{1+p\%}$
 
-### $\fbox{24}\:$TODO
+### $\fbox{24}\:$After a product's price is reduced by $\small 20\%$, by what percentage should it be increased to restore the original price $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
-\textsf{(A)} \:  &
-\textsf{(B)} \:  &
-\textsf{(C)} \:  &
-\textsf{(D)} \:  &
-\textsf{(E)} \:  & \\
+\textsf{(A)} \: 20\% &
+\textsf{(B)} \: 25\% &
+\textsf{(C)} \: 22\% &
+\textsf{(D)} \: 15\% &
+\textsf{(E)} \: 24\% & \\
 \end{array}
 $  
 :::
@@ -705,22 +714,39 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
- & \textsf{} \\
+a(1-p\%)(1+x)=a & x=\frac{p\%}{1-p\%} \\
+x=\frac{20\%}{1-20\%}=\frac{0.2}{0.8}=0.25=25\% \\
 \end{array}
 $  
 :::  
 #### Conclusion
 - Derived Solution  
   ::: wrap
-  > $\boldsymbol{()}$  
-  > According to the Solution, get $ $, so choose $ $. 
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $x=25\%$, so choose $B$. 
 
   :::
 - Formulas used  
   ::: wrap
   >$
   \begin{array}{ll}
-   & \textsf{} \\
+  a(1-p\%)(1+\frac{p\%}{1-p\%})=a & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_6-focus-5}{\textsf{discount–markup inverse relationship}} \\
+  \end{array}
+  >$
+
+  :::
+- Additionally, if the problem is: A product is __reduced by $\boldsymbol{20\%}$__, then __increased by $\boldsymbol{10%}$__.
+  How much more must it increase to return to __the original price__ $\small \mathpunct{?}$.  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{let }\textsf{price}_\textsf{origin}=1 \\
+  1(1-20\%)(1+10\%)(1+x)=1 \\
+  0.8\cdot1.1\cdot(1+x)=1 \\
+  0.88\cdot(1+x)=1 \\
+  1+x=\frac{1}{0.88} \\
+  x=1.136-1 \\
+  x\approx0.136\approx13.6\% \\
   \end{array}
   >$
 
