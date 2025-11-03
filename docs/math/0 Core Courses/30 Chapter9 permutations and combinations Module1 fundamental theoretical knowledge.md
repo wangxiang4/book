@@ -323,7 +323,7 @@ $
 ---
 
 ## 6.Focus 3
-__The addition and multiplication coexist__
+__The coexistence of addition and multiplication__
 - When both classification and step-by-step processes appear together, you should __first classify at a macro level__, then __break down into steps at a micro level__.  
 
 

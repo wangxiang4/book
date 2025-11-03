@@ -3,13 +3,6 @@ title: Chapter2 Word Problems – Module2 Profit in Commerce
 lang: en-US
 ---
 
-| Platform    | Course                                                                                       | Coursewares                                                       |
-|-------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=KeREF8Zw0vQ&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnai?playlist=x9h6d2)                           |                                                                   |
-| Rumble      | [Watch](https://rumble.com/v6s954d-7-chapter2-word-problems-module2-product-profits.html)    |                                                                   |
-
-
 ## 8.Rate of Change Formulas
 ::: wrap  
 1. $a_{\textsf{before}} \xrightarrow{\textsf{increased by }p\%} a_{\textsf{after}}=a_{\textsf{before}}(1+p\%)$  
@@ -302,8 +295,440 @@ $
   >$
   \begin{array}{ll}
   \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  A=B\cdot p\% & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
   \end{array}
   >$
 
   :::
 ---
+
+### $\fbox{16}\:$Store $\small A\textsf{'s}$ cost is $\small 10\%$ lower than Store $\small B\textsf{'s}$ cost. Store $\small A$ sets its price with a $\small 30\%$ profit rate, while Store $\small B$ sets its price with a $\small 20\%$ profit rate. As a result, Store $\small B\textsf{'s}$ price is $\small 6\textsf{ USD}$ higher than Store $\small A\textsf{'s}$. Find the selling price of Store $\small B$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 200 &
+\textsf{(B)} \: 210 &
+\textsf{(C)} \: 220 &
+\textsf{(D)} \: 230 &
+\textsf{(E)} \: 240 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let }B\textsf{ cost price}=x \quad A\textsf{ cost price}=x(1-10\%)=0.9x \\
+x\cdot(1+20\%)-0.9x\cdot(1+30\%)=6 \\
+1.2x-1.17x=6 \\
+0.03x=6 \\
+x=\frac{6}{0.03}=200 \\
+B\textsf{ selling price}=200\cdot(1+20\%)=240 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $B\textsf{ selling price}=240$, so choose $E$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 3.Focus 2
+__The sales volume__
+- Form an equation based on __the relationship among cost price, selling price, and profit__ to find __the sales volume__.
+
+### $\fbox{17}\:$The cost price per item in both Stores $\small A$ and $\small B$ is $\small 200 \textsf{ USD}$. Store $\small A$ sells it at a price $\small 20\%$ higher than the cost, while Store $\small B$ sells it at a price $\small 15\%$ higher than the cost. As a result, Store $\small B\textsf{'s}$ sales volume is twice that of Store $\small A$. After deducting a business tax of $\small 5\%$ on total revenue, Store $\small B\textsf{'s}$ profit is $\small 5.4\textsf{K USD}$ more than Store $\small A\textsf{'s}$. Find the sales volumes of Stores $\small A$ and $\small B$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 450,900 &
+\textsf{(B)} \: 500,1000 &
+\textsf{(C)} \: 550,1100 & \\
+\textsf{(D)} \: 600,1200 &
+\textsf{(E)} \: 650,1300 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let }A\textsf{ sales volume}=x \quad B\textsf{ sales volume}=2x \\
+A\textsf{ profit}_{\textsf{an item}}=200\cdot20\%-200\cdot(1+20\%)\cdot5\% \\
+200\cdot0.2-200\cdot1.2\cdot0.05 \\
+40-12=28 \\
+B\textsf{ profit}_{\textsf{an item}}=200\cdot15\%-200\cdot(1+15\%)\cdot5\% \\
+200\cdot0.15-200\cdot1.15\cdot0.05 \\
+30-11.5=18.5 \\
+18.5\cdot2x-28x=5400 \\
+37x-28x=5400 \\
+9x=5400 \\
+x=\frac{5400}{9}=600 \\
+A_\textsf{sales volume}=600 \\
+B_\textsf{sales volume}=2\cdot600=1200 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $600,1200$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{profit}=\textsf{profit rate}\cdot\textsf{cost price} & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  A=B\cdot p\% & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 4.Focus 3
+__The price change (discounts and promotions)__  
+- Master __the transformations of the formulas__:  
+  $
+  \begin{array}{ll}
+  \textsf{profit rate}=\frac{\textsf{profit}}{\textsf{cost price}}\cdot100\% \\
+  =\frac{\textsf{selling price}-\textsf{cost price}}{\textsf{cost price}}\cdot100\% \\
+  =(\frac{\textsf{selling price}}{\textsf{cost price}}-1)\cdot100\% \\
+  \Longrightarrow \frac{\textsf{selling price}}{\textsf{cost price}}=1+\textsf{profit rate} \\
+  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) \\
+  \Longrightarrow \textsf{selling price}-\textsf{cost price}=\textsf{cost price}\cdot\textsf{profit}
+  \end{array}
+  $
+
+### $\fbox{18}\:$A store increases the price of each piece of clothing by $\small 50\%$ above the cost price, then offers a $\small 30\%$ discount. Each sale yields a profit of $\small 625\textsf{ USD}$. Given that the cost price of each item is $\small 2\textsf{K USD}$, how much higher is the selling price than the cost price $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 100 &
+\textsf{(B)} \: 110 &
+\textsf{(C)} \: 125 &
+\textsf{(D)} \: 135 &
+\textsf{(E)} \: 155 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{selling price}=\textsf{cost price}+\textsf{profit}=2000+625=2625 \\
+\textsf{selling price}=\textsf{cost price}\cdot(1+50\%)\cdot70\%=2625 \\
+\textsf{cost price}\cdot1.5\cdot0.7=2625 \\
+\textsf{cost price}\cdot1.05=2625 \\
+\textsf{cost price}=\frac{2625}{1.05}=2500 \\
+2625-2500=2500\cdot(1.05-1)=125 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $125$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) \\
+  \Longrightarrow \textsf{selling price}-\textsf{cost price}=\textsf{cost price}\cdot\textsf{profit} & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_4-focus-3}{\textsf{profit formula}} \\
+  A=B\cdot p\% & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{19}\:$A store sells a product at $\small 90\%$ of its marked price and earns a $\small 20\%$ profit. If the cost price of the product is $\small 21\textsf{ USD}$, what is the marked price of the product $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 26\textsf{ USD} &
+\textsf{(B)} \: 28\textsf{ USD} &
+\textsf{(C)} \: 30\textsf{ USD} &
+\textsf{(D)} \: 32\textsf{ USD} &
+\textsf{(E)} \: 34\textsf{ USD} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{selling price}=21\cdot(1+20\%)=\textsf{marked price}\cdot90\% \\
+21\cdot1.2=\textsf{marked price}\cdot0.9 \\
+25.2=\textsf{marked price}\cdot0.9 \\
+\textsf{marked price}=\frac{25.2}{0.9}=28 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $\textsf{marked price}=28$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  A=B\cdot p\% & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{20}\:$A clothing store reduces its prices. With the amount of money that could originally buy $\small 8$ pieces, one can now buy $\small 10$ pieces. What is the percentage decrease in the price of the clothing $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 16\% &
+\textsf{(B)} \: 20\% &
+\textsf{(C)} \: 25\% &
+\textsf{(D)} \: 28\% &
+\textsf{(E)} \: 30\% & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let }\textsf{per piece cost}_\textsf{origin}=10 \quad \textsf{per piece cost}_\textsf{now}=8 \\
+\textsf{profit rate}=\frac{10-8}{10}\cdot100\%=\frac{2}{10}=0.2=20\%
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $\textsf{profit rate}=20\%$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{profit rate}=\frac{\textsf{profit}}{\textsf{cost price}}\cdot100\% & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{21}\:$A store sells a product at the marked price and earns a profit of $\small 45\textsf{ USD}$ per item. If it sells $\small 8$ items at $\small 85\%$ of the marked price and $\small 12$ items at a price $\small 35\textsf{ USD}$ lower than the marked price, the total profits are the same. Find the cost price of the product.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 155 &
+\textsf{(B)} \: 165 &
+\textsf{(C)} \: 175 &
+\textsf{(D)} \: 185 &
+\textsf{(E)} \: 195 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let cost price}=x \quad \textsf{marked price}=x+45 \\
+[(x+45)\cdot85\%-x]\cdot8=(x+45-35-x)\cdot12 \\
+[(x+45)\cdot0.85-x]\cdot8=10\cdot12 \\
+0.85x+45\cdot0.85-x=\frac{120}{8} \\
+\frac{45\cdot0.85-0.15x}{15}=\frac{15}{15} \\
+3\cdot0.85-0.01x=1 \\
+2.55=0.01x+1 \\
+1.55=0.01x \\
+x=\frac{1.55}{0.01}=155 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $x=155$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  A=B\cdot p\% & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \textsf{profit}=\textsf{selling price}-\textsf{cost price} & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{22}\:$The store purchased a batch of goods for $\small 10\textsf{K USD}$ and priced them with a $\small 25\%$ profit rate on the cost. After selling $\small 30\%$ of the total goods, the store decided to offer a discount. After selling all the goods, the store incurred a loss of $\small 1\textsf{K USD}$. What discount percentage did the store apply on the marked price $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 90\% &
+\textsf{(B)} \: 80\% &
+\textsf{(C)} \: 75\% &
+\textsf{(D)} \: 65\% &
+\textsf{(E)} \: 60\% & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let }\textsf{per piece cost}=100 \quad \textsf{quantity}=\frac{10000}{100}=100\textsf{ pieces} \\
+100\textsf{ pieces}
+\begin{cases}
+\textsf{per piece marked}=100\cdot(1+25\%)=125 & 30\textsf{ pieces} \\
+\textsf{per piece marked}=x & 70\textsf{ pieces} \\
+\end{cases} \\
+125\cdot30+70x=10000-1000 \\
+\frac{3750+70x}{10}=\frac{9000}{10} \\
+375+7x=900 \\
+7x=525 \\
+x=\frac{525}{7}=75 \\
+\textsf{discount}=\frac{75}{125}\cdot100\%=0.6=60\% \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $\textsf{discount}=60\%$, so choose $E$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \textsf{profit rate}=\frac{\textsf{profit}}{\textsf{cost price}}\cdot100\% & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 5.Focus 4
+__The coexistence of profit and loss__  
+- Analyze using the formula: $\boldsymbol{\textsf{net profit}=\textsf{gain}–\textsf{loss}}$.
+
+### $\fbox{23}\:$A store sold two gift sets, each at a selling price of $\small 210\textsf{ USD}$. Based on their cost prices, one set was sold at a $\small 25\%$ profit, and the other at a $\small 25\%$ loss. As a result, the store:
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \textsf{broke even} &
+\textsf{(B)} \: \textsf{gained }24\textsf{ USD} &
+\textsf{(C)} \: \textsf{lost }28\textsf{ USD} & \\
+\textsf{(D)} \: \textsf{lost }24\textsf{ USD} &
+\textsf{(E)} \: \textsf{gained }28\textsf{ USD} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{net profit}=\textsf{total revenue}-\textsf{total cost} \\
+210\cdot2-\frac{210}{1+25\%}-\frac{210}{1-25\%} \\
+420-168-280=-28 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $\textsf{net profit}=-28$, so choose $E$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{cost price}=\frac{\textsf{selling price}}{1+\textsf{profit rate}} & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 6.Focus 5
+__The todo__  
+- todo
+
+### $\fbox{24}\:$TODO
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \:  &
+\textsf{(B)} \:  &
+\textsf{(C)} \:  &
+\textsf{(D)} \:  &
+\textsf{(E)} \:  & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+ & \textsf{} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{()}$  
+  > According to the Solution, get $ $, so choose $ $. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+   & \textsf{} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+| Platform    | Course                                                                                       | Coursewares                                                       |
+|-------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| YouTube     | [Watch](https://www.youtube.com/watch?v=KeREF8Zw0vQ&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnai?playlist=x9h6d2)                           |                                                                   |
+| Rumble      | [Watch](https://rumble.com/v6s954d-7-chapter2-word-problems-module2-product-profits.html)    |                                                                   |
