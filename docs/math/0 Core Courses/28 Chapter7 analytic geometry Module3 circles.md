@@ -9,10 +9,9 @@ lang: en-US
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Standard form  
 - A circle with center $\boldsymbol{(x_0,y_0)}$ and radius $r$ can be represented by the equation: $(x-x_0)^2+(y-y_0)^2=r^2$.
-- __Equation derivation__   
-  ::: wrap    
+- __Equation derivation__  
   ![Circle standard form derivation.svg](../../public/math/Core%20Courses/Circle%20standard%20form%20derivation.svg)  
-
+  ::: wrap  
   $
   \begin{array}{ll}
   \sqrt{(x-x_0)^2+(y-y_0)^2} = r & \href{/math/0%20Core%20Courses/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{two-point distance formula}} \\
@@ -37,8 +36,7 @@ lang: en-US
 :::   
 - ###### Note: the condition for the general form to represent a circle is $a^2+b^2-4c>0$.  
 - __Equation derivation__   
-  ::: wrap    
-
+  ::: wrap  
   $
   \begin{array}{ll}
   (x-x_0)^2+(y-y_0)^2 = r^2 & \textsf{standard form} \\

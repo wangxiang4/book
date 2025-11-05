@@ -16,7 +16,7 @@ lang: en-US
 - The coordinates of the midpoint between two points $p_1(x_1,y_1)$ and $p_2(x_2,y_2)$ are $(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2})$,average.
   - Special case: the midpoint between point $p_1(x_1,y_1)$ and the origin $(0,0)$ is $(\frac{x_1}{2},\frac{y_1}{2})$.
   - __Formula derivation__  
-    ![Midpoint coordinates formula derivations.svg](../../public/math/Core%20Courses/Midpoint%20coordinates%20formula%20derivations.svg)       
+    ![Midpoint coordinates formula derivation.svg](../../public/math/Core%20Courses/Midpoint%20coordinates%20formula%20derivation.svg)       
     ::: wrap  
     $
     \begin{array}{ll}
@@ -33,7 +33,7 @@ lang: en-US
 - The distance between two points $A(x_1,y_1)$ and $B(x_2,y_2)$ is $d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$.  
 - Special case: the distance between point $A(x,y)$ and the origin $(0,0)$ is $d=\sqrt{x^2+y^2}$.  
 - __Formula derivation__  
-  ![Distance formula between two points derivations.svg](../../public/math/Core%20Courses/Distance%20formula%20between%20two%20points%20derivations.svg)  
+  ![Distance formula between two points derivation.svg](../../public/math/Core%20Courses/Distance%20formula%20between%20two%20points%20derivation.svg)  
   ::: wrap  
   $
   \begin{array}{ll}
