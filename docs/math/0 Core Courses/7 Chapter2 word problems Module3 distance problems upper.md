@@ -11,16 +11,16 @@ lang: en-US
 
 # Module 2-03 Distance Problems
 
-## 1.Linear Distance
+## 1.Straight-Line Distance
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Basic formula
-- $s=vt$  
-  $\boldsymbol{\frac{s_1}{s_2}=\frac{t_1}{t_2}}$: $s$ is in [direct proportion](/math/0%20Core%20Courses/3%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion) to $t$,
+- $s=vt \Longrightarrow \boldsymbol{\frac{s_1}{s_2}=\frac{t_1}{t_2}}$  
+  $s$ is in [direct proportion](/math/0%20Core%20Courses/3%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion) to $t$,
   where $v$ is __the constant of proportionality__.
-- $v=\frac{s}{t}$  
-  $\boldsymbol{\frac{v_1}{v_2}=\frac{t_2}{t_1}}$: $v$ is in [inverse proportion](/math/0%20Core%20Courses/3%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module2%20ratios%20and%20proportions.html#_2-inverse-proportion) to $t$,
+- $v=\frac{s}{t} \Longrightarrow \boldsymbol{\frac{v_1}{v_2}=\frac{t_2}{t_1}}$  
+  $v$ is in [inverse proportion](/math/0%20Core%20Courses/3%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module2%20ratios%20and%20proportions.html#_2-inverse-proportion) to $t$,
   where $s$ is __the constant of proportionality__.
-- $t=\frac{s}{v}$  
-  $\boldsymbol{\frac{s_1}{s_2}=\frac{v_1}{v_2}}$: $s$ is in [direct proportion](/math/0%20Core%20Courses/3%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion) to $v$,
+- $t=\frac{s}{v} \Longrightarrow \boldsymbol{\frac{s_1}{s_2}=\frac{v_1}{v_2}}$  
+  $s$ is in [direct proportion](/math/0%20Core%20Courses/3%20Chapter1%20real%20numbers-ratios-absolute%20values%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion) to $v$,
   where $t$ is __the constant of proportionality__.
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Head-on meeting formula
@@ -93,8 +93,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{linear basic formula}} \\
-  s_{\textsf{meeting}}=s_1+s_2=v_1t+v_2t=(v_1+v_2)t & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#head-on-meeting-formula}{\textsf{linear head-on meeting formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  s_{\textsf{meeting}}=s_1+s_2=v_1t+v_2t=(v_1+v_2)t & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#head-on-meeting-formula}{\textsf{straight-line head-on meeting formula}} \\
   \end{array}
   >$
 
@@ -137,7 +137,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{linear basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   >$
 
@@ -218,11 +218,70 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{linear basic formula}} \\
-  v=\frac{s}{t}\Longrightarrow\frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{linear basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v=\frac{s}{t}\Longrightarrow\frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   >$
 
   :::
 ---
 
+### $\fbox{28}\:$Mike and Mary start from points $\small A$ and $\small B$ at the same time, traveling toward each other. They meet for the first time at a point $\small 40\textsf{m}$ from $\small A$. After meeting, they continue at their original speeds, and upon reaching each other's starting point, they immediately turn back along the same route. On the way back, they meet for the second time at a point $\small 15\textsf{m}$ from $\small B$. Find the distance between points $\small A$ and $\small B$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 80\textsf{m} &
+\textsf{(B)} \: 90\textsf{m} &
+\textsf{(C)} \: 100\textsf{m} &
+\textsf{(D)} \: 105\textsf{m} &
+\textsf{(E)} \: 120\textsf{m} & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question distance problems figure Q-28 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%20Q-28%20solve-1.svg)  
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the straight-line basic formula for fixed-time  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \frac{v_\textsf{mike}}{v_\textsf{mary}}=(\frac{40}{s-40})_\textsf{first}=(\frac{s+15}{2s-15})_\textsf{second} & t=\textsf{constant} \\
+  40(2s-15)=(s-40)(s+15) \\
+  80s-600=s^2+15s-40s-600 \\
+  80s-600=s^2-25s-600 \\
+  s^2-105s=0 \\
+  s(s−105)=0 \\
+  s=105 \\
+  \end{array}
+  $   
+  :::
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the internal section formula (ratio theorem)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \frac{v_1}{v_2}=\frac{s_1}{s_2} & t=\textsf{constant} \\
+  \frac{v_\textsf{mike}}{v_\textsf{mary}+v_\textsf{mike}}=\frac{40}{s-40+40}=\frac{s+15}{2s-15+s+15} \\
+  \frac{40}{s}=\frac{s+15}{3s} \\
+  \frac{3s}{s}=3 \Longrightarrow s+15=3\cdot40 \\
+  s=120-15=105 \\
+  \end{array}
+  $   
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $s=105$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  \frac{b}{a}=\frac{d}{c} \longrightarrow \frac{b+a}{a}=\frac{d+c}{c} \Longleftrightarrow \frac{b}{a+b}=\frac{d}{c+d} & \textsf{internal section formula} \\
+  \end{array}
+  >$
+
+  :::
+---
