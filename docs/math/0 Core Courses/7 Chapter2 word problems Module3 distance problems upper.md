@@ -3,12 +3,6 @@ title: Chapter2 Word Problems – Module3 Distance Problems Upper
 lang: en-US
 ---
 
-| Platform    | Course                                                                                            | Coursewares                                                       |
-|-------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=BikwozG_oh4&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)      | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnak?playlist=x9h6d2)                                |                                                                   |
-| Rumble      | [Watch](https://rumble.com/v6s954z-8-chapter2-word-problems-module3-distance-problems-upper.html) |                                                                   |
-
 # Module 2-03 Distance Problems
 
 ## 1.Straight-Line Distance
@@ -297,8 +291,8 @@ __The straight-line pursuit__
   Within __a certain fixed time__,
   the one behind __catches up with the one ahead__.
   The relationship between pursuit time and distance can be __expressed by an equation__.
-- $\textsf{pursuit time}=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}$
 - $\textsf{difference of distances}=\textsf{difference of speeds}\cdot\textsf{pursuit time}$
+- $t=\frac{\Delta s}{\Delta v}$
 
 
 ### $\fbox{29}\:$A good horse travels $\small 120\textsf{km}$ per day, while a slower horse travels $\small 75\textsf{km}$ per day. The slower horse starts $\small 12$ days earlier. How many days will it take for the good horse to catch up with the slower one $\small \mathpunct{?}$.
@@ -382,3 +376,66 @@ $
   :::
 ---
 
+## 5.Focus 4
+__The straight-line variable speed__  
+- Variable-speed motion is __more complex__;
+  equations are set up based on __the relationship between time and the changes in speed before and after__.  
+- Straight-line variable speed formulas  
+  ![Straight-line variable speed formulas derivation.svg](../../public/math/Core%20Courses/Straight-line%20variable%20speed%20formulas%20derivation.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  v_1,t_1 & \textsf{constant speed} \\
+  v_2,t_2 & \textsf{variable speed} \\
+  \boldsymbol{s=v_1t_1=v_2t_2} & \textsf{distance formula} \\
+  \frac{s}{v_1}-\frac{s}{v_2}=\Delta t & \textsf{time difference formula} \\
+  s(v_2-v_1)=v_1v_2\Delta t \\
+  \boldsymbol{s\Delta v=v_1v_2\Delta t} \\
+  \end{array}
+  $  
+  :::
+
+
+### $\fbox{31}\:$A car departs from Station $\small A$ and travels at a constant speed. $\small 1$ hour later, it breaks down, causing its speed to decrease by $\small 40\%$. As a result, it arrives at its destination, Station $\small B$, $\small 3$ hours later than planned. If the car could have traveled $\small 50\textsf{km}$ farther before breaking down, it would have arrived at Station $\small B$ only $\small 1$ hour and $\small 20$ minutes late. Find the distance between Stations $\small A$ and $\small B$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 412.5\textsf{km} &
+\textsf{(B)} \: 125.5\textsf{km} &
+\textsf{(C)} \: 146.5\textsf{km} &
+\textsf{(D)} \: 152.5\textsf{km} &
+\textsf{(E)} \: 137.5\textsf{km} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+ & \textsf{} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{()}$  
+  > According to the Solution, get $ $, so choose $ $. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+   & \textsf{} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+| Platform    | Course                                                                                            | Coursewares                                                       |
+|-------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| YouTube     | [Watch](https://www.youtube.com/watch?v=BikwozG_oh4&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)      | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnak?playlist=x9h6d2)                                |                                                                   |
+| Rumble      | [Watch](https://rumble.com/v6s954z-8-chapter2-word-problems-module3-distance-problems-upper.html) |                                                                   |
