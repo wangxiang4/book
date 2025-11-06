@@ -93,7 +93,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}=\frac{s_1-s_2}{v_1-v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#pursuit-formula}{\textsf{straight-line pursuit formula}} \\
   s_{\textsf{meeting}}=s_1+s_2=v_1t+v_2t=(v_1+v_2)t & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#head-on-meeting-formula}{\textsf{straight-line head-on meeting formula}} \\
   \end{array}
   >$
@@ -218,7 +218,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}=\frac{s_1-s_2}{v_1-v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#pursuit-formula}{\textsf{straight-line pursuit formula}} \\
   v=\frac{s}{t}\Longrightarrow\frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   >$
@@ -285,3 +285,100 @@ $
 
   :::
 ---
+
+## 4.Focus 3
+__The straight-line pursuit__  
+- Two moving objects travel in __the same direction but under different conditions__ —
+  they may start from __different locations at the same time__,
+  from __the same location at different times__,
+  or from __different locations at different times__.
+  The one behind __moves faster__,
+  and the one ahead __moves slower__.
+  Within __a certain fixed time__,
+  the one behind __catches up with the one ahead__.
+  The relationship between pursuit time and distance can be __expressed by an equation__.
+- $\textsf{pursuit time}=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}$
+- $\textsf{difference of distances}=\textsf{difference of speeds}\cdot\textsf{pursuit time}$
+
+
+### $\fbox{29}\:$A good horse travels $\small 120\textsf{km}$ per day, while a slower horse travels $\small 75\textsf{km}$ per day. The slower horse starts $\small 12$ days earlier. How many days will it take for the good horse to catch up with the slower one $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 12 &
+\textsf{(B)} \: 16 &
+\textsf{(C)} \: 20 &
+\textsf{(D)} \: 22 &
+\textsf{(E)} \: 24 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question distance problems figure Q-29 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%20Q-29%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  t=\frac{75\cdot12}{120-75}=\frac{75\cdot12}{45}=\frac{5\cdot12}{3}=\frac{5\cdot4}{1}=20 \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $t=20$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  t=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}=\frac{s_1-s_2}{v_1-v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#pursuit-formula}{\textsf{straight-line pursuit formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{30}\:$A soldier is pursuing an enemy. The enemy begins fleeing eastward from point $\small A$ at 6:00 am. at a speed of $\small 10\textsf{km/h}$. The soldier receives the order at 10:00 pm. and starts pursuing eastward from point $\small B$ at a speed of $\small 30\textsf{km/h}$. Point $\small B$ is west of point $\small A$, and the distance between $\small A$ and $\small B$ is $\small 60\textsf{km}$. How many hours will it take the soldier to catch up with the enemy $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 10 &
+\textsf{(B)} \: 11 &
+\textsf{(C)} \: 12 &
+\textsf{(D)} \: 14 &
+\textsf{(E)} \: 16 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question distance problems figure Q-30 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%20Q-30%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  22\textsf{h}-6\textsf{h}=16\textsf{h} \\
+  t=\frac{60+16\cdot10}{30-10}=\frac{220}{20}=11 \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $t=11$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  t=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}=\frac{s_1-s_2}{v_1-v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#pursuit-formula}{\textsf{straight-line pursuit formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
