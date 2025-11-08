@@ -143,7 +143,7 @@ __The straight-line round-trip meeting__
 - For __multiple round-trip meetings__,
   set up equations based on __the relationship between their distances__.
 - __Straight-line round-trip discriminant__  
-  - $\boldsymbol{\frac{v_{\textsf{fast}}}{s_\textsf{slow}}=2}$  
+  - $\boldsymbol{\frac{v_{\textsf{a}}}{v_\textsf{b}}=2}$  
     ![Discriminant cases of straight-line round-trip graph 1.svg](../../public/math/Core%20Courses/Discriminant%20cases%20of%20straight-line%20round-trip%20graph%201.svg)  
     ::: wrap  
     $
@@ -154,7 +154,7 @@ __The straight-line round-trip meeting__
     $
     :::  
 
-  - $\frac{v_{\textsf{fast}}}{s_\textsf{slow}}\lt2$  
+  - $\boldsymbol{\frac{v_{\textsf{a}}}{v_\textsf{b}}\lt2}$  
     ![Discriminant cases of straight-line round-trip graph 2.svg](../../public/math/Core%20Courses/Discriminant%20cases%20of%20straight-line%20round-trip%20graph%202.svg)  
     ::: wrap  
     $
@@ -165,7 +165,7 @@ __The straight-line round-trip meeting__
     $
     :::
 
-  - $\frac{v_{\textsf{fast}}}{s_\textsf{slow}}\gt2$  
+  - $\boldsymbol{\frac{v_{\textsf{a}}}{v_\textsf{b}}\gt2}$  
     ![Discriminant cases of straight-line round-trip graph 3.svg](../../public/math/Core%20Courses/Discriminant%20cases%20of%20straight-line%20round-trip%20graph%203.svg)  
     ::: wrap  
     $
@@ -235,7 +235,7 @@ $
 #### Solution
 - Show known conditions  
   ![Question distance problems figure Q-28 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%20Q-28%20solve-1.svg)  
-- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the straight-line basic formula for fixed-time  
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the straight-line basic formula  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -380,7 +380,7 @@ $
 __The straight-line variable speed__  
 - Variable-speed motion is __more complex__;
   equations are set up based on __the relationship between time and the changes in speed before and after__.  
-- Straight-line variable speed formulas  
+- ###### Straight-line variable speed formulas  
   ![Straight-line variable speed formulas derivation.svg](../../public/math/Core%20Courses/Straight-line%20variable%20speed%20formulas%20derivation.svg)  
   ::: wrap  
   $
@@ -391,12 +391,13 @@ __The straight-line variable speed__
   \frac{s}{v_1}-\frac{s}{v_2}=\Delta t & \textsf{time difference formula} \\
   s(v_2-v_1)=v_1v_2\Delta t \\
   \boldsymbol{s\Delta v=v_1v_2\Delta t} \\
+  \boldsymbol{\frac{v_1}{v_2}=\frac{t_2}{t_1}} & \textsf{basic ratio formula}\\
   \end{array}
   $  
   :::
 
 
-### $\fbox{31}\:$A car departs from Station $\small A$ and travels at a constant speed. $\small 1$ hour later, it breaks down, causing its speed to decrease by $\small 40\%$. As a result, it arrives at its destination, Station $\small B$, $\small 3$ hours later than planned. If the car could have traveled $\small 50\textsf{km}$ farther before breaking down, it would have arrived at Station $\small B$ only $\small 1$ hour and $\small 20$ minutes late. Find the distance between Stations $\small A$ and $\small B$.
+### $\fbox{31}\:$A car departs from Station $\small A$ and travels at a constant speed. $\small 1$ hour later, it breaks down, causing its speed to decrease by $\small 40\%$. As a result, it arrives at its destination, Station $\small B$, $\small 3$ hours later than planned. If the car could have traveled $\small 50\textsf{km}$ farther before breaking down, it would have arrived at Station $\small B$ $\small 1$ hour and $\small 20$ minutes earlier than the $\small 3$ hour delay. Find the distance between Stations $\small A$ and $\small B$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -409,25 +410,101 @@ $
 $  
 :::
 #### Solution
-::: wrap  
-$
-\begin{array}{ll}
- & \textsf{} \\
-\end{array}
-$  
-:::  
+- Show known conditions  
+  ![Question distance problems figure Q-31 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%20Q-31%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  t_{\textsf{slow}_{CD}}-t_{\textsf{fast}_{CD}}=\textsf{delay 1h20min}=\frac{3}{3}+\frac{1}{3}=\frac{4}{3}\textsf{h} \\
+  \end{array}
+  $   
+  :::
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the basic ratio formula for variable speed  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  s_{BC} \\
+  \boxed{
+  \begin{array}{ll}
+  v_\textsf{slow}:v_\textsf{fast}=\frac{0.6}{1}=3:5 \\
+  t_\textsf{slow}:t_\textsf{fast}=5:3 \\
+  t_\textsf{slow}-t_\textsf{fast}=5\textsf{ parts}-3\textsf{ parts}=2\textsf{ parts} \\
+  2\textsf{ parts}=3\textsf{h} \\
+  1\textsf{ part}=\frac{3}{2}=1.5\textsf{h} \\
+  t_\textsf{slow}=5\cdot1.5\textsf{h}=7.5\textsf{h} \\
+  t_\textsf{fast}=3\cdot1.5\textsf{h}=4.5\textsf{h} \\
+  \end{array}} \\
+  s_{BD} \\
+  \boxed{
+  \begin{array}{ll}
+  v_\textsf{slow}:v_\textsf{fast}=\frac{0.6}{1}=3:5 \\
+  t_\textsf{slow}:t_\textsf{fast}=5:3 \\
+  t_\textsf{slow}-t_\textsf{fast}=5\textsf{ parts}-3\textsf{ parts}=2\textsf{ parts} \\
+  2\textsf{ parts}=\frac{5}{3}\textsf{h} \\
+  1\textsf{ part}=\frac{\frac{5}{3}}{2}=\frac{5}{3}\cdot\frac{1}{2}=\frac{5}{6}\textsf{h} \\
+  t_\textsf{slow}=5\cdot\frac{5}{6}\textsf{h}\approx4.16\textsf{h} \\
+  t_\textsf{fast}=3\cdot\frac{5}{6}\textsf{h}=2.5\textsf{h} \\
+  \end{array}} \\
+  s_{CD} \\
+  \boxed{
+  \begin{array}{ll}
+  t_\textsf{fast}=4.5\textsf{h}-2.5\textsf{h}=2\textsf{h} \\
+  v_\textsf{fast}=\frac{50}{2}=25 \\
+  \end{array}} \\
+  t_\textsf{fast}=4.5\textsf{h}+1\textsf{h}=5.5\textsf{h} \\
+  s_\textsf{fast}=25\cdot5.5=137.5 \\
+  \end{array}
+  $   
+  :::
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the time-difference formula for variable speed  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  s_{CD} \\
+  \boxed{
+  \begin{array}{ll}
+  s_{CD}\Delta v=v_1v_2\Delta t \\
+  50\cdot(v-0.6v)=v\cdot0.6v\cdot(t_{\textsf{slow}_{CD}}-t_{\textsf{fast}_{CD}}) \\
+  50\cdot0.4v=0.6v^2\cdot\frac{4}{3} \\
+  20v=\frac{4\cdot0.6}{3}v^2 \\
+  20v=0.8v^2 \\
+  0.8v^2-20v=0 \\
+  v(0.8v-20)=0 \\
+  0.8v-20=0 \\
+  0.8v=20 \\
+  v_\textsf{fast}=\frac{20}{0.8}=25 \\
+  \end{array}} \\
+  s_{BC} \\
+  \boxed{
+  \begin{array}{ll}
+  v_\textsf{slow}:v_\textsf{fast}=\frac{0.6}{1}=3:5 \\
+  t_\textsf{slow}:t_\textsf{fast}=5:3 \\
+  t_\textsf{slow}-t_\textsf{fast}=5\textsf{ parts}-3\textsf{ parts}=2\textsf{ parts} \\
+  2\textsf{ parts}=3\textsf{h} \\
+  1\textsf{ part}=\frac{3}{2}=1.5\textsf{h} \\
+  t_\textsf{slow}=5\cdot1.5\textsf{h}=7.5\textsf{h} \\
+  t_\textsf{fast}=3\cdot1.5\textsf{h}=4.5\textsf{h} \\
+  \end{array}} \\
+  t_\textsf{fast}=4.5\textsf{h}+1\textsf{h}=5.5\textsf{h} \\
+  s_\textsf{fast}=25\cdot5.5=137.5 \\
+  \end{array}
+  $   
+  :::
 #### Conclusion
 - Derived Solution  
   ::: wrap
-  > $\boldsymbol{()}$  
-  > According to the Solution, get $ $, so choose $ $. 
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $s_\textsf{fast}=137.5$, so choose $D$.
 
   :::
 - Formulas used  
   ::: wrap
   >$
   \begin{array}{ll}
-   & \textsf{} \\
+  \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{basic ratio of variable speed}} \\
+  v=\frac{s}{t} \Longrightarrow \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  s\Delta v=v_1v_2\Delta t & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{time difference of variable speed}} \\
   \end{array}
   >$
 
