@@ -335,7 +335,7 @@ $
   :::
 ---
 
-### $\fbox{30}\:$A soldier is pursuing an enemy. The enemy begins fleeing eastward from point $\small A$ at 6:00 am. at a speed of $\small 10\textsf{km/h}$. The soldier receives the order at 10:00 pm. and starts pursuing eastward from point $\small B$ at a speed of $\small 30\textsf{km/h}$. Point $\small B$ is west of point $\small A$, and the distance between $\small A$ and $\small B$ is $\small 60\textsf{km}$. How many hours will it take the soldier to catch up with the enemy $\small \mathpunct{?}$.
+### $\fbox{30}\:$A soldier is pursuing an enemy. The enemy begins fleeing eastward from point $\small A$ at 6:00 AM. at a speed of $\small 10\textsf{km/h}$. The soldier receives the order at 10:00 PM. and starts pursuing eastward from point $\small B$ at a speed of $\small 30\textsf{km/h}$. Point $\small B$ is west of point $\small A$, and the distance between $\small A$ and $\small B$ is $\small 60\textsf{km}$. How many hours will it take the soldier to catch up with the enemy $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
