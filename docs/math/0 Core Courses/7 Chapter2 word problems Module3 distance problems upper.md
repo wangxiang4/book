@@ -511,6 +511,104 @@ $
   :::
 ---
 
+### $\fbox{32}\:$A car travels from point $\small A$ to point $\small B$. For the first half of the journey, it takes $\small 45$ minutes longer than planned, with an average speed that is only $\small 80\%$ of the planned speed. If the average speed for the second half of the journey is $\small 120\textsf{km/h}$ and the car can still arrive at point $\small B$ on schedule, find the distance between points $\small A$ and $\small B$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 450\textsf{km} &
+\textsf{(B)} \: 480\textsf{km} &
+\textsf{(C)} \: 520\textsf{km} &
+\textsf{(D)} \: 540\textsf{km} &
+\textsf{(E)} \: 600\textsf{km} & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question distance problems figure Q-32 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%20Q-32%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  t_{\textsf{slow}_{AC}}-t_{\textsf{fast}_{AC}}=\textsf{delay 45min}=\frac{45}{60}=\frac{3}{4}\textsf{h} \\
+  \end{array}
+  $   
+  :::
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the basic ratio formula for variable speed  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  s_{AC} \\
+  \boxed{
+  \begin{array}{ll}
+  v_\textsf{slow}:v_\textsf{fast}=\frac{0.8}{1}=4:5 \\
+  t_\textsf{slow}:t_\textsf{fast}=5:4 \\
+  t_\textsf{slow}-t_\textsf{fast}=5\textsf{ parts}-4\textsf{ parts}=1\textsf{ part} \\
+  1\textsf{ part}=\frac{3}{4}\textsf{h} \\
+  t_\textsf{slow}=5\cdot\frac{3}{4}\textsf{h}=3.75\textsf{h} \\
+  t_\textsf{fast}=4\cdot\frac{3}{4}\textsf{h}=3\textsf{h} \\
+  \end{array}} \\
+  s_{BC} \\
+  \boxed{
+  \begin{array}{ll}
+  t_\textsf{fast}=3\textsf{h}-\frac{3}{4}\textsf{h}=\frac{12}{4}-\frac{3}{4}=\frac{9}{4}\textsf{h} \\
+  s_\textsf{fast}=120\cdot\frac{9}{4}=270 \\
+  \end{array}} \\
+  s_\textsf{fast}=270\cdot2=540 \\
+  \end{array}
+  $   
+  :::
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the time-difference formula for variable speed  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  s_{AC} \\
+  \boxed{
+  \begin{array}{ll}
+  s_{AC}\Delta v=v_1v_2\Delta t \\
+  \frac{s}{2}\cdot(v-0.8v)=v\cdot0.8v\cdot(t_{\textsf{slow}_{AC}}-t_{\textsf{fast}_{AC}}) \\
+  \frac{s}{2}\cdot0.2v=0.8v^2\cdot\frac{3}{4} \\
+  \frac{0.2sv}{2}=\frac{3\cdot0.8}{4}v^2 \\
+  0.1sv=0.6v^2 \\
+  0.1s=0.6v \\
+  s=\frac{0.6v}{0.1}=6v \\
+  \end{array}} \\
+  s_{BC} \\
+  \boxed{
+  \begin{array}{ll}
+  s_{BC}\Delta v=v_1v_2\Delta t \\
+  \frac{s}{2}\cdot(120-v)=120\cdot v\cdot(t_{\textsf{fast}_{BC}}-t_{\textsf{faster}_{BC}}) \\
+  \frac{6v}{2}\cdot(120-v)=120v\cdot\frac{3}{4} \\
+  3v(120-v)=\frac{120\cdot3}{4}v \\
+  3v(120-v)=90v \\
+  3(120-v)=90 \\
+  360-3v=90 \\
+  -3v=-270 \\
+  v=\frac{-270}{-3}=90 \\
+  \end{array}} \\
+  s_\textsf{fast}=6\cdot90=540 \\
+  \end{array}
+  $   
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $s_\textsf{fast}=540$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{basic ratio of variable speed}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  s\Delta v=v_1v_2\Delta t & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{time difference of variable speed}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
 | Platform    | Course                                                                                            | Coursewares                                                       |
 |-------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | YouTube     | [Watch](https://www.youtube.com/watch?v=BikwozG_oh4&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)      | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
