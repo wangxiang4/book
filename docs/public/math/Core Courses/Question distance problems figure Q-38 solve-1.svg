@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="456" height="105" viewBox="0 0 1206 238" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M8.839,59.62l986.317,0" style="fill:none;stroke:#8dcc33;stroke-width:12.5px;"/>
+  <g transform="matrix(33.3333,0,0,33.3333,1003.98,159.623)">
+    </g>
+  <text x="848.318px" y="159.623px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;fill:#ff7faf;stroke:#1e3a5f;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">pedestrian</text>
+  <g transform="matrix(33.3333,0,0,33.3333,1002.48,230.096)">
+    </g>
+  <text x="911.744px" y="230.096px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33.333px;fill:#0dcaf2;stroke:#1e3a5f;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">cyclist</text>
+  <g transform="matrix(29.1667,0,0,29.1667,1126.24,141.65)">
+    </g>
+  <text x="1063.04px" y="141.65px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;fill:#ff7faf;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">1m/s</text>
+  <g transform="matrix(29.1667,0,0,29.1667,1127.21,211.948)">
+    </g>
+  <text x="1064.01px" y="211.948px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:29.167px;fill:#0dcaf2;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">3m/s</text>
+  <path d="M1205.7,80.237l-35.722,12.429l9.133,-12.224l-9.133,-12.634l35.722,12.429Z" style="fill:#8dcc33;"/>
+  <path d="M1205.68,151l-35.721,12.429l9.132,-12.225l-9.132,-12.633l35.721,12.429Z" style="fill:#ff7faf;"/>
+  <path d="M1205.7,221.656l-35.722,12.429l9.133,-12.225l-9.133,-12.633l35.722,12.429Z" style="fill:#0dcaf2;"/>
+  <path d="M1010.8,80.238l169.728,-0" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:round;"/>
+  <path d="M1010.78,151.001l169.728,-0" style="fill:none;stroke:#ff7faf;stroke-width:6.25px;stroke-linecap:round;"/>
+  <path d="M1010.8,221.657l169.728,-0" style="fill:none;stroke:#0dcaf2;stroke-width:6.25px;stroke-linecap:round;"/>
+  <path d="M995.908,80.273l0,-41.285" style="fill:none;stroke:#8dcc33;stroke-width:12.5px;stroke-linecap:round;"/>
+  <path d="M8.745,79.111l-0,-38.995" style="fill:none;stroke:#8dcc33;stroke-width:12.5px;stroke-linecap:round;"/>
+  <g>
+        <g>
+            <path id="MJX-155-NCM-I-1D459" d="M503.421,4.496l-7.992,33.066c-0.193,0.902 -0.322,1.676 -0.322,2.256c-0,3.416 2.513,6.123 5.93,6.123c3.158,0 5.414,-3.352 6.767,-10.055c0,-0.58 -0.322,-0.902 -1.031,-0.902c-0.516,-0 -0.902,0.451 -1.096,1.353c-1.289,5.092 -2.771,7.67 -4.511,7.67c-1.096,0 -1.612,-0.902 -1.612,-2.642c0,-0.967 0.129,-1.998 0.387,-3.03l8.959,-36.868l0,-0.258c-0.193,-0.451 -0.58,-0.709 -1.031,-0.709c-2.063,0 -6.832,0.58 -7.606,0.645c-0.967,0.128 -1.418,0.644 -1.418,1.611c0,0.58 0.58,0.902 1.805,0.902c1.096,0 2.771,0 2.771,0.838Z" style="fill:#8dcc33;fill-rule:nonzero;stroke:#1e3a5f;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;"/>
+        </g>
+    </g>
+  <g>
+        <g>
+            <path id="MJX-157-NCM-I-1D463" d="M1101.41,51.685c-0,0.381 0.429,1.001 1.193,1.956c0.763,0.954 1.145,2.051 1.145,3.292c-0,1.384 -0.668,3.721 -2.052,7.014c-1.002,2.29 -3.292,5.534 -6.107,5.534c-2.195,0 -3.292,-1.288 -3.292,-3.912c-0,-1.861 0.906,-5.153 2.719,-9.877c0.382,-1.002 0.573,-1.813 0.573,-2.385c-0,-2.386 -1.622,-4.056 -4.008,-4.056c-2.099,0 -3.769,1.193 -4.962,3.579c-0.954,1.956 -1.431,3.196 -1.431,3.817c-0,0.429 0.238,0.668 0.763,0.668c0.62,-0 0.716,-0.287 0.907,-0.955c1.097,-3.817 2.624,-5.725 4.58,-5.725c0.62,-0 0.954,0.429 0.954,1.336c0,0.763 -0.238,1.813 -0.763,3.197c-1.765,4.723 -2.672,7.92 -2.672,9.685c-0,2.433 0.811,4.103 2.433,5.01c1.289,0.668 2.624,1.002 4.008,1.002c4.247,-0 7.205,-4.581 8.445,-8.254c1.527,-4.485 2.29,-7.777 2.29,-9.877c0,-2.338 -0.763,-3.483 -2.242,-3.483c-1.193,0 -2.481,1.241 -2.481,2.434Z" style="fill:#8dcc33;fill-rule:nonzero;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;"/>
+        </g>
+    </g>
+</svg>

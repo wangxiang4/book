@@ -3,13 +3,6 @@ title: Chapter2 Word Problems – Module3 Distance Problems Middle
 lang: en-US
 ---
 
-| Platform    | Course                                                                                             | Coursewares                                                       |
-|-------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=kQR8VTp_S5c&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)       | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnaq?playlist=x9h6d2)                                 |                                                                   |
-| Rumble      | [Watch](https://rumble.com/v6s9561-9-chapter2-word-problems-module3-distance-problems-middle.html) |                                                                   |
-
-
 ## 6.Boat traveling in water
 - __Downstream speed__: $v_\textsf{down}=v_\textsf{boat}+v_\textsf{current}$
 - __Upstream speed__: $v_\textsf{up}=v_\textsf{boat}-v_\textsf{current}$
@@ -265,3 +258,112 @@ $
 
   :::
 ---
+
+## 11.Focus 8
+__The train and pedestrian__
+- The pedestrian can be __considered stationary__,
+  and __the train can be analyzed using relative motion__.
+
+### $\fbox{38}\:$On a road parallel to a railway, a pedestrian and a cyclist are moving in the same direction. The pedestrian's speed is $\small 3.6\textsf{km/h}$, and the cyclist's speed is $\small 10.8\textsf{km/h}$. A train approaches from behind at a constant speed in the same direction. It takes $\small 22$ seconds to pass the pedestrian and $\small 26$ seconds to pass the cyclist. Find the length of the train in meters.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 186 &
+\textsf{(B)} \: 268 &
+\textsf{(C)} \: 168 &
+\textsf{(D)} \: 286 &
+\textsf{(E)} \: 188 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question distance problems figure Q-38 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%20Q-38%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  3.6\textsf{km/h}=\frac{3.6\cdot1000}{3600}\textsf{m/s}=1\textsf{m/s} \\
+  10.8\textsf{km/h}=\frac{10.8\cdot1000}{3600}\textsf{m/s}=3\textsf{m/s} \\
+  \begin{cases}
+  l=22(v-1) & \textsf{pedestrian} \\
+  l=26(v-3) & \textsf{cyclist} \\
+  \end{cases} \\
+  l=22(v-1)=26(v-3) \\
+  22v-22=26v-78 \\
+  -4v=-56 \\
+  v=\frac{-56}{-4}=14 \\
+  l=22(14-1)=22\cdot13=286 & \textsf{substitute }v \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $l=286$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v=v_1-v_2 & \href{/math/0%20Core%20Courses/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_9-relative-speed}{\textsf{same-direction relative speed formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{39}\:$Two trains, a fast one and a slow one, are $\small 160$ meters and $\small 120$ meters long respectively. They are moving toward each other on parallel tracks. If a passenger on the slow train sees the entire fast train pass by in $\small 4$ seconds, how many seconds will it take for a passenger on the fast train to see the entire slow train pass by $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 3 &
+\textsf{(B)} \: 4 &
+\textsf{(C)} \: 5 &
+\textsf{(D)} \: 6 &
+\textsf{(E)} \: 7 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question distance problems figure Q-39 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%20Q-39%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \begin{cases}
+  160=4(v_\textsf{fast}+v_\textsf{slow}) & \textsf{fast} \\
+  120=t(v_\textsf{fast}+v_\textsf{slow}) & \textsf{slow} \\
+  \end{cases} \\
+  v_\textsf{fast}+v_\textsf{slow}=\frac{160}{4}=40 \\
+  120=40t \\
+  t=\frac{120}{40}=3 \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $t=3$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v=v_1+v_2 & \href{/math/0%20Core%20Courses/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+| Platform    | Course                                                                                             | Coursewares                                                       |
+|-------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| YouTube     | [Watch](https://www.youtube.com/watch?v=kQR8VTp_S5c&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)       | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnaq?playlist=x9h6d2)                                 |                                                                   |
+| Rumble      | [Watch](https://rumble.com/v6s9561-9-chapter2-word-problems-module3-distance-problems-middle.html) |                                                                   |
