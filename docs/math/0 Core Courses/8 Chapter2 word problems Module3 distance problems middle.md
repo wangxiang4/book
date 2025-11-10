@@ -213,3 +213,55 @@ $
 
   :::
 ---
+
+
+## 9.Relative speed
+- __Opposite direction__: $v=v_1+v_2$
+- __Same direction__: $v=v_1-v_2$
+
+## 10.Focus 7
+__The marching formation__  
+- The marching team can be __considered stationary__,
+  and __the messenger's movement can be analyzed using relative motion__.
+
+### $\fbox{37}\:$A marching team forms a column $\small 800\textsf{m}$ long, moving at a speed of $\small 80\textsf{m/min}$. A messenger at the front runs to the rear at three times the marching speed, spends $\small 1$ minute delivering a message, and then immediately runs back to the front at the same speed. How long does the messenger spend on the entire round trip $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 6.5\textsf{min} &
+\textsf{(B)} \: 7.5\textsf{min} &
+\textsf{(C)} \: 8\textsf{min} &
+\textsf{(D)} \: 8.5\textsf{min} &
+\textsf{(E)} \: 10\textsf{min} & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question distance problems figure Q-37 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%20Q-37%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  t=\frac{800}{240+80}+\frac{800}{240-80}+1=2.5+5+1=8.5 \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $t=8.5$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v=v_1+v_2 & \href{/math/0%20Core%20Courses/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
+  v=v_1-v_2 & \href{/math/0%20Core%20Courses/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_9-relative-speed}{\textsf{same-direction relative speed formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
