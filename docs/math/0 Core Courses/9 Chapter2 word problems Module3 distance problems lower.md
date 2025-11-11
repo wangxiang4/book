@@ -93,3 +93,80 @@ $
 
   :::
 ---
+
+## 13.Train–Bridge Crossing Time Formula
+- $\boldsymbol{t=\frac{l_{\textsf{train}}+l_{\textsf{bridge}}}{v}}$  
+  ![Train–bridge crossing time formula derivation.svg](../../public/math/Core%20Courses/Train%E2%80%93bridge%20crossing%20time%20formula%20derivation.svg)  
+
+## 14.Focus 10
+__The train crossing a bridge__  
+- Based on __the formula $\boldsymbol{t=\frac{l_{\textsf{train}}+l_{\textsf{bridge}}}{v}}$__,
+  __set up the equation and solve__.
+
+### $\fbox{41}\:$A train travels at a constant speed. It takes $\small 10$ seconds to cross a $\small 250\textsf{m}$ bridge and $\small 15$ seconds to cross a $\small 450\textsf{m}$ bridge. How many seconds will it take the train to cross a $\small 1050\textsf{m}$ bridge $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 22 &
+\textsf{(B)} \: 25 &
+\textsf{(C)} \: 28 &
+\textsf{(D)} \: 30 &
+\textsf{(E)} \: 35 & \\
+\end{array}
+$  
+:::
+#### Solution
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the train–bridge crossing time formula  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \begin{cases}
+  10=\frac{l_\textsf{train}+250}{v} \\
+  15=\frac{l_\textsf{train}+450}{v} \\
+  \end{cases} \\
+  v=\frac{l_\textsf{train}+250}{10} & ① \\
+  15=\frac{l_\textsf{train}+450}{\frac{l_\textsf{train}+250}{10}} & ② \\
+  15=10\frac{l_\textsf{train}+450}{l_\textsf{train}+250} \\
+  3=2\frac{l_\textsf{train}+450}{l_\textsf{train}+250} \\
+  3(l_\textsf{train}+250)=2(l_\textsf{train}+450) \\
+  3l_\textsf{train}+750=2l_\textsf{train}+900 \\
+  l_\textsf{train}=150 \\
+  v=\frac{150+250}{10}=40 & \textsf{substitute }l_\textsf{train} \\
+  t=\frac{150+1050}{40}=30 \\
+  \end{array}
+  $  
+  :::
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the proportional method  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  s:t=l_\textsf{train}+250:10\textsf{s} \\
+  s:t=l_\textsf{train}+450:15\textsf{s} \\
+  \Delta s=(l_\textsf{train}+450)-(l_\textsf{train}+250)=200\textsf{m} \\
+  \Delta t=15\textsf{s}-10\textsf{s}=5\textsf{s} \\
+  200\textsf{m}=5\textsf{s} \\
+  s:t=l_\textsf{train}+450:15\textsf{s} \\
+  s:t=l_\textsf{train}+1050:t_1 \\
+  \Delta s=(l_\textsf{train}+1050)-(l_\textsf{train}+450)=600\textsf{m} \\
+  600\textsf{m}=3\cdot5\textsf{s}=15\textsf{s} \\
+  t_1=15\textsf{s}+15\textsf{s}=30\textsf{s} \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $t=30$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  t=\frac{l_{\textsf{train}}+l_{\textsf{bridge}}}{v} & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#_13-train%E2%80%93bridge-crossing-time-formula}{\textsf{train–bridge crossing time formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
