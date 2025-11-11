@@ -136,7 +136,7 @@ $
   \end{array}
   $  
   :::
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the proportional method  
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the proportional method for __constant speed__  
   ::: wrap  
   $
   \begin{array}{ll}
