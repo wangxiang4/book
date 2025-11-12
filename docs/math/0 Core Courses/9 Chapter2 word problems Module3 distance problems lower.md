@@ -165,6 +165,7 @@ $
   >$
   \begin{array}{ll}
   t=\frac{l_{\textsf{train}}+l_{\textsf{bridge}}}{v} & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#_13-train%E2%80%93bridge-crossing-time-formula}{\textsf{train–bridge crossing time formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   >$
 
@@ -190,7 +191,7 @@ $
   \end{array}
   $  
   :::
-- __Meeting time__  
+- ###### __Meeting time__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -216,7 +217,7 @@ $
   \end{array}
   $  
   :::
-- __Meeting time__  
+- ###### __Meeting time__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -225,4 +226,171 @@ $
   \end{array}
   $
   :::
+
+## 16.Focus 11
+__The same starting point__  
+- If the starting points are the same:  
+  when moving in __the same direction__,
+  __the distance difference equals one lap at each meeting__;  
+  when moving in __opposite directions__,
+  __the distance sum equals one lap at each meeting__.
+  
+
+### $\fbox{42}\:$Runners $\small a$ and $\small b$ start from the same point on a circular track of $\small 400\textsf{m}$, running in the same direction at the same time. Runner $\small a$ runs $\small 6\textsf{m}$ per second, and runner $\small b$ runs $\small 4\textsf{m}$ per second. Find how many meters $\small a$ has run when he catches up with $\small b$ for the second time.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 2400 &
+\textsf{(B)} \: 2600 &
+\textsf{(C)} \: 2800 &
+\textsf{(D)} \: 3000 &
+\textsf{(E)} \: 3200 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question distance problems figure Q-42 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%20Q-42%20solve-1.svg)  
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the same-direction meeting time formula  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  t=\frac{400\cdot2}{6-4}=400\textsf{s} \\
+  s_a=v_a\cdot t=6\cdot400=2400 \\
+  \end{array}
+  $  
+  :::
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using same-direction meeting distance formula  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  s_a:s_b=6:4=3:2 \\
+  \Delta v=3\textsf{ parts}-2\textsf{ parts}=1\textsf{ part} \\
+  1\textsf{ part}=n\cdot s=2\cdot400\textsf{m}=800\textsf{m} \\
+  s_a=3\cdot800=2400 \\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $s_a=2400$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  t=\frac{n\cdot s}{v_{a}-v_{b}} & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#meeting-time}{\textsf{same-direction meeting time formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  \frac{v_{a}}{v_{b}}=\frac{s_{a}}{s_{b}}=\frac{s_{b}+n\cdot s}{s_{b}}=1+\frac{n\cdot s}{s_{b}} & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#same-direction-same-starting-point}{\textsf{same-direction meeting distance formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 16.Focus 11
+__The different starting points__
+- If the starting points are different,
+  then __after the first meeting__,
+  the motion becomes __one with the same starting point__.
+
+
+### $\fbox{43}\:$At the two ends of a diameter on a circular track with a circumference of $\small 400\textsf{m}$, riders $\small a$ and $\small b$ start at the same time in the same direction (clockwise). Rider $\small a$ moves at $\small 6\textsf{m/s}$, and rider $\small b$ moves at $\small 4\textsf{m/s}$ along the circle. Find how many seconds it takes for $\small a$ to catch up with $\small b$ for the second time.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 300 &
+\textsf{(B)} \: 320 &
+\textsf{(C)} \: 280 &
+\textsf{(D)} \: 270 &
+\textsf{(E)} \: 240 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question distance problems figure Q-43 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%20Q-43%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  (2−1)_\textsf{th}=1_\textsf{th}\textsf{meeting}=\textsf{same starting point} \\
+  s_{1_\textsf{th}\textsf{meeting}}=s_a-s_b=200\textsf{m} \\
+  t=\frac{200+400}{6-4}=300 \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $t=300$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  (k−1)_\textsf{th} & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#_15-circular-distance}{\textsf{new same starting point}} \\
+  t=\frac{n\cdot s}{v_{a}-v_{b}} & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#meeting-time}{\textsf{same-direction meeting time formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 17.Focus 12
+__The meeting again at the starting point__
+- If they meet again at the starting point,
+  whether __running in the same or opposite directions__,
+  both must have run __an integer number of laps__.
+- $\textsf{speed ratio}=\textsf{distance ratio}=\textsf{lap ratio}$  
+  $\boldsymbol{\frac{v_a}{v_b}=\frac{s_a}{s_b}=\frac{n_a}{n_b}}$
+
+
+### $\fbox{44}\:$Runners $\small a$ and $\small b$ start from the same point on a circular track of $\small 300\textsf{m}$, running in the same direction at the same time. Runner $\small a$ runs $\small 6\textsf{m}$ per second, and runner $\small b$ runs $\small 4\textsf{m}$ per second. Find how many meters $\small a$ has run when he catches up with $\small b$ at the starting point for the second time.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 1400 &
+\textsf{(B)} \: 1800 &
+\textsf{(C)} \: 2000 &
+\textsf{(D)} \: 2100 &
+\textsf{(E)} \: 2400 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question distance problems figure Q-44 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%20Q-44%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \frac{s_a}{s_b}=\frac{6}{4}=\frac{3}{2} \\
+  \frac{n_a}{n_b}=\frac{3}{2} & \textsf{first meeting at starting point} \\
+  \frac{n_a}{n_b}=\frac{3\cdot2}{2\cdot2}=\frac{6}{4} & \textsf{second meeting at starting point} \\
+  s_a=6\cdot300=1800 \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $s_a=1800$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \frac{v_a}{v_b}=\frac{s_a}{s_b}=\frac{n_a}{n_b} & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#_17-focus-12}{\textsf{starting-point meeting ratio formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
 

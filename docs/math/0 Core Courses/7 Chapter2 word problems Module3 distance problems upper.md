@@ -288,7 +288,7 @@ __The straight-line pursuit__
   or from __different locations at different times__.
   The one behind __moves faster__,
   and the one ahead __moves slower__.
-  Within __a certain fixed time__,
+  Within __a certain constant time__,
   the one behind __catches up with the one ahead__.
   The relationship between pursuit time and distance can be __expressed by an equation__.
 - $\textsf{difference of distances}=\textsf{difference of speeds}\cdot\textsf{pursuit time}$
