@@ -170,3 +170,59 @@ $
 
   :::
 ---
+
+## 15.Circular Distance
+- To find __the $\boldsymbol{k_\textsf{th}}$ meeting__,
+  the $\boldsymbol{(k−1)_\textsf{th}}$ can be __regarded as the new starting point for analysis__.
+### $\textcolor{#1E3A5F}{\fbox{1}}\:$Same direction, same starting point
+- Let __the circumference be $\boldsymbol{s}$__. Figure 2–1.  
+  ![Circular distance figure 2-1.svg](../../public/math/Core%20Courses/Circular%20distance%20figure%202-1.svg)  
+- __Single-meeting distance__: $s_{a}-s_{b}=s$ (__equal time__)
+- Each time __$\boldsymbol{a}$ and $\boldsymbol{b}$ meet__,
+  __$\boldsymbol{a}$ runs one more lap than $\boldsymbol{b}$__.
+  If __they meet $\boldsymbol{n}$ times__,
+  then $\boldsymbol{s_{a}-s_{b}=n\cdot s}$  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  \boldsymbol{\frac{v_{a}}{v_{b}}=\frac{s_{a}}{s_{b}}=\frac{s_{b}+n\cdot s}{s_{b}}=1+\frac{n\cdot s}{s_{b}}} \\
+  \end{array}
+  $  
+  :::
+- __Meeting time__  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  (v_{a}-v_{b})t=n\cdot s \\
+  \boldsymbol{t=\frac{n\cdot s}{v_{a}-v_{b}}} \\
+  \end{array}
+  $
+  :::
+
+### $\textcolor{#1E3A5F}{\fbox{2}}\:$Opposite direction, same starting point
+- Let __the circumference be $\boldsymbol{s}$__. Figure 2–2.  
+  ![Circular distance figure 2-2.svg](../../public/math/Core%20Courses/Circular%20distance%20figure%202-2.svg)  
+- __Single-meeting distance__: $s_{a}+s_{b}=s$ (__equal time__)
+- Each time __$\boldsymbol{a}$ and $\boldsymbol{b}$ meet__,
+  their __combined distance equals one full lap__.
+  If __they meet $\boldsymbol{n}$ times__,
+  then $\boldsymbol{s_{a}+s_{b}=n\cdot s}$  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  \boldsymbol{\frac{v_{a}}{v_{b}}=\frac{s_{a}}{s_{b}}=\frac{n\cdot s-s_{b}}{s_{b}}=\frac{n\cdot s}{s_{b}}-1} \\
+  \end{array}
+  $  
+  :::
+- __Meeting time__  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  (v_{a}+v_{b})t=n\cdot s \\
+  \boldsymbol{t=\frac{n\cdot s}{v_{a}+v_{b}}} \\
+  \end{array}
+  $
+  :::
+
