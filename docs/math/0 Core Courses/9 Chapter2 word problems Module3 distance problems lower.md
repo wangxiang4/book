@@ -394,3 +394,57 @@ $
 ---
 
 
+## 18.Motion Graphs
+### $\textcolor{#1E3A5F}{\fbox{1}}\:t=\frac{s}{v}$ graph
+- __Uniform motion__  
+    ![motion graph figure 2-3.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-3.svg)  
+    - Uniform motion with __constant speed of $\boldsymbol{4}$__
+- __Variable motion__  
+  ![motion graph figure 2-4 and 2-5.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-4%20and%202-5.svg)  
+  - __Figure 2–4__
+    - ① Accelerated motion with __an initial speed of $\boldsymbol{2}$__
+    - ② Accelerated motion with __variable acceleration__ and __an initial speed of $\boldsymbol{0}$__
+    - ③ Accelerated motion with __an initial speed of $\boldsymbol{0}$__
+  - __Figure 2–5__  
+    - ① Decelerated motion with __an initial speed of $\boldsymbol{3}$__
+    - ② Decelerated motion with __variable deceleration__ and __an initial speed of $\boldsymbol{3}$__
+### $\textcolor{#1E3A5F}{\fbox{2}}\:v=\frac{s}{t}$ graph
+- __Uniform motion__  
+  ![motion graph figure 2-6 and 2-7.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-6%20and%202-7.svg)  
+  - __Figure 2–6__
+    - __The speed of $\boldsymbol{A}$ is greater than that of $\boldsymbol{B}$__
+  - __Figure 2–7__
+    - __The speed of $\boldsymbol{A}$ is less than that of $\boldsymbol{B}$__
+- __Variable motion__  
+  ![motion graph figure 2-8 and 2-9.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-8%20and%202-9.svg)  
+  - __Figure 2–8__
+    - __Decelerated motion__
+  - __Figure 2–9__  
+    - __Accelerated motion__
+- __Slope equals speed__  
+  $
+  \begin{array}{ll}
+  k=\frac{y}{x} & \href{/math/0%20Core%20Courses/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-slope-between-and-is}{\textsf{slope of line passing through origin}} \\
+  v=\frac{s}{t} \Longleftrightarrow k=\frac{y}{x} & \boldsymbol{v=k} \\
+  \end{array}
+  $
+### $\textcolor{#1E3A5F}{\fbox{3}}\:s=vt$ graph
+- __Uniform motion__  
+  ![motion graph figure 2-10.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-10.svg)  
+  - Uniform motion with __constant speed of $\boldsymbol{4}$__
+- __Variable motion__  
+  ![motion graph figure 2-11 and 2-12.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-11%20and%202-12.svg)  
+  - __Figure 2–11__
+    - ① Accelerated motion with __an initial speed of $\boldsymbol{2}$__
+    - ② Accelerated motion with __variable acceleration__ and __an initial speed of $\boldsymbol{0}$__
+    - ③ Accelerated motion with __an initial speed of $\boldsymbol{0}$__
+  - __Figure 2–12__
+    - ① Decelerated motion with __an initial speed of $\boldsymbol{3}$__
+    - ② Decelerated motion with __variable deceleration__ and __an initial speed of $\boldsymbol{3}$__
+- __Area of rectangle equals distance__  
+  $
+  \begin{array}{ll}
+  S=ab & \href{/math/0%20Core%20Courses/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_2-rectangle}{\textsf{rectangle area formula}} \\
+  s=vt \Longleftrightarrow S=ab & \boldsymbol{s=S} \\
+  \end{array}
+  $
