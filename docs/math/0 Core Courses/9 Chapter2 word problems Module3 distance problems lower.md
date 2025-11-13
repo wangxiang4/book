@@ -396,10 +396,10 @@ $
 
 ## 18.Motion Graphs
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:t=\frac{s}{v}$ graph
-- __Uniform motion__  
+- ###### __Uniform motion__  
     ![motion graph figure 2-3.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-3.svg)  
     - Uniform motion with __constant speed of $\boldsymbol{4}$__
-- __Variable motion__  
+- ###### __Variable motion__  
   ![motion graph figure 2-4 and 2-5.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-4%20and%202-5.svg)  
   - __Figure 2–4__
     - ① Accelerated motion with __an initial speed of $\boldsymbol{2}$__
@@ -409,13 +409,13 @@ $
     - ① Decelerated motion with __an initial speed of $\boldsymbol{3}$__
     - ② Decelerated motion with __variable deceleration__ and __an initial speed of $\boldsymbol{3}$__
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:v=\frac{s}{t}$ graph
-- __Uniform motion__  
+- ###### __Uniform motion__  
   ![motion graph figure 2-6 and 2-7.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-6%20and%202-7.svg)  
   - __Figure 2–6__
     - __The speed of $\boldsymbol{A}$ is greater than that of $\boldsymbol{B}$__
   - __Figure 2–7__
     - __The speed of $\boldsymbol{A}$ is less than that of $\boldsymbol{B}$__
-- __Variable motion__  
+- ###### __Variable motion__  
   ![motion graph figure 2-8 and 2-9.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-8%20and%202-9.svg)  
   - __Figure 2–8__
     - __Decelerated motion__
@@ -429,10 +429,10 @@ $
   \end{array}
   $
 ### $\textcolor{#1E3A5F}{\fbox{3}}\:s=vt$ graph
-- __Uniform motion__  
+- ###### __Uniform motion__  
   ![motion graph figure 2-10.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-10.svg)  
   - Uniform motion with __constant speed of $\boldsymbol{4}$__
-- __Variable motion__  
+- ###### __Variable motion__  
   ![motion graph figure 2-11 and 2-12.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-11%20and%202-12.svg)  
   - __Figure 2–11__
     - ① Accelerated motion with __an initial speed of $\boldsymbol{2}$__
@@ -448,3 +448,62 @@ $
   s=vt \Longleftrightarrow S=ab & \boldsymbol{s=S} \\
   \end{array}
   $
+
+## 19.Focus 13
+__The $\boldsymbol{t=\frac{s}{v}}$ graph__  
+- For __the $\boldsymbol{t=\frac{s}{v}}$ graph__, if the graph is __a horizontal straight line__,
+  it represents __uniform motion__;
+  __any other straight line or curve__ represents __variable motion__.
+- Graph key points: __starting point__, __ending point__, __turning point__, __area__.
+
+
+### $\fbox{45}\:$Figure 2–13: An object moves from the starting point $\small A$. How many of the following statements are correct $\small \mathpunct{?}$.
+![Question distance problems figure 2-13.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-13.svg)  
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(1)} \: \textsf{segment }AB\textsf{ represents uniform motion} & \\
+\textsf{(2)} \: \textsf{segment }BC\textsf{ represents accelerated motion} & \\
+\textsf{(3)} \: \textsf{the time for segment }AB\textsf{ is }2\textsf{ seconds} & \\
+\textsf{(4)} \: \textsf{the time for segment }CD\textsf{ is }3\textsf{ seconds} & \\
+\end{array}
+$  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 0 &  
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 3 &
+\textsf{(E)} \: 4 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{(1)} \: v_{AB}=1 \,✅\;\\
+\textsf{(2)} \: v_B=1 \to v_C=3 \,✅\;\\
+\textsf{(3)} \: t=\frac{s}{v}=\frac{2}{1}=2 \,✅\;\\
+\textsf{(4)} \: t=\frac{s}{v}=\frac{5-4}{3}=\frac{1}{3} \,❌\;\\
+\end{array}
+$  
+:::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $\textsf{(1)},\textsf{(2)},\textsf{(3)}$, so choose $D$.
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion}{t=\frac{s}{v}\textsf{ uniform motion graph}} \\
+  & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#variable-motion}{t=\frac{s}{v}\textsf{ variable motion graph}} \\
+  \end{array}
+  >$
+
+  :::
+---
