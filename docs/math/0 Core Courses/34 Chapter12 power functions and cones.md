@@ -1,5 +1,5 @@
 ---
-title: Chapter12 Power Functions – Cones    
+title: Chapter12 Power Functions – Cones
 lang: en-US
 ---
 
