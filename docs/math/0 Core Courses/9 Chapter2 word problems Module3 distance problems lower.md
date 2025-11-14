@@ -646,3 +646,69 @@ $
 
   :::
 ---
+
+## 21.Focus 15
+__The $\boldsymbol{s=vt}$ graph__
+- For __the $\boldsymbol{s=vt}$ graph__,
+  when the graph is __a straight line__,
+  __the slope of the line represents the acceleration__.
+  When __the slope is $\boldsymbol{0}$__,
+  it represents __uniform motion__;
+  when __the slope is non-zero__,
+  it represents __uniformly variable motion__.
+  When the graph is __a curve__,
+  it also represents __non-uniformly variable motion__.
+
+
+### $\fbox{49}\:$Figure 2–17: The figure shows the $\small s=vt$ graph of objects $\small 1$ and $\small 2$. How many of the following statements are correct $\small \mathpunct{?}$.
+![Question distance problems figure 2-17.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-17.svg)  
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(1)} \: \textsf{object}1\textsf{ and object}2\textsf{ are both in uniformly variable motion} & \\
+\textsf{(2)} \: \textsf{at intersection point }P\textsf{, when }t=2\textsf{s, the two objects meet} & \\
+\textsf{(3)} \: \textsf{before }t=2\textsf{s, the speed of object}1\textsf{ is greater than that of object}2 & \\
+\hspace{0.72cm} \textsf{and object}1\textsf{ is ahead while object}2\textsf{ is behind} \\
+\textsf{(4)} \: \textsf{the initial speed of object}1\textsf{ is }3\textsf{m/s, and at }t=3\textsf{s, the speed of object}1\textsf{ is }0 & \\
+\end{array}
+$  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 0 &  
+\textsf{(B)} \: 1 &
+\textsf{(C)} \: 2 &
+\textsf{(D)} \: 3 &
+\textsf{(E)} \: 4 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{(1)} \: \,✅\;\\
+\textsf{object}1=\textsf{uniformly decelerated motion} \\
+\textsf{object}2=\textsf{uniformly accelerated motion} \\
+\textsf{(2)} \: v_{\textsf{object}1}=v_{\textsf{object}2} \,❌\;\\
+\textsf{(3)} \: \textsf{there may be different starting points} \,❌\;\\
+\textsf{(4)} \: \,✅\;\\
+\end{array}
+$  
+:::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $\textsf{(1)},\textsf{(4)}$, so choose $C$.
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#variable-motion-2}{s=vt\textsf{ variable motion graph}} \\
+  \end{array}
+  >$
+
+  :::
+---
