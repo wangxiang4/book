@@ -18,7 +18,9 @@ lang: en-US
   where $t$ is __the constant of proportionality__.
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Head-on meeting formula
+::: wrap  
 - $s_{\textsf{meeting}}=s_1+s_2=v_1t+v_2t=(v_1+v_2)t$
+:::  
 - __Formula derivation__  
   ![Head-on meeting formula derivation.svg](../../public/math/Core%20Courses/Head-on%20meeting%20formula%20derivation.svg)  
   ::: wrap  
@@ -31,7 +33,9 @@ lang: en-US
   :::
 
 ### $\textcolor{#1E3A5F}{\fbox{3}\:}\:$Pursuit formula
+::: wrap  
 - $s_{\textsf{pursuit}}=s_1-s_2=v_1t-v_2t=(v_1-v_2)t$
+:::  
 - __Same time__: $\boldsymbol{t=\frac{s_1}{v_1}=\frac{s_2}{v_2}=\frac{s_1+s_2}{v_1+v_2}=\frac{s_1-s_2}{v_1-v_2}}$
 - __Formula derivation__  
   ![Pursuit formula derivation.svg](../../public/math/Core%20Courses/Pursuit%20formula%20derivation.svg)  
@@ -291,8 +295,10 @@ __The straight-line pursuit__
   Within __a certain constant time__,
   the one behind __catches up with the one ahead__.
   The relationship between pursuit time and distance can be __expressed by an equation__.
+::: wrap  
 - $\textsf{difference of distances}=\textsf{difference of speeds}\cdot\textsf{pursuit time}$
 - $t=\frac{\Delta s}{\Delta v}$
+:::  
 
 
 ### $\fbox{29}\:$A good horse travels $\small 120\textsf{km}$ per day, while a slower horse travels $\small 75\textsf{km}$ per day. The slower horse starts $\small 12$ days earlier. How many days will it take for the good horse to catch up with the slower one $\small \mathpunct{?}$.

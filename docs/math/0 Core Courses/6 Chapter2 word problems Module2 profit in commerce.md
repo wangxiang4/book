@@ -257,8 +257,10 @@ $
 
 ## 2.Focus 1
 __The cost price or selling price__  
+::: wrap  
 - Determine based on the formula:
   $\boldsymbol{\textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate})}$
+:::  
 - __The base value for the profit rate is the cost price__.
 
 ### $\fbox{15}\:$The cost of a product is $\small 240\textsf{ USD}$. If it is sold at $\small 80\%$ of its marked price, and the profit rate is $\small 15\%$, what is the marked price of the product $\small \mathpunct{?}$.
@@ -405,6 +407,7 @@ $
 ## 4.Focus 3
 __The price change (discounts and promotions)__  
 - Master __the transformations of the formulas__:  
+  ::: wrap  
   $
   \begin{array}{ll}
   \textsf{profit rate}=\frac{\textsf{profit}}{\textsf{cost price}}\cdot100\% \\
@@ -415,6 +418,7 @@ __The price change (discounts and promotions)__
   \Longrightarrow \textsf{selling price}-\textsf{cost price}=\textsf{cost price}\cdot\textsf{profit}
   \end{array}
   $
+  :::  
 
 ### $\fbox{18}\:$A store increases the price of each piece of clothing by $\small 50\%$ above the cost price, then offers a $\small 30\%$ discount. Each sale yields a profit of $\small 625\textsf{ USD}$. Given that the cost price of each item is $\small 2\textsf{K USD}$, how much higher is the selling price than the cost price $\small \mathpunct{?}$.
 ::: wrap  

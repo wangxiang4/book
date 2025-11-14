@@ -113,8 +113,10 @@ __The not related to the speed of the current__
   whether they __meet__ or __pursuit__,
   it is __not affected by the speed of the current__,
   because __the current speed cancels out__.
+::: wrap  
 - $t_{\textsf{meeting}}=\frac{s}{(v_1+x)+(v_2-x)}$
 - $t_{\textsf{pursuit}}=\frac{s}{(v_1+x)-(v_2+x)}=\frac{s}{(v_1-x)-(v_2-x)}$
+:::  
 
 ### $\fbox{35}\:$Boats $\small 1$ and $\small 2$ are traveling on a river $\small 90$ kilometers apart. If they travel toward each other, they meet after $\small 3$ hours; if they travel in the same direction, Boat $\small 1$ catches up with Boat $\small 2$ after $\small 15$ hours. Find the speed of Boat $\small 1$ in still water in kilometers per hour.
 ::: wrap  

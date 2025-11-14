@@ -298,7 +298,9 @@ $
   :::
 ---
 
+::: wrap  
 ### $\fbox{23}\:$(Sufficiency judgment) $\small \left|1-x\right|-\sqrt{x^2-8x+16}=2x-5$.
+:::  
 ::: wrap  
 $
 \begin{array}{lllll}

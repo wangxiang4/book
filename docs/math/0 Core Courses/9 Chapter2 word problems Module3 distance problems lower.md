@@ -3,13 +3,6 @@ title: Chapter2 Word Problems – Module3 Distance Problems Lower
 lang: en-US
 ---
 
-| Platform    | Course                                                                                             | Coursewares                                                       |
-|-------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=NNul-9BOv1E&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)       | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnao?playlist=x9h6d2)                                 |                                                                   |
-| Rumble      | [Watch](https://rumble.com/v6s9575-10-chapter2-word-problems-module3-distance-problems-lower.html) |                                                                   |
-
-
 ## 12.Focus 9
 __The departure interval__
 - The pedestrian can be __considered stationary__,
@@ -346,9 +339,10 @@ __The meeting again at the starting point__
 - If they meet again at the starting point,
   whether __running in the same or opposite directions__,
   both must have run __an integer number of laps__.
+::: wrap  
 - $\textsf{speed ratio}=\textsf{distance ratio}=\textsf{lap ratio}$  
   $\boldsymbol{\frac{v_a}{v_b}=\frac{s_a}{s_b}=\frac{n_a}{n_b}}$
-
+:::  
 
 ### $\fbox{44}\:$Runners $\small a$ and $\small b$ start from the same point on a circular track of $\small 300\textsf{m}$, running in the same direction at the same time. Runner $\small a$ runs $\small 6\textsf{m}$ per second, and runner $\small b$ runs $\small 4\textsf{m}$ per second. Find how many meters $\small a$ has run when he catches up with $\small b$ at the starting point for the second time.
 ::: wrap  
@@ -422,12 +416,14 @@ $
   - __Figure 2–9__  
     - __Accelerated motion__
 - __Slope equals speed__  
+  ::: wrap  
   $
   \begin{array}{ll}
   k=\frac{y}{x} & \href{/math/0%20Core%20Courses/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-slope-between-and-is}{\textsf{slope of line passing through origin}} \\
   v=\frac{s}{t} \Longleftrightarrow k=\frac{y}{x} & \boldsymbol{v=k} \\
   \end{array}
   $
+  :::  
 ### $\textcolor{#1E3A5F}{\fbox{3}}\:s=vt$ graph
 - ###### __Uniform motion__  
   ![motion graph figure 2-10.svg](../../public/math/Core%20Courses/motion%20graph%20figure%202-10.svg)  
@@ -441,13 +437,15 @@ $
   - __Figure 2–12__
     - ① Decelerated motion with __an initial speed of $\boldsymbol{3}$__
     - ② Decelerated motion with __variable deceleration__ and __an initial speed of $\boldsymbol{3}$__
-- __Area of rectangle equals distance__  
+- __Area equals distance__  
+  ::: wrap  
   $
   \begin{array}{ll}
   S=ab & \href{/math/0%20Core%20Courses/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_2-rectangle}{\textsf{rectangle area formula}} \\
   s=vt \Longleftrightarrow S=ab & \boldsymbol{s=S} \\
   \end{array}
   $
+  :::  
 
 ## 19.Focus 13
 __The $\boldsymbol{t=\frac{s}{v}}$ graph__  
@@ -537,6 +535,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
+  \textsf{slope}=\textsf{speed} \\
   v_{\textsf{car}1}=\frac{8}{12}=\frac{2}{3} \\
   v_{\textsf{car}2}=\frac{12}{6}=2 \\
   v_{\textsf{car}1}\lt v_{\textsf{car}2} \\
@@ -640,6 +639,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#variable-motion-1}{v=\frac{s}{t}\textsf{ variable motion graph}} \\
+  & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion-1}{v=\frac{s}{t}\textsf{ uniform motion graph}} \\
   k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/0%20Core%20Courses/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
   \end{array}
   >$
@@ -712,3 +712,52 @@ $
 
   :::
 ---
+
+### $\fbox{50}\:$Figure 2–18: It shows the relationship between the train's speed $\small v$ and travel time $\small t$. When the train travels $\small 72\textsf{km}$ in $\small 1$ hour, find the value of $\small v_0$ in kilometers per hour.
+![Question distance problems figure 2-18.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-18.svg)  
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 72 &
+\textsf{(B)} \: 80 &
+\textsf{(C)} \: 90 &
+\textsf{(D)} \: 95 &
+\textsf{(E)} \: 100 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{area}=\textsf{distance} \\
+s=S=\frac{0.6+1}{2}v_0=0.8v_0=72 \\
+v_0=\frac{72}{0.8}=90 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $v_0=90$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#variable-motion-2}{s=vt\textsf{ variable motion graph}} \\
+  & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion-2}{s=vt\textsf{ uniform motion graph}} \\
+  S=\frac{a+b}{2}h & \href{/math/0%20Core%20Courses/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_5-trapezoid}{\textsf{trapezoid area formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+| Platform    | Course                                                                                             | Coursewares                                                       |
+|-------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| YouTube     | [Watch](https://www.youtube.com/watch?v=NNul-9BOv1E&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)       | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnao?playlist=x9h6d2)                                 |                                                                   |
+| Rumble      | [Watch](https://rumble.com/v6s9575-10-chapter2-word-problems-module3-distance-problems-lower.html) |                                                                   |
