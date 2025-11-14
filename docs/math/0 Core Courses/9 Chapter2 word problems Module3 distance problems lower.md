@@ -507,3 +507,91 @@ $
 
   :::
 ---
+
+## 20.Focus 14
+__The $\boldsymbol{v=\frac{s}{t}}$ graph__
+- For __the $\boldsymbol{v=\frac{s}{t}}$ graph__,
+  if the graph is __a straight line__,
+  it represents __uniform motion__.
+  __The slope of the line represents the speed__;
+  when __the slope is $\boldsymbol{0}$__, the object is __at rest__.
+  If the graph is __a curve__, it represents __variable motion__.
+
+
+### $\fbox{46}\:$Figure 2–14: Cars $\small 1$ and $\small 2$ start simultaneously from points $\small A$ and $\small B$, moving toward each other. The two cars meet after $\small 6$ seconds. The speeds of car $\small 1$ and car $\small 2$ are $\small v_{\textsf{car}1}$ and $\small v_{\textsf{car}2}$, and the distance between $\small A$ and $\small B$ is $\small s$. Which of the following statements are correct $\small \mathpunct{?}$.
+![Question distance problems figure 2-14.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-14.svg)  
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: v_{\textsf{car}1}\gt v_{\textsf{car}2}, s=16\textsf{m} &
+\textsf{(B)} \: v_{\textsf{car}1}\gt v_{\textsf{car}2}, s=8\textsf{m} & \\
+\textsf{(C)} \: v_{\textsf{car}1}\gt v_{\textsf{car}2}, s=12\textsf{m} &
+\textsf{(D)} \: v_{\textsf{car}1}\lt v_{\textsf{car}2}, s=16\textsf{m} & \\
+\textsf{(E)} \: v_{\textsf{car}1}\lt v_{\textsf{car}2}, s=8\textsf{m} & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question distance problems figure 2-14 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-14%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  v_{\textsf{car}1}=\frac{8}{12}=\frac{2}{3} \\
+  v_{\textsf{car}2}=\frac{12}{6}=2 \\
+  v_{\textsf{car}1}\lt v_{\textsf{car}2} \\
+  s=6(\frac{2}{3}+2)=4+12=16\textsf{m} \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $v_{\textsf{car}1}\lt v_{\textsf{car}2},s=16\textsf{m}$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion-1}{v=\frac{s}{t}\textsf{ uniform motion graph}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v=v_1+v_2 & \href{/math/0%20Core%20Courses/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{47}\:$Figure 2–15: Given the $\small v=\frac{s}{t}$ graph of objects $\small A$ and $\small B$, the most likely corresponding $\small s=vt$ are:
+![Question distance problems figure 2-15.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-15.svg)  
+$\textsf{(A):}$  
+![Question distance problems figure 2-15 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-15%20solve-1.svg)  
+$\textsf{(B):}$  
+![Question distance problems figure 2-15 solve-2.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-15%20solve-2.svg)  
+$\textsf{(C):}$  
+![Question distance problems figure 2-15 solve-3.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-15%20solve-3.svg)    
+$\textsf{(D):}$  
+![Question distance problems figure 2-15 solve-4.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-15%20solve-4.svg)    
+$\textsf{(E):} \: \nexists$  
+#### Solution
+![Question distance problems figure 2-15 solve-5.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-15%20solve-5.svg)  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $\textsf{(B)}$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion-1}{v=\frac{s}{t}\textsf{ uniform motion graph}} \\
+  & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion-2}{s=vt\textsf{ uniform motion graph}} \\
+  \end{array}
+  >$
+
+  :::
+---
