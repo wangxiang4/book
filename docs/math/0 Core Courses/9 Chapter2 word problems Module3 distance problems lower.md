@@ -590,6 +590,57 @@ $\textsf{(E):} \: \nexists$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion-1}{v=\frac{s}{t}\textsf{ uniform motion graph}} \\
   & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion-2}{s=vt\textsf{ uniform motion graph}} \\
+  & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#variable-motion-2}{s=vt\textsf{ variable motion graph}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{48}\:$Figure 2–16: The figure shows the $v=\frac{s}{t}$ graph of a car moving in a straight line. For the motion represented by segments $\small OA, AB, BC$, and $\small CD$, which of the following statements are correct $\small \mathpunct{?}$.  
+![Question distance problems figure 2-16.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-16.svg)  
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \textsf{the speed is greatest on segment }OA & \\
+\textsf{(B)} \: \textsf{the object moves with uniform motion on segment }AB & \\
+\textsf{(C)} \: \textsf{the direction of motion on segment }CD\textsf{ is opposite to the initial direction of motion} & \\
+\textsf{(D)} \: \textsf{the distance traveled by the car on segment }OA\textsf{ is }30\textsf{km} & \\
+\textsf{(E)} \: \textsf{the distance traveled on segment }OA\textsf{ is less than that on segment }OB & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question distance problems figure 2-16 solve-1.svg](../../public/math/Core%20Courses/Question%20distance%20problems%20figure%202-16%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  v_{OA}=\frac{s}{t}=\frac{15}{1}=15 \\
+  v_{AB}=\frac{y_2-y_1}{x_2-x_1}=\frac{15-15}{2-1}=0 \\
+  v_{BC}=\frac{y_2-y_1}{x_2-x_1}=\frac{30-15}{3-2}=15 \\
+  v_{CD}=\frac{y_2-y_1}{x_2-x_1}=\frac{0-30}{4-3}=-30 \\
+  \textsf{(A)} \: v_{CD}=30 \,❌\;\\
+  \textsf{(B)} \: v_{AB}=\textsf{at rest} \,❌\;\\
+  \textsf{(C)} \: v_{CD}=\textsf{opposite direction} \,✅\;\\
+  \textsf{(D)} \: s_{OA}=15 \,❌\;\\
+  \textsf{(E)} \: s_{OA}=s_{OB} \,❌\;\\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $\textsf{(C)}$, so choose $C$.
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  & \href{/math/0%20Core%20Courses/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#variable-motion-1}{v=\frac{s}{t}\textsf{ variable motion graph}} \\
+  k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/0%20Core%20Courses/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
   \end{array}
   >$
 
