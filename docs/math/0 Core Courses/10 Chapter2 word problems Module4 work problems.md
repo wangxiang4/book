@@ -127,3 +127,67 @@ $
 
   :::
 ---
+
+### $\fbox{52}\:$A job can be finished by $\small A$ alone in $\small 12$ hours, by $\small B$ alone in $\small 10$ hours, and by $\small C$ alone in $\small 15$ hours. $\small A$ works alone for the first $\small 2$ hours, and the rest is completed by $\small B$ and $\small C$ working together. How many more hours are needed to finish the job $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 1 &
+\textsf{(B)} \: 2 &
+\textsf{(C)} \: 3 &
+\textsf{(D)} \: 4 &
+\textsf{(E)} \: 5 & \\
+\end{array}
+$  
+:::
+#### Solution
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the work basic formula  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{let }s=\textsf{lcm(}12,10,15\textsf{)}=60 \\
+  v_A=5 \quad  v_B=6 \quad v_C=4 \\
+  t=\frac{60-5\cdot2}{6+4}=\frac{50}{10}=5 \\
+  \end{array}
+  $  
+  :::
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the work-time ratio method  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{let }s=\textsf{lcm(}12,10,15\textsf{)}=60 \\
+  v_A=5 \quad v_B=6 \quad v_C=4 \\
+  v_B+v_C=2v_A \\
+  A_{\textsf{work time}_{\textsf{completed}}}:A_{\textsf{work time}_{\textsf{remaining}}}=2\textsf{h}:10\textsf{h} \\
+  2v_A \Longrightarrow t=\frac{10}{2}=5 \\
+  \end{array}
+  $  
+  ::: 
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $t=5$, so choose $E$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  \end{array}
+  >$
+
+  :::
+- Let the abstract amount of work  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{let amount of work}=1 & \textsf{work time unknown} \\
+  \textsf{let amount of work}=\textsf{lcm} & \textsf{work time known} \\
+  \end{array}
+  >$
+
+  :::
+---
