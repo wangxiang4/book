@@ -191,3 +191,90 @@ $
 
   :::
 ---
+
+### $\fbox{53}\:$A project can be completed by Team $\small A$ alone in $\small 10$ months, and by Team $\small B$ alone in $\small 15$ months. After both teams work together for $\small 3$ months, Team $\small B$ is reassigned. Team $\small A$ then works alone for $\small 2$ months. After that, Team $\small B$ returns to work together with Team $\small A$. How many total months are needed to finish the project $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 6\frac{4}{5} &
+\textsf{(B)} \: 7\frac{4}{5} &
+\textsf{(C)} \: 8\frac{4}{5} &
+\textsf{(D)} \: 9\frac{4}{5} &
+\textsf{(E)} \: 10\frac{4}{5} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let }s=\textsf{lcm(}10,15\textsf{)}=30 \\
+v_A=3 \quad v_B=2 \\
+t_\textsf{last}=\frac{30-5\cdot3-3\cdot2}{3+2}=\frac{9}{5}=1\frac{4}{5} \\
+t_\textsf{total}=3+2+1\frac{4}{5}=6\frac{4}{5} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $t_\textsf{total}=6\frac{4}{5}$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 3.Focus 2
+__The finding amount of work__
+- Analyze using $\textsf{amount of work}=\textsf{work efficiency}\cdot\textsf{work time}$
+
+### $\fbox{54}\:\small A$ and $\small B$ together must process $\small 168$ parts. $\small A$ needs $\small 5$ minutes to process one part, and $\small B$ needs $\small 9$ minutes to process one part. If both work for the same amount of time, how many parts does each complete when the task is finished $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 108;60 &
+\textsf{(B)} \: 100;68 &
+\textsf{(C)} \: 106;62 &
+\textsf{(D)} \: 104;64 &
+\textsf{(E)} \: 102;66 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\frac{s_A}{s_B}=\frac{v_A}{v_B}=\frac{\frac{1}{5}}{\frac{1}{9}}=\frac{9}{5} & t=\textsf{constant} \\
+s_A=168\cdot\frac{9}{14}=108 \\
+s_B=168\cdot\frac{5}{14}=60 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $s_A=108,s_A=60$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  v=\frac{s}{t} \Longrightarrow \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
