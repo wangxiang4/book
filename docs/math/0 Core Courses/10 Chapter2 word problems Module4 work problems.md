@@ -273,6 +273,103 @@ $
   \begin{array}{ll}
   t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
   v=\frac{s}{t} \Longrightarrow \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  \textsf{partial quantity}=\textsf{total quantity}\cdot\textsf{corresponding ratio} & \href{/math/0%20Core%20Courses/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages.html#_1-focus-1}{\textsf{proportion formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{55}\:$A batch of parts can be completed by $\small A$ alone in $\small 6$ hours, and by $\small B$ alone in $\small 8$ hours. Now the two work together, and when the task is finished, $\small A$ has done $\small 24$ more parts than $\small B$. How many parts are there in total $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 138 &
+\textsf{(B)} \: 148 &
+\textsf{(C)} \: 158 &
+\textsf{(D)} \: 168 &
+\textsf{(E)} \: 178 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\frac{s_A}{s_B}=\frac{v_A}{v_B}=\frac{\frac{1}{6}}{\frac{1}{8}}=\frac{8}{6}=\frac{4}{3} & t=\textsf{constant} \\
+s_A:s_B=4:3 \\
+\Delta s=4\textsf{ parts}-3\textsf{ parts}=1\textsf{ part} \\
+1\textsf{ part}=24 \\
+s=4\cdot24+3\cdot24=96+72=168 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $s=168$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  v=\frac{s}{t} \Longrightarrow \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+
+## 4.Focus 3
+__The working in rotation__
+- First find __the amount of work done in one full cycle__,
+  then estimate __the number of cycles__,
+  and finally determine __who finishes the last part__ and __how much time is needed__.
+
+
+### $\fbox{56}\:$A project can be completed by $\small A$ alone in $\small 4$ days, by $\small B$ alone in $\small 5$ days, and by $\small C$ alone in $\small 6$ days. Now $\small A, B$, and $\small C$ work in rotation, each working one day per turn. How many days will it take to finish the task $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 5 &
+\textsf{(B)} \: 4\frac{3}{4} &
+\textsf{(C)} \: 4\frac{2}{3} &
+\textsf{(D)} \: 4\frac{1}{2} &
+\textsf{(E)} \: 6 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let }s=\textsf{lcm(}4,5,6\textsf{)}=60 \\
+v_A=15 \quad v_B=12 \quad v_C=10 \\
+s_\textsf{one cycle}=1\cdot15+1\cdot12+1\cdot10=37 \\
+s_\textsf{remaining}=60-37=23 \\
+s_{\textsf{turn }A}=23-1\cdot15=8 \\
+t_{\textsf{finish }B}=\frac{s}{v}=\frac{8}{12}=\frac{2}{3} \\
+t_\textsf{total}=3+1+\frac{2}{3}=4\frac{2}{3} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $t_\textsf{total}=4\frac{2}{3}$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
   \end{array}
   >$
 
