@@ -375,3 +375,125 @@ $
 
   :::
 ---
+
+
+## 5.Focus 4
+__The variable work efficiency__
+- Form equations based on __the relationship between the times before and after the efficiency changes__.
+  If the efficiency is __unknown__,
+  __let the efficiency be $\boldsymbol{x}$__ and solve.
+
+
+### $\fbox{57}\:$A project involves laying a section of oil pipeline. According to the original plan, it would take $\small 9$ days to complete. During actual construction, each day they laid $\small 50$ meters more than originally planned on average, and as a result, the project was finished in only $\small 7$ days. What is the length of this section of oil pipeline $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 1565\textsf{m} &
+\textsf{(B)} \: 1570\textsf{m} &
+\textsf{(C)} \: 1575\textsf{m} &
+\textsf{(D)} \: 1580\textsf{m} &
+\textsf{(E)} \: 1585\textsf{m} & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question work problems figure Q-57 solve-1.svg](../../public/math/Core%20Courses/Question%20work%20problems%20figure%20Q-57%20solve-1.svg)  
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by setting up an equation  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{let }v=x\textsf{m/d} \\
+  9x=7(x+50) \\
+  9x=7x+350 \\
+  2x=350 \\
+  x=\frac{350}{2}=175 \\
+  s_\textsf{slow}=9\cdot175=1575 \\
+  \end{array}
+  $  
+  :::  
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the basic ratio formula for variable efficiency  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  v_1:v_2=t_2:t_1 \Longrightarrow 7:9=9:7 \\
+  v_\textsf{slow}:v_\textsf{fast}=7:9 \\
+  v_\textsf{fast}-v_\textsf{slow}=9\textsf{ parts}-7\textsf{ parts}=2\textsf{ parts} \\
+  2\textsf{ parts}=50\textsf{m} \\
+  1\textsf{ part}=\frac{50}{2}=25\textsf{m} \\
+  v_\textsf{slow}=7\cdot25=175 \\
+  v_\textsf{fast}=9\cdot25=225 \\
+  s_\textsf{slow}=9\cdot175=1575 \\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $s_\textsf{slow}=1575$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{basic ratio of variable efficiency}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{58}\:$A project involves excavating a tunnel $\small 2400$ meters long. After $\small 400$ meters had been dug, new technology was introduced, allowing $\small 2$ more meters per day than originally planned. In the end, the project was completed $\small 50$ days ahead of schedule. What was the original planned duration $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 200\textsf{ days} &
+\textsf{(B)} \: 240\textsf{ days} &
+\textsf{(C)} \: 250\textsf{ days} &
+\textsf{(D)} \: 300\textsf{ days} &
+\textsf{(E)} \: 350\textsf{ days} & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question work problems figure Q-58 solve-1.svg](../../public/math/Core%20Courses/Question%20work%20problems%20figure%20Q-58%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  t_{\textsf{slow}_{BC}}-t_{\textsf{fast}_{BC}}=\textsf{advance 50d} \\
+  \textsf{let }v_\textsf{slow}=x\textsf{m/d} \quad v_\textsf{fast}=(x+2)\textsf{m/d} \\
+  s_{BC}\Delta v=v_1v_2\Delta t \\
+  2000\cdot(x-x+2)= x\cdot(x+2)\cdot(t_{\textsf{slow}_{BC}}-t_{\textsf{fast}_{BC}}) \\
+  2000\cdot2=(x^2+2x)\cdot50 \\
+  4000=50(x^2+2x) \\
+  80=x^2+2x \\
+  x^2+2x-80=0 \\
+  (x-8)(x+10)=0 \\
+  x=8 \lor -10 & x\ne-10 \textsf{ (non-negative distance)} \\
+  x=8 \\
+  t_\textsf{slow}=\frac{2400}{8}=300 \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $t_\textsf{slow}=300$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  s\Delta v=v_1v_2\Delta t & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{time difference of variable efficiency}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
