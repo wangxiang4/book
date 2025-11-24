@@ -3,13 +3,6 @@ title: Chapter2 Word Problems – Module4 Work Problems
 lang: en-US
 ---
 
-| Platform    | Course                                                                                          | Coursewares                                                       |
-|-------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=gJwDk4zZ004&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)    | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gfpza?playlist=x9h6d2)                              |                                                                   |
-| Rumble      | [Watch](https://rumble.com/v6s9581-11-chapter2-word-problems-module4-engineering-problems.html) |                                                                   |
-
-
 # Module 2-03 Work Problems
 
 ## 1.Basic formula
@@ -606,3 +599,87 @@ $
 
   :::
 ---
+
+## 7.Focus 6
+__The finding wages__
+- First identify two variables:
+  __① each worker's efficiency__;
+  __② the daily wage each receives__.
+  Additionally, __estimation can also be used to make judgments__.
+
+### $\fbox{61}\:$A project is completed in $\small 6$ days by Teams $\small A$ and $\small B$ together, costing $\small 8.7\textsf{K USD}$. Teams $\small B$ and $\small C$ together complete it in $\small 10$ days, costing $\small 9.5\textsf{K USD}$. Teams $\small A$ and $\small C$ together complete it in $\small 7.5$ days, costing $\small 8.25\textsf{K USD}$. If a single team is hired to complete the project alone, and it must be finished within $\small 15$ days, which team will require the least payment $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: \textsf{team }A &
+\textsf{(B)} \: \textsf{team }C &
+\textsf{(C)} \: \textsf{team }B & \\
+\textsf{(D)} \: \textsf{team }A \lor \textsf{team }B &
+\textsf{(E)} \: \textsf{team }B \lor \textsf{team }C & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let }v_A=x \quad v_B=y \quad v_C=z & \textsf{work efficiency/day} \\
+\begin{cases}
+x+y=\frac{1}{6} & ① \\
+y+z=\frac{1}{10} & ② \\
+x+z=\frac{1}{7.5}=\frac{2}{15} & ③ \\
+\end{cases} \\
+(x+y)+(x+z)-(y+z)=\frac{1}{6}+\frac{2}{15}-\frac{1}{10} & ①\,+③\,-② \\
+2x=\frac{5}{30}+\frac{4}{30}-\frac{3}{30}=\frac{6}{30}=\frac{1}{5} \\
+x=\frac{1}{10} \\
+\frac{1}{10}+y=\frac{1}{6} & \textsf{substitute }x \\
+y=\frac{5}{30}-\frac{3}{30}=\frac{2}{30}=\frac{1}{15} \\
+\frac{1}{15}+z=\frac{1}{10} & \textsf{substitute }y \\
+z=\frac{3}{30}-\frac{2}{30}=\frac{1}{30} \\
+\textsf{let }v_A=a \quad v_B=b \quad v_C=c & \textsf{wage/day} \\
+\begin{cases}
+a+b=\frac{8700}{6}=1450 & ① \\
+b+c=\frac{9500}{10}=950 & ② \\
+a+c=\frac{8250}{7.5}=\frac{8250\cdot2}{15}=1100 & ③ \\
+\end{cases} \\
+(a+b)+(a+c)-(b+c)=1450+1100-950 & ①\,+③\,-② \\
+2a=1600 \\
+a=\frac{1600}{2}=800 \\
+800+b=1450 & \textsf{substitute }a \\
+b=1450-800=650 \\
+650+c=950 & \textsf{substitute }b \\
+c=950-650=300 \\
+t_A=\frac{1}{\frac{1}{10}}=10\textsf{ days} \\
+t_B=\frac{1}{\frac{1}{15}}=15\textsf{ days} \\
+t_C=\frac{1}{\frac{1}{30}}=30\textsf{ days} \\
+s_A=800\cdot10=8000\textsf{ USD} \\
+s_B=650\cdot15=9750\textsf{ USD} \\
+s_C=300\cdot30=9000\textsf{ USD} \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $s_A=8000\textsf{ USD}$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  v=\frac{s}{t} \Longrightarrow \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+| Platform    | Course                                                                                          | Coursewares                                                       |
+|-------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| YouTube     | [Watch](https://www.youtube.com/watch?v=gJwDk4zZ004&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)    | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gfpza?playlist=x9h6d2)                              |                                                                   |
+| Rumble      | [Watch](https://rumble.com/v6s9581-11-chapter2-word-problems-module4-engineering-problems.html) |                                                                   |
