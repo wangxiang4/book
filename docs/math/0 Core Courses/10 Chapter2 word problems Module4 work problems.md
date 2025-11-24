@@ -228,8 +228,10 @@ $
 ---
 
 ## 3.Focus 2
-__The finding amount of work__
+__The finding amount of work__  
+::: wrap  
 - Analyze using $\textsf{amount of work}=\textsf{work efficiency}\cdot\textsf{work time}$
+:::  
 
 ### $\fbox{54}\:\small A$ and $\small B$ together must process $\small 168$ parts. $\small A$ needs $\small 5$ minutes to process one part, and $\small B$ needs $\small 9$ minutes to process one part. If both work for the same amount of time, how many parts does each complete when the task is finished $\small \mathpunct{?}$.
 ::: wrap  
