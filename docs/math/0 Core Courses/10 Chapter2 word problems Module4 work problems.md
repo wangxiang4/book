@@ -39,7 +39,7 @@ lang: en-US
 :::  
 ::: wrap  
 - $\textsf{total efficiency}=\textsf{algebraic sum of individual efficiencies}$  
-  - Efficiencies are __positive or negative__
+  - Efficiency is __positive or negative__
 :::  
 
 ## 2.Focus 1
@@ -492,6 +492,115 @@ $
   \begin{array}{ll}
   s\Delta v=v_1v_2\Delta t & \href{/math/0%20Core%20Courses/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{time difference of variable efficiency}} \\
   t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+## 6.Focus 5
+__The positive and negative efficiency__
+- In work problems involving __inflow and outflow__,
+  the efficiency of the inlet pipe can be __treated as positive__,
+  while the efficiency of the outlet pipe can be __treated as negative__.
+
+
+### $\fbox{59}\:$An empty water tank has three pipes $\small A, B$, and $\small C$. Pipe $\small A$ can fill the tank in $\small 5$ minutes; pipe $\small B$ can fill it in $\small 30$ minutes; pipe $\small C$ can drain a full tank in $\small 15$ minutes. If all three pipes are opened together and pipe $\small B$ is closed after $\small 2$ minutes, how many minutes in total is pipe $\small A$ open when the tank becomes full $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 4 &
+\textsf{(B)} \: 5 &
+\textsf{(C)} \: 6 &
+\textsf{(D)} \: 7 &
+\textsf{(E)} \: 8 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let }s=\textsf{lcm(}5,30,15\textsf{)}=30 \\
+v_A=6 \quad  v_B=1 \quad v_C=2 \\
+s_\textsf{remaining}=30-(6+1-2)\cdot2=20 \\
+t_\textsf{remaining}=\frac{20}{6-2}=5 \\
+t_A=5+2=7 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $t_A=7$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{60}\:$A water pool has several identical inlet pipes at the top and one always-open drain pipe at the bottom. When $\small 4$ inlet pipes are opened, it takes $\small 4$ hours to fill the pool; when $\small 3$ inlet pipes are opened, it takes $\small 8$ hours to fill the pool. If the pool must be filled within $\small 2$ hours, what is the minimum number of inlet pipes that need to be opened $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 8 &
+\textsf{(B)} \: 7 &
+\textsf{(C)} \: 6 &
+\textsf{(D)} \: 5 &
+\textsf{(E)} \: 4 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question work problems figure Q-60 solve-1.svg](../../public/math/Core%20Courses/Question%20work%20problems%20figure%20Q-60%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{let }v_\textsf{inlet}=x \quad v_\textsf{outlet}=y \\
+  \begin{cases}
+  (4x-y)\cdot4=1 \\
+  (3x-y)\cdot8=1 \\
+  \end{cases} \\
+  16x-4y=1 & ① \\
+  24x-8y= 1 & ② \\
+  12x-4y=\frac{1}{2} \\
+  (16x-4y)-(12x-4y)=1-\frac{1}{2} & ①\,-② \\
+  4x=\frac{1}{2} \\
+  x=\frac{1}{8} \\
+  (4\frac{1}{8}-y)\cdot4=1 & \textsf{substitute }x \\
+  \frac{16}{8}-4y=1 \\
+  -4y=-1 \\
+  y=\frac{1}{4} \\
+  \textsf{let inlet}=n \\
+  (\frac{1}{8}n-\frac{1}{4})\cdot2=1 \\
+  \frac{1}{8}n-\frac{1}{4}=\frac{1}{2} \\
+  \frac{1}{8}n=\frac{2}{4}+\frac{1}{4} \\
+  n=8\frac{3}{4}=6 \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $n=6$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Courses/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
   \end{array}
   >$
 
