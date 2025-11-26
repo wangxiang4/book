@@ -23,6 +23,33 @@ lang: en-US
   as long as __a larger quantity__, __a smaller quantity__,
   and __their mixed intermediate quantity__ are involved,
   the method can generally be used to find __the ratio between the large and small quantities__ — for example, __in solution-mixing problems__.
-
-
+- ###### __Lever principle__  
+  ![Lever principle diagram.svg](../../public/math/Core%20Courses/Lever%20principle%20diagram.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \boldsymbol{c}\textsf{: fulcrum (mean value)} \\
+  \boldsymbol{l_1,l_2}\textsf{: lever arms} \\
+  \boldsymbol{F_1,F_2}\textsf{: forces (quantities)} \\
+  F_1l_1=F_2l_2 \\
+  \frac{F_1}{F_2}=\frac{l_2}{l_1} \\
+  \end{array}
+  $  
+  :::  
 ## 2.Usage
+- Using __the alligation (cross-multiplication) diagram__ derived from [__the lever principle__](/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#lever-principle),
+  __the quantity ratio $\boldsymbol{A:B}$ is $\boldsymbol{(b−c):(c−a)}$__.  
+  ![Alligation cross-multiplication diagram.svg](../../public/math/Core%20Courses/Alligation%20cross-multiplication%20diagram.svg)  
+  - Given __①__ and __②__, find __③__
+    - __straightforward__
+  - Given __②__ and __③__, find __①__
+    - __set up an equation__
+  - Given __①__ and __③__, find __②__
+    - __set up an equation__
+    - [__weighted average__](/math/0%20Core%20Courses/33%20Chapter11%20descriptive%20statistics.html#_6-focus-3)
+
+- First list __the values of $\boldsymbol{A}$ and $\boldsymbol{B}$ vertically__,
+  __subtract each from the overall value $\boldsymbol{c}$__,
+  and __the quantity ratio of $\boldsymbol{A}$ to $\boldsymbol{B}$__ follows directly.
+  - __The value of $\boldsymbol{c}$ lies between $\boldsymbol{a}$ and $\boldsymbol{b}$__.
+  
