@@ -146,7 +146,7 @@ $
   >$
 
   :::
-- Derivation of the weighted average formula for an intermediate quantity  
+- ###### Derivation of the weighted average formula for an intermediate quantity  
   ::: wrap
   >$
   \begin{array}{ll}
@@ -224,7 +224,77 @@ $
   \begin{array}{ll}
   \frac{A-B}{B}=p\% \Longleftrightarrow A=B(1+p\%) & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
   A:B=(b−c):(c−a) & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_2-usage}{\textsf{alligation method}} \\
-  \frac{F_1}{F_2}=\frac{l_2}{l_1} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#lever-principle}{\textsf{lever principle}} \\
+  \frac{F_1}{F_2}=\frac{l_2}{l_1} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#lever-principle}{\textsf{force–arm ratio formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{65}\:$Groups $\small A$ and $\small B$ are doing a shooting test. Group $\small B\textsf{'s}$ average score is $\small 171.6$ points, which is $\small 30\%$ higher than Group $\small A\textsf{'s}$ average score. Group $\small A$ has $\small 20\%$ more people than Group $\small B$. What is the overall average score of the two groups combined $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 140 &
+\textsf{(B)} \: 145.5 &
+\textsf{(C)} \: 150 &
+\textsf{(D)} \: 158.5 &
+\textsf{(E)} \: 160 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question alligation method figure Q-65 solve-1.svg](../../public/math/Core%20Courses/Question%20alligation%20method%20figure%20Q-65%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  B\textsf{'s score}=A\textsf{'s score}\cdot1.3 \Longrightarrow A\textsf{'s score}=\frac{171.6}{1.3}=132 \\
+  \textsf{let overall score}=x \\
+  \end{array}
+  $  
+  :::  
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the force–arm ratio formula  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{number of }A:\textsf{number of }B=1.2:1 \\
+  \frac{F_1}{F_2}=\frac{l_2}{l_1} \Longrightarrow \frac{1.2}{1}=\frac{171.6-x}{x-132} \\
+  1.2(x-132)=171.6-x \\
+  1.2x-158.4=171.6-x \\
+  2.2x=330 \\
+  x=\frac{330}{2.2}=150 \\
+  \end{array}
+  $  
+  :::
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the weighted average formula for an intermediate quantity  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{number of }A:\textsf{number of }B=1.2:1=6:5 \\
+  \textcolor{#9370DB}{\boldsymbol{②}}\:=132+(171.6-132)\cdot\frac{5}{11} \\
+  132+39.6\cdot\frac{5}{11} \\
+  132+3.6\cdot5 \\
+  132+18=150 \\
+  x=150 \\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $x=150$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \frac{A-B}{B}=p\% \Longleftrightarrow A=B(1+p\%) & \href{/math/0%20Core%20Courses/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  A:B=(b−c):(c−a) & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_2-usage}{\textsf{alligation method}} \\
+  \frac{F_1}{F_2}=\frac{l_2}{l_1} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#lever-principle}{\textsf{force–arm ratio formula}} \\
+  \textcolor{#9370DB}{\boldsymbol{②}}\:=\textsf{small}+(\textsf{large}-\textsf{small})\cdot\textsf{large ratio} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#derivation-of-the-weighted-average-formula-for-an-intermediate-quantity}{\textsf{intermediate weighted-average formula}} \\
   \end{array}
   >$
 
