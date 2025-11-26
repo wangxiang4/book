@@ -53,3 +53,9 @@ lang: en-US
   and __the quantity ratio of $\boldsymbol{A}$ to $\boldsymbol{B}$__ follows directly.
   - __The value of $\boldsymbol{c}$ lies between $\boldsymbol{a}$ and $\boldsymbol{b}$__.
   
+
+## 3.Focus 1
+__The situations where the alligation (cross-multiplication) method is suitable__  
+- When __the values of each part ($\textcolor{#FF7FAF}{\boldsymbol{①}}\hspace{0.14cm}$)__ and __the overall value ($\textcolor{#9370DB}{\boldsymbol{②}}\hspace{0.14cm}$)__ are known,
+  __the alligation method__ can be used to find __the quantity ratio of the two parts ($\textcolor{#0DCAF2}{\boldsymbol{③}}\hspace{0.14cm}$)__.
+  
