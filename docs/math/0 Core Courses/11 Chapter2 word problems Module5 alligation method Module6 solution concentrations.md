@@ -40,11 +40,11 @@ lang: en-US
 - Using __the alligation (cross-multiplication) diagram__ derived from [__the lever principle__](/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#lever-principle),
   __the quantity ratio $\boldsymbol{A:B}$ is $\boldsymbol{(b−c):(c−a)}$__.  
   ![Alligation cross-multiplication diagram.svg](../../public/math/Core%20Courses/Alligation%20cross-multiplication%20diagram.svg)  
-  - Given __①__ and __②__, find __③__
+  - Given $\textcolor{#FF7FAF}{\boldsymbol{①}}\:$ and $\textcolor{#9370DB}{\boldsymbol{②}}\:$, find $\textcolor{#0DCAF2}{\boldsymbol{③}}\:$
     - __straightforward__
-  - Given __②__ and __③__, find __①__
+  - Given $\textcolor{#9370DB}{\boldsymbol{②}}\:$ and $\textcolor{#0DCAF2}{\boldsymbol{③}}\:$, find $\textcolor{#FF7FAF}{\boldsymbol{①}}\:$
     - __set up an equation__
-  - Given __①__ and __③__, find __②__
+  - Given $\textcolor{#FF7FAF}{\boldsymbol{①}}\:$ and $\textcolor{#0DCAF2}{\boldsymbol{③}}\:$, find $\textcolor{#9370DB}{\boldsymbol{②}}\:$
     - __set up an equation__
     - [__weighted average__](/math/0%20Core%20Courses/33%20Chapter11%20descriptive%20statistics.html#_6-focus-3)
 
