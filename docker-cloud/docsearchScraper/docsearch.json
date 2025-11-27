@@ -1,7 +1,7 @@
 {
   "index_name": "electron-book",
-  "start_urls": ["https://book.dolphinx.org"],
-  "sitemap_urls": ["https://book.dolphinx.org/sitemap.xml"],
+  "start_urls": ["https://book.electroplumb.org"],
+  "sitemap_urls": ["https://book.electroplumb.org/sitemap.xml"],
   "stop_urls": ["/search"],
   "selectors": {
     "lvl0": ".router-link-active",

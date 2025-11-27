@@ -35,9 +35,9 @@ export default {
     nav,
     // Use https://docsearch.algolia.com/apply Approved(search api key)
     agolia: {
-      apiKey: 'f15d018bd325a1fc739a2511b261a399',
-      indexName: 'book-dolphinx',
-      appId: '76WJQGCIC5',
+      apiKey: 'c9e8d97d6fd796bc5077c60203476968',
+      indexName: 'book-electroplumb',
+      appId: '7UG5GPPW6T',
     }
   },
   lang: 'en-US',

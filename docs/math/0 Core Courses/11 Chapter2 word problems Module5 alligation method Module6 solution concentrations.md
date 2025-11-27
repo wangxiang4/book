@@ -300,3 +300,14 @@ $
 
   :::
 ---
+
+
+# Module 2-06 Solution Concentration
+
+## 1.Solution and Concentration Formulas
+::: wrap
+1. $\textsf{solution}=\textsf{solute}-\textsf{solvent}$
+2. $\textsf{concentration}=\frac{\textsf{solute}}{\textsf{solution}}\cdot100\%=\frac{\textsf{solute}}{\textsf{solute}+\textsf{solvent}}\cdot100\%$
+3. $\textsf{solute}=\textsf{solution}\cdot\textsf{concentration}$
+4. $\textsf{solvent}=\textsf{solution}\cdot(1-\textsf{concentration})$
+:::  
