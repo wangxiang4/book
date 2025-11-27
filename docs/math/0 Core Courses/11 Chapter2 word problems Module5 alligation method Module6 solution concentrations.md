@@ -311,3 +311,19 @@ $
 3. $\textsf{solute}=\textsf{solution}\cdot\textsf{concentration}$
 4. $\textsf{solvent}=\textsf{solution}\cdot(1-\textsf{concentration})$
 :::  
+
+## 2.Percentage Concentration
+- Essence: __the percentage occupied by the solute__.
+- Special concentrations
+  - __Pure water: $\boldsymbol{0\%}$__
+  - __Pure alcohol: $\boldsymbol{100\%}$__
+- Units
+  - __Mass concentration (solids): $\boldsymbol{\frac{g}{g}}, \boldsymbol{\frac{kg}{kg}}$__
+  - __Volume concentration (liquids): $\boldsymbol{\frac{mL}{mL}}, \boldsymbol{\frac{L}{L}}$__
+- Density: when __mixing liquid solute and liquid solvent__,
+  __the volumes do not add up exactly__ because __densities differ__;
+  in problem-solving, __this difference is ignored__.
+- Ratio: $\boldsymbol{p\%=\frac{n}{m}}$
+  - $\boldsymbol{n}$: __parts of solute__
+  - $\boldsymbol{m}$: __total parts of solution__
+  - $\boldsymbol{m-n}$: __parts of solvent__
