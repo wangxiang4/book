@@ -327,3 +327,60 @@ $
   - $\boldsymbol{n}$: __parts of solute__
   - $\boldsymbol{m}$: __total parts of solution__
   - $\boldsymbol{m-n}$: __parts of solvent__
+
+
+## 3.Focus 1
+__The single change in solute or solvent__  
+- Set up equations based on __the quantity that remains unchanged__.
+  1. __Dilution__: characterized by __adding solvent__;  
+     the key is identifying __the invariant quantity (solute)__.
+  2. __Concentrating__: characterized by __reducing solvent__;  
+     the key is identifying __the invariant quantity (solute)__.
+  3. __Increase concentration__: characterized by __adding solute__;  
+     the key is identifying __the invariant quantity (solvent)__.
+
+| Process                    |  Solute   |  Solvent  | Concentration | Invariant         |
+|----------------------------|:---------:|:---------:|:-------------:|-------------------|
+| __Dilution__               | unchanged | increases |   decreases   | solute unchanged  |
+| __Concentrating__          | unchanged | decreases |   increases   | solute unchanged  |
+| __Increase concentration__ | increases | unchanged |   increases   | solvent unchanged |
+
+
+### $\fbox{66}\:$A solution contains $\small 40\textsf{kg}$ of saltwater at a concentration of $\small 12.5\%$. After some of the water evaporates, the solution becomes $\small 20\%$ saltwater. How many kilograms of water have evaporated $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 19 &
+\textsf{(B)} \: 18 &
+\textsf{(C)} \: 17 &
+\textsf{(D)} \: 16 &
+\textsf{(E)} \: 15 & \\
+\end{array}
+$  
+:::
+#### Solution
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by setting up an equation  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+   & \textsf{} \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{()}$  
+  > According to the Solution, get $ $, so choose $ $. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+   & \textsf{} \\
+  \end{array}
+  >$
+
+  :::
+---
