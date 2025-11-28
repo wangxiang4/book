@@ -10,7 +10,7 @@ lang: en-US
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Standard form  
 - A circle with center $\boldsymbol{(x_0,y_0)}$ and radius $r$ can be represented by the equation: $(x-x_0)^2+(y-y_0)^2=r^2$.
 - __Equation derivation__  
-  ![Circle standard form derivation.svg](../../public/math/Core%20Courses/Circle%20standard%20form%20derivation.svg)  
+  ![Circle standard form equation derivation.svg](../../public/math/Core%20Courses/Circle%20standard%20form%20equation%20derivation.svg)  
   ::: wrap  
   $
   \begin{array}{ll}

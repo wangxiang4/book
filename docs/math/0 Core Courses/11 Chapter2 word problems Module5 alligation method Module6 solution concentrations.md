@@ -318,8 +318,8 @@ $
   - __Pure water: $\boldsymbol{0\%}$__
   - __Pure alcohol: $\boldsymbol{100\%}$__
 - Units
-  - __Mass concentration (solids): $\frac{\textsf{solute}}{\textsf{solution}}\boldsymbol{=\frac{g}{g}}, \boldsymbol{\frac{kg}{kg}}$__
-  - __Volume concentration (liquids): $\frac{\textsf{solute}}{\textsf{solution}}\boldsymbol{=\frac{mL}{mL}}, \boldsymbol{\frac{L}{L}}$__
+  - __Mass concentration (solids): $\frac{\textsf{solute}}{\textsf{solution}}\boldsymbol{=\frac{\textsf{g}}{\textsf{g}}}, \boldsymbol{\frac{\textsf{kg}}{\textsf{kg}}}$__
+  - __Volume concentration (liquids): $\frac{\textsf{solute}}{\textsf{solution}}\boldsymbol{=\frac{\textsf{mL}}{\textsf{mL}}}, \boldsymbol{\frac{\textsf{L}}{\textsf{L}}}$__
 - Density: when __mixing liquid solute and liquid solvent__,
   __the volumes do not add up exactly__ because __densities differ__;
   in problem-solving, __this difference is ignored__.
@@ -455,3 +455,25 @@ $
 
   :::
 ---
+
+## 5.Focus 3
+__The solvent replacement with equal volume__  
+- For __a solution of volume $\boldsymbol{v}$ liters__,
+  if __$\boldsymbol{m}$ liters are removed__ and __replaced with the same amount of water__,
+  then the new concentration becomes __$\boldsymbol{\frac{v-m}{v}}$ of the original concentration__.  
+  ![Solvent replacement formula derivation.svg](../../public/math/Core%20Courses/Solvent%20replacement%20formula%20derivation.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{let volume}=v \quad \textsf{volume}_\textsf{removed}=m \\
+  p\%=\textsf{percentage concentration} \\
+  \textsf{concentration}=\frac{\textsf{solute}}{\textsf{solution}} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_1-solution-and-concentration-formulas}{\textsf{concentration formula}} \\
+  c_1=\frac{(v-m)\cdot p\%}{v-m+m}=\frac{v-m}{v}\cdot p\% & \textsf{replace once} \\
+  c_2=\frac{v-m}{v}\cdot c_1 & \textsf{replace twice} \\
+  \frac{v-m}{v}\cdot\frac{v-m}{v}\cdot p\% \\
+  (\frac{v-m}{v})^2\cdot p\% \\
+  \end{array}
+  $  
+  :::
+- The concentration __remains unchanged__ after __removing some of the solution__,
+  but __decreases__ after __adding the same volume of water__.
