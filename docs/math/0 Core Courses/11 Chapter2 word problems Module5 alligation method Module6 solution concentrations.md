@@ -306,7 +306,7 @@ $
 
 ## 1.Solution and Concentration Formulas
 ::: wrap
-1. $\textsf{solution}=\textsf{solute}-\textsf{solvent}$
+1. $\textsf{solution}=\textsf{solute}+\textsf{solvent}$
 2. $\textsf{concentration}=\frac{\textsf{solute}}{\textsf{solution}}\cdot100\%=\frac{\textsf{solute}}{\textsf{solute}+\textsf{solvent}}\cdot100\%$
 3. $\textsf{solute}=\textsf{solution}\cdot\textsf{concentration}$
 4. $\textsf{solvent}=\textsf{solution}\cdot(1-\textsf{concentration})$
@@ -318,8 +318,8 @@ $
   - __Pure water: $\boldsymbol{0\%}$__
   - __Pure alcohol: $\boldsymbol{100\%}$__
 - Units
-  - __Mass concentration (solids): $\boldsymbol{\frac{g}{g}}, \boldsymbol{\frac{kg}{kg}}$__
-  - __Volume concentration (liquids): $\boldsymbol{\frac{mL}{mL}}, \boldsymbol{\frac{L}{L}}$__
+  - __Mass concentration (solids): $\frac{\textsf{solute}}{\textsf{solution}}\boldsymbol{=\frac{g}{g}}, \boldsymbol{\frac{kg}{kg}}$__
+  - __Volume concentration (liquids): $\frac{\textsf{solute}}{\textsf{solution}}\boldsymbol{=\frac{mL}{mL}}, \boldsymbol{\frac{L}{L}}$__
 - Density: when __mixing liquid solute and liquid solvent__,
   __the volumes do not add up exactly__ because __densities differ__;
   in problem-solving, __this difference is ignored__.
@@ -363,22 +363,42 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-   & \textsf{} \\
+  \textsf{let water}_\textsf{evaporate}=x \\
+  40\cdot12.5\%=(40-x)\cdot20\% & \textsf{solute unchanged} \\
+  \frac{500}{100}=0.2(40-x) \\
+  5=8-0.2x \\
+  0.2x=3 \\
+  x=\frac{3}{0.2}=15 \\
   \end{array}
   $  
   :::  
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the concentration ratio formula  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{solute}=\textsf{constant quantity} \\
+  \frac{\textsf{solute}}{\textsf{solution}}=12.5\%=\frac{12.5}{100}=\frac{1}{8} & \textsf{before} \\
+  \frac{\textsf{solute}}{\textsf{solution}}=20\%=\frac{20}{100}=\frac{1}{5} & \textsf{after} \\
+  \textsf{water}_\textsf{evaporate}=\Delta\textsf{solution}=8\textsf{ parts}-5\textsf{ parts}=3\textsf{ part} \\
+  8\textsf{ parts}=40\textsf{kg} \\
+  1\textsf{ part}=\frac{40}{8}=5 \\
+  \textsf{water}_\textsf{evaporate}=3\cdot5=15 \\
+  \end{array}
+  $  
+  :::
 #### Conclusion
 - Derived Solution  
   ::: wrap
-  > $\boldsymbol{()}$  
-  > According to the Solution, get $ $, so choose $ $. 
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $\textsf{water}_\textsf{evaporate}=15$, so choose $E$. 
 
   :::
 - Formulas used  
   ::: wrap
   >$
   \begin{array}{ll}
-   & \textsf{} \\
+  \textsf{solute}=\textsf{solution}\cdot\textsf{concentration} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_1-solution-and-concentration-formulas}{\textsf{solution formula}} \\
+  p\%=\frac{n}{m} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_2-percentage-concentration}{\textsf{concentration ratio formula}} \\
   \end{array}
   >$
 

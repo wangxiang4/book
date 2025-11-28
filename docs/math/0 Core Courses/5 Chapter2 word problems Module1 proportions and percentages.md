@@ -215,7 +215,7 @@ $
 B=\textsf{constant quantity} \\
 A:B=4:3=8:6 & \textsf{before}\\
 A:B=7:6=7:6 & \textsf{after} \\
-A_-=8\textsf{ parts}-7\textsf{ parts}=1\textsf{ part} \\
+\Delta A=8\textsf{ parts}-7\textsf{ parts}=1\textsf{ part} \\
 1\textsf{ part}=10\textsf{K} \\
 A_\textsf{origin}=8\cdot10\textsf{K}=80\textsf{K} \\
 \end{array}
@@ -249,7 +249,7 @@ $
 \textsf{boys}=\textsf{constant quantity} \\
 \textsf{boys}:\textsf{girls}=7:2 & \textsf{before} \\
 \textsf{boys}:\textsf{girls}=7:3 & \textsf{after} \\
-\textsf{girls}_+=3\textsf{ parts}-2\textsf{ parts}=1\textsf{ part} \\
+\Delta\textsf{girls}=3\textsf{ parts}-2\textsf{ parts}=1\textsf{ part} \\
 9\textsf{ parts}=108 \\
 1\textsf{ part}=\frac{108}{9}=12 \\
 \textsf{girls}_\textsf{arrive}=1=12 \\
@@ -284,12 +284,12 @@ $
 \textsf{boys}=\textsf{constant quantity} \\
 \textsf{boys}:\textsf{girls}=19:12=380:240 & \textsf{before} \\
 \textsf{boys}:\textsf{girls}=20:13=380:247 & \textsf{after} \\
-\textsf{girls}_+=247\textsf{ parts}-240\textsf{ parts}=7\textsf{ parts} \\
+\Delta\textsf{girls}=247\textsf{ parts}-240\textsf{ parts}=7\textsf{ parts} \\
 \textsf{girls}=\textsf{constant quantity} \\
 \textsf{boys}:\textsf{girls}=20:13=380:247 & \textsf{before} \\
 \textsf{boys}:\textsf{girls}=30:19=390:247 & \textsf{after} \\
-\textsf{boys}_+=390\textsf{ parts}-380\textsf{ parts}=10\textsf{ parts} \\
-\textsf{boys}_+-\textsf{girls}_+=3\textsf{ parts}=3 \\
+\Delta\textsf{boys}=390\textsf{ parts}-380\textsf{ parts}=10\textsf{ parts} \\
+\Delta\textsf{boys}-\Delta\textsf{girls}=3\textsf{ parts}=3 \\
 1\textsf{ part}=\frac{3}{3}=1 \\
 \textsf{people}_\textsf{total}=390+247\cdot1=637 \\
 \end{array}
@@ -335,7 +335,7 @@ $
 \right\} \textsf{constant totals} \\
 \textsf{read}:\textsf{unread}=3:4=24:32 & \textsf{before} \\
 \textsf{read}:\textsf{unread}=5:3=35:21 & \textsf{after} \\
-\textsf{read}_+=35\textsf{ parts}-24\textsf{ parts}=11\textsf{ parts} \\
+\Delta\textsf{read}=35\textsf{ parts}-24\textsf{ parts}=11\textsf{ parts} \\
 11\textsf{ parts}=33 \\
 1\textsf{ part}=\frac{33}{11}=3 \\
 \textsf{book}_\textsf{total}=3(24+32)=168 \\
@@ -385,8 +385,8 @@ $
 \right\} \textsf{constant differences} \\
 A:B=4:3=12:9 & \textsf{before}\\
 A:B=11:8=11:8 & \textsf{after} \\
-A_-=12\textsf{ parts}-11\textsf{ parts}=1\textsf{ part} \\
-B_-=9\textsf{ parts}-8\textsf{ parts}=1\textsf{ part} \\
+\Delta A=12\textsf{ parts}-11\textsf{ parts}=1\textsf{ part} \\
+\Delta B=9\textsf{ parts}-8\textsf{ parts}=1\textsf{ part} \\
 1\textsf{ part}=10\textsf{K} \\
 A_\textsf{origin}=12\cdot10\textsf{K}=120\textsf{K} \\
 \end{array}
