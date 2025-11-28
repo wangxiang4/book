@@ -404,3 +404,54 @@ $
 
   :::
 ---
+
+## 4.Focus 2
+__The mixing solutions__  
+- If __the concentrations of each part ($\textcolor{#FF7FAF}{\boldsymbol{①}}\hspace{0.14cm}$)__ and __the final concentration ($\textcolor{#9370DB}{\boldsymbol{②}}\hspace{0.14cm}$)__ are known,  
+  find __the quantities of the solutions ($\textcolor{#0DCAF2}{\boldsymbol{③}}\hspace{0.14cm}$)__ using __the allegation method__.
+- If __the concentrations of each part ($\textcolor{#FF7FAF}{\boldsymbol{①}}\hspace{0.14cm}$)__ and __their quantities ($\textcolor{#0DCAF2}{\boldsymbol{③}}\hspace{0.14cm}$)__ are known,  
+  find __the final concentration ($\textcolor{#9370DB}{\boldsymbol{②}}\hspace{0.14cm}$)__ using __the weighted-average method__.
+
+
+### $\fbox{67}\:$Salt solutions $\small A$ and $\small B$ have concentrations of $\small 30\%$ and $\small 20\%$, respectively. They are mixed to obtain $\small 500\textsf{g}$ of a $\small 24\%$ salt solution. How many grams of solutions $\small A$ and $\small B$ should be used $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 180\textsf{g},320\textsf{g} &
+\textsf{(B)} \: 185\textsf{g},315\textsf{g} &
+\textsf{(C)} \: 190\textsf{g},310\textsf{g} & \\
+\textsf{(D)} \: 195\textsf{g},305\textsf{g} &
+\textsf{(E)} \: 200\textsf{g},300\textsf{g} & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question solution concentration figure Q-67 solve-1.svg](../../public/math/Core%20Courses/Question%20solution%20concentration%20figure%20Q-67%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  A:B=4:6=2:3 \\
+  A_\textsf{used}=500\cdot\frac{2}{5}=200\textsf{g} \\
+  B_\textsf{used}=500\cdot\frac{3}{5}=300\textsf{g} \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(E)}$  
+  > According to the Solution, get $A_\textsf{used}=200\textsf{g}, B_\textsf{used}=300\textsf{g}$, so choose $E$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  A:B=(b−c):(c−a) & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_2-usage}{\textsf{alligation method}} \\
+  \textsf{partial quantity}=\textsf{total quantity}\cdot\textsf{corresponding ratio} & \href{/math/0%20Core%20Courses/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages.html#_1-focus-1}{\textsf{proportion formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
