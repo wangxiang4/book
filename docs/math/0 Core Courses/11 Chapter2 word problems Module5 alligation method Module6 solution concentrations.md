@@ -561,3 +561,103 @@ $
 
   :::
 ---
+
+## 6.Focus 4
+__The pouring solutions between containers__  
+- When __multiple containers pour solutions into each other__,
+  each pour is equivalent to __one mixing__.
+  Use __the alligation method repeatedly__ to solve the problem.
+
+
+### $\fbox{70}\:$Three test tubes are each filled with some amount of water. Then $\small 10\textsf{g}$ of $\small 12\%$ salt solution is poured into tube $\small A$. After mixing, $\small 10\textsf{g}$ of the mixture is taken from tube $\small A$ and poured into tube $\small B$. After mixing again, $\small 10\textsf{g}$ of the mixture is taken from tube $\small B$ and poured into tube $\small C$. As a result, the concentrations of the salt solution in tubes $\small A, B$, and $\small C$ are $\small 6\%, 2\%$, and $\small 0.5\%$ respectively. Find which test tube originally contained the largest amount of water, and determine that amount.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: A,10\textsf{g} &
+\textsf{(B)} \: B,20\textsf{g} &
+\textsf{(C)} \: C,30\textsf{g} &
+\textsf{(D)} \: B,40\textsf{g} &
+\textsf{(E)} \: C,50\textsf{g} & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question solution concentration figure Q-70 solve-1.svg](../../public/math/Core%20Courses/Question%20solution%20concentration%20figure%20Q-70%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{water}:\textsf{solution}=6:6=1:1 & A \\
+  \textsf{solution}=10\textsf{g} \Longrightarrow \textsf{water}=1\cdot10\textsf{g}=10\textsf{g} \\
+  \textsf{water}:\textsf{solution}=4:2=2:1 & B \\
+  \textsf{solution}=10\textsf{g} \Longrightarrow \textsf{water}=2\cdot10\textsf{g}=20\textsf{g} \\
+  \textsf{water}:\textsf{solution}=1.5:0.5=3:1 & C \\
+  \textsf{solution}=10\textsf{g} \Longrightarrow \textsf{water}=3\cdot10\textsf{g}=30\textsf{g} \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $C,30\textsf{g}$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{pure water}=0\% & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_2-percentage-concentration}{\textsf{special concentration}} \\
+  A:B=(b−c):(c−a) & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_2-usage}{\textsf{alligation method}} \\
+  \end{array}
+  >$
+
+  :::
+---
+  
+### $\fbox{71}\:$Cup $\small A$ contains $\small 12\textsf{g}$ of pure alcohol, and Cup $\small B$ contains $\small 15\textsf{g}$ of water. First, part of the pure alcohol from Cup $\small A$ is poured into Cup $\small B$, allowing the alcohol and water to mix. Second, part of the mixed solution in Cup $\small B$ is poured back into Cup $\small A$. After this, the alcohol concentration in Cup $\small A$ is $\small 50\%$, and the alcohol concentration in Cup $\small B$ is $\small 25\%$. Find how many grams of the mixed solution were poured from Cup $\small B$ into Cup $\small A$ in the second step.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 13 &
+\textsf{(B)} \: 14 &
+\textsf{(C)} \: 15 &
+\textsf{(D)} \: 16 &
+\textsf{(E)} \: 17 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question solution concentration figure Q-71 solve-1.svg](../../public/math/Core%20Courses/Question%20solution%20concentration%20figure%20Q-71%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{alcohol}:\textsf{water}=25:75=1:3 & B \\
+  \textsf{water}=15\textsf{g} \Longrightarrow \textsf{alcohol}=\frac{15\textsf{g}}{3}=5\textsf{g} \\
+  \textsf{solution}:\textsf{alcohol}=50:25=2:1 & A \\
+  \textsf{alcohol}=12\textsf{g}-5\textsf{g}=7\textsf{g} \Longrightarrow \textsf{solution}=2\cdot7\textsf{g}=14\textsf{g} \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $\textsf{solution}=14\textsf{g}$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \begin{cases}
+  \textsf{pure water}=0\% \\
+  \textsf{pure alcohol}=100\% \\
+  \end{cases} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_2-percentage-concentration}{\textsf{special concentrations}} \\
+  A:B=(b−c):(c−a) & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_2-usage}{\textsf{alligation method}} \\
+  \end{array}
+  >$
+
+  :::
+---
