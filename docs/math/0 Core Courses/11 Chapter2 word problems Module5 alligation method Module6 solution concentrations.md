@@ -477,3 +477,87 @@ __The solvent replacement with equal volume__
   :::
 - The concentration __remains unchanged__ after __removing some of the solution__,
   but __decreases__ after __adding the same volume of water__.
+
+### $\fbox{68}\:$A container is filled with alcohol at a concentration of $\small 90\%$. After pouring out $1\textsf{L}$ and refilling the container with water, it is stirred evenly. Then another $1\textsf{L}$ is poured out and the container is refilled with water again. At this point. the alcohol concentration is $\small 40\%$. Find the volume of the container.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 2.5\textsf{L} &
+\textsf{(B)} \: 3\textsf{L} &
+\textsf{(C)} \: 3.5\textsf{L} &
+\textsf{(D)} \: 4\textsf{L} &
+\textsf{(E)} \: 4.5\textsf{L} & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{let volume}=v \\
+90\%\cdot\frac{v-1}{v}\cdot\frac{v-1}{v}=40\% \\
+(\frac{v-1}{v})^2=\frac{4}{9} \\
+\frac{v-1}{v}=\frac{2}{3} \\
+3(v-1)=2v \\
+3v-3=2v \\
+v=3 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(B)}$  
+  > According to the Solution, get $v=3$, so choose $B$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \frac{v-m}{v}\cdot p\% & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_5-focus-3}{\textsf{solvent replacement formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{69}\:$A bottle of disinfectant with a concentration of $\small 20\%$ has $\small \frac{2}{5}$ of its contents poured out and is then refilled with water. After that, another $\small \frac{2}{5}$ is poured out and it is refilled with water again. What is the concentration of the disinfectant at this point $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 7.2\% &
+\textsf{(B)} \: 3.2\% &
+\textsf{(C)} \: 5.0\% &
+\textsf{(D)} \: 4.8\% &
+\textsf{(E)} \: 3.6\% & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+20\%\cdot\frac{3}{5}\cdot\frac{3}{5} \\
+20\%\cdot\frac{9}{25} \\
+\frac{180}{9}\%=7.2\%
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(A)}$  
+  > According to the Solution, get $20\%\cdot\frac{3}{5}\cdot\frac{3}{5}=7.2\%$, so choose $A$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \frac{v-m}{v}\cdot p\% & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_5-focus-3}{\textsf{solvent replacement formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
