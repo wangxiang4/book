@@ -3,13 +3,6 @@ title: Chapter2 Word Problems – Module5 Alligation Method, Module6 Solution Co
 lang: en-US
 ---
 
-| Platform    | Course                                                                                                               | Coursewares                                                       |
-|-------------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=GwQ-kWWLOyI&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                         | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvqe?playlist=x9h6d2)                                                   |                                                                   |
-| Rumble      | [Watch](https://rumble.com/v6s95ah-12-chapter2-word-problems-module5-cross-proportional-method-module6-solutio.html) |                                                                   |
-
-
 # Module 2-05 Alligation Method
 
 ## 1.Applicable Situations
@@ -830,3 +823,52 @@ $
 
   :::
 ---
+
+### $\fbox{75}\:$Given $\small 60\textsf{g}$ of $\small 5\%$ salt solution and $\small 40\textsf{g}$ of $\small 20\%$ salt solution mixed together, $\small 10\textsf{g}$ is poured out, and then $\small 10\textsf{g}$ of water is added. Find the salt concentration at this point.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 7.9\% &
+\textsf{(B)} \: 8.9\% &
+\textsf{(C)} \: 9.9\% &
+\textsf{(D)} \: 10.9\% &
+\textsf{(E)} \: 11.9\% & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{mixing ratio}=\textsf{solution}_{5\%}:\textsf{solution}_{20\%}=60:40=3:2 \\
+\textsf{concentration}_\textsf{mix}=5\%+(20\%-5\%)\cdot\frac{2}{5} \\
+5+\frac{15\cdot2}{5}=5+6=11\% \\
+\frac{(60+40)-10}{60+40}\cdot11\% \\
+\frac{90\cdot11}{100}\%=\frac{990}{100}\%=9.9\% \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(C)}$  
+  > According to the Solution, get $\frac{90}{100}\cdot11\%=9.9\%$, so choose $C$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textcolor{#9370DB}{\boldsymbol{②}}\:=\textsf{small}+(\textsf{large}-\textsf{small})\cdot\textsf{large ratio} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#derivation-of-the-weighted-average-formula-for-an-intermediate-quantity}{\textsf{intermediate weighted-average formula}} \\
+  \frac{v-m}{v}\cdot p\% & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_5-focus-3}{\textsf{solvent replacement formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+| Platform    | Course                                                                                                               | Coursewares                                                       |
+|-------------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| YouTube     | [Watch](https://www.youtube.com/watch?v=GwQ-kWWLOyI&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                         | [Courseware](../../public/math/Core%20Courses/pdf/Courseware.pdf) |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvqe?playlist=x9h6d2)                                                   |                                                                   |
+| Rumble      | [Watch](https://rumble.com/v6s95ah-12-chapter2-word-problems-module5-cross-proportional-method-module6-solutio.html) |                                                                   |
