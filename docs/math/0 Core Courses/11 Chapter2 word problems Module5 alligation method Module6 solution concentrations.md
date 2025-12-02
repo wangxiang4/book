@@ -661,3 +661,172 @@ $
 
   :::
 ---
+
+## 7.Focus 5
+__The other equivalence relationships__  
+- Set up equations based on __the amount of solute or solvent__,
+  or analyze the problem using __the definition of concentration__.
+
+### $\fbox{72}\:$Two identical bottles are filled with alcohol solution. In one bottle, the mass ratio of alcohol to water is $\small 3:1$, and in the other bottle, the ratio is $\small 4:1$. If the solutions in the two bottles are mixed, what is the mass ratio of alcohol to water in the mixture $\small \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 7:2 &
+\textsf{(B)} \: 3:1 &
+\textsf{(C)} \: 19:7 &
+\textsf{(D)} \: 31:9 &
+\textsf{(E)} \: 29:9 & \\
+\end{array}
+$  
+:::
+#### Solution
+::: wrap  
+$
+\begin{array}{ll}
+\textsf{two identical bottles}_\textsf{mixing ratio}=1:1 \\
+\textsf{concentration}_\textsf{mix}=\frac{3}{4}+(\frac{4}{5}-\frac{3}{4})\cdot\frac{1}{2} \\
+\frac{3}{4}+\frac{1}{20}\cdot\frac{1}{2} \\
+\frac{3}{4}+\frac{1}{40} \\
+\frac{30}{40}+\frac{1}{40}=\frac{31}{40} \\
+\textsf{water}_\textsf{mix}=\textsf{total amount}−\textsf{solute amount} \\
+40-31=9 \\
+\textsf{alcohol}:\textsf{water}=31:9 \\
+\end{array}
+$  
+:::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $\textsf{alcohol}:\textsf{water}=31:9$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textcolor{#9370DB}{\boldsymbol{②}}\:=\textsf{small}+(\textsf{large}-\textsf{small})\cdot\textsf{large ratio} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#derivation-of-the-weighted-average-formula-for-an-intermediate-quantity}{\textsf{intermediate weighted-average formula}} \\
+  \textsf{solution}=\textsf{solute}+\textsf{solvent} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_1-solution-and-concentration-formulas}{\textsf{solution formula}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{73}\:$Container $\small A$ contains $\small 120\textsf{g}$ of $\small 5\%$ salt solution, and container $\small B$ contains some amount of salt solution of unknown concentration. If $\small 480\textsf{g}$ of the solution is taken from container $\small B$ and poured into container $\small A$, forming a $\small 13\%$ salt solution, what is the concentration of the solution in container $\small B\, \mathpunct{?}$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 8\% &
+\textsf{(B)} \: 10\% &
+\textsf{(C)} \: 12\% &
+\textsf{(D)} \: 15\% &
+\textsf{(E)} \: 17\% & \\
+\end{array}
+$  
+:::
+#### Solution
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by setting up an equation  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  120\cdot5\%+480x=(480+120)\cdot13\% & \textsf{solute unchanged} \\
+  600+480x=7800 \\
+  480x=7200 \\
+  x=\frac{7200}{480}=15\% \\
+  \end{array}
+  $  
+  :::
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the concentration formula  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \frac{120\cdot5\%+480x}{120+480}=13\% \\
+  120\cdot5\%+480x=(480+120)\cdot13\% \\
+  600+480x=7800 \\
+  480x=7200 \\
+  x=\frac{7200}{480}=15\% \\
+  \end{array}
+  $  
+  :::
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the alligation method  
+  ![Question solution concentration figure Q-73 solve-1.svg](../../public/math/Core%20Courses/Question%20solution%20concentration%20figure%20Q-73%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{concentration}_A:\textsf{concentration}_B=x-13:8=120:480=1:4 \\
+  x-13=\frac{8}{4}=2 \\
+  x\%=13\%+2\%=15\% \\
+  \end{array}
+  $  
+  :::
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $x=15\%$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \textsf{solute}=\textsf{solution}\cdot\textsf{concentration} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_1-solution-and-concentration-formulas}{\textsf{solution formula}} \\
+  \textsf{concentration}=\frac{\textsf{solute}}{\textsf{solution}} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_1-solution-and-concentration-formulas}{\textsf{concentration formula}} \\
+  A:B=(b−c):(c−a) & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_2-usage}{\textsf{alligation method}} \\
+  \end{array}
+  >$
+
+  :::
+---
+
+### $\fbox{74}\:\small 4\textsf{kg}$ of water is added to alcohol with a concentration of $\small 40\%$, reducing the concentration to $\small 30\%$. Then $\small M$ kilograms of pure alcohol are added, raising the concentration to $\small 50\%$. Find $\small M$.
+::: wrap  
+$
+\begin{array}{lllll}
+\textsf{(A)} \: 4.8 &
+\textsf{(B)} \: 5.6 &
+\textsf{(C)} \: 6 &
+\textsf{(D)} \: 6.4 &
+\textsf{(E)} \: 7.2 & \\
+\end{array}
+$  
+:::
+#### Solution
+- Show known conditions  
+  ![Question solution concentration figure Q-74 solve-1.svg](../../public/math/Core%20Courses/Question%20solution%20concentration%20figure%20Q-74%20solve-1.svg)  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  \textsf{solution}:\textsf{water}=30:10=3:1 & \textcolor{#0DCAF2}{\boldsymbol{①}} \\
+  \textsf{water}=4\textsf{kg} \Longrightarrow \textsf{solution}=3\cdot4\textsf{kg}=12\textsf{kg} \\
+  \textsf{solution}:\textsf{alcohol}=50:20=5:2 & \textcolor{#FFCC00}{\boldsymbol{②}} \\
+  \textsf{solution}=12\textsf{kg}+4\textsf{kg}=16\textsf{kg} \\
+  \textsf{alcohol}=M \\
+  \frac{5}{2}=\frac{16}{M} \\
+  5M=32 \\
+  M=\frac{32}{5}=6.4 \\
+  \end{array}
+  $  
+  :::  
+#### Conclusion
+- Derived Solution  
+  ::: wrap
+  > $\boldsymbol{(D)}$  
+  > According to the Solution, get $M=6.4$, so choose $D$. 
+
+  :::
+- Formulas used  
+  ::: wrap
+  >$
+  \begin{array}{ll}
+  \begin{cases}
+  \textsf{pure water}=0\% \\
+  \textsf{pure alcohol}=100\% \\
+  \end{cases} & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_2-percentage-concentration}{\textsf{special concentrations}} \\
+  A:B=(b−c):(c−a) & \href{/math/0%20Core%20Courses/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentrations.html#_2-usage}{\textsf{alligation method}} \\
+  \end{array}
+  >$
+
+  :::
+---
