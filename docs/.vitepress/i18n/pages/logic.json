@@ -1,29 +1,11 @@
 {
   "en-US": {
     "courses": {
-      "text": "Courses",
+      "text": "Course",
       "children": [
         {
-          "text": "Strengthen basics hypothetical judgment-conjunctive judgment-disjunctive judgment",
-          "link": "/0 Courses/1 Strengthen basics hypothetical judgment-conjunctive judgment-disjunctive judgment"
-        }
-      ]
-    },
-    "basic-courses": {
-      "text": "Basic Courses",
-      "children": [
-        {
-          "text": "Guidance",
-          "link": "/1 Basic Courses/1 Guidance"
-        }
-      ]
-    },
-    "139-points-courses": {
-      "text": "139 Point Courses",
-      "children": [
-        {
-          "text": "Point1 categorical judgment and reasoning",
-          "link": "/2 139 Point Courses/1 Point1 categorical judgment and reasoning"
+          "text": "Concepts",
+          "link": "/0 Course/1 Concepts"
         }
       ]
     }

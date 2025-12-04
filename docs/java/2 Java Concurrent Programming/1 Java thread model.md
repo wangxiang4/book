@@ -1,10 +1,10 @@
 ---
-title: Java thread model
+title: Java Thread Model
 lang: en-US
 ---
 
-| Platform | Course | Coursewares |
-|-----------|---------|-------------|
-| YouTube   | Pending |             |
-| Dailymotion  | Pending |             |
 
+| Platform    | Lesson    | Materials |
+|-------------|-----------|-----------|
+| YouTube     | [Watch]() |           |
+| Dailymotion | Pending   |           |

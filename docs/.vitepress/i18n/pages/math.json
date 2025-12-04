@@ -1,179 +1,152 @@
 {
   "en-US": {
-    "core-courses": {
-      "text": "Core Courses",
+    "core-course": {
+      "text": "Core Course",
       "children": [
         {
           "text": "Sufficiency Judgment Guidance",
-          "link": "/0 Core Courses/1 Sufficiency judgment guidance"
+          "link": "/0 Core Course/1 Sufficiency judgment guidance"
         },
         {
           "text": "Chapter1 Real Numbers, Ratios, and Absolute Value – Module1 Integers, Fractions, and Decimals",
-          "link": "/0 Core Courses/2 Chapter1 real numbers-ratios-absolute values Module1 integers-fractions and decimals"
+          "link": "/0 Core Course/2 Chapter1 real numbers ratios absolute value Module1 integers fractions decimals"
         },
         {
           "text": "Chapter1 Real Numbers, Ratios, and Absolute Value – Module2 Ratios and Proportions",
-          "link": "/0 Core Courses/3 Chapter1 real numbers-ratios-absolute values Module2 ratios and proportions"
+          "link": "/0 Core Course/3 Chapter1 real numbers ratios absolute value Module2 ratios and proportions"
         },
         {
           "text": "Chapter1 Real Numbers, Ratios, and Absolute Value – Module3 Absolute Value",
-          "link": "/0 Core Courses/4 Chapter1 real numbers-ratios-absolute values Module3 absolute values"
+          "link": "/0 Core Course/4 Chapter1 real numbers ratios absolute value Module3 absolute value"
         },
         {
           "text": "Chapter2 Word Problems – Module1 Proportions and Percentages",
-          "link": "/0 Core Courses/5 Chapter2 word problems Module1 proportions and percentages"
+          "link": "/0 Core Course/5 Chapter2 word problems Module1 proportions and percentages"
         },
         {
           "text": "Chapter2 Word Problems – Module2 Profit in Commerce",
-          "link": "/0 Core Courses/6 Chapter2 word problems Module2 profit in commerce"
+          "link": "/0 Core Course/6 Chapter2 word problems Module2 profit in commerce"
         },
         {
           "text": "Chapter2 Word Problems – Module3 Distance Problems Upper",
-          "link": "/0 Core Courses/7 Chapter2 word problems Module3 distance problems upper"
+          "link": "/0 Core Course/7 Chapter2 word problems Module3 distance problems upper"
         },
         {
           "text": "Chapter2 Word Problems – Module3 Distance Problems Middle",
-          "link": "/0 Core Courses/8 Chapter2 word problems Module3 distance problems middle"
+          "link": "/0 Core Course/8 Chapter2 word problems Module3 distance problems middle"
         },
         {
           "text": "Chapter2 Word Problems – Module3 Distance Problems Lower",
-          "link": "/0 Core Courses/9 Chapter2 word problems Module3 distance problems lower"
+          "link": "/0 Core Course/9 Chapter2 word problems Module3 distance problems lower"
         },
         {
           "text": "Chapter2 Word Problems – Module4 Work Problems",
-          "link": "/0 Core Courses/10 Chapter2 word problems Module4 work problems"
+          "link": "/0 Core Course/10 Chapter2 word problems Module4 work problems"
         },
         {
           "text": "Chapter2 Word Problems – Module5 Alligation Method, Module6 Solution Concentration",
-          "link": "/0 Core Courses/11 Chapter2 word problems Module5 alligation method Module6 solution concentrations"
+          "link": "/0 Core Course/11 Chapter2 word problems Module5 alligation method Module6 solution concentration"
         },
         {
           "text": "Chapter3 Polynomials, Rational Expressions, and Functions – Module1 Polynomials and Operations Upper",
-          "link": "/0 Core Courses/12 Chapter3 polynomials-rational expressions-functions Module1 polynomials and operations upper"
+          "link": "/0 Core Course/12 Chapter3 polynomials rational expressions functions Module1 polynomials and operations upper"
         },
         {
           "text": "Chapter3 Polynomials, Rational Expressions, and Functions – Module1 Polynomials and Operations Middle",
-          "link": "/0 Core Courses/13 Chapter3 polynomials-rational expressions-functions Module1 polynomials and operations middle"
+          "link": "/0 Core Course/13 Chapter3 polynomials rational expressions functions Module1 polynomials and operations middle"
         },
         {
           "text": "Chapter3 Polynomials, Rational Expressions, and Functions – Module1 Polynomials and Operations Lower",
-          "link": "/0 Core Courses/14 Chapter3 polynomials-rational expressions-functions Module1 polynomials and operations lower"
+          "link": "/0 Core Course/14 Chapter3 polynomials rational expressions functions Module1 polynomials and operations lower"
         },
         {
           "text": "Chapter3 Polynomials, Rational Expressions, and Functions – Module2 Rational Expressions, Module 3 Quadratic Functions",
-          "link": "/0 Core Courses/15 Chapter3 polynomials-rational expressions-functions Module2 rational expressions Module3 quadratic functions"
+          "link": "/0 Core Course/15 Chapter3 polynomials rational expressions functions Module2 rational expressions Module3 quadratic functions"
         },
         {
           "text": "Chapter4 Equations Inequalities – Module1 Equations",
-          "link": "/0 Core Courses/16 Chapter4 equations-inequalities Module1 equations"
+          "link": "/0 Core Course/16 Chapter4 equations inequalities Module1 equations"
         },
         {
           "text": "Chapter4 Equations Inequalities – Module2 Inequalities",
-          "link": "/0 Core Courses/17 Chapter4 equations-inequalities Module2 inequalities"
+          "link": "/0 Core Course/17 Chapter4 equations inequalities Module2 inequalities"
         },
         {
           "text": "Chapter5 Sequences – Module1 Definition of Sequences",
-          "link": "/0 Core Courses/18 Chapter5 sequences Module1 definition of sequences"
+          "link": "/0 Core Course/18 Chapter5 sequences Module1 definition of sequences"
         },
         {
           "text": "Chapter5 Sequences – Module2 Arithmetic Sequences Upper",
-          "link": "/0 Core Courses/19 Chapter5 sequences Module2 arithmetic sequences upper"
+          "link": "/0 Core Course/19 Chapter5 sequences Module2 arithmetic sequences upper"
         },
         {
           "text": "Chapter5 Sequences – Module2 Arithmetic Sequences Lower",
-          "link": "/0 Core Courses/20 Chapter5 sequences Module2 arithmetic sequences lower"
+          "link": "/0 Core Course/20 Chapter5 sequences Module2 arithmetic sequences lower"
         },
         {
           "text": "Chapter5 Sequences – Module3 Geometric Sequences",
-          "link": "/0 Core Courses/21 Chapter5 sequences Module3 geometric sequences"
+          "link": "/0 Core Course/21 Chapter5 sequences Module3 geometric sequences"
         },
         {
           "text": "Chapter6 Plane Geometry – Module1 Parallel Lines, Module2 Triangles Upper",
-          "link": "/0 Core Courses/22 Chapter6 plane geometry Module1 parallel lines Module2 triangles upper"
+          "link": "/0 Core Course/22 Chapter6 plane geometry Module1 parallel lines Module2 triangles upper"
         },
         {
           "text": "Chapter6 Plane Geometry – Module2 Triangles Middle",
-          "link": "/0 Core Courses/23 Chapter6 plane geometry Module2 triangles middle"
+          "link": "/0 Core Course/23 Chapter6 plane geometry Module2 triangles middle"
         },
         {
           "text": "Chapter6 Plane Geometry – Module2 Triangles Lower",
-          "link": "/0 Core Courses/24 Chapter6 plane geometry Module2 triangles lower"
+          "link": "/0 Core Course/24 Chapter6 plane geometry Module2 triangles lower"
         },
         {
           "text": "Chapter6 Plane Geometry – Module3 Quadrilaterals",
-          "link": "/0 Core Courses/25 Chapter6 plane geometry Module3 quadrilaterals"
+          "link": "/0 Core Course/25 Chapter6 plane geometry Module3 quadrilaterals"
         },
         {
           "text": "Chapter7 Analytic Geometry – Module1 Cartesian Coordinate System, Module2 Straight Lines Upper",
-          "link": "/0 Core Courses/26 Chapter7 analytic geometry Module1 cartesian coordinate system Module2 straight lines upper"
+          "link": "/0 Core Course/26 Chapter7 analytic geometry Module1 cartesian coordinate system Module2 straight lines upper"
         },
         {
           "text": "Chapter7 Analytic Geometry – Module2 Straight Lines Lower",
-          "link": "/0 Core Courses/27 Chapter7 analytic geometry Module2 straight lines lower"
+          "link": "/0 Core Course/27 Chapter7 analytic geometry Module2 straight lines lower"
         },
         {
           "text": "Chapter7 Analytic Geometry – Module3 Circles",
-          "link": "/0 Core Courses/28 Chapter7 analytic geometry Module3 circles"
+          "link": "/0 Core Course/28 Chapter7 analytic geometry Module3 circles"
         },
         {
           "text": "Chapter8 Solid Geometry",
-          "link": "/0 Core Courses/29 Chapter8 solid geometry"
+          "link": "/0 Core Course/29 Chapter8 solid geometry"
         },
         {
           "text": "Chapter9 Permutations and Combinations – Module1 Fundamental Theoretical Knowledge",
-          "link": "/0 Core Courses/30 Chapter9 permutations and combinations Module1 fundamental theoretical knowledge"
+          "link": "/0 Core Course/30 Chapter9 permutations and combinations Module1 fundamental theoretical knowledge"
         },
         {
           "text": "Chapter9 Permutations and Combinations – Module2 Six Fundamental Methods",
-          "link": "/0 Core Courses/31 Chapter9 permutations and combinations Module2 six fundamental methods"
+          "link": "/0 Core Course/31 Chapter9 permutations and combinations Module2 six fundamental methods"
         },
         {
-          "text": "Chapter10 Introduction to Probability",
-          "link": "/0 Core Courses/32 Chapter10 introduction to probability"
+          "text": "Chapter10 Probability",
+          "link": "/0 Core Course/32 Chapter10 probability"
         },
         {
           "text": "Chapter11 Descriptive Statistics",
-          "link": "/0 Core Courses/33 Chapter11 descriptive statistics"
+          "link": "/0 Core Course/33 Chapter11 descriptive statistics"
         },
         {
           "text": "Chapter12 Power Functions – Cones",
-          "link": "/0 Core Courses/34 Chapter12 power functions and cones"
+          "link": "/0 Core Course/34 Chapter12 power functions and cones"
         }
       ]
     },
-    "courses": {
-      "text": "Courses",
+    "course": {
+      "text": "Course",
       "children": [
         {
-          "text": "Strengthen basics permutations and combinations",
-          "link": "/1 Courses/1 Strengthen basics permutations and combinations"
-        }
-      ]
-    },
-    "beginner-courses": {
-      "text": "Beginner Courses",
-      "children": [
-        {
-          "text": "Guidance",
-          "link": "/2 Beginner Courses/1 Guidance"
-        }
-      ]
-    },
-    "basic-courses": {
-      "text": "Basic Courses",
-      "children": [
-        {
-          "text": "Guidance",
-          "link": "/3 Basic Courses/1 Guidance"
-        }
-      ]
-    },
-    "139-points-courses": {
-      "text": "139 Point Courses",
-      "children": [
-        {
-          "text": "Point1 real numbers",
-          "link": "/4 139 Point Courses/1 Point1 real numbers"
+          "text": "Arithmetic",
+          "link": "/1 Course/1 Arithmetic"
         }
       ]
     }

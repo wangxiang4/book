@@ -1,38 +1,11 @@
 {
   "en-US": {
     "core-courses": {
-      "text": "Core Courses",
+      "text": "Core Course",
       "children": [
         {
-          "text": "Argument effectiveness syllabus",
-          "link": "/0 Core Courses/1 Argument effectiveness syllabus"
-        }
-      ]
-    },
-    "courses": {
-      "text": "Courses",
-      "children": [
-        {
-          "text": "Thematic1",
-          "link": "/1 Courses/1 Thematic1"
-        }
-      ]
-    },
-    "basic-courses": {
-      "text": "Basic Courses",
-      "children": [
-        {
-          "text": "Guidance",
-          "link": "/2 Basic Courses/1 Guidance"
-        }
-      ]
-    },
-    "139-points-courses": {
-      "text": "139 Point Courses",
-      "children": [
-        {
-          "text": "Point1 faulty analogy",
-          "link": "/3 139 Point Courses/1 Point1 faulty analogy"
+          "text": "Argument Effectiveness Syllabus",
+          "link": "/0 Core Course/1 Argument effectiveness syllabus"
         }
       ]
     }
