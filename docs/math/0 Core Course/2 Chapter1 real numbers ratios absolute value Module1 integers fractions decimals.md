@@ -123,12 +123,12 @@ $
 ---
 
 ## 4.Odd Numbers
-- Numbers that __cannot be divided evenly by $\boldsymbol{2}$__;
+- Numbers that are __not divisible by $\boldsymbol{2}$__;
   they can be expressed as $\boldsymbol{2k+1}\lor\boldsymbol{2k-1}$,
   where $\boldsymbol{k}$ is __an integer__.
 
 ## 5.Even Numbers
-- Numbers that __can be divided evenly by $\boldsymbol{2}$__;
+- Numbers that are __divisible by $\boldsymbol{2}$__;
   they can be expressed as $\boldsymbol{2k}$,
   where $\boldsymbol{k}$ is __an integer__.
 
