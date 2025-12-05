@@ -21,7 +21,7 @@ lang: en-US
 
 ## 2.Natural Numbers
 - $\mathbb{N}=0, 1, 2, \cdots$
-- Note: Natural numbers include __positive integers__ and __zero__. The smallest natural number is $\boldsymbol{0}$.
+- Note: natural numbers include __positive integers__ and __zero__. The smallest natural number is $\boldsymbol{0}$.
 
 ## 3.Focus 1
 __The concepts of integers and natural numbers__  
@@ -170,7 +170,7 @@ $
 \textsf{even}=\textsf{odd}+\textsf{odd} \\
 \textsf{odd}\times\textsf{odd}=\textsf{odd} \\
 \textsf{(D)} \: \,✅\;\\
-\textsf{even}=\textsf{odd}+\textsf{even} \\
+\textsf{odd}=\textsf{odd}+\textsf{even} \\
 \textsf{odd}\times\textsf{even}=\textsf{even} \\
 \textsf{(E)} \: 2\ne\textsf{odd} \,❌\;\\
 \end{array}
@@ -337,7 +337,7 @@ $
 ## 14.Focus 4
 __The identifying prime and composite numbers__  
 - Determine whether a number is prime or composite based on __their definitions__.
-  Memorize the common __prime numbers within $\boldsymbol{20}$__:
+  Memorize __the common prime numbers within $\boldsymbol{20}$__:
   $2, 3, 5, 7, 11, 13, 17, 19$.
 
 ### $\fbox{6}\:$If $\small 210$ is expressed as the product of several prime numbers, what is the sum of these prime numbers $\small \mathpunct{?}$.
