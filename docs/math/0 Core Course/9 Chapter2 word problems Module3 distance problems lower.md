@@ -129,7 +129,7 @@ $
   \end{array}
   $  
   :::
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the proportional method for __constant speed__  
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the basic ratio formula  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -253,7 +253,7 @@ $
   \end{array}
   $  
   :::
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using same-direction meeting distance formula  
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the same-direction meeting distance formula  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -396,12 +396,12 @@ $
 - ###### __Variable motion__  
   ![motion graph figure 2-4 and 2-5.svg](../../public/math/Core%20Course/motion%20graph%20figure%202-4%20and%202-5.svg)  
   - __Figure 2–4__
-    - ① Accelerated motion with __an initial speed of $\boldsymbol{2}$__
-    - ② Accelerated motion with __variable acceleration__ and __an initial speed of $\boldsymbol{0}$__
-    - ③ Accelerated motion with __an initial speed of $\boldsymbol{0}$__
+    - $\textcolor{#8DCC33}{\boldsymbol{①}}\hspace{0.14cm}$ Accelerated motion with __an initial speed of $\boldsymbol{2}$__
+    - $\textcolor{#8DCC33}{\boldsymbol{②}}\hspace{0.14cm}$ Accelerated motion with __variable acceleration__ and __an initial speed of $\boldsymbol{0}$__
+    - $\textcolor{#8DCC33}{\boldsymbol{③}}\hspace{0.14cm}$ Accelerated motion with __an initial speed of $\boldsymbol{0}$__
   - __Figure 2–5__  
-    - ① Decelerated motion with __an initial speed of $\boldsymbol{3}$__
-    - ② Decelerated motion with __variable deceleration__ and __an initial speed of $\boldsymbol{3}$__
+    - $\textcolor{#8DCC33}{\boldsymbol{①}}\hspace{0.14cm}$ Decelerated motion with __an initial speed of $\boldsymbol{3}$__
+    - $\textcolor{#8DCC33}{\boldsymbol{②}}\hspace{0.14cm}$ Decelerated motion with __variable deceleration__ and __an initial speed of $\boldsymbol{3}$__
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:v=\frac{s}{t}$ graph
 - ###### __Uniform motion__  
   ![motion graph figure 2-6 and 2-7.svg](../../public/math/Core%20Course/motion%20graph%20figure%202-6%20and%202-7.svg)  
@@ -431,12 +431,12 @@ $
 - ###### __Variable motion__  
   ![motion graph figure 2-11 and 2-12.svg](../../public/math/Core%20Course/motion%20graph%20figure%202-11%20and%202-12.svg)  
   - __Figure 2–11__
-    - ① Accelerated motion with __an initial speed of $\boldsymbol{2}$__
-    - ② Accelerated motion with __variable acceleration__ and __an initial speed of $\boldsymbol{0}$__
-    - ③ Accelerated motion with __an initial speed of $\boldsymbol{0}$__
+    - $\textcolor{#8DCC33}{\boldsymbol{①}}\hspace{0.14cm}$ Accelerated motion with __an initial speed of $\boldsymbol{2}$__
+    - $\textcolor{#8DCC33}{\boldsymbol{②}}\hspace{0.14cm}$ Accelerated motion with __variable acceleration__ and __an initial speed of $\boldsymbol{0}$__
+    - $\textcolor{#8DCC33}{\boldsymbol{③}}\hspace{0.14cm}$ Accelerated motion with __an initial speed of $\boldsymbol{0}$__
   - __Figure 2–12__
-    - ① Decelerated motion with __an initial speed of $\boldsymbol{3}$__
-    - ② Decelerated motion with __variable deceleration__ and __an initial speed of $\boldsymbol{3}$__
+    - $\textcolor{#8DCC33}{\boldsymbol{①}}\hspace{0.14cm}$ Decelerated motion with __an initial speed of $\boldsymbol{3}$__
+    - $\textcolor{#8DCC33}{\boldsymbol{②}}\hspace{0.14cm}$ Decelerated motion with __variable deceleration__ and __an initial speed of $\boldsymbol{3}$__
 - __Area equals distance__  
   ::: wrap  
   $
