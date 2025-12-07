@@ -525,7 +525,7 @@ $
 ---
 
 
-### $\fbox{15}\:$The sum of the first $\small n$ terms of the sequence $\small \left\{ a_n \right\}$ is $\small S_n=4n^2+n-2$, then what is its general term $\small a_n\,\mathpunct{?}$.
+### $\fbox{15}\:$The sum of the first $\small n$ terms of the sequence is $\small S_n=4n^2+n-2$, then what is its general term $\small a_n\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}

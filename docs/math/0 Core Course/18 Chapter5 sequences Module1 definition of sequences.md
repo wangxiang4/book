@@ -9,7 +9,7 @@ lang: en-US
 - A sequence is __a list of numbers__ arranged in __a certain order__.
   - $\left\{ a_n \right\}=\left\{1,3,5,7,9,\cdots \right\}$
 - General form: $\boldsymbol{a_1,a_2,a_3,\cdots,a_n,\cdots}$, abbreviated as $\boldsymbol{\left\{ a_n \right\}}$.
-- Note: a sequence can be __regarded as a function__ whose __domain is the set of positive integers__ (or __one of its finite subsets__).
+- Note: a sequence can be __regarded as a function__ whose domain is __the set of positive integers__ (or __one of its finite subsets__).
   Analyzing and solving sequence problems from __the perspective of functions__ is __a fundamental approach__.
   __Recurrence (recursive relations)__ is __a distinctive representation of sequences__,
   as it better reflects __their characteristics__.
@@ -31,11 +31,11 @@ lang: en-US
   a_8=3\times8-1=23 \\
   \end{array}
   $
-- Note: not every sequence can be __expressed by a general term formula__; and for __some sequences, the general term formula is not unique__.
+- Note: not every sequence can be __expressed by a general term formula__; and for some sequences, __the general term formula is not unique__.
 
 
 ## 3.Sum of the First $n$ Terms
-- The sum of the first $n$ terms of a sequence is denoted by $\boldsymbol{S_n=a_1+a_2+a_3+\cdots+a_n}$.
+- __The sum of the first $\boldsymbol{n}$ terms of a sequence__ is denoted by $\boldsymbol{S_n=a_1+a_2+a_3+\cdots+a_n}$.
 - Note: the sum of the first $n$ terms must __start from $\boldsymbol{a_1}$__.
   $a_n$ represents __an individual term__, while $S_n$ represents __the whole sum__.
 - __Derivation of $\boldsymbol{S_n-S_{n-1}=a_n}$__  
@@ -52,7 +52,7 @@ lang: en-US
   :::
 
 
-## 4.Formulas for the Relationship between
+## 4.Formulas for the Relationship between $a_n$ and $S_n$
 - Given $a_n$, find $S_n$   
   ::: wrap  
   $S_n=a_1+a_2+\cdots+a_n=\sum_{i=1}^{n}a_i$
@@ -67,7 +67,7 @@ lang: en-US
   \end{cases}
   $
   :::  
-  - __The constant term__ in $S_n$ __only affects $\boldsymbol{a_1}$__, but __does not affect the other terms__.   
+  - __The constant term in $\boldsymbol{S_n}$ only affects $\boldsymbol{a_1}$, but does not affect the other terms__.   
 
     
 
@@ -87,7 +87,7 @@ __For the given $S_n$, find $a_n$__
 
 
 
-### $\fbox{1}\:$Given that the sum of the first $\small n$ terms of the sequence $\small \left\{ a_n \right\}$ is $\small S_n=n^2+1$, find $\small a_5$.
+### $\fbox{1}\:$Given that the sum of the first $\small n$ terms of the sequence is $\small S_n=n^2+1$, find $\small a_5$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -129,7 +129,7 @@ $
   :::
 ---
 
-### $\fbox{2}\:$Given that the sum of the first $\small n$ terms of the sequence $\small \left\{ a_n \right\}$ satisfies $\small \log_{2}(S_n+1)=n+1$, find $\small a_6$.
+### $\fbox{2}\:$Given that the sum of the first $\small n$ terms of the sequence satisfies $\small \log_{2}(S_n+1)=n+1$, find $\small a_6$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -175,7 +175,7 @@ $
 ---
 
 
-### $\fbox{3}\:$Given the sequence $\small \left\{ a_n \right\}$ with the sum of the first $\small n$ terms $\small S_n=n^3$, find $\small a_6+a_7+a_8+a_9+a_{10}$.
+### $\fbox{3}\:$Given the sequence with the sum of the first $\small n$ terms $\small S_n=n^3$, find $\small a_6+a_7+a_8+a_9+a_{10}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -219,7 +219,7 @@ $
   :::
 ---
 
-### $\fbox{4}\:$Given the sequence $\small \left\{ a_n \right\}$ with the sum of the first $\small n$ terms $\small S_n=10^n-1$, find the general term $\small a_n$.
+### $\fbox{4}\:$Given the sequence with the sum of the first $\small n$ terms $\small S_n=10^n-1$, find the general term $\small a_n$.
 
 #### Solution
 ::: wrap  
@@ -255,16 +255,15 @@ $
 __For the given $a_n$, find $S_n$__  
 ::: wrap  
 - Use the formula $\boldsymbol{S_n=a_1+a_2+\cdots+a_n=\sum_{i=1}^{n}a_i}$ together with __the decomposition of the general term__,
-  we apply __the method of telescoping sums__ (__cancellation method__).
+  then apply __the method of telescoping sums__ (__cancellation method__).
   This is a concrete application of __the idea of decomposition and recombination in summing sequences__.
   The essence of the telescoping method is __to decompose each term (the general term) of the sequence__,
-  then __recombine them__ so that __certain terms cancel out__,
+  then __recombine them so that certain terms cancel out__,
   __ultimately yielding the sum__.
 :::  
   
 
-
-### $\fbox{5}\:$In the sequence $\small \left\{ a_n \right\}$, $\small a_n＝\frac{n}{2}$. Define $\small b_n=\frac{2}{a_n \cdot a_{n+1}}$. Find the sum of the first $\small 99$ terms of the sequence $\small {b_n}$.
+### $\fbox{5}\:$In the sequence $\small \left\{ a_n \right\}$, $\small a_n＝\frac{n}{2}$. Define $\small b_n=\frac{2}{a_n \cdot a_{n+1}}$. Find the sum of the first $\small 99$ terms of the sequence $\small \left\{ b_n \right\}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -353,7 +352,7 @@ $
 ---
 
 ::: wrap  
-### $\fbox{7}\:$Find the value of $S_{99}=\frac{1}{2!}+\frac{2}{3!}+\frac{3}{4!}+\cdots+\frac{99}{100!}$.
+### $\fbox{7}\:$Find the value of $\small S_{99}=\frac{1}{2!}+\frac{2}{3!}+\frac{3}{4!}+\cdots+\frac{99}{100!}$.
 :::  
 ::: wrap  
 $
