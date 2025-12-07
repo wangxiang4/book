@@ -8,10 +8,10 @@ lang: en-US
 ## 1.Definition of Inequalities
 - An inequality is formed by __connecting two (or more) expressions with an inequality sign__.
   The values of the unknown that satisfy the inequality are called __the solutions of the inequality__.
-  The inequality signs include $\boldsymbol{\gt,\lt,\le,\ge}$, and $\boldsymbol{\ne}$.
+  The inequality signs include __$\boldsymbol{\gt,\lt,\le,\ge}$, and $\boldsymbol{\ne}$__.
 
 ## 2.Classification of Inequalities
-- According to the nature of their solutions, inequalities can be classified into the following three types:
+- According to __the nature of their solutions__, inequalities can be classified into __the following three types__:
   1. __Absolute inequalities__: inequalities whose solution set is $\mathbb{R}$.
      - $x^2+2>0$
   2. __Conditional inequalities__: inequalities whose solution set is __a non-empty proper subset of the real numbers__.
@@ -77,10 +77,17 @@ __The properties of inequalities__
 - When comparing the sizes of inequalities,
   it is important to __analyze them based on the properties of inequalities__,
   especially when dealing with __fractional inequalities or absolute value inequalities__.
-  Care must be taken to __avoid mistakes__.
 
-### $\fbox{15}\:$Given that $\small \frac{1}{a}\lt\frac{1}{b}\lt0$, determine which of the following inequalities is correct: $\small ①\hspace{0.2cm}\frac{1}{a+b}<\frac{1}{ab}$; $\small ②\hspace{0.2cm}|a|+b>0$; $\small ③\hspace{0.2cm}a-\frac{1}{a}>b-\frac{1}{b}$; $\small ④\hspace{0.2cm}\ln{a^2} > \ln{b^2}$. Which inequality is correct $\small \mathpunct{?}$.
+### $\fbox{15}\:$Given that $\small \frac{1}{a}\lt\frac{1}{b}\lt0$, how many of the following statements are correct $\small \mathpunct{?}$.
 ::: wrap  
+$
+\begin{array}{lllll}
+\textsf{①}\hspace{0.2cm}\frac{1}{a+b}<\frac{1}{ab} \\
+\textsf{②}\hspace{0.2cm}|a|+b>0 \\
+\textsf{③}\hspace{0.2cm}a-\frac{1}{a}>b-\frac{1}{b} \\
+\textsf{④}\hspace{0.2cm}\ln{a^2} > \ln{b^2} \\
+\end{array}
+$  
 $
 \begin{array}{lllll}
 \textsf{(A)} \: ①\;④ &
@@ -189,14 +196,14 @@ $
 
 ## 1.Standard Form of Quadratic Inequalities
 - $ax^2+bx+c>0\textsf{ (or }<0\textsf{)}$
-- Other __non-standard forms of inequalities__ can be transformed into the standard form through __equivalent transformations__.
+- Other __non-standard forms of inequalities__ can be transformed into __the standard form through equivalent transformations__.
 
 
 ## 2.Steps for Solving Quadratic Inequalities
-- Step 1: Convert the inequality into __the standard form__ $ax^2+bx+c>0\textsf{ (or }<0\textsf{)}$, with $\boldsymbol{a>0}$.
-- Step 2: Compute __the discriminant $\Delta$ of the corresponding quadratic equation__.
-- Step 3: Find __the roots of the corresponding equation__.
-- Step 4: Using the fact that when __$\boldsymbol{a>0}$, the parabola opens upward__,
+- __Step 1__: convert the inequality into __the standard form $\boldsymbol{ax^2+bx+c>0\textsf{ (or }<0\textsf{)}}$__, with $\boldsymbol{a>0}$.
+- __Step 2__: compute __the discriminant $\Delta$ of the corresponding quadratic equation__.
+- __Step 3__: find __the roots of the corresponding equation__.
+- __Step 4__: using the fact that __when $\boldsymbol{a>0}$__, __the parabola opens upward__,
   the quadratic function is __greater than zero outside the two roots__ and __less than zero between them__ to determine __the solution set__.
 
 ## 3.Relationship among Functions, Equations, and Inequalities
@@ -204,12 +211,12 @@ $
   These three are __closely related__ and can be __analyzed using the graph of a parabola__.
 
 
-| Quadratics                                                                         |                                                                                $\Delta>0$                                                                                |                                                                                $\Delta=0$                                                                                |                                                                               	$\Delta<0$                                                                                |
-|:-----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Quadratics                                                                         |                                                                               $\Delta>0$                                                                                |                                                                               $\Delta=0$                                                                                |                                                                               	$\Delta<0$                                                                               |
+|:-----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | __Quadratic function__<br/>$y=ax^2+bx+c \textsf{ (}a>0\textsf{)}$ graph            | ![Discriminant cases of upward-opening quadratics graph 1.svg](../../public/math/Core%20Course/Discriminant%20cases%20of%20upward-opening%20quadratics%20graph%201.svg) | ![Discriminant cases of upward-opening quadratics graph 2.svg](../../public/math/Core%20Course/Discriminant%20cases%20of%20upward-opening%20quadratics%20graph%202.svg) | ![Discriminant cases of upward-opening quadratics graph 3.svg](../../public/math/Core%20Course/Discriminant%20cases%20of%20upward-opening%20quadratics%20graph%203.svg) |
-| __Quadratic equation__<br/>$ax^2+bx+c=0 \textsf{ (}a>0\textsf{)}$ roots            |                                                 Two distinct real roots<br/>$x_1,x_2 \textsf{ (} x_1 \lt x_2 \textsf{)}$                                                 |                                                             Two equal real roots<br/>$x_1=x_2=-\frac{b}{2a}$                                                             |                                                                              No real roots                                                                               |
-| __Quadratic inequality__<br/>$ax^2+bx+c\gt0 \textsf{ (}a>0\textsf{)}$ solution set |                                                             $\Big\{ x \,\|\, x\lt x_1 \lor x\gt x_2 \Big\}$                                                              |                                                               $\Big\{ x \,\|\, x \ne -\frac{b}{2a} \Big\}$                                                               |                                                                               $\mathbb{R}$                                                                               |
-| __Quadratic inequality__<br/>$ax^2+bx+c\lt0 \textsf{ (}a>0\textsf{)}$ solution set |                                                                 $\Big\{ x \,\|\, x_1\lt x\lt x_2 \Big\}$                                                                 |                                                                              $\varnothing$                                                                               |                                                                              $\varnothing$                                                                               |
+| __Quadratic equation__<br/>$ax^2+bx+c=0 \textsf{ (}a>0\textsf{)}$ roots            |                                                Two distinct real roots<br/>$x_1,x_2 \textsf{ (} x_1 \lt x_2 \textsf{)}$                                                 |                                                            Two equal real roots<br/>$x_1=x_2=-\frac{b}{2a}$                                                             |                                                                              No real roots                                                                              |
+| __Quadratic inequality__<br/>$ax^2+bx+c\gt0 \textsf{ (}a>0\textsf{)}$ solution set |                                                             $\Big\{ x \,\|\, x\lt x_1 \lor x\gt x_2 \Big\}$                                                             |                                                              $\Big\{ x \,\|\, x \ne -\frac{b}{2a} \Big\}$                                                               |                                                                              $\mathbb{R}$                                                                               |
+| __Quadratic inequality__<br/>$ax^2+bx+c\lt0 \textsf{ (}a>0\textsf{)}$ solution set |                                                                $\Big\{ x \,\|\, x_1\lt x\lt x_2 \Big\}$                                                                 |                                                                              $\varnothing$                                                                              |                                                                              $\varnothing$                                                                              |
 
 ## 4.Focus 1
 __The finding solution set__  
@@ -394,18 +401,18 @@ $
 ## 6.Focus 3
 __The solution set is either all real numbers or the empty set__  
 - For a quadratic inequality $ax^2+bx+c<0\textsf{ (or }>0\textsf{)}$,
-  __the necessary and sufficient conditions__ for the solution set to be __all real numbers__ are
+  __the necessary and sufficient conditions__ for the solution set to be __all real numbers are__
   $
   \begin{cases}
   a<0 \textsf{ (or }>0\textsf{)} \\
   \Delta<0 \\
   \end{cases}
   $
-- Note: If __the coefficient $\boldsymbol{a}$ contains a parameter__, remember to also consider __the case $\boldsymbol{a=0}$__.  
+- Note: if __the coefficient $\boldsymbol{a}$ contains a parameter__, remember to also consider __the case $\boldsymbol{a=0}$__.  
  ![Quadratic inequality with all-real solution set.svg](../../public/math/Core%20Course/Quadratic%20inequality%20with%20all-real%20solution%20set.svg)
 
 
-### $\fbox{20}\:$Given the quadratic inequality $\small ax^2+(a-1)x+a-1<0$ in $\small x$, if its solution set is $\small \mathbb{R}$, find the range of values of $\small a$.
+### $\fbox{20}\:$Given the quadratic inequality $\small ax^2+(a-1)x+a-1<0$, if its solution set is $\small \mathbb{R}$, find the range of values of $\small a$.
 ::: wrap  
 $
 \begin{array}{lllll}

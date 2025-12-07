@@ -167,7 +167,7 @@ $
   $\boldsymbol{\Delta=b^2-4ac}$ is called __the discriminant of the quadratic equation__.
   
 ## 3.Steps for Solving Quadratic Equations
-- __Step 1__: First, try factorization using __the cross-multiplication method__.
+- __Step 1__: first, try factorization using __the cross-multiplication method__.
   After factorization, __the roots of the equation can be obtained__.
   - Condition for cross-multiplication: $\boldsymbol{\Delta=\textsf{perfect square}}$.  
     ::: wrap  
@@ -180,7 +180,7 @@ $
     \end{array}
     $  
     :::
-- __Step 2__: If factorization by cross-multiplication is __not possible__,
+- __Step 2__: if factorization by cross-multiplication is __not possible__,
   use __the quadratic formula: $\boldsymbol{x_{1,2}=\frac{-b\pm\sqrt{\Delta}}{2a}}$__.
 
 
