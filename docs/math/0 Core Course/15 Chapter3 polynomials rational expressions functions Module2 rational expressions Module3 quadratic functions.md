@@ -24,7 +24,7 @@ lang: en-US
   __changing any two of them does not change the value of the expression__.
   - $\boldsymbol{\frac{-a}{-b}=\frac{a}{b}, \frac{-a}{b}=\frac{a}{-b}=-\frac{a}{b}}$
 - Reduction (cancellation): removing __all common factors__ of __the numerator and denominator__ of a rational expression is __called reduction__.
-- Common denominator: converting several __rational expressions with different denominators__ into __equivalent expressions with the same denominator__ is __called finding a common denominator__.
+- Common denominator: converting __several rational expressions with different denominators__ into __equivalent expressions with the same denominator__ is __called finding a common denominator__.
 
   
 ## 3.Operations with Rational Expressions
@@ -257,9 +257,9 @@ $
   \begin{array}{ll}
   \textsf{let }x=0 \quad x=1 \\
   f(0)=f(1) \\
-  \frac{7}{11}=\frac{a+7}{b+11}=\frac{a}{b} & \textsf{proportional geometric property} \\
+  \frac{7}{11}=\frac{a+7}{b+11}=\frac{a}{b} \\
   7b=11a \\
-  b=\frac{11}{7}a \quad a=\frac{7}{11} & \textsf{property of proportions holds} \\
+  b=\frac{11}{7}a \quad a=\frac{7}{11}b \\
   11a-7b=0 \\
   \end{array}
   $  
@@ -304,7 +304,7 @@ $
 :::  
 3. Root form: $\boldsymbol{y=a(x-x_1)(x-x_2)}$.  
    $f(3)=a(x+2)(x-3)=0$
-- Note: $\boldsymbol{x_1}$ and $\boldsymbol{x_2}$ represent the __two intersection points__ of the quadratic function with the x-axis, or the __two roots__ of the equation.  
+- Note: $\boldsymbol{x_1}$ and $\boldsymbol{x_2}$ represent __the two intersection points__ of the quadratic function with the x-axis, or __the two roots__ of the equation.  
   ![Quadratic function two intersections.svg](../../public/math/Core%20Course/Quadratic%20function%20two%20intersections.svg)
 
 
