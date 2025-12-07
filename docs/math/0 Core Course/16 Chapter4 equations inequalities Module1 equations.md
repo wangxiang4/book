@@ -52,7 +52,7 @@ __The linear equation in one variable__
 - A linear equation in one variable can be __transformed into the standard form $\boldsymbol{ax=b}$__ by __transposition__,
   and then solved accordingly.
 
-### $\fbox{1}\:$A student, when solving the equation $\small \frac{ax+1}{3}-\frac{x+1}{2}=1$, mistakenly treated $\small x+1$ as $\small x-1$, and obtained the solution $\small x=1$. Then, what are the value of $\small a$ and the solution of the original equation $\small \mathpunct{?}$.
+### $\fbox{1}\:$A student, when solving the equation $\small \frac{ax+1}{3}-\frac{x+1}{2}=1$, mistakenly treated $\small x+1$ as $\small x-1$, and obtained the solution $\small x=1$. What are the value of $\small a$ and the solution of the original equation $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -164,11 +164,11 @@ $
   2. When $\boldsymbol{\Delta=0}$, the equation has __two equal real roots__, $x_{1,2}=-\frac{b}{2a}$.
   3. When $\boldsymbol{\Delta<0}$, the equation has __no real roots__.
 - Because of its importance in determining the solutions of a quadratic equation in one variable,
-  $\Delta=b^2-4ac$ is called __the discriminant of the quadratic equation__.
+  $\boldsymbol{\Delta=b^2-4ac}$ is called __the discriminant of the quadratic equation__.
   
 ## 3.Steps for Solving Quadratic Equations
-- Step 1: First, try factorization using __the cross-multiplication method__.
-  After factorization, the roots of the equation can be __obtained__.
+- __Step 1__: First, try factorization using __the cross-multiplication method__.
+  After factorization, __the roots of the equation can be obtained__.
   - Condition for cross-multiplication: $\boldsymbol{\Delta=\textsf{perfect square}}$.  
     ::: wrap  
     $
@@ -180,8 +180,8 @@ $
     \end{array}
     $  
     :::
-- Step 2: If factorization by cross-multiplication is __not possible__,
-  use the quadratic formula: $\boldsymbol{x_{1,2}=\frac{-b\pm\sqrt{\Delta}}{2a}}$.
+- __Step 2__: If factorization by cross-multiplication is __not possible__,
+  use __the quadratic formula: $\boldsymbol{x_{1,2}=\frac{-b\pm\sqrt{\Delta}}{2a}}$__.
 
 
 ## 4.Relationship Between Roots and Coefficients (Vieta's Theorem)
@@ -273,12 +273,12 @@ $
 ## 7.Focus 2
 __The cases of real roots of an equation__  
 - Use the sign of the discriminant to determine whether __real roots exist__ and __how many there are__.
-  Note that when the discriminant equals $\boldsymbol{0}$,
+  Note that when __the discriminant equals $\boldsymbol{0}$__,
   the equation still has __two real roots__,
   but they are __equal roots__.
 
 
-### $\fbox{4}\:$Given the quadratic equation in $\small x$: $\small k^2x^2-(2k+1)x+1=0$ has two distinct real roots, find the range of values of $\small k$.
+### $\fbox{4}\:$Given the quadratic equation $\small k^2x^2-(2k+1)x+1=0$ has two distinct real roots, find the range of values of $\small k$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -322,10 +322,10 @@ $
 
 ## 8.Focus 3
 __The vieta's theorem__  
-- Use __the relevant formulas and forms__ of vieta's theorem for analysis.
+- Use __the relevant formulas and forms of vieta's theorem__ for analysis.
   Since vieta's theorem applies to both __real and complex roots__,
   when __solving for real roots__,
-  remember to check __the discriminant__ after applying vieta's theorem.
+  remember to check __the discriminant after applying vieta's theorem__.
 
 
 ### $\fbox{5}\:$If one root of the equation $\small x^2+px+q=0$ is twice the other, then what conditions must $\small p$ and $\small q$ satisfy $\small \mathpunct{?}$.
@@ -455,7 +455,7 @@ $
   :::
 ---
 
-### $\fbox{8}\:$Given the quadratic equation in $\small x$: $\small x^2-2(m-\frac{1}{2})x+m^2-2=0$ with two real roots $\small x_1,x_2$, and $\small x_1^2-x_1x_2+x_2^2=12$, find the value of $\small m$.
+### $\fbox{8}\:$Given the quadratic equation $\small x^2-2(m-\frac{1}{2})x+m^2-2=0$ with two real roots $\small x_1,x_2$, and $\small x_1^2-x_1x_2+x_2^2=12$, find the value of $\small m$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -512,7 +512,7 @@ $
   :::
 ---
 
-### $\fbox{9}\:$Given that $\small m$ is a positive real number, for the equation in $\small x$: $\small 2x^2-mx-30=0$ with roots $x_1,x_2$, and satisfying $\small 5x_1+3x_2=0$, find the value of $\small m$.
+### $\fbox{9}\:$Given that $\small m$ is a positive real number, for the equation $\small 2x^2-mx-30=0$ with roots $x_1,x_2$, and satisfying $\small 5x_1+3x_2=0$, find the value of $\small m$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -564,7 +564,7 @@ $
   :::
 ---
 
-### $\fbox{10}\:$Given that $\small a,b,c$ form both an arithmetic sequence and a geometric sequence, let $\alpha,\beta$ be the two roots of the equation $\small ax^2+bx-c=0$ with $\alpha > \beta$. Then find the value of $\small \alpha^3\beta-\alpha\beta^3$.
+### $\fbox{10}\:$Given that $\small a,b,c$ form both an arithmetic sequence and a geometric sequence, let $\small \alpha,\beta$ be the two roots of the equation $\small ax^2+bx-c=0$ with $\small \alpha > \beta$. Then find the value of $\small \alpha^3\beta-\alpha\beta^3$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -693,7 +693,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(D)}$  
-  > According to the Solution, get $-3,-6$, so choose $D$. 
+  > According to the Solution, get $b=-3,c=-6$, so choose $D$. 
 
   :::
 - Formulas used  
@@ -776,9 +776,9 @@ $
 
 ## 9.Focus 4
 __The signs of roots of an equation__  
-- Use vieta's theorem to analyze the signs of the roots,
+- Use vieta's theorem to analyze __the signs of the roots__,
   such as __both positive roots__ or __both negative roots__.
-  Additionally, remember to check __the discriminant__ after applying vieta's theorem.
+  Additionally, remember to check __the discriminant after applying vieta's theorem__.
   - __Two positive roots__  
     $
     \begin{cases}
@@ -884,7 +884,7 @@ __The range of roots of an equation__
   __draw the parabola__ and analyze based on __the intersection points with the x-axis__.
   Note __that vieta's theorem should not be used__ for this analysis.
 
-### $\fbox{14}\:$If the quadratic equation in $\small x$: $\small mx^2-(m-1)x+m-5=0$ has two real roots $\small \alpha,\beta$ satisfying $\small -1<\alpha<0$ and $\small 0<\beta<1$, then how many integers are contained in the range of $\small m\,\mathpunct{?}$.
+### $\fbox{14}\:$If the quadratic equation $\small mx^2-(m-1)x+m-5=0$ has two real roots $\small \alpha,\beta$ satisfying $\small -1<\alpha<0$ and $\small 0<\beta<1$, then how many integers are contained in the range of $\small m\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
