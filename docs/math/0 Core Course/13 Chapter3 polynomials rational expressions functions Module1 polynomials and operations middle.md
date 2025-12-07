@@ -239,7 +239,7 @@ $
   a^2+ab+b^2=14 & ①\\
   a^2-2ab+b^2=4 & ②\\
   \end{cases} \\
-  (a^2+ab+b^2)\times2+(a^2-2ab+b^2)=14\times2+4 & ①\,\times2\,+② \\
+  (a^2+ab+b^2)\cdot2+(a^2-2ab+b^2)=14\cdot2+4 & ①\,\cdot2\,+② \\
   2a^2+2ab+2b^2+a^2-2ab+b^2=3(a^2+b^2)=32 \\
   a^2+b^2=\frac{32}{3} \\
   \end{array}
@@ -257,7 +257,7 @@ $
   a^2+ab+b^2=14 & ①\\
   a^2-2ab+b^2=4 & ②\\
   \end{cases} \\
-  (a^2+ab+b^2)\times2+(a^2-2ab+b^2)=14\times2+4 & ①\,\times2\,+② \\
+  (a^2+ab+b^2)\cdot2+(a^2-2ab+b^2)=14\cdot2+4 & ①\,\cdot2\,+② \\
   2a^2+2ab+2b^2+a^2-2ab+b^2=3(a^2+b^2)=32 \\
   a^2+b^2=\frac{32}{3} \\
   \end{array}

@@ -735,7 +735,7 @@ __The remainder__
 ::: wrap  
 - __Remainder theorem__: the remainder when __a polynomial $\boldsymbol{f(x)}$__ is divided by $\boldsymbol{x-a}$ is $\boldsymbol{f(a)}$.  
   __Derivation__: the remainder when __a polynomial $\boldsymbol{f(x)}$__ is divided by $\boldsymbol{ax-b}$ is $\boldsymbol{f(\frac{b}{a})}$.  
-  Additionally, $\textsf{dividend}=\textsf{divisor}\times\textsf{quotient}+\textsf{remainder}$.
+  Additionally, $\textsf{dividend}=\textsf{divisor}\cdot\textsf{quotient}+\textsf{remainder}$.
 :::
 
 ### $\fbox{28}\:$Let $\small f(x)$ be a polynomial with integer coefficients. When $\small f(x)$ is divided by $\small x-1$, the remainder is $\small 9$; when $\small f(x)$ is divided by $\small x-2$, the remainder is $\small 16$. Find the remainder when $\small f(x)$ is divided by $\small (x-1)(x-2)$.
