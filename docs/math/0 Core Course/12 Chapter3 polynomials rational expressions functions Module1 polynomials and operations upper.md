@@ -160,7 +160,7 @@ __The perfect square formulas for two terms__
   $(a+b)^2-(a-b)^2=4ab$.  
   Additionally, __special applications should be noted when reciprocals appear__.
 :::  
-- Special applications involving reciprocals: $\boldsymbol{x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2}$.
+- ###### Special applications involving reciprocals: $\boldsymbol{x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2}$.
 
 
 ### $\fbox{3}\:$Given $\small (x+2y)^2=40$ and $\small xy=2$, then $(x-2y)^2=\,\mathpunct{?}$.
@@ -280,7 +280,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_3-focus-2}{\textsf{reciprocal form of two-term perfect square formula}} \\
+  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#special-applications-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
   (a+b)^2-(a-b)^2=4ab & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
   a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
   |a|=\sqrt{a^2} & \textsf{definition of absolute value} \\
@@ -378,7 +378,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_3-focus-2}{\textsf{reciprocal form of two-term perfect square formula}} \\
+  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#special-applications-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
   (a+b)^2-(a-b)^2=4ab & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
   a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
   |a|=\sqrt{a^2} & \textsf{definition of absolute value} \\
@@ -434,7 +434,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_3-focus-2}{\textsf{reciprocal form of two-term perfect square formula}} \\
+  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#special-applications-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
   \end{array}
   >$
 
@@ -535,7 +535,6 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  (a+b+c)^2=a^2+b^2+c^2+2ab+2ac+2bc \\
   (a-b+c)^2+(a-b-c)^2 \\
   (a-b+c)^2=a^2+b^2+c^2-2ab+2ac-2bc \\
   (a-b-c)^2=a^2+b^2+c^2-2ab-2ac+2bc \\
@@ -545,7 +544,7 @@ $
   \end{array}
   $   
   :::
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the formula $(a+b)^2+(a-b)^2=2a^2+2b^2$  
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the perfect square formula for two terms  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -575,7 +574,7 @@ $
 ---
 
 ::: wrap  
-### $\fbox{9}\:$If real numbers $\small a,b,c$ satisfy $\small a+b+c=1$ and $\small \frac{1}{b+2}+\frac{1}{b+3}+\frac{1}{c+4}=0$, then the algebraic expression $(a+2)^2+(b+3)^2+(c+4)^2=\,\mathpunct{?}$.
+### $\fbox{9}\:$If real numbers $\small a,b,c$ satisfy $\small a+b+c=1$ and $\small \frac{1}{a+2}+\frac{1}{b+3}+\frac{1}{c+4}=0$, then the algebraic expression $\small (a+2)^2+(b+3)^2+(c+4)^2=\,\mathpunct{?}$.
 :::  
 ::: wrap  
 $
@@ -618,7 +617,7 @@ $
 ---
 
 ::: wrap  
-### $\fbox{10}\:$If real numbers $\small a,b,c$ satisfy $\small a^2+b^2+c^2=9$, then what is the maximum value of the algebraic expression $(a-b)^2+(b-c)^2+(c-a)^2\,\mathpunct{?}$.
+### $\fbox{10}\:$If real numbers $\small a,b,c$ satisfy $\small a^2+b^2+c^2=9$, then what is the maximum value of the algebraic expression $\small (a-b)^2+(b-c)^2+(c-a)^2\,\mathpunct{?}$.
 :::  
 ::: wrap  
 $
