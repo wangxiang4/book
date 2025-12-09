@@ -210,7 +210,7 @@ t^2-4t-5=0 \\
 t= 5 \lor -1 & t \ne -1 \\
 t=5 \\
 2^x=5 \\
-x=\log_{2}5 & b^x=y \longrightarrow \log_{b}y=x \\
+x=\log_{2}5 \\
 \end{array}
 $  
 :::
@@ -378,7 +378,7 @@ $
 
 
 
-### $\fbox{31}\:$In the geometric sequence $\small \left\{ a_n \right\}$, if $\small a_4a_7=-512,a_3+a_8=124$, and the common ratio $\small q \in \mathbb{Z}$, then find $\small a_{10}$.
+### $\fbox{31}\:$In a geometric sequence, if $\small a_4a_7=-512,a_3+a_8=124$, and the common ratio $\small q \in \mathbb{Z}$, then find $\small a_{10}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -397,7 +397,7 @@ $
 \begin{cases} 
 a_4a_7=a_3a_8=-512 \\
 a_3+a_8=124 \\
-\end{cases} & a_ma_n=a_ka_t \\
+\end{cases} \\
 x^2-124x-512=0 &
 \boxed{
 \begin{array}{ll}
@@ -411,7 +411,7 @@ a_3=-4 \\
 a_8=128 \\
 \end{cases} & q \in \mathbb{Z} \\ 
 \frac{a_8}{a_3}=\frac{128}{-4}=-32=q^5 \\
-q^5=-32 \longrightarrow \sqrt[5]{-32} \\
+q^5=-32 \longrightarrow q=\sqrt[5]{-32} \\
 q=-2 \\
 a_{10}=a_8q^2=128\cdot(-2)^2=512 \\
 \end{array}
@@ -453,7 +453,7 @@ $
 
 
 
-### $\fbox{32}\:$Given a geometric sequence $\small \left\{ a_n \right\}$ with $\small a_3+a_9=130$ and $\small a_3-a_9=-126$, find the common ratio $\small q$.
+### $\fbox{32}\:$Given a geometric sequence with $\small a_3+a_9=130$ and $\small a_3-a_9=-126$, find the common ratio $\small q$.
 ::: wrap
 $
 \begin{array}{lllll}
@@ -479,7 +479,7 @@ a_3=\frac{4}{2}=2 \\
 2+a_9=130 \\
 a_9=130-2=128 \\
 \frac{a_9}{a_3}=\frac{128}{2}=64=q^6 \\
-q^6=64 \longrightarrow \pm\sqrt[6]{64} \\
+q^6=64 \longrightarrow q=\pm\sqrt[6]{64} \\
 q=\pm2 \\
 \end{array}
 $  
@@ -523,8 +523,8 @@ __The summation of a geometric sequence__
 :::
 - Case analysis of $S_n=k-kq^n$ ($\boldsymbol{q\ne1}$)  
   - $\boldsymbol{S_n=A+B\cdot q^n}$     
-  - If $A+B\ne0$: it __is not $\boldsymbol{S_n}$__; the sequence becomes $S_n$ __only from $\boldsymbol{a_2}$ onward__
-  - If $A+B=0$: it __is $\boldsymbol{S_n}$__
+  - If $A+B\ne0$: __it is not $\boldsymbol{S_n}$__; __the sequence becomes $\boldsymbol{S_n}$ only from $\boldsymbol{a_2}$ onward__
+  - If $A+B=0$: __it is $\boldsymbol{S_n}$__
 
 
 
@@ -618,7 +618,7 @@ $
 
 
 
-### $\fbox{34}\:$Given $\small S_n$ is the sum of the first $\small n$ terms of the geometric sequence $\small \left\{ a_n \right\}$, if $\small S_2+S_5=2S_8$, then the common ratio is $\small q=\,\mathpunct{?}$.
+### $\fbox{34}\:$Given $\small S_n$ is the sum of the first $\small n$ terms of a geometric sequence, if $\small S_2+S_5=2S_8$, then the common ratio is $\small q=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -640,7 +640,7 @@ $
 2a_1+5a_1=2\cdot8a_1 \\
 7a_1=16a_1 \\
 0=9a_1 \\
-a_1=\frac{0}{9}=0 & \textsf{no term of a geometric sequence can be zero}  \,❌\;\\
+a_1=\frac{0}{9}=0 & \textsf{any term in a geometric sequence}\ne0  \,❌\;\\
 \end{array}
 } \\
 \boldsymbol{q\ne1} \\
@@ -693,7 +693,7 @@ __The property of terms in a geometric sequence__
 
 
 
-### $\fbox{35}\:$In the geometric sequence $\small \left\{ a_n \right\}$, $\small a_3$ and $\small a_8$ are the two roots of the equation $\small 3x^2+2x-18=0$. Find $\small a_4a_7$.
+### $\fbox{35}\:$In a geometric sequence, $\small a_3$ and $\small a_8$ are the two roots of the equation $\small 3x^2+2x-18=0$. Find $\small a_4a_7$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -738,7 +738,7 @@ $
 
 
 
-### $\fbox{36}\:$If the geometric sequence $\small \left\{ a_n \right\}$ satisfies $\small a_2a_4+2a_3a_5+a_2a_8=25$ with $\small a_1 > 0$, then find $\small a_3+a_5$. 
+### $\fbox{36}\:$If a geometric sequence satisfies $\small a_2a_4+2a_3a_5+a_2a_8=25$ with $\small a_1 > 0$, then find $\small a_3+a_5$. 
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -774,7 +774,6 @@ $
   >$
   \begin{array}{ll}
   ac=b^2 & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_5-focus-1}{\textsf{geometric mean}} \\
-  x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{n-th root property} \\
   \end{array}
   >$
 
@@ -789,7 +788,7 @@ $
   >$
 
   :::
-- Solve using the special case $q=1$  
+- Solve by letting $q=1$  
   ::: wrap  
   >$
   \begin{array}{ll}
@@ -815,7 +814,7 @@ __The property of geometric series summation__
 
 
 
-### $\fbox{37}\:$In a geometric sequence $\small \left\{ a_n \right\}$, it is given that $\small S_n=36$ and $\small S_{2n}=54$. Find $\small S_{3n}$.
+### $\fbox{37}\:$In a geometric sequence, it is given that $\small S_n=36$ and $\small S_{2n}=54$. Find $\small S_{3n}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -849,7 +848,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S_n, S_{2n}-S_n, S_{3n}-S_{2n},\cdots & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#if-is-the-sum-of-the-first-terms-of-a-geometric-sequence-then-also-form-a-geometric-sequence-with-common-ratio}{\textsf{property of geometric series sum}} \\
+  S_n, S_{2n}-S_n, S_{3n}-S_{2n},\cdots & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#if-is-the-sum-of-the-first-terms-of-a-geometric-sequence-then-also-form-a-geometric-sequence-with-common-ratio}{\textsf{geometric series sum property}} \\
   \end{array}
   >$
 
@@ -857,7 +856,7 @@ $
 ---
 
 
-### $\fbox{38}\:$Given that $\small S_n$ is the sum of the first $\small n$ terms of a geometric sequence $\small \left\{ a_n \right\}$, and $\small S_4=30, S_8=150$, find the common ratio $\small q$.
+### $\fbox{38}\:$Given that $\small S_n$ is the sum of the first $\small n$ terms of a geometric sequence, and $\small S_4=30, S_8=150$, find the common ratio $\small q$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -914,7 +913,7 @@ $
   \begin{cases}
   \frac{S_m}{S_n} = \frac{1-q^m}{1-q^n} \\
   S_n, S_{2n}-S_n, S_{3n}-S_{2n},\cdots\\
-  \end{cases} & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#if-is-the-sum-of-the-first-terms-of-a-geometric-sequence-then-also-form-a-geometric-sequence-with-common-ratio}{\textsf{property of geometric series sum}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#if-is-the-sum-of-the-first-terms-of-a-geometric-sequence-then-also-form-a-geometric-sequence-with-common-ratio}{\textsf{geometric series sum property}} \\
   x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{n-th root property} \\  
   \end{array}
   >$

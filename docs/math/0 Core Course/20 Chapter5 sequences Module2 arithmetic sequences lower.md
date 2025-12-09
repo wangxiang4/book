@@ -15,7 +15,7 @@ __The non-standard method for summation__
   for example, $a_3+a_8=2a_{5.5}$.
 
 
-### $\fbox{21}\:$For the arithmetic sequence $\small \left\{ a_n \right\}$ with sum of the first $\small n$ terms, if $\small S_{14}=70$ and $\small S_{16}=144$, then what is the common difference of the sequence $\small \mathpunct{?}$.
+### $\fbox{21}\:$For an arithmetic sequence with sum of the first $\small n$ terms, if $\small S_{14}=70$ and $\small S_{16}=144$, then what is the common difference of the sequence $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -92,7 +92,7 @@ $
   :::
 ---
 
-### $\fbox{22}\:$The sum of the first $\small n$ terms of the arithmetic sequence $\small \left\{ a_n \right\}$ is $\small S_n$. If $\small a_5+a_8=16$ and $\small S_{18}=90$, then find $\small S_{32}$.
+### $\fbox{22}\:$The sum of the first $\small n$ terms of an arithmetic sequence is $\small S_n$. If $\small a_5+a_8=16$ and $\small S_{18}=90$, then find $\small S_{32}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -168,7 +168,7 @@ $
 __The property of terms in an arithmetic sequence__  
 - If $\boldsymbol{k\in\mathbb{Z_+}}$ and $\boldsymbol{m+n=k+t}$, then $\boldsymbol{a_m+a_n=a_k+a_t}$.
 
-### $\fbox{23}\:$In the arithmetic sequence $\small \left\{ a_n \right\}$, $\small a_1$ and $\small a_{10}$ are the two roots of the equation $\small x^2-3x-5=0$. Find $\small a_3+a_8$.
+### $\fbox{23}\:$In an arithmetic sequence, $\small a_1$ and $\small a_{10}$ are the two roots of the equation $\small x^2-3x-5=0$. Find $\small a_3+a_8$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -210,7 +210,7 @@ $
   :::
 ---
 
-### $\fbox{24}\:$In an arithmetic sequence $\small \left\{ a_n \right\}$, if $\small a_2+a_3+a_{10}+a_{11} =48$, find $\small S_{12}$.
+### $\fbox{24}\:$In an arithmetic sequence, if $\small a_2+a_3+a_{10}+a_{11} =48$, find $\small S_{12}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -275,7 +275,7 @@ $
   :::
 ---
 
-### $\fbox{25}\:$In an arithmetic sequence $\small \left\{ a_n \right\}$, it is given that $\small a_7+a_8=21$. Find $\small S_{14}$.
+### $\fbox{25}\:$In an arithmetic sequence, it is given that $\small a_7+a_8=21$. Find $\small S_{14}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -349,7 +349,7 @@ __The property of arithmetic series summation__
 - __Essence__: after grouping the sums, __the results still form an arithmetic sequence__.
   __The subscripts of $\boldsymbol{S_n}$__ are in __a multiple relationship__.
 
-### $\fbox{26}\:$In an arithmetic sequence $\small \left\{ a_n \right\}$, the sum of the first $\small 5$ terms is $\small S_5=15$, and the sum of the first $\small 15$ terms is $\small S_{15}=120$, then find the sum of the first $\small 10$ terms $\small S_{10}$.
+### $\fbox{26}\:$In an arithmetic sequence, the sum of the first $\small 5$ terms is $\small S_5=15$, and the sum of the first $\small 15$ terms is $\small S_{15}=120$, then find the sum of the first $\small 10$ terms $\small S_{10}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -463,7 +463,7 @@ $
 ---
 
 
-### $\fbox{27}\:$Given that $\small S_n$ is the sum of the first $\small n$ terms of the arithmetic sequence $\small \left\{ a_n \right\}$, with $\small S_4=30$ and $\small S_8=90$, find the common difference $\small d$.
+### $\fbox{27}\:$Given that $\small S_n$ is the sum of the first $\small n$ terms of an arithmetic sequence, with $\small S_4=30$ and $\small S_8=90$, find the common difference $\small d$.
 ::: wrap  
 $
 \begin{array}{lllll}

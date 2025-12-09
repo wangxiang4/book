@@ -760,7 +760,7 @@ $
   :::
 ---
 
-### $\fbox{18}\:$In the arithmetic sequence $\small \left\{ a_n \right\}$, if $\small a_4=9$ and $\small a_9=-6$, then for which values of $\small n$ does $\small S_n=54$ hold $\small \mathpunct{?}$.
+### $\fbox{18}\:$In an arithmetic sequence, if $\small a_4=9$ and $\small a_9=-6$, then for which values of $\small n$ does $\small S_n=54$ hold $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -813,7 +813,7 @@ $
   :::
 ---
 
-### $\fbox{19}\:$In the arithmetic sequence $\small \left\{ a_n \right\}$, let $\small S_n$ denote the sum of the first $\small n$ terms. If $\small a_1=13$ and $\small S_3=S_{11}$, then what is the maximum value of $\small S_n \,\mathpunct{?}$.
+### $\fbox{19}\:$In an arithmetic sequence, let $\small S_n$ denote the sum of the first $\small n$ terms. If $\small a_1=13$ and $\small S_3=S_{11}$, then what is the maximum value of $\small S_n \,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -879,7 +879,7 @@ $
   :::
 ---
 
-### $\fbox{20}\:$In the arithmetic sequence $\small \left\{ a_n \right\}$, $\small a_5<0$, $\small a_6>0$, and $\small a_6>|a_5|$. Let $\small S_n$ denote the sum of the first $\small n$ terms. Then:
+### $\fbox{20}\:$In an arithmetic sequence, $\small a_5<0$, $\small a_6>0$, and $\small a_6>|a_5|$. Let $\small S_n$ denote the sum of the first $\small n$ terms. Then:
 ::: wrap  
 $
 \begin{array}{lllll}
