@@ -190,7 +190,7 @@ lang: en-US
   $
   \begin{array}{ll}
   \underbrace{a_1 a_2 a_3}_{S_3} \hspace{0.3cm} \underbrace{a_4 a_5 a_6}_{S_6-S_3} \hspace{0.3cm}
-  \underbrace{a_7 a_8 a_9}_{S_9-S_6} \hspace{0.3cm} \cdots \\
+  \underbrace{a_7 a_8 a_9}_{S_9-S_6} \hspace{0.3cm}\cdots \\
   (a_4+a_5+a_6)-(a_1+a_2+a_3)=3\cdot 3d=3^2d \\
   \end{array}
   $  
@@ -199,7 +199,7 @@ lang: en-US
   ::: wrap  
   $
   \begin{array}{ll}
-  \frac{S_n}{n}, \frac{S_{2n}}{2n}, \frac{S_{3n}}{3n}, \cdots \\
+  \frac{S_n}{n}, \frac{S_{2n}}{2n}, \frac{S_{3n}}{3n},\cdots \\
   \textsf{verify common difference} \\
   \frac{S_{2n}}{2n}-\frac{S_n}{n}=\frac{n}{2}d \\
   \frac{S_{3n}}{3n}-\frac{S_{2n}}{2n}=\frac{n}{2}d \\
@@ -244,7 +244,7 @@ $
 \begin{array}{ll}
 \left\{ a_n \right\}=\left\{ 4,8,16 \right\} \\
 4\cdot16=8^2 \\
-3^a \cdot 3^c=(3^b)^2 \\
+3^a\cdot3^c=(3^b)^2 \\
 \bcancel{3}^{a+c}=\bcancel{3}^{2b} \\
 a+c=2b \\
 \end{array}
@@ -418,8 +418,8 @@ $
   >$
   \begin{array}{ll}
   a+c=2b & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_5-focus-1}{\textsf{arithmetic mean}} \\
-  \log_b (a \cdot c) = \log_b a + \log_b c & \textsf{logarithm product rule} \\
-  \log_b (a^k) = k \cdot \log_b a & \textsf{logarithm power rule} \\
+  \log_b (a\cdot c) = \log_b a + \log_b c & \textsf{logarithm product rule} \\
+  \log_b (a^k) = k\cdot\log_b a & \textsf{logarithm power rule} \\
   (a-b)^2=a^2-2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   b^x=y \longrightarrow \log_{b}y=x & \href{https://en.wikipedia.org/wiki/Logarithm}{\textsf{definition of logarithm}} \\
   \end{array}

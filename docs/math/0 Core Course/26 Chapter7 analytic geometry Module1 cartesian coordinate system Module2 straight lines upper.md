@@ -66,8 +66,8 @@ $
 \begin{array}{ll}
 A+B=2C \\
 \begin{cases}
-x-2=1\times 2 \\
-5+y=1\times 2 \\
+x-2=1\cdot2 \\
+5+y=1\cdot2 \\
 \end{cases}\Rightarrow
 \begin{cases}
 x=4 \\
@@ -128,7 +128,7 @@ x^2+8x+16+x^2-16x+64=144 \\
 \frac{2x^2-8x-64}{2}=\frac{0}{2} \\
 x^2-4x-32=0 \\
 x=\frac{-b\pm \sqrt{b^2-4ac}}{2a} \\
-\Delta=(-4)^2-4\times1\times(-32)=16+128=144 \\
+\Delta=(-4)^2-4\cdot1\cdot-32=16+128=144 \\
 x=\frac{4\pm \sqrt{144}}{2}=\frac{4\pm 12}{2} \\
 x=\frac{4+12}{2}=8 \lor \frac{4-12}{2}=-4 \\
 \end{array}
@@ -177,7 +177,7 @@ $
   \begin{array}{ll}
   \textsf{let }C=(x, y) \\
   \sqrt{3^2+(3\sqrt{3})^2}=\sqrt{(x-2)^2+y^2}=\sqrt{(x-5)^2+(y-3\sqrt{3})^2} \\
-  \sqrt{3^2+(3\sqrt{3})^2}=\sqrt{9+(9\times3)}=6\\
+  \sqrt{3^2+(3\sqrt{3})^2}=\sqrt{9+9\cdot3}=6\\
   \textsf{there are two equations and two unknowns, and solving them is too complicated, } \\
   \textsf{so it is better to substitute the options directly}\\
   \textsf{(A)}
@@ -220,7 +220,7 @@ $
   \begin{array}{ll}
   \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#_15-isosceles-right-triangle}{\textsf{isosceles right triangle: }}AC=BC=\sqrt{2}AB \implies AB=\sqrt{2}AC=\sqrt{2}BC \\
   \textsf{let }C=(x, y) \\
-  \sqrt{3^2+(3\sqrt{3})^2}=\sqrt{2}\times\sqrt{(x-2)^2+y^2}=\sqrt{2}\times\sqrt{(x-5)^2+(y-3\sqrt{3})^2} \\
+  \sqrt{3^2+(3\sqrt{3})^2}=\sqrt{2}\cdot\sqrt{(x-2)^2+y^2}=\sqrt{2}\cdot\sqrt{(x-5)^2+(y-3\sqrt{3})^2} \\
   \textsf{after that, directly substitute the options}\\
   \end{array}
   >$
@@ -376,8 +376,8 @@ $
   \begin{array}{ll}
   P(x,1) \quad Q(7,y) \\
   \begin{cases}
-  x+7=1 \times 2 \\
-  1+y=(-1) \times 2 \\
+  x+7=1\cdot2 \\
+  1+y=(-1)\cdot2 \\
   \end{cases} \Rightarrow
   \begin{cases}
   x=-5 \\
@@ -499,7 +499,7 @@ $
   \end{cases} \\
   \textsf{calculate the area of the triangle formed by the intercept form} \\
   \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{S=\frac{1}{2}ah} \\
-  S=\frac{1}{2} \times -\frac{c}{a} \times -\frac{c}{b} \\
+  S=\frac{1}{2}\cdot -\frac{c}{a}\cdot -\frac{c}{b} \\
   S=\frac{c^2}{2|ab|} \\
   \end{array}
   $  
@@ -760,7 +760,7 @@ $
   \begin{array}{ll}
   \textsf{y-intercept}=-\frac{c}{b}=-\frac{12}{-3}=4 \\
   \textsf{x-intercept}=-\frac{c}{a}=-\frac{12}{2}=-6 \\
-  4\times (-6)=-24 \\
+  4\cdot-6=-24 \\
   \end{array}
   $  
   :::  
@@ -768,7 +768,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(B)}$  
-  > According to the Solution, get $4\times (-6)=-24$, so choose $B$. 
+  > According to the Solution, get $4\cdot-6=-24$, so choose $B$. 
 
   :::
 - Formulas used  
@@ -791,7 +791,7 @@ $
   \begin{array}{ll}
   2x-3y+12=0 \\
   \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#quickly-calculate-the-intercept-form}{S=\frac{c^2}{2|ab|}} \\
-  S=\frac{12^2}{2|2\times-3|}=\frac{24}{12}=12 \\
+  S=\frac{12^2}{2|2\cdot-3|}=\frac{24}{12}=12 \\
   \end{array}
   >$
 

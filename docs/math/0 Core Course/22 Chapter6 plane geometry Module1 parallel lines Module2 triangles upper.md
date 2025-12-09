@@ -222,7 +222,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  EF=2 \times BC = 6
+  EF=2\cdot BC = 6
   \end{array}
   $  
   :::  

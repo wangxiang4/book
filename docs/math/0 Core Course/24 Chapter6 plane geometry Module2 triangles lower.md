@@ -153,7 +153,7 @@ b^2+2ac=27 \; ②\\
 c^2+2ab=27 \; ③\\
 \end{cases} \\
 \textsf{add all terms together to form a perfect square} \\
-a^2+b^2+c^2+2ab+2ac+2bc=27\times3 \\
+a^2+b^2+c^2+2ab+2ac+2bc=27\cdot3 \\
 (a+b+c)^2=81 \\
 a+b+c=\sqrt{81}=9 \\
 (a^2+2bc)-(b^2+2ac)=27-27 & ①\,-② \\
@@ -366,10 +366,10 @@ $
   \begin{array}{ll}
   \triangle BDE \sim \triangle BAC \\
   \frac{DE}{AC}=\frac{BE}{BC} \Rightarrow \frac{DE}{5}=\frac{8}{12} \\
-  DE \times 12 = 8 \times 5 \\
-  DE \times 12 = 40 \\ 
+  DE\cdot12 = 8\cdot5 \\
+  DE\cdot12 = 40 \\ 
   DE=\frac{40}{12}=\frac{10}{3} \\
-  S_{\triangle BDE}=\frac{1}{2} \times \frac{10}{3} \times 8 = \frac{80}{6} = \frac{40}{3} \\
+  S_{\triangle BDE}=\frac{1}{2}\cdot\frac{10}{3}\cdot8 = \frac{80}{6} = \frac{40}{3} \\
   \end{array}
   $  
   :::  
@@ -378,10 +378,10 @@ $
   $
   \begin{array}{ll}
   \frac{S_{\triangle BDE}}{S_{\triangle BAC}}=(\frac{8}{12})^2=(\frac{2}{3})^2=\frac{4}{9} \\
-  S_{\triangle BAC}=\frac{1}{2} \times 5 \times 12 = 30 \\
+  S_{\triangle BAC}=\frac{1}{2}\cdot5\cdot12=30 \\
   \frac{S_{\triangle BDE}}{30}=\frac{4}{9} \\
-  S_{\triangle BDE} \times 9 = 30 \times 4 \\
-  S_{\triangle BDE} \times 9 = 120 \\
+  S_{\triangle BDE}\cdot9=30\cdot4 \\
+  S_{\triangle BDE}\cdot9=120 \\
   S_{\triangle BDE} = \frac{120}{9} = \frac{40}{3} \\
   \end{array}
   $  
@@ -542,8 +542,8 @@ $
   \triangle ADE \sim \triangle ABC \\
   \frac{DE}{BC}=\frac{AD}{AB} \\
   \frac{DE}{20}=\frac{2}{5} \\
-  DE \times 5 = 2 \times 20 \\
-  DE \times 5 = 40 \\
+  DE\cdot5=2\cdot20 \\
+  DE\cdot5=40 \\
   DE=\frac{40}{5}=8 \\
   BF=DE=8 \\
   CF=BC-BF=20-8=12 \\

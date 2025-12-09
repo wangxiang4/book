@@ -248,11 +248,11 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\textsf{(1)} \: \textsf{work amount}=\textsf{efficiency}\times\textsf{time} \Longrightarrow k=xy \,✅\;\\
+\textsf{(1)} \: \textsf{work amount}=\textsf{efficiency}\cdot\textsf{time} \Longrightarrow k=xy \,✅\;\\
 \textsf{(2)} \: \frac{\textsf{numerator}}{\textsf{denominator}}=k \Longrightarrow k=\frac{y}{x} \,✅\;\\
 \textsf{(3)} \: \textsf{rotation number}=\frac{\textsf{distance}}{\textsf{wheel circumference}} \Longrightarrow y=\frac{k}{x} \,✅\;\\
-\textsf{(4)} \: \textsf{perimeter}=4\times\textsf{side length} \Longrightarrow y=kx \,✅\;\\
-\textsf{(5)} \: \textsf{pool volume}=\underbrace{\textsf{efficiency}}_{\textsf{water flow rate/h}}\times\underbrace{\textsf{time}}_{\textsf{fill time}} \Longrightarrow k=xy \,✅\;\\
+\textsf{(4)} \: \textsf{perimeter}=4\cdot\textsf{side length} \Longrightarrow y=kx \,✅\;\\
+\textsf{(5)} \: \textsf{pool volume}=\underbrace{\textsf{efficiency}}_{\textsf{water flow rate/h}}\cdot\underbrace{\textsf{time}}_{\textsf{fill time}} \Longrightarrow k=xy \,✅\;\\
 \end{array}
 $  
 :::
@@ -382,7 +382,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-A\times\frac{4}{5}=B\times\frac{6}{7} \\
+A\cdot\frac{4}{5}=B\cdot\frac{6}{7} \\
 \textsf{let }A=\frac{5}{4} \quad B=\frac{7}{6} \\
 \frac{A}{B}=\frac{\frac{5}{4}}{\frac{7}{6}}=\frac{30}{28}=\frac{15}{14} \\
 \end{array}
@@ -430,7 +430,7 @@ $
 \begin{array}{ll}
 a:b=c:d \Longrightarrow ad=bc \\
 \textsf{product of extreme terms}=1 \\
-\textsf{product of mean terms}=2.5 \times \frac{1}{2.5}=1 \\
+\textsf{product of mean terms}=2.5\cdot\frac{1}{2.5}=1 \\
 \frac{1}{2.5}=0.4 \\
 \end{array}
 $  

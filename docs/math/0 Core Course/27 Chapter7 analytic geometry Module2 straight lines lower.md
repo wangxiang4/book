@@ -5,11 +5,11 @@ lang: en-US
 
 ## 9.Positional Relationships Between Two Lines
 
-| Positional Relationship | Slope-Intercept Form<br/>$\boldsymbol{l_1:\;y=k_1x+b_1}$<br/>$\boldsymbol{l_2:\;y=k_2x+b_2}$ |      General Form<br/>$\boldsymbol{l_1:\;a_1x+b_1y+c_1=0}$<br/>$\boldsymbol{l_2:\;a_2x+b_2y+c_2=0}$      |
-|:------------------------|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
-| Parallel                |                   $l_1 \parallel l_2 \Leftrightarrow k_1=k_2,b_1 \ne b_2$                    |         $l_1 \parallel l_2 \Leftrightarrow \frac{a_1}{a_2}=\frac{b_1}{b_2} \ne \frac{c_1}{c_2}$          |
-| Intersecting            |                                        $k_1 \ne k_2$                                         |                                  $\frac{a_1}{a_2} \ne \frac{b_1}{b_2}$                                   |
-| Perpendicular           |                          $l_1 \perp l_2 \Leftrightarrow k_1k_2=-1$                           | $l_1 \perp l_2 \Leftrightarrow \frac{a_1}{b_1} \cdot \frac{a_2}{b_2}=-1 \Leftrightarrow a_1a_2+b_1b_2=0$ |
+| Positional Relationship | Slope-Intercept Form<br/>$\boldsymbol{l_1:\;y=k_1x+b_1}$<br/>$\boldsymbol{l_2:\;y=k_2x+b_2}$ |     General Form<br/>$\boldsymbol{l_1:\;a_1x+b_1y+c_1=0}$<br/>$\boldsymbol{l_2:\;a_2x+b_2y+c_2=0}$     |
+|:------------------------|:--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+| Parallel                |                   $l_1 \parallel l_2 \Leftrightarrow k_1=k_2,b_1 \ne b_2$                    |        $l_1 \parallel l_2 \Leftrightarrow \frac{a_1}{a_2}=\frac{b_1}{b_2} \ne \frac{c_1}{c_2}$         |
+| Intersecting            |                                        $k_1 \ne k_2$                                         |                                 $\frac{a_1}{a_2} \ne \frac{b_1}{b_2}$                                  |
+| Perpendicular           |                          $l_1 \perp l_2 \Leftrightarrow k_1k_2=-1$                           | $l_1 \perp l_2 \Leftrightarrow \frac{a_1}{b_1}\cdot\frac{a_2}{b_2}=-1 \Leftrightarrow a_1a_2+b_1b_2=0$ |
 
 __Examples__  
 - __Slope-intercept form__
@@ -30,7 +30,7 @@ __Examples__
     \begin{array}{ll}
     y=-\frac{1}{2}x-1 \\
     y=2x+3 \\
-    k_1k_2=-1 \rightarrow (-\frac{1}{2})\times 2=-1 \\
+    k_1k_2=-1 \rightarrow -\frac{1}{2}\cdot2=-1 \\
     \end{array}
     $  
     :::  
@@ -52,7 +52,7 @@ __Examples__
     \begin{array}{ll}
     3x+4y-1=0 \\
     4x-3y+2=0 \\
-    a_1a_2+b_1b_2=0 \rightarrow 3\times4+(4\times-3)=0 \\
+    a_1a_2+b_1b_2=0 \rightarrow 3\cdot4+4\cdot-3=0 \\
     \end{array}
     $  
     :::  
@@ -145,11 +145,11 @@ $
 (m+2)(m-2)+3m(m+2)=0 \\
 \textcolor{#9333EA}{\textsf{verify condition }\textsf{(1)}} \\
 (\frac{1}{2}+2)(\frac{1}{2}-2)+3\frac{1}{2}(\frac{1}{2}+2)=0 \\
-(\frac{5}{2} \times -(\frac{3}{2})) + (3 \times \frac{5}{4})=0 \\
+\frac{5}{2}\cdot-\frac{3}{2}+3\cdot\frac{5}{4}=0 \\
 -\frac{15}{4}+\frac{15}{4}=0 \\
 \textcolor{#9333EA}{\textsf{verify condition }\textsf{(2)}} \\
 (-2+2)(-2-2)+3(-2)(-2+2)=0 \\
-(0\times (-4))+(-6 \times 0)=0 \\
+0\cdot-4+-6\cdot0=0 \\
 0+0=0 \\
 \end{array}
 $  
@@ -189,12 +189,12 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-mn+3\times (-2)=0 \\
+mn+3\cdot-2=0 \\
 mn=6 \\
-6=1\times6 \\
-6=6\times1 \\
-6=2\times3 \\
-6=3\times2 \\
+6=1\cdot6 \\
+6=6\cdot1 \\
+6=2\cdot3 \\
+6=3\cdot2 \\
 \end{array}
 $   
 :::  
@@ -327,7 +327,7 @@ $
   y_0=5-4y_0 \\
   5y_0=5 \\
   y_0=1 \\
-  x_0=4-2\times1 & \textsf{substitute }y_0 \\
+  x_0=4-2\cdot1 & \textsf{substitute }y_0 \\
   x_0=2 \\
   \end{array}
   $  
@@ -450,7 +450,7 @@ $
 (9x+3y-3)-(2x+3y+4) = 0-0 \\
 7x-7=0 \\
 x=1 \\
-3\times 1+y-1=0 & \textsf{substitute }x \\
+3\cdot1+y-1=0 & \textsf{substitute }x \\
 y=-2 \\
 \textsf{the distance from }(1, -2)\textsf{ to the origin} \\
 d=\sqrt{(1-0)^2+(-2-0)^2} = \sqrt{5} \\

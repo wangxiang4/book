@@ -135,10 +135,10 @@ $
 
 ## 6.Parity Combination Properties
 
-|                                               |                                                 |                                                  |
-|:---------------------------------------------:|:-----------------------------------------------:|:------------------------------------------------:|
-|  $\textsf{odd}\pm\textsf{odd}=\textsf{even}$  |   $\textsf{odd}\pm\textsf{even}=\textsf{odd}$   |  $\textsf{even}\pm\textsf{even}=\textsf{even}$   |
-| $\textsf{odd}\times\textsf{odd}=\textsf{odd}$ | $\textsf{odd}\times\textsf{even}=\textsf{even}$ | $\textsf{even}\times\textsf{even}=\textsf{even}$ |
+|                                              |                                                |                                                 |
+|:--------------------------------------------:|:----------------------------------------------:|:-----------------------------------------------:|
+| $\textsf{odd}\pm\textsf{odd}=\textsf{even}$  |  $\textsf{odd}\pm\textsf{even}=\textsf{odd}$   |  $\textsf{even}\pm\textsf{even}=\textsf{even}$  |
+| $\textsf{odd}\cdot\textsf{odd}=\textsf{odd}$ | $\textsf{odd}\cdot\textsf{even}=\textsf{even}$ | $\textsf{even}\cdot\textsf{even}=\textsf{even}$ |
 - Note: $\boldsymbol{0}$ is __an even number__, and __any two consecutive integers__ are __one odd__ and __one even__.
 
 
@@ -164,14 +164,14 @@ $
 \begin{array}{ll}
 \textsf{(A)} \: \textsf{even}+\textsf{odd}+\textsf{even}=\textsf{odd} \,❌\;\\
 \textsf{(B)} \: \,❌\;\\
-\textsf{odd}\times\textsf{even}\times\textsf{odd}=\textsf{even} \\
-\textsf{even}\times\textsf{odd}\times\textsf{even}=\textsf{even} \\
+\textsf{odd}\cdot\textsf{even}\cdot\textsf{odd}=\textsf{even} \\
+\textsf{even}\cdot\textsf{odd}\cdot\textsf{even}=\textsf{even} \\
 \textsf{(C)} \: \,❌\;\\
 \textsf{even}=\textsf{odd}+\textsf{odd} \\
-\textsf{odd}\times\textsf{odd}=\textsf{odd} \\
+\textsf{odd}\cdot\textsf{odd}=\textsf{odd} \\
 \textsf{(D)} \: \,✅\;\\
 \textsf{odd}=\textsf{odd}+\textsf{even} \\
-\textsf{odd}\times\textsf{even}=\textsf{even} \\
+\textsf{odd}\cdot\textsf{even}=\textsf{even} \\
 \textsf{(E)} \: 2\ne\textsf{odd} \,❌\;\\
 \end{array}
 $  
@@ -219,17 +219,17 @@ $
 \begin{array}{ll}
 \textsf{(A)} \: \,❌\;\\
 \textsf{let } \textsf{even}\gt \textsf{odd}\gt \textsf{even} \\
-\textsf{odd}\times\textsf{even}-\textsf{even}=\textsf{even}_{+} \\
+\textsf{odd}\cdot\textsf{even}-\textsf{even}=\textsf{even}_{+} \\
 \textsf{(B)} \: \,✅\;\\
 \textsf{let }x=y+1 \quad z=y-1 \\
 (x-y)(y-z)=(y+1-y)(y-(y-1)) \\
-1\times1=1 \\
+1\cdot1=1 \\
 \textsf{(C)} \: \,❌\;\\
 \textsf{let } \textsf{even}\gt \textsf{odd}\gt \textsf{even} \\
-\textsf{even}-\textsf{odd}\times\textsf{even}=\textsf{even}_{-} \\
+\textsf{even}-\textsf{odd}\cdot\textsf{even}=\textsf{even}_{-} \\
 \textsf{(D)} \: \,❌\;\\
 \textsf{let } \textsf{even}\gt \textsf{odd}\gt \textsf{even} \\
-\textsf{even}\times(\textsf{odd}+\textsf{even})=\textsf{even}_{+} \\
+\textsf{even}\cdot(\textsf{odd}+\textsf{even})=\textsf{even}_{+} \\
 \textsf{(E)} \: \,❌\;\\
 \textsf{let } \textsf{odd}\gt \textsf{even}\gt \textsf{odd} \\
 \textsf{odd}+\textsf{even}+\textsf{odd}=\textsf{even}_{-} \\
@@ -261,7 +261,7 @@ $
 \textsf{(1)} \: m-n=\textsf{odd} &
 \textsf{(2)} \: m^2+n^2=\textsf{odd} & \\
 \textsf{(3)} \: m^2-n^2=\textsf{odd} &
-\textsf{(4)} \: m^2\times n^2=\textsf{odd} & \\
+\textsf{(4)} \: m^2\cdot n^2=\textsf{odd} & \\
 \end{array}
 $  
 $
@@ -282,7 +282,7 @@ m+n=\textsf{odd} \Longrightarrow \textsf{odd}=\textsf{odd}+\textsf{even} \\
 \textsf{(1)} \: \textsf{odd}-\textsf{even}=\textsf{odd} \,✅\;\\
 \textsf{(2)} \: \textsf{odd}+\textsf{even}=\textsf{odd} \,✅\;\\
 \textsf{(3)} \: \textsf{odd}-\textsf{even}=\textsf{odd}  \,✅\;\\
-\textsf{(4)} \: \textsf{odd}\times\textsf{even}=\textsf{even} \,❌\;\\
+\textsf{(4)} \: \textsf{odd}\cdot\textsf{even}=\textsf{even} \,❌\;\\
 \end{array}
 $  
 :::
@@ -356,7 +356,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-210=3\times7\times10=2\times3\times5\times7 \\
+210=3\cdot7\cdot10=2\cdot3\cdot5\cdot7 \\
 2+3+5+7=17 \\
 \end{array}
 $  

@@ -145,7 +145,7 @@ $
   \end{cases} \\
   y=38-x & ① \\
   3x+\frac{5}{4}(38-x)=65 & ② \\
-  3x+\frac{5}{4}\times 38 -\frac{5}{4}\times x= 65 \\
+  3x+\frac{5}{4}\cdot38 -\frac{5}{4}\cdot x= 65 \\
   3x+\frac{190}{4}-\frac{5}{4}x=65 \\
   4(3x)+4(\frac{190}{4})-4(\frac{5}{4}x)=4(65) \\
   12x-5x+190=260 \\
@@ -153,7 +153,7 @@ $
   7x=70 \\
   x=\frac{70}{7}=10 \\ 
   y=38-10=28 \\
-  S_{\triangle ADG}=x+3x=4\times10=40
+  S_{\triangle ADG}=x+3x=4\cdot10=40
   \end{array}
   $  
   :::  
@@ -204,7 +204,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-S=\frac{1}{2}\times 4 \times 6 \times \textsf{sin}C = 6\sqrt{2} \\
+S=\frac{1}{2}\cdot4\cdot6\cdot\textsf{sin}C = 6\sqrt{2} \\
 12\textsf{sin}C=6\sqrt{2} \\
 \textsf{sin}C=\frac{6\sqrt{2}}{12}=\frac{√2}{2} \\
 \textsf{sin}C=\frac{√2}{2}=45^\circ \lor 135^\circ \\ 
@@ -247,7 +247,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-S_{\textsf{max}}=\frac{1}{2}\times 4 \times 6 \times \textsf{sin}90^\circ \\
+S_{\textsf{max}}=\frac{1}{2}\cdot4\cdot6\cdot\textsf{sin}90^\circ \\
 \textsf{sin}90^\circ= 12 & \textsf{max area when }\textsf{sin}C=1 \longrightarrow C=90^\circ \\
 \end{array}
 $  
@@ -296,7 +296,7 @@ $
 \begin{array}{ll}
 p=\frac{7+8+9}{2}=12 \\
 S=\sqrt{12(12-7)(12-8)(12-9)} \\
-S=\sqrt{12\times5\times4\times3}=12\sqrt{5} \\
+S=\sqrt{12\cdot5\cdot4\cdot3}=12\sqrt{5} \\
 \end{array}
 $  
 :::  
@@ -334,7 +334,7 @@ $
 - ###### __The ratio of the height to the side__ is $\boldsymbol{\sqrt{3}:2=\frac{\sqrt{3}}{2}:1}$.   
   - $h=\frac{\sqrt{3}}{2}a$  
 - ###### The area of an equilateral triangle is $\boldsymbol{S=\frac{\sqrt{3}}{4}a^2}$, where __$\boldsymbol{a}$ is the side length__.
-  - $S=\frac{1}{2}a\times\frac{\sqrt{3}}{2}a=\frac{\sqrt{3}}{4}a^2$   
+  - $S=\frac{1}{2}a\cdot\frac{\sqrt{3}}{2}a=\frac{\sqrt{3}}{4}a^2$   
 
 ![Area of equilateral triangle.svg](../../public/math/Core%20Course/Area%20of%20equilateral%20triangle.svg)  
 
@@ -346,7 +346,7 @@ $
 :::  
 - For common-angle triangles, __the ratio of their areas equals the ratio of the products of the two sides enclosing the equal (or supplementary) angle__.
 ::: wrap  
-- Figure 6–11, in $\angle ABC$ and $\angle ADE$, since __the sine of $\boldsymbol{\angle A}$ has the same sine value__, $\boldsymbol{S_{\triangle ABC}:S_{\triangle ADE}=(AB \cdot AC):(AD \cdot AE)}$.     
+- Figure 6–11, in $\angle ABC$ and $\angle ADE$, since __the sine of $\boldsymbol{\angle A}$ has the same sine value__, $\boldsymbol{S_{\triangle ABC}:S_{\triangle ADE}=(AB\cdot AC):(AD\cdot AE)}$.     
   ![Common angle area ratio theorem figure 6-11.svg](../../public/math/Core%20Course/Common%20angle%20area%20ratio%20theorem%20figure%206-11.svg)  
 :::  
 - __Theorem derivation__     
@@ -354,7 +354,7 @@ $
   $
   \begin{array}{ll}
   S=\frac{1}{2}ab\textsf{sin}C & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-included-angle-between-sides-and}{\textsf{triangle area formula (included angle)}} \\
-  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{\cancel{\frac{1}{2}}AD\times AE \times \cancel{\textsf{sin}A}}{\cancel{\frac{1}{2}}AB\times AC \times \cancel{\textsf{sin}A}}=\frac{AD\times AE}{AB \times AC} \\
+  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{\cancel{\frac{1}{2}}AD\cdot AE\cdot \cancel{\textsf{sin}A}}{\cancel{\frac{1}{2}}AB\cdot AC\cdot \cancel{\textsf{sin}A}}=\frac{AD\cdot AE}{AB\cdot AC} \\
   \end{array}
   $  
   :::
@@ -391,11 +391,11 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{AD\times AE}{AB \times AC}=\frac{2}{5}\times \frac{4}{7}= \frac{8}{35} \\
+  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{AD\cdot AE}{AB\cdot AC}=\frac{2}{5}\cdot \frac{4}{7}= \frac{8}{35} \\
   S_{\triangle ADE}=16 \\  
   \frac{16}{S_{\triangle ABC}}=\frac{8}{35} \\
-  16\times 35=S_{\triangle ABC}\times 8 \\
-  560 = S_{\triangle ABC}\times 8 \\
+  16\cdot35=S_{\triangle ABC}\cdot8 \\
+  560 = S_{\triangle ABC}\cdot8 \\
   S_{\triangle ABC}=\frac{560}{8}=70 \\
   \end{array}
   $  
@@ -411,7 +411,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{AD\times AE}{AB \times AC} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_10-area-ratio-theorem-for-common-angle-triangles}{\textsf{common-angle triangles – area ratio theorem}} \\
+  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{AD\cdot AE}{AB\cdot AC} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_10-area-ratio-theorem-for-common-angle-triangles}{\textsf{common-angle triangles – area ratio theorem}} \\
   \end{array}
   >$
 
@@ -440,11 +440,11 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{AD \times AE}{AB \times AC}=\frac{2 \times 3}{5 \times(3+2)}=\frac{6}{25} \\
+  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{AD\cdot AE}{AB\cdot AC}=\frac{2\cdot3}{5\cdot(3+2)}=\frac{6}{25} \\
   S_{\triangle ADE}=12 \\
   \frac{12}{S_{\triangle ABC}}=\frac{6}{25} \\
-  12\times 25=S_{\triangle ABC}\times 6 \\
-  300=S_{\triangle ABC}\times 6 \\
+  12\cdot25=S_{\triangle ABC}\cdot6 \\
+  300=S_{\triangle ABC}\cdot6 \\
   S_{\triangle ABC}=\frac{300}{6}=50 \\
   \end{array}
   $  
@@ -460,7 +460,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{AD\times AE}{AB \times AC} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_10-area-ratio-theorem-for-common-angle-triangles}{\textsf{common-angle triangles – area ratio theorem}} \\
+  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{AD\cdot AE}{AB\cdot AC} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_10-area-ratio-theorem-for-common-angle-triangles}{\textsf{common-angle triangles – area ratio theorem}} \\
   \end{array}
   >$
 
@@ -527,9 +527,9 @@ $
   ① \;\, \frac{BD}{CD}=\frac{S_{\triangle AOB}}{S_{\triangle AOC}} \\
   ② \;\, \frac{CE}{AE}=\frac{S_{\triangle BOC}}{S_{\triangle AOB}} \\
   ③ \;\, \frac{AF}{BF}=\frac{S_{\triangle AOC}}{S_{\triangle BOC}} \\
-  \frac{BD}{CD}\times \frac{CE}{AE}\times \frac{AF}{BF}=\frac{\cancel{S_{\triangle AOB}}}{\cancel{S_{\triangle AOC}}}\times \frac{\cancel{S_{\triangle BOC}}}{\cancel{S_{\triangle AOB}}}\times \frac{\cancel{S_{\triangle AOC}}}{\cancel{S_{\triangle BOC}}}=1 \\
-  \frac{4}{9}\times \frac{4}{3}\times \frac{AF}{BF}=1 \\
-  \frac{16}{27} \times \frac{AF}{BF}=1 \Longrightarrow \frac{AF}{BF}=\frac{27}{16} \\
+  \frac{BD}{CD}\cdot\frac{CE}{AE}\cdot\frac{AF}{BF}=\frac{\cancel{S_{\triangle AOB}}}{\cancel{S_{\triangle AOC}}}\cdot \frac{\cancel{S_{\triangle BOC}}}{\cancel{S_{\triangle AOB}}}\cdot \frac{\cancel{S_{\triangle AOC}}}{\cancel{S_{\triangle BOC}}}=1 \\
+  \frac{4}{9}\cdot\frac{4}{3}\cdot\frac{AF}{BF}=1 \\
+  \frac{16}{27}\cdot\frac{AF}{BF}=1\Longrightarrow \frac{AF}{BF}=\frac{27}{16} \\
   \end{array}
   $  
   :::  

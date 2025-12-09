@@ -53,10 +53,10 @@ $
 \end{cases} \Rightarrow \textsf{length}:\textsf{width}:\textsf{height}=6:3:2 \\
 6:3:2 \rightarrow 6k:3k:2k & k:\textsf{scale factor} \\
 l=4(6k+3k+2k)=220 \\
-4 \times 11k=220 \\
+4\cdot11k=220 \\
 k=\frac{220}{44}=5 \\
 \textsf{length}:\textsf{width}:\textsf{height}=30:15:10 \\
-V=30\times15\times10=4500 \\
+V=30\cdot15\cdot10=4500 \\
 \end{array}
 $  
 :::  
@@ -97,10 +97,10 @@ $
 $
 \begin{array}{ll}
 3:2:1 \rightarrow 3k:2k:k & k:\textsf{scale factor} \\
-S=2(3k\times2k + 3k\times k + 2k\times k)=2(6k^2+3k^2+2k^2) \\
+S=2(3k\cdot2k + 3k\cdot k + 2k\cdot k)=2(6k^2+3k^2+2k^2) \\
 22k^2=88 \\
 k=\sqrt{4}=2 \\
-\textsf{longest}=3k=3\times2=6 \\
+\textsf{longest}=3k=3\cdot2=6 \\
 \end{array}
 $  
 :::  
@@ -147,11 +147,11 @@ $
   \end{cases} \\
   b=\frac{2}{a} \\
   c=\frac{3}{a} \\
-  bc=\frac{2}{a} \times \frac{3}{a}=6 \\
+  bc=\frac{2}{a}\cdot\frac{3}{a}=6 \\
   \frac{6}{a^2}=6 \Longrightarrow a^2=1 \Longrightarrow a=1 \\
   b=\frac{2}{1}=2 \\
   c=\frac{3}{1}=3 \\
-  V=1\times2\times3=6 \\
+  V=1\cdot2\cdot3=6 \\
   \end{array}
   $   
   :::  
@@ -205,8 +205,8 @@ $
 $
 \begin{array}{ll}
 d=\sqrt{3}a=3 \\
-a=\frac{3}{\sqrt{3}}=\frac{3\times\sqrt{3}}{\sqrt{3}\times\sqrt{3}}=\sqrt{3} \\
-S=6\sqrt{3}^2=6\times3=18 \\
+a=\frac{3}{\sqrt{3}}=\frac{3\cdot\sqrt{3}}{\sqrt{3}\cdot\sqrt{3}}=\sqrt{3} \\
+S=6\sqrt{3}^2=6\cdot3=18 \\
 \end{array}
 $  
 :::  
@@ -233,9 +233,9 @@ $
 
 ## 1.General Formulas 
 - The lateral surface of a prism or cylinder, when laid out in its developed form, is __a rectangle__ whose one side equals __the perimeter of the base__ and whose other side equals __the height of the solid__.        
-- ###### Lateral surface area: $S=\textsf{base perimeter} \times \textsf{height}$.
+- ###### Lateral surface area: $S=\textsf{base perimeter}\cdot\textsf{height}$.
   - The area of the developed rectangle.   
-- ###### Volume: $V=\textsf{base area} \times \textsf{height}$.   
+- ###### Volume: $V=\textsf{base area}\cdot\textsf{height}$.   
 
 ![Prisms and cylinders general formulas.svg](../../public/math/Core%20Course/Prisms%20and%20cylinders%20general%20formulas.svg)   
 
@@ -318,7 +318,7 @@ $
   $
   \begin{array}{ll}
   \textsf{let }r=1 \quad c=2\pi \longrightarrow h=2\pi & \textsf{lateral development = square} \\
-  \frac{S_{\textsf{lateral}}}{S_{\textsf{base}}}=\frac{(2\pi)^2}{\pi\times1^2}=4\pi \\
+  \frac{S_{\textsf{lateral}}}{S_{\textsf{base}}}=\frac{(2\pi)^2}{\pi\cdot1^2}=4\pi \\
   \end{array}
   $  
   :::  
@@ -366,8 +366,8 @@ $
   $
   \begin{array}{ll}
   S=S_{\textsf{lateral}}+2S_{\textsf{base}} \\
-  S_{\textsf{lateral}}=(3+4+5)\times2=24 \\
-  2S_{\textsf{base}}=2(\frac{1}{2}\times 4 \times 3)=12 \\
+  S_{\textsf{lateral}}=(3+4+5)\cdot2=24 \\
+  2S_{\textsf{base}}=2(\frac{1}{2}\cdot4\cdot3)=12 \\
   S=24+12=36 \\
   \end{array}
   $  
@@ -384,7 +384,7 @@ $
   >$
   \begin{array}{ll}
   (3,4,5) & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
-  S=\textsf{base perimeter} \times \textsf{height} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#lateral-surface-area}{\textsf{prism or cylinder lateral area formula}} \\
+  S=\textsf{base perimeter}\cdot\textsf{height} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#lateral-surface-area}{\textsf{prism or cylinder lateral area formula}} \\
   S=\frac{1}{2}ah & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
   F=S_{\textsf{lateral}}+2S_{\textsf{base}} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#total-surface-area}{\textsf{prism or cylinder total surface area formula}} \\
   \end{array}
@@ -412,7 +412,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  V=10^2 \times 40=4000 \\
+  V=10^2\cdot40=4000 \\
   \end{array}
   $  
   :::  
@@ -428,7 +428,7 @@ $
   >$
   \begin{array}{ll}
   S=a^2 & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_4-square}{\textsf{square area formula}} \\
-  V=\textsf{base area} \times \textsf{height} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#volume}{\textsf{prism or cylinder volume formula}} \\
+  V=\textsf{base area}\cdot\textsf{height} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#volume}{\textsf{prism or cylinder volume formula}} \\
   \end{array}
   >$
 
@@ -487,12 +487,12 @@ $
 $
 \begin{array}{ll}
 \frac{S_1}{S_2}=(\frac{r_1}{r_2})^2 \\
-S_2=S_1\times9 \\
+S_2=S_1\cdot9 \\
 \frac{S_2}{S_1}=9 \\
 (\frac{r_1}{r_2})^2=9 \longrightarrow \frac{r_1}{r_2}=3 \\
 \frac{V_1}{V_2}=(\frac{r_1}{r_2})^3 \\
 \frac{V_2}{V_1}=(3)^3=27 \\
-V_2=V_1\times27 \\
+V_2=V_1\cdot27 \\
 \end{array}
 $  
 :::  
@@ -500,7 +500,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(B)}$  
-  > According to the Solution, get $V_2=V_1\times27$, so choose $B$. 
+  > According to the Solution, get $V_2=V_1\cdot27$, so choose $B$. 
 
   :::
 - Formulas used  
@@ -539,7 +539,7 @@ $
 $
 \begin{array}{ll}
 r=\frac{d=\sqrt{a^2+b^2+c^2}}{2}=\frac{\sqrt{1^2+2^2+3^2}}{2}=\frac{\sqrt{14}}{2} \\
-S=4\pi r^2 = 4\pi \times \frac{14}{4} = 14\pi \\
+S=4\pi r^2 = 4\pi\cdot\frac{14}{4} = 14\pi \\
 \end{array}
 $  
 :::  
@@ -585,7 +585,7 @@ $
   \textsf{let }r=1 \\
   h=2r=2 \\
   \frac{S_{\textsf{removed}}}{S_{\textsf{sphere}}}=\frac{\pi r^2h-\frac{4}{3}\pi r^3}{\frac{4}{3}\pi r^3}=\frac{\pi\cdot1^2\cdot2-\frac{4}{3}\pi\cdot1^3}{\frac{4}{3}\pi\cdot1^3} \\
-  \frac{2\pi-\frac{4}{3}\pi}{\frac{4}{3}\pi} = \frac{\frac{2}{3}\pi}{\frac{4}{3}\pi}=\frac{2}{3}\times\frac{3}{4}=\frac{6}{12}=\frac{1}{2} \\
+  \frac{2\pi-\frac{4}{3}\pi}{\frac{4}{3}\pi} = \frac{\frac{2}{3}\pi}{\frac{4}{3}\pi}=\frac{2}{3}\cdot\frac{3}{4}=\frac{6}{12}=\frac{1}{2} \\
   \end{array}
   $  
   :::  
@@ -635,9 +635,9 @@ $
   R=2 \\
   h=\sqrt{3} \\
   \end{cases} \\
-  V_{\textsf{hemisphere}}=\frac{\frac{4}{3}\pi r^3}{2} = \frac{4}{3}\pi r^3 \times \frac{1}{2} = \frac{4}{6}\pi r^3=\frac{2}{3}\pi r^3 \\
-  \frac{V_{\textsf{hemisphere}}}{V_{\textsf{cylinder}}}=\frac{\frac{2}{3}\pi r^3}{\pi r^2h}=\frac{\frac{2}{3}\pi\times2^3}{\pi\times1^2\times\sqrt{3}} \\
-  \frac{\frac{2}{3}\pi\times2^3}{\pi\times1^2\times\sqrt{3}}=\frac{\frac{16}{3}\pi}{\sqrt{3}\pi}=\frac{\frac{16}{3}}{\sqrt{3}}=\frac{16}{3}\times\frac{1}{\sqrt{3}}=\frac{16}{3\sqrt{3}} \\
+  V_{\textsf{hemisphere}}=\frac{\frac{4}{3}\pi r^3}{2} = \frac{4}{3}\pi r^3\cdot\frac{1}{2} = \frac{4}{6}\pi r^3=\frac{2}{3}\pi r^3 \\
+  \frac{V_{\textsf{hemisphere}}}{V_{\textsf{cylinder}}}=\frac{\frac{2}{3}\pi r^3}{\pi r^2h}=\frac{\frac{2}{3}\pi\cdot2^3}{\pi\cdot1^2\cdot\sqrt{3}} \\
+  \frac{\frac{2}{3}\pi\cdot2^3}{\pi\cdot1^2\cdot\sqrt{3}}=\frac{\frac{16}{3}\pi}{\sqrt{3}\pi}=\frac{\frac{16}{3}}{\sqrt{3}}=\frac{16}{3}\cdot\frac{1}{\sqrt{3}}=\frac{16}{3\sqrt{3}} \\
   \end{array}
   $  
   :::  

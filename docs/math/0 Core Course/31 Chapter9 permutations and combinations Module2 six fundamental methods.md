@@ -213,7 +213,7 @@ $
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
   m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
-  P_n^m=C_n^m \cdot m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
+  P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
   \end{array}
   >$
 
@@ -261,7 +261,7 @@ $
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
   m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
-  P_n^m=C_n^m \cdot m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
+  P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
   \end{array}
   >$
 
@@ -310,7 +310,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -350,7 +350,7 @@ $
   C_{[?,?,?,?,?]}^{[A, B], C}=C_5^2 \\
   [[A, B], C]=2! \\
   \end{cases} \\
-  2!\times4!\times C_5^2 \times 2!= \frac{5\times4}{2\times1}\times96=960 \\
+  2!\times4!\times C_5^2\times2!= \frac{5\times4}{2\times1}\times96=960 \\
   \end{array}
   $  
   :::  
@@ -358,7 +358,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(B)}$  
-  > According to the Solution, get $2!\times4!\times C_5^2 \times 2!=960$, so choose $B$. 
+  > According to the Solution, get $2!\times4!\times C_5^2\times2!=960$, so choose $B$. 
 
   :::
 - Formulas used  
@@ -368,7 +368,7 @@ $
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-adjacent-element-bundling-method}{\textsf{adjacent element bundling method}} \\
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
   m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
-  P_n^m=C_n^m \cdot m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
+  P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
   \end{array}
   >$
 
@@ -406,7 +406,7 @@ $
   C_{[?,?,?,?]}^{[\textsf{female}, \textsf{female}], \textsf{female}}=C_4^2 \\
   [[\textsf{female}, \textsf{female}], \textsf{female}]=2! \\
   \end{cases} \\
-  3!\times C_3^2\times2! \times C_4^2 \times 2!=\frac{3\times2}{2\times1}\times\frac{4\times3}{2\times1}\times24=432 \\
+  3!\times C_3^2\times2!\times C_4^2\times2!=\frac{3\times2}{2\times1}\times\frac{4\times3}{2\times1}\times24=432 \\
   \end{array}
   $  
   :::  
@@ -414,7 +414,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(C)}$  
-  > According to the Solution, get $3!\times C_3^2\times2! \times C_4^2 \times 2!=432$, so choose $C$. 
+  > According to the Solution, get $3!\times C_3^2\times2!\times C_4^2\times2!=432$, so choose $C$. 
 
   :::
 - Formulas used  
@@ -424,7 +424,7 @@ $
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-adjacent-element-bundling-method}{\textsf{adjacent element bundling method}} \\
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
   m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
-  P_n^m=C_n^m \cdot m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
+  P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
   \end{array}
   >$
 
@@ -626,7 +626,7 @@ $
   >$
   \begin{array}{ll}
   C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -670,7 +670,7 @@ $
   >$
   \begin{array}{ll}
   C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   C_n^m=C_n^{n-m} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#property-of-combinations}{\textsf{property of combinations}} \\
   \end{array}
   >$
@@ -714,7 +714,7 @@ $
   >$
   \begin{array}{ll}
   C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -772,7 +772,7 @@ $
   \begin{array}{ll}
   C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars formula}} \\
   C_{n+m-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{unrestricted stars and bars formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -993,7 +993,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  C_5^1 \times 9=45 \\
+  C_5^1\times9=45 \\
   \end{array}
   $  
   :::  
@@ -1001,7 +1001,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(C)}$  
-  > According to the Solution, get $C_5^1 \times 9=45$, so choose $C$. 
+  > According to the Solution, get $C_5^1\times9=45$, so choose $C$. 
 
   :::
 - Formulas used  
@@ -1009,7 +1009,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{4 incorrect matches: 9 ways}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -1035,7 +1035,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  C_6^2 \times 9=\frac{6\times5}{2\times1}\times9=135 \\
+  C_6^2\times9=\frac{6\times5}{2\times1}\times9=135 \\
   \end{array}
   $  
   :::  
@@ -1043,7 +1043,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(C)}$  
-  > According to the Solution, get $C_6^2 \times 9=135$, so choose $C$. 
+  > According to the Solution, get $C_6^2\times9=135$, so choose $C$. 
 
   :::
 - Formulas used  
@@ -1051,7 +1051,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{4 incorrect matches: 9 ways}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -1105,7 +1105,7 @@ $
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{4 incorrect matches: 9 ways}} \\
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{5 incorrect matches: 44 ways}} \\
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{6 incorrect matches: 265 ways}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
   \end{array}
   >$
@@ -1318,9 +1318,9 @@ $
 \textsf{50-cent} = 0.5 \textsf{ USD} \\
 \textsf{choose }1\textsf{ item to combine — sum=1}
 \begin{cases}
-0.1 \times 10 \\
-0.2 \times 5 \\
-0.5 \times 2 \\
+0.1\times10 \\
+0.2\times5 \\
+0.5\times2 \\
 \end{cases} \\
 \textsf{choose }2\textsf{ items to combine — sum=1}
 \begin{cases}

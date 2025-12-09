@@ -277,8 +277,8 @@ $
 - Given the line $l:\,y=kx+b$ and the circle $O:\,(x-x_0)^2+(y-y_0)^2=r^2$, let $d$
   be the distance from the center of the circle $(x_0,y_0)$ to the line $l$.
 
-|          Line–Circle Position Relationship           |                                                          Diagram                                                           | Condition (Geometric Interpretation) |
-|:----------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:|
+|          Line–Circle Position Relationship           |                                                          Diagram                                                          | Condition (Geometric Interpretation) |
+|:----------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:|
 | __Line and circle are separate__<br/>No Intersection | ![Line circle relationship diagram 1.svg](../../public/math/Core%20Course/Line%20circle%20relationship%20diagram%201.svg) |                $d>r$                 |
 | __Line tangent to circle__<br/>1 Intersection Point  | ![Line circle relationship diagram 2.svg](../../public/math/Core%20Course/Line%20circle%20relationship%20diagram%202.svg) |                $d=r$                 |
 | __Line intersects circle__<br/>2 Intersection Points | ![Line circle relationship diagram 3.svg](../../public/math/Core%20Course/Line%20circle%20relationship%20diagram%203.svg) |                $d<r$                 |
@@ -292,8 +292,8 @@ $
 ## 7.Relationship Between Two Circles  
 - Let $O_1:\,(x-x_1)^2+(y-y_1)^2=r_1^2$, and $O_2:\,(x-x_2)^2+(y-y_2)^2=r_2^2$, where we may assume $r_1>r_2$. Let $d$ be the distance between the centers $(x_1, y_1)$ and $(x_2, y_2)$.
 
-|       Circle–Circle Position Relationship       |                                                          Diagram                                                           | Condition (Geometric Interpretation) | 	Number of Common Internal Tangents | Number of Common External Tangents |
-|:-----------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:|:-----------------------------------:|:----------------------------------:|
+|       Circle–Circle Position Relationship       |                                                          Diagram                                                          | Condition (Geometric Interpretation) | 	Number of Common Internal Tangents | Number of Common External Tangents |
+|:-----------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:|:-----------------------------------:|:----------------------------------:|
 |   __Externally separate__<br/>No Intersection   | ![Two circles relationship diagram 1.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%201.svg) |             $d>r_1+r_2$              |                  2                  |                 2                  |
 | __Externally tangent__<br/>1 Intersection Point | ![Two circles relationship diagram 2.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%202.svg) |             $d=r_1+r_2$              |                  1                  |                 2                  |
 |   __Intersecting__<br/>2 Intersection Points    | ![Two circles relationship diagram 3.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%203.svg) |    $\|r_1-r_2\|\lt d\lt r_1+r_2$     |                  0                  |                 2                  |
@@ -402,7 +402,7 @@ $
   3k^2=1 \\
   k^2=\frac{1}{3} \\
   k=\pm\frac{1}{\sqrt{3}} \\
-  \frac{1}{\sqrt{3}} \times \frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{3} \\
+  \frac{1}{\sqrt{3}}\cdot\frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{3} \\
   k=\pm\frac{\sqrt{3}}{3} \\
   \end{array}
   $   
@@ -430,7 +430,7 @@ $
   -12k^2+4=0 \\
   k^2=\frac{-4}{-12}=\frac{1}{3} \\
   k=\pm\frac{1}{\sqrt{3}} \\
-  \frac{1}{\sqrt{3}} \times \frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{3} \\
+  \frac{1}{\sqrt{3}}\cdot\frac{\sqrt{3}}{\sqrt{3}}=\frac{\sqrt{3}}{3} \\
   k=\pm\frac{\sqrt{3}}{3} \\
   \end{array}
   $   
@@ -542,11 +542,11 @@ $
 $
 \begin{array}{ll}
 x^2+y^2-2x-4y=0 \\
-(x+\frac{-2}{2})^2+(y+\frac{-4}{2})^2=\frac{(-2)^2+(-4)^2-4\times0}{4} \\
+(x+\frac{-2}{2})^2+(y+\frac{-4}{2})^2=\frac{(-2)^2+(-4)^2-4\cdot0}{4} \\
 (x-1)^2+(y-2)^2=5 & r=\sqrt{5} \\
 (-\frac{a}{2}, -\frac{b}{2}) \longrightarrow (1,2) \\
 x+2y-5+\sqrt{5}=0 \\
-d=\frac{|(1\times 1)+(2\times 2)+(-5+\sqrt{5})|}{\sqrt{1^2+2^2}}=\frac{\sqrt{5}}{\sqrt{5}}=1 & \textsf{substitute }(1,2) \\
+d=\frac{|(1\cdot1)+(2\cdot2)+(-5+\sqrt{5})|}{\sqrt{1^2+2^2}}=\frac{\sqrt{5}}{\sqrt{5}}=1 & \textsf{substitute }(1,2) \\
 \textsf{chord length}=2\sqrt{\sqrt{5}^2-1^2}=2\sqrt{4}=4 \\
 \end{array}
 $  
@@ -594,7 +594,7 @@ $
   (x-a)^2+y^2=2 & r=\sqrt{2}\\
   (-\frac{a}{2}, -\frac{b}{2}) \longrightarrow (a, 0) \\
   \textsf{from center }(a, 0) \to x−y+1=0 \\
-  d=\frac{|(1\times a)+(-1\times 0)+1|}{\sqrt{1^2+1^2}} \le \sqrt{2} \Longrightarrow |a+1| \le 2 & \textsf{substitute }(a, 0) \\
+  d=\frac{|(1\cdot a)+(-1\cdot0)+1|}{\sqrt{1^2+1^2}} \le \sqrt{2} \Longrightarrow |a+1| \le 2 & \textsf{substitute }(a, 0) \\
   -2 \le a+1 \le 2  & ∣x∣ \le c \iff −c \le x \le c \\
   -2-1 \le a \le 2-1 \\
   -3 \le a \le 1 \\
@@ -820,7 +820,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  C_2:\,(x+\frac{-6}{2})^2+(y+\frac{-8}{2})^2=\frac{(-6)^2+(-8)^2+(-4\times0)}{4} \\
+  C_2:\,(x+\frac{-6}{2})^2+(y+\frac{-8}{2})^2=\frac{(-6)^2+(-8)^2+(-4\cdot0)}{4} \\
   (x-3)^2+(y-4)^2=25 \longrightarrow (3, 4) \land r_2=5 \\
   C_1:\,(x-2)^2+(y-1)^2=r^2 \longrightarrow (2, 1) \land r_1=r \textsf{ unknown} \\
   d=\sqrt{(3-2)^2+(4-1)^2}=\sqrt{10}\approx 3.16 \\

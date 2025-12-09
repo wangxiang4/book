@@ -179,11 +179,11 @@ $
   \boxed{
   \begin{array}{ll}
   ①: C_3^2=\frac{3!}{2!(3-2)!}=\frac{6}{2}=3 \\
-  ②: \frac{3!}{2!\times 1!}=\frac{6}{2}=3 \\
+  ②: \frac{3!}{2!\times1!}=\frac{6}{2}=3 \\
   \end{array}
   } \\
   789 \longrightarrow 
-  \frac{3!}{1!\times 1!\times 1!}=\frac{6}{1}=6 \\
+  \frac{3!}{1!\times1!\times1!}=\frac{6}{1}=6 \\
   N=m_1+m_2+\cdots+m_n \\
   N=1+3+6=10 \\
   \end{array}
@@ -221,7 +221,7 @@ $
            n=3 \\
            \textsf{each of 7, 8, 9 appears once} \\
            k_i=1\times1\times1 & 1+1+1=3 \\
-           \frac{3!}{1!\times 1!\times 1!}=\frac{6}{1}=6 \\
+           \frac{3!}{1!\times1!\times1!}=\frac{6}{1}=6 \\
            6
            \begin{cases}
            [7,8,9] \\
@@ -289,7 +289,7 @@ $
   \textsf{part}_4\mapsto1 \\
   \end{cases}\\
   N=m_1\times m_2\times\cdots\times m_n \\
-  N=2\times 3\times 2\times 1=12 \\
+  N=2\times3\times2\times1=12 \\
   \end{array}
   $  
   :::  
@@ -435,7 +435,7 @@ is called __a combination__ of $m$ elements from $n$ distinct elements.
 - The number of combinations refers to __the total number of ways__ to choose $m$ elements $(m \le n)$ from $n$ distinct elements.
 It is denoted as $\boldsymbol{C_n^m}$.
   ::: wrap  
-  - ###### __Formula for the number of combinations__: $C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1}=\frac{n!}{m!(n-m)!}=\boldsymbol{\frac{A_n^m}{m!}}$.
+  - ###### __Formula for the number of combinations__: $C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1}=\frac{n!}{m!(n-m)!}=\boldsymbol{\frac{A_n^m}{m!}}$.
     - $n$: total number of available items (supply).
     - $m$: number of elements to choose (demand, order does not matter).   
     - one permutation when all or none are selected: $C_n^0=C_n^n=1$.
@@ -447,7 +447,7 @@ It is denoted as $\boldsymbol{C_n^m}$.
       \end{array}
       $
   :::  
-  - ###### A permutation is __a combination__ followed by __arrangement__: $A_n^m=C_n^m \boldsymbol{\cdot} A_m^m=\boldsymbol{C_n^m \cdot m!}$.  
+  - ###### A permutation is __a combination__ followed by __arrangement__: $A_n^m=C_n^m\times A_m^m=\boldsymbol{C_n^m\times m!}$.  
     $A_4^3=C_4^3\times3!$
 
 ### $\textcolor{#1E3A5F}{\fbox{3}}\:$Property of combinations
@@ -456,8 +456,8 @@ It is denoted as $\boldsymbol{C_n^m}$.
 
 
 ## 9.Problem-Solving Rules
-- Permutations $A_n^m=C_n^m \cdot A_m^m=C_n^m \cdot m!$.
-  A permutation is __a combination__ followed by __arrangement__, so $\boldsymbol{A_n^m}$ can be __expressed as $\boldsymbol{C_n^m \cdot m!}$__.
+- Permutations $A_n^m=C_n^m\times A_m^m=C_n^m\times m!$.
+  A permutation is __a combination__ followed by __arrangement__, so $\boldsymbol{A_n^m}$ can be __expressed as $\boldsymbol{C_n^m\times m!}$__.
 - Use combinations $\boldsymbol{C_n^m}$ when __selecting elements or positions__.
 - Use factorial $\boldsymbol{m!}$ when __arranging (sorting) elements__.
 - Break down all problems into a process of __selection__ and __arrangement__ and then __write expressions accordingly__.
@@ -484,7 +484,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} \\
+C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} \\
 C_8^4=\frac{\bcancel{8}\times7\times\bcancel{6}\times5}{\bcancel{4}\times\bcancel{3}\times\bcancel{2}\times1}=\frac{2\times7\times5}{1}=70 \\
 C_7^3=\frac{7\times\bcancel{6}\times5}{\bcancel{3}\times\bcancel{2}\times1}=\frac{7\times5}{1}=35 \\
 70-35=35 \\
@@ -502,7 +502,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -568,7 +568,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   C_n^m=C_n^{n-m} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#property-of-combinations}{\textsf{property of combinations}} \\
   \frac{n(n+1)}{2} & \textsf{arithmetic sum formula} \\
   \end{array}
@@ -639,7 +639,7 @@ $
   $
   \begin{array}{ll}
   Р_4^2=4\times3=12 \\
-  p_n^m \Longleftrightarrow C_n^m \cdot m! \\
+  p_n^m \Longleftrightarrow C_n^m\times m! \\
   Р_4^2=C_4^2 \times 2!=\frac{4\times3}{2\times1}\times2=12 \\
   \end{array}
   $   
@@ -656,8 +656,8 @@ $
   >$
   \begin{array}{ll}
   P_n^m=А_n^m=n(n-1)(n-2)\cdots(n-m+1) & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-permutations}{\textsf{permutation formula }} \\
-  P_n^m=C_n^m \cdot m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -710,7 +710,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -749,7 +749,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -774,7 +774,7 @@ $
 $
 \begin{array}{ll}
 Р_9^3=9\times8\times7=504 \\
-p_n^m \Longleftrightarrow C_n^m \cdot m! \\
+p_n^m \Longleftrightarrow C_n^m\times m! \\
 Р_9^3=C_9^3 \times 3!=\frac{9\times8\times7}{3\times2\times1}\times(3\times2\times1)=84\times6=504 \\
 \end{array}
 $  
@@ -791,7 +791,7 @@ $
   >$
   \begin{array}{ll}
   P_n^m=А_n^m=n(n-1)(n-2)\cdots(n-m+1) & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-permutations}{\textsf{permutation formula }} \\
-  P_n^m=C_n^m \cdot m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
+  P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
   \end{array}
   >$
 

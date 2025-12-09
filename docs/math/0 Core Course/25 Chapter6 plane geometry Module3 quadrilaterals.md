@@ -29,7 +29,7 @@ lang: en-US
   Taking $a$ as the base, its height is $h$.
   Its area is $\boldsymbol{S=ah=\frac{1}{2}l_1l_2}$, where $l_1$ and $l_2$ are __the lengths of its diagonals__.
   Its perimeter is $\boldsymbol{C=4a}$.   
-- $S=\frac{1}{2}\times\frac{l_1}{2}\times\frac{l_2}{2}\times4=\frac{l_1 \cdot l_2}{2}$   
+- $S=\frac{1}{2}\cdot\frac{l_1}{2}\cdot\frac{l_2}{2}\cdot4=\frac{l_1\cdot l_2}{2}$   
 
 ![Rhombus area diagonals perimeter.svg](../../public/math/Core%20Course/Rhombus%20area%20diagonals%20perimeter.svg)  
 
@@ -68,7 +68,7 @@ lang: en-US
 - ① $\frac{S_1}{S_2}=\frac{S_4}{S_3}=\frac{OD}{OB}$    
    ![Any quadrilateral area ratio theorem figure 6–23 solve-1.svg](../../public/math/Core%20Course/Any%20quadrilateral%20area%20ratio%20theorem%20figure%206%E2%80%9323%20solve-1.svg)  
    - Based on the fact that __the ratio of the areas of triangles with the same height equals the ratio of their bases__,
-     we have $S_1 \times S_3=S_2 \times S_4$ (__top$\times$bottom=left$\times$right__).
+     we have $S_1\cdot S_3=S_2\cdot S_4$ (__top$\cdot$bottom=left$\cdot$right__).
   - __Theorem derivation__  
     ::: wrap  
     $
@@ -101,7 +101,7 @@ lang: en-US
     $
     :::
 
-- ② $\overbrace{\boldsymbol{S_1 \times S_3=S_2 \times S_4}}^{\textsf{common property of any quadrilateral}}$    
+- ② $\overbrace{\boldsymbol{S_1\cdot S_3=S_2\cdot S_4}}^{\textsf{common property of any quadrilateral}}$    
 
 - ③ $\frac{S_1}{S_3}=\frac{a^2}{b^2}$    
   - __Theorem derivation__  
@@ -137,7 +137,7 @@ lang: en-US
     \boldsymbol{S_1:S_3:S_2:S_4=a^2:b^2:ab:ab} \\
     \frac{S_1}{S_3}=\frac{a_2}{b_2} \\
     \frac{S_1}{S_2}=\frac{a}{b} \\
-    \frac{S_1}{S_2}=\frac{a}{b}\times\frac{a}{a}=\frac{a^2}{ab} & S_1=a^2 \\
+    \frac{S_1}{S_2}=\frac{a}{b}\cdot\frac{a}{a}=\frac{a^2}{ab} & S_1=a^2 \\
     S_1:S_3:S_2:S_4=a^2:b^2:ab:ab \\
     \end{array}
     $  
@@ -171,8 +171,8 @@ $
   \begin{array}{ll}
   EG=\sqrt{a^2+a^2}=\sqrt{2a^2}=a\sqrt{2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   AB=EG=1 \\
-  AB=\sqrt{2}\times EF=1 \\
-  EF=\frac{1}{\sqrt{2}}=\frac{1}{\sqrt{2}}\times \frac{\sqrt{2}}{\sqrt{2}}=\frac{\sqrt{2}}{2} \\
+  AB=\sqrt{2}\cdot EF=1 \\
+  EF=\frac{1}{\sqrt{2}}=\frac{1}{\sqrt{2}}\cdot \frac{\sqrt{2}}{\sqrt{2}}=\frac{\sqrt{2}}{2} \\
   S_{EFGH}=(\frac{\sqrt{2}}{2})^2=\frac{2}{4}=\frac{1}{2}
   \end{array}
   $  
@@ -218,8 +218,8 @@ $
   \textbf{because }\boldsymbol{EF}\textbf{ is a midline and triangle }\boldsymbol{\triangle AEH}\textbf{ shares vertex }\boldsymbol{A}\textbf{ with }\boldsymbol{\triangle ABD}, \\
   \textbf{its base and height are each half of those of }\boldsymbol{\triangle ABD} \\
   \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{S=\frac{1}{2}ah} \\
-  S_{\triangle ABD}=\frac{1}{2}\times(1\cdot a)\times(1\cdot h) \\
-  S_{\triangle AEH}=\frac{1}{2}\times(\frac{1}{2}\cdot a)\times(\frac{1}{2}\cdot h) \\
+  S_{\triangle ABD}=\frac{1}{2}\cdot(1\cdot a)\cdot(1\cdot h) \\
+  S_{\triangle AEH}=\frac{1}{2}\cdot(\frac{1}{2}\cdot a)\cdot(\frac{1}{2}\cdot h) \\
   \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#properties-1}{\textsf{properties of similar triangles}} \\
   \frac{\triangle AEH}{\triangle ABD}=\frac{\frac{1}{8}\cdot a\cdot h}{\frac{1}{2}\cdot a\cdot h}=\frac{\frac{1}{8}}{\frac{1}{2}}=\frac{1}{4}  \\
   \end{array}
@@ -379,14 +379,14 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  S_{ABCD}=6\times 8 = 48 \\
+  S_{ABCD}=6\cdot8 = 48 \\
   S_{\triangle AOD}=\frac{1}{4}S_{ABCD}=\frac{48}{4}=12 \\
   S_a+S_b=S_{\triangle ADF}-S_{\triangle AOD}-S_{\triangle OEFG} \\
   S_{\triangle ADF}=\frac{1}{2}S_{ABCD}=\frac{48}{2}=24 \\
   S_{\triangle AOD}=12 \\
   S_{\triangle OEFG}=4 \\
   S_a+S_b=24-12-4=8 \\
-  S_\textsf{shaded}=\frac{3}{4}\times 48-8=\frac{144}{4}-8=28 \\
+  S_\textsf{shaded}=\frac{3}{4}\cdot48-8=\frac{144}{4}-8=28 \\
   \end{array}
   $  
   :::  
@@ -431,10 +431,10 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  S_{\triangle APH}+S_{\triangle PCF} = (\frac{1}{2}\times 2\times h_1) + (\frac{1}{2}\times 2\times h_2) \\
+  S_{\triangle APH}+S_{\triangle PCF} = (\frac{1}{2}\cdot2\cdot h_1) + (\frac{1}{2}\cdot2\cdot h_2) \\
   = h_1+h_2=AB=4 \\
   = \frac{2}{2}(h_1+h_2)=4 \\
-  S_{\triangle AEP}+S_{\triangle PCG} = (\frac{1}{2}\times 3\times h_3) + (\frac{1}{2}\times 3\times h_4) \\
+  S_{\triangle AEP}+S_{\triangle PCG} = (\frac{1}{2}\cdot3\cdot h_3) + (\frac{1}{2}\cdot3\cdot h_4) \\
   = h_3+h_4=BC=6 \\
   = \frac{3}{2}(h_3+h_4)=\frac{18}{2}=9 \\
   S_{AEPH}+S_{PFCG}=4+9=13 \\
@@ -483,8 +483,7 @@ $
   C=120 \Rightarrow a+b=60 \\
   c=\sqrt{a^2+b^2} \le 50 \\
   2ab=(a+b)^2-(a^2+b^2) \\
-  S=ab=\frac{(a+b)^2-(a^2+b^2)}{2} \ge \frac{60^2-50^2}{2}=550 & 
-  \textsf{since both sides are } - \times (a^2+b^2) \textsf{ flip the sign} \\
+  S=ab=\frac{(a+b)^2-(a^2+b^2)}{2} \ge \frac{60^2-50^2}{2}=550 \\
   \end{array}
   $  
   :::  
@@ -545,7 +544,7 @@ $
 ::: wrap
 $
 \begin{array}{ll}
-S=\frac{10\times 24}{2}=120 
+S=\frac{10\cdot24}{2}=120 
 \end{array}
 $  
 :::  
@@ -588,8 +587,8 @@ $
   \begin{array}{ll}
   \textsf{side length}=\frac{52}{4}=13 \\
   l_1=24 \\
-  l_2=(5,12,13) \implies 5\times 2 =10 \\
-  S=\frac{10\times 24}{2} = 120 \\
+  l_2=(5,12,13) \implies 5\cdot2 =10 \\
+  S=\frac{10\cdot24}{2} = 120 \\
   \end{array}
   $  
   :::  
@@ -737,7 +736,7 @@ $
   ABCD=\textsf{right trapezoid} \\
   AB \parallel CD \\
   \angle BAD + \angle CDA=180^\circ & \textsf{same-side interior angles }180^\circ \\
-  S_{ABCD}=\frac{AB+CD}{2}\times BC \\
+  S_{ABCD}=\frac{AB+CD}{2}\cdot BC \\
   \textsf{the points on the angle bisector divide} \\ 
   \textsf{the left and right triangles into two congruent triangles} \\
   \triangle EFA \cong \triangle ABE \\
@@ -745,7 +744,7 @@ $
   AF=AB \\
   DF=CD \\
   AF+DF=AB+CD=AD=8 \\
-  \frac{8}{2}\times 6=24 \\
+  \frac{8}{2}\cdot6=24 \\
   \end{array}
   $  
   :::  
@@ -848,13 +847,13 @@ $
   \begin{cases}
   a^2=3^2=9 \\
   b^2=2^2=4 \\
-  ab=2\times 3=6 \\
+  ab=2\cdot3=6 \\
   \end{cases} \\
   \frac{S_{\triangle ODE}}{ab} = \frac{6}{6} = 1 \implies
   \begin{cases}
-  a^2=1\times9=9 \\
-  b^2=1\times4=4 \\
-  ab=1\times6=6 \\
+  a^2=1\cdot9=9 \\
+  b^2=1\cdot4=4 \\
+  ab=1\cdot6=6 \\
   \end{cases} \\
   S_{\triangle ACD}=6+9=15 \\
   S_{\triangle ABC}=S_{\triangle ACD}=15 \\
@@ -902,10 +901,10 @@ $
   \begin{array}{ll}
   \textsf{join the diagonal }CF\textsf{ and }DE \\
   EDCF=\textsf{trapezoid} \\
-  2\times 8= 4\times 4 & \textsf{top}\times\textsf{bottom}=\textsf{left}\times\textsf{right} \\
+  2\cdot8=4\cdot4 & \textsf{top}\cdot\textsf{bottom}=\textsf{left}\cdot\textsf{right} \\
   S_{\triangle EOD}=S_{\triangle COF}=4 \\
   S_{\triangle CDF}=\frac{1}{2}S_{ABCD}=8+4=12 \\
-  S_{ABCD}=S_{\triangle CDF}\times 2=24 \\
+  S_{ABCD}=S_{\triangle CDF}\cdot2=24 \\
   S_{OFBC}=24-2-5-8=9 \\
   \end{array}
   $  
@@ -921,7 +920,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S_1\times S_3=S_2 \times S_4 & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#area-ratio-for-any-quadrilateral-figure-6%E2%80%9323}{\textsf{any quadrilateral area ratio theorem}} \\
+  S_1\cdot S_3=S_2\cdot S_4 & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#area-ratio-for-any-quadrilateral-figure-6%E2%80%9323}{\textsf{any quadrilateral area ratio theorem}} \\
   S_1:S_3:S_2:S_4=a^2:b^2:ab:ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#the-unified-proportion-obtained-from-the-four-results-is}{\textsf{trapezoid area ratio theorem}} \\
   S_\triangle=\frac{1}{2}S_{ABCD} & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#a-triangle-with-the-same-base-and-height-as-a-rectangle-has-an-area-equal-to-of-the-rectangle-s-area}{\textsf{half-area rule for rectangle}}
   \end{array}
@@ -943,22 +942,22 @@ __The polygon__
   \begin{array}{ll}
   \textsf{divided into }6\textsf{ equilateral triangles} \\
   S=\frac{\sqrt{3}}{4}a^2 & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#the-area-of-an-equilateral-triangle-is-where-is-the-side-length}{\textsf{equilateral triangle area formula}} \\
-  S=\frac{\sqrt{3}}{4}a^2 \times 6 =\frac{3\sqrt{3}}{2}a^2 \\
+  S=\frac{\sqrt{3}}{4}a^2\cdot6=\frac{3\sqrt{3}}{2}a^2 \\
   \end{array}
   $  
   :::
 
 - Interior angles of common regular polygons  
-  > $\textsf{each interior angle}=\frac{(n-2)\times 180^\circ}{n}$
+  > $\textsf{each interior angle}=\frac{(n-2)\cdot180^\circ}{n}$
 
-  | Regular Polygon      | Number of Sides(n) | Each Interior Angle($^\circ$)                 |
-  |----------------------|--------------------|-----------------------------------------------|
-  | Equilateral triangle | 3                  | $\frac{(3-2)\times 180^\circ}{3}=60^\circ$    |
-  | Square               | 4                  | $\frac{(4-2)\times 180^\circ}{4}=90^\circ$    |
-  | Regular pentagon     | 5                  | $\frac{(5-2)\times 180^\circ}{5}=108^\circ$   |
-  | Regular hexagon      | 6                  | $\frac{(6-2)\times 180^\circ}{6}=120^\circ$   |
-  | Regular octagon      | 8                  | $\frac{(8-2)\times 180^\circ}{8}=135^\circ$   |
-  | Regular dodecagon    | 12                 | $\frac{(12-2)\times 180^\circ}{12}=150^\circ$ |
+  | Regular Polygon      | Number of Sides(n) | Each Interior Angle($^\circ$)               |
+  |----------------------|--------------------|---------------------------------------------|
+  | Equilateral triangle | 3                  | $\frac{(3-2)\cdot180^\circ}{3}=60^\circ$    |
+  | Square               | 4                  | $\frac{(4-2)\cdot180^\circ}{4}=90^\circ$    |
+  | Regular pentagon     | 5                  | $\frac{(5-2)\cdot180^\circ}{5}=108^\circ$   |
+  | Regular hexagon      | 6                  | $\frac{(6-2)\cdot180^\circ}{6}=120^\circ$   |
+  | Regular octagon      | 8                  | $\frac{(8-2)\cdot180^\circ}{8}=135^\circ$   |
+  | Regular dodecagon    | 12                 | $\frac{(12-2)\cdot180^\circ}{12}=150^\circ$ |
 
 
 
@@ -978,7 +977,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-S=\frac{3\sqrt{3}}{2}a^2=\frac{3\sqrt{3}}{2}\times2^2=6\sqrt{3} \\
+S=\frac{3\sqrt{3}}{2}a^2=\frac{3\sqrt{3}}{2}\cdot2^2=6\sqrt{3} \\
 \end{array}
 $  
 :::  

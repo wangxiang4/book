@@ -209,7 +209,7 @@ $
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#single-sampling-the-order-of-the-selected-elements-doesn-t-matter}{\textsf{single sampling}} \\
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#sequential-sampling-by-default-one-element-is-taken-each-time}{\textsf{sequential sampling}} \\
   P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-calculation-formula}{\textsf{classical probability model formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   P(A)+P(\overline{A})=1 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_6-classical-probability-model}{\textsf{classical probability model characteristics}} \\
   P(\overline{A})=1-P(A) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#let-be-the-complement-of-event-then}{\textsf{complementary probability}} \\
   \end{array}
@@ -247,7 +247,7 @@ $
 2\textsf{ black} + 2\textsf{ red balls}: 6\textsf{ points} \\
 \end{cases} \\
 P=\frac{C_4^4+C_4^3C_6^1+C_4^2C_6^2}{C_{10}^{4}} \\
-\frac{1+\frac{4\times\bcancel{3}\times\bcancel{2}}{\bcancel{3}\times\bcancel{2}\times1}\cdot6+\frac{\bcancel{4}\times3}{\bcancel{2}\times1}\cdot\frac{\bcancel{6}\times5}{\bcancel{2}\times1}}{\frac{10\times\bcancel{9}\times\bcancel{8}\times7}{\bcancel{4}\times\bcancel{3}\times\bcancel{2}\times1}}=\frac{1+4\times6+\frac{2\times3}{1}\times\frac{3\times5}{1}}{\frac{10\times3\times7}{1}}=\frac{115}{210}=\frac{23}{42} \\
+\frac{1+\frac{4\times\bcancel{3}\times\bcancel{2}}{\bcancel{3}\times\bcancel{2}\times1}\times6+\frac{\bcancel{4}\times3}{\bcancel{2}\times1}\times\frac{\bcancel{6}\times5}{\bcancel{2}\times1}}{\frac{10\times\bcancel{9}\times\bcancel{8}\times7}{\bcancel{4}\times\bcancel{3}\times\bcancel{2}\times1}}=\frac{1+4\times6+\frac{2\times3}{1}\times\frac{3\times5}{1}}{\frac{10\times3\times7}{1}}=\frac{115}{210}=\frac{23}{42} \\
 \end{array}
 $  
 :::  
@@ -264,7 +264,7 @@ $
   \begin{array}{ll}
   P(\bigcup_{i=1}^n A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#let-be-a-finite-set-of-mutually-exclusive-events-then}{\textsf{union of disjoint events}} \\
   P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-calculation-formula}{\textsf{classical probability model formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -319,7 +319,7 @@ $
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_11-sampling-with-numbered-samples}{\textsf{sampling with numbers enumeration method}} \\
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#sequential-sampling-by-default-one-element-is-taken-each-time}{\textsf{sequential sampling}} \\
   P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-calculation-formula}{\textsf{classical probability model formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -385,7 +385,7 @@ $
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_11-sampling-with-numbered-samples}{\textsf{sampling with numbers enumeration method}} \\
   P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-calculation-formula}{\textsf{classical probability model formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\,\boldsymbol{\cdot} 2\boldsymbol{\cdot} 1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -432,23 +432,23 @@ $
 
 ## 4.Common Conclusions  
 ::: wrap  
-- ###### If events $A_1,A_2,\cdots,A_n$ are __mutually independent__, then __the probability that all $\boldsymbol{n}$ events occur__ is the product of their individual probabilities: $P(A_1A_2 \cdots A_n)=P(A_1) \cdot P(A_2)\boldsymbol{\cdot}\cdots\boldsymbol{\cdot}P(A_n)$.
+- ###### If events $A_1,A_2,\cdots,A_n$ are __mutually independent__, then __the probability that all $\boldsymbol{n}$ events occur__ is the product of their individual probabilities: $P(A_1A_2 \cdots A_n)=P(A_1)\times P(A_2)\times\cdots\times P(A_n)$.
 - If events $A_1,A_2,\cdots,A_n$ are __mutually independent__,
   then __the probability that none of them occur__ is the product of their individual non-occurrence probabilities:
-  $P(\overline{A_1}\:\overline{A_2} \cdots \overline{A_n})=P(\overline{A_1}) \cdot P(\overline{A_2})\boldsymbol{\cdot}\cdots\boldsymbol{\cdot}P(\overline{A_n})$.
+  $P(\overline{A_1}\:\overline{A_2} \cdots \overline{A_n})=P(\overline{A_1})\times P(\overline{A_2})\times\cdots\times P(\overline{A_n})$.
 - If events $A_1,A_2,\cdots,A_n$ are __mutually independent__,
   then __the probability that at least one of them occurs__ can be found __using the complement rule__.
   It equals __$\boldsymbol{1}$ minus the product of the probabilities that none of them occur__:
-  $P(A_1+A_2+\cdots+A_n)=1-P(\overline{A_1}) \cdot P(\overline{A_2})\boldsymbol{\cdot}\cdots\boldsymbol{\cdot}P(\overline{A_n})$.
+  $P(A_1+A_2+\cdots+A_n)=1-P(\overline{A_1})\times P(\overline{A_2})\times\cdots\times P(\overline{A_n})$.
 :::  
 
 ## 5.Focus 1
 __The template for two independent events__  
 - The probabilities of success for $A$ and $B$ are $P_1$ and $P_2$, respectively:   
-  __(1)__ The probability __that both $\boldsymbol{A}$ and $\boldsymbol{B}$ succeed__: $P_1 \cdot P_2$;  
-  __(2)__ The probability __that neither $\boldsymbol{A}$ nor $\boldsymbol{B}$ succeeds__: $(1-P_1)\cdot(1-P_2)$;  
-  ###### __(3)__ The probability __that at least one of $\boldsymbol{A}$ or $\boldsymbol{B}$ succeeds__: $1-(1-P_1)\cdot(1-P_2)$;   
-  ###### __(4)__ The probability __that exactly one of $\boldsymbol{A}$ or $\boldsymbol{B}$ succeeds__: $P_1 \cdot (1-P_2)+(1-P_1) \cdot P_2$.  
+  __(1)__ The probability __that both $\boldsymbol{A}$ and $\boldsymbol{B}$ succeed__: $P_1\times P_2$;  
+  __(2)__ The probability __that neither $\boldsymbol{A}$ nor $\boldsymbol{B}$ succeeds__: $(1-P_1)\times(1-P_2)$;  
+  ###### __(3)__ The probability __that at least one of $\boldsymbol{A}$ or $\boldsymbol{B}$ succeeds__: $1-(1-P_1)\times(1-P_2)$;   
+  ###### __(4)__ The probability __that exactly one of $\boldsymbol{A}$ or $\boldsymbol{B}$ succeeds__: $P_1\times (1-P_2)+(1-P_1)\times P_2$.  
 
 
 ### $\fbox{7}\:\small A$ and $\small B$ participate in a basketball shooting game. Given that the probabilities of $\small A$ and $\small B$ making a shot are $\small 0.6$ and $\small 0.75$ respectively, if $\small A$ and $\small B$ each take one shot, what is the probability that exactly one of them makes the shot $\small \mathpunct{?}$.
@@ -483,7 +483,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P_1 \cdot (1-P_2)+(1-P_1) \cdot P_2 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_4-the-probability-that-exactly-one-of-or-succeeds}{\textsf{exactly-one succeed probability}} \\
+  P_1\times(1-P_2)+(1-P_1)\times P_2 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_4-the-probability-that-exactly-one-of-or-succeeds}{\textsf{exactly-one succeed probability}} \\
   \end{array}
   >$
 
@@ -494,11 +494,11 @@ $
 __The template for three independent events__  
 ::: wrap   
 - The probabilities of success for $A,B$, and $C$ are $P_1,P_2$, and $P_3$, respectively:  
-  __(1)__ The probability __that all three succeed__: $P_1 \cdot P_2 \cdot P_3$;  
-  __(2)__ The probability __that none succeed__: $(1-P_1) \cdot (1-P_2) \cdot (1-P_3)$;  
-  ###### __(3)__ The probability __that at least one succeeds__: $1-(1-P_1) \cdot (1-P_2) \cdot (1-P_3)$;  
-  __(4)__ The probability __that exactly two succeed__: $P_1 \cdot P_2 \cdot (1-P_3) + P_1 \cdot (1-P_2) \cdot P_3 + (1-P_1) \cdot P_2 \cdot P_3$;  
-  ###### __(5)__ The probability __that at most two succeed__: $1-P_1 \cdot P_2 \cdot P_3$.  
+  __(1)__ The probability __that all three succeed__: $P_1\times P_2\times P_3$;  
+  __(2)__ The probability __that none succeed__: $(1-P_1)\times(1-P_2)\times(1-P_3)$;  
+  ###### __(3)__ The probability __that at least one succeeds__: $1-(1-P_1)\times(1-P_2)\times(1-P_3)$;  
+  __(4)__ The probability __that exactly two succeed__: $P_1\times P_2\times(1-P_3)+P_1\times(1-P_2)\times P_3+(1-P_1)\times P_2\times P_3$;  
+  ###### __(5)__ The probability __that at most two succeed__: $1-P_1\times P_2\times P_3$.  
 :::   
 
 ### $\fbox{8}\:$In a set-point shooting contest involving $A,B$, and $C$, the shooting accuracies are $0.9,0.8$, and $0.7$, respectively. Each person shoots once. What is the probability that at most two of them make the shot $\small \mathpunct{?}$.
@@ -532,7 +532,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  1-P_1 \cdot P_2 \cdot P_3 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-the-probability-that-at-most-two-succeed}{\textsf{complementary probability}} \\
+  1-P_1\times P_2\times P_3 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-the-probability-that-at-most-two-succeed}{\textsf{complementary probability}} \\
   \end{array}
   >$
 
@@ -593,8 +593,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P_1 \cdot (1-P_2)+(1-P_1) \cdot P_2 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_4-the-probability-that-exactly-one-of-or-succeeds}{\textsf{exactly-one succeed probability}} \\
-  1-(1-P_1)\cdot(1-P_2) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_3-the-probability-that-at-least-one-of-or-succeeds}{\textsf{complementary probability}} \\
+  P_1\times(1-P_2)+(1-P_1)\times P_2 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_4-the-probability-that-exactly-one-of-or-succeeds}{\textsf{exactly-one succeed probability}} \\
+  1-(1-P_1)\times(1-P_2) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_3-the-probability-that-at-least-one-of-or-succeeds}{\textsf{complementary probability}} \\
   \end{array}
   >$
 
@@ -633,7 +633,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  1-(1-P_1) \cdot (1-P_2) \cdot (1-P_3) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_3-the-probability-that-at-least-one-succeeds}{\textsf{complementary probability}} \\
+  1-(1-P_1)\times(1-P_2)\times(1-P_3) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_3-the-probability-that-at-least-one-succeeds}{\textsf{complementary probability}} \\
   \end{array}
   >$
 
@@ -694,7 +694,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  1-(1-P_1) \cdot (1-P_2) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_3-the-probability-that-at-least-one-of-or-succeeds}{\textsf{complementary probability}} \\
+  1-(1-P_1)\times(1-P_2) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_3-the-probability-that-at-least-one-of-or-succeeds}{\textsf{complementary probability}} \\
   \end{array}
   >$
 
@@ -847,7 +847,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P(A_1A_2 \cdots A_n)=P(A_1) \cdot P(A_2)\boldsymbol{\cdot}\cdots\boldsymbol{\cdot}P(A_n) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#if-events-are-mutually-independent-then-the-probability-that-all-events-occur-is-the-product-of-their-individual-probabilities}{\textsf{all succeed probability}} \\
+  P(A_1A_2\times A_n)=P(A_1)\times P(A_2)\times\cdots\times P(A_n) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#if-events-are-mutually-independent-then-the-probability-that-all-events-occur-is-the-product-of-their-individual-probabilities}{\textsf{all succeed probability}} \\
   P(\bigcup_{i=1}^n A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#let-be-a-finite-set-of-mutually-exclusive-events-then}{\textsf{union of disjoint events}} \\
   \end{array}
   >$
@@ -865,7 +865,7 @@ $
 ## 9.Focus 5
 __The circuit template__    
 - For a series circuit, the probability that the system functions normally is equal to the product of the probabilities that each circuit functions normally.   
-  - Normal (all working): $P_1 \times P_2 \times P_3$  
+  - Normal (all working): $P_1\times P_2\times P_3$  
   ![Circuit series system probability.svg](../../public/math/Core%20Course/Circuit%20series%20system%20probability.svg)  
 - For a parallel circuit, the probability that the system functions normally is equal to 1 minus the product of the probabilities that each circuit does not function normally.  
   - At least one normal (working): $1-(1-P_1)(1-P_2)(1-P_3)$  
@@ -906,8 +906,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P(A_1A_2 \cdots A_n)=P(A_1) \cdot P(A_2)\boldsymbol{\cdot}\cdots\boldsymbol{\cdot}P(A_n) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#if-events-are-mutually-independent-then-the-probability-that-all-events-occur-is-the-product-of-their-individual-probabilities}{\textsf{all succeed probability}} \\
-  1-(1-P_1) \cdot (1-P_2) \cdot (1-P_3) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_3-the-probability-that-at-least-one-succeeds}{\textsf{complementary probability}} \\
+  P(A_1A_2\cdots A_n)=P(A_1)\times P(A_2)\times\cdots\times P(A_n) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#if-events-are-mutually-independent-then-the-probability-that-all-events-occur-is-the-product-of-their-individual-probabilities}{\textsf{all succeed probability}} \\
+  1-(1-P_1)\times(1-P_2)\times(1-P_3) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_3-the-probability-that-at-least-one-succeeds}{\textsf{complementary probability}} \\
   \end{array}
   >$
 

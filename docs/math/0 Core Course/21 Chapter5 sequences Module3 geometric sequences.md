@@ -68,11 +68,11 @@ lang: en-US
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Applications
 
-| Formula                | Conditions for Use                                            | Example Usage        |
-|------------------------|---------------------------------------------------------------|----------------------|
-| $a_n=a_1q^{n-1}$       | Requires $a_1$                                                | $a_5=a_1q^4$         |
-| $a_n=a_kq^{n-k}$       | Works with any $a_k$; when $k=1$, it becomes $a_n=a_1q^{n-1}$ | $a_5=a_3q^2$         |
-| $a_n=\frac{a_1}{q}q^n$ | Requires $a_1$                                                | $a_n=2 \times 3^{n}$ |
+| Formula                | Conditions for Use                                            | Example Usage     |
+|------------------------|---------------------------------------------------------------|-------------------|
+| $a_n=a_1q^{n-1}$       | Requires $a_1$                                                | $a_5=a_1q^4$      |
+| $a_n=a_kq^{n-k}$       | Works with any $a_k$; when $k=1$, it becomes $a_n=a_1q^{n-1}$ | $a_5=a_3q^2$      |
+| $a_n=\frac{a_1}{q}q^n$ | Requires $a_1$                                                | $a_n=2\cdot3^{n}$ |
 
 
 ## 3.Sum of the First $n$ Terms
@@ -180,7 +180,7 @@ lang: en-US
 
 ## 5.Focus 1
 __The identification and definition of sequences__
-- If __three numbers $\boldsymbol{a,b,c}$__ form a geometric sequence, then $\boldsymbol{b}$ is called __the geometric mean of $\boldsymbol{a}$ and $\boldsymbol{c}$__, i.e., $\boldsymbol{ac=b^2}$.   
+- If __three numbers $\boldsymbol{a,b,c}$__ form a geometric sequence, then $\boldsymbol{b}$ is called __the geometric mean of $\boldsymbol{a}$ and $\boldsymbol{c}$__, i.e., $ac=b^2$.   
   - $b = \pm \sqrt{ac}$
   - $a,c$ same sign
 
@@ -202,7 +202,7 @@ $
 ::: wrap
 $
 \begin{array}{ll}
-2 \times (2^x+3) = (2^x-1)^2 & ac=b^2 \\ 
+2\cdot(2^x+3) = (2^x-1)^2 & ac=b^2 \\ 
 2(t+3)=(t-1)^2 & t=2^x \land t>0 \\
 2t+6=t^2-2t+1 \\
 t^2-4t-5=0 \\
@@ -250,7 +250,7 @@ __The general term of a geometric sequence__
   ::: wrap  
   $
   \begin{array}{ll}
-  a_n=\textsf{constant} \times \textsf{exponent} \\
+  a_n=\textsf{constant}\cdot\textsf{exponent} \\
   q=\textsf{base} \\
   a_n= \textsf{constant} & q=1 \\
   \end{array}
@@ -279,16 +279,16 @@ $
 $  
 :::
 #### Solution
-- Find the expression using the feature $a_n=\textsf{constant} \times \textsf{exponent}$  
+- Find the expression using the feature $a_n=\textsf{constant}\cdot\textsf{exponent}$  
   ::: wrap  
   $
   \begin{array}{ll}
   \textsf{(1)} \: \textsf{power function} \,❌\;\\
-  \textsf{(2)} \: 1 \times 3^n \longrightarrow q=3  \,✅\;\\
-  \textsf{(3)} \: \frac{1}{3} \times 1^n \longrightarrow q=1 \,✅\;\\
-  \textsf{(4)} \: \frac{1}{3} \times 2^n \longrightarrow q=2 \,✅\;\\
-  \textsf{(5)} \: 1 \times (\frac{1}{3})^n \longrightarrow q=\frac{1}{3} \,✅\;\\
-  \textsf{(6)} \: 1 \times (-1)^n \longrightarrow q=-1 \,✅\;\\
+  \textsf{(2)} \: 1\cdot3^n \longrightarrow q=3  \,✅\;\\
+  \textsf{(3)} \: \frac{1}{3}\cdot1^n \longrightarrow q=1 \,✅\;\\
+  \textsf{(4)} \: \frac{1}{3}\cdot2^n \longrightarrow q=2 \,✅\;\\
+  \textsf{(5)} \: 1\cdot(\frac{1}{3})^n \longrightarrow q=\frac{1}{3} \,✅\;\\
+  \textsf{(6)} \: 1\cdot(-1)^n \longrightarrow q=-1 \,✅\;\\
   \textsf{(7)} \: +\textsf{constant term} \,❌\;\\
   \end{array}
   $  
@@ -304,7 +304,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_n=\textsf{constant} \times \textsf{exponent} & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_6-focus-2}{\textsf{general term expression}} \\
+  a_n=\textsf{constant}\cdot\textsf{exponent} & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_6-focus-2}{\textsf{general term expression}} \\
   a_n=a_1q^{n-1}=a_{k}q^{n-k}=\frac{a_1}{q}q^n & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_2-general-term}{\textsf{general term formula}} \\
   \end{array}
   >$
@@ -413,7 +413,7 @@ a_8=128 \\
 \frac{a_8}{a_3}=\frac{128}{-4}=-32=q^5 \\
 q^5=-32 \longrightarrow \sqrt[5]{-32} \\
 q=-2 \\
-a_{10}=a_8q^2=128 \times (-2)^2=512 \\
+a_{10}=a_8q^2=128\cdot(-2)^2=512 \\
 \end{array}
 $  
 :::
@@ -519,10 +519,10 @@ __The summation of a geometric sequence__
 ::: wrap
 - ###### Properties of $S_n$
   - When $\boldsymbol{q=1}$: $S_n=na_1$ __(a linear function)__
-  - When $\boldsymbol{q\ne1}$: $S_n=\frac{a_1}{1-q} \times (1-q^n)=k(1-q^n)=\boldsymbol{k-k}q^n$
+  - When $\boldsymbol{q\ne1}$: $S_n=\frac{a_1}{1-q}\cdot(1-q^n)=k(1-q^n)=\boldsymbol{k-k}q^n$
 :::
 - Case analysis of $S_n=k-kq^n$ ($\boldsymbol{q\ne1}$)  
-  - $\boldsymbol{S_n=A+B \cdot q^n}$     
+  - $\boldsymbol{S_n=A+B\cdot q^n}$     
   - If $A+B\ne0$: it __is not $\boldsymbol{S_n}$__; the sequence becomes $S_n$ __only from $\boldsymbol{a_2}$ onward__
   - If $A+B=0$: it __is $\boldsymbol{S_n}$__
 
@@ -563,9 +563,9 @@ $
   \textsf{(2)} \: n2 \longrightarrow q=1 \,✅\;\\
   \textsf{(3)} \: \textsf{no }q^n\textsf{ exponential term} \,❌\;\\
   \textsf{(4)} \: \textsf{no }-k\textsf{ constant term} \,❌\;\\
-  \textsf{(5)} \: 1-1 \cdot 2^n \longrightarrow q=2 \,✅\;\\
+  \textsf{(5)} \: 1-1\cdot2^n \longrightarrow q=2 \,✅\;\\
   \textsf{(6)} \: \textsf{not }k-k=0 \,❌\;\\
-  \textsf{(7)} \: 3-3 \cdot 2^n \longrightarrow q=2 \,✅\;\\
+  \textsf{(7)} \: 3-3\cdot2^n \longrightarrow q=2 \,✅\;\\
   \end{array}
   $  
   :::
@@ -607,10 +607,10 @@ $
   \textsf{(1)} \: S_n=\frac{1}{3} & \boxed{a_n=\begin{cases} \frac{1}{3} & n=1 \\ 0 & n \ge 2 \\ \end{cases}} \\
   \textsf{(2)} \: S_n=2n & \boxed{a_n=2} \\
   \textsf{(3)} \: S_n=2n-1 & \boxed{a_n=\begin{cases} 1 & n=1 \\ 2 & n \ge 2 \\ \end{cases}} \\
-  \textsf{(4)} \: S_n=2^n & \boxed{a_n=\begin{cases} 2 & n=1 \\ 2^n-2^{n-1}=(2 \cdot 2^{n-1})-2^{n-1}=2^{n-1} & n \ge 2 \\ \end{cases}} \\
-  \textsf{(5)} \: S_n=2^n-1 & \boxed{a_n=1 \times 2^{n-1}} \hspace{1.2cm} a_n=a_1q^{n-1} \\
+  \textsf{(4)} \: S_n=2^n & \boxed{a_n=\begin{cases} 2 & n=1 \\ 2^n-2^{n-1}=(2\cdot2^{n-1})-2^{n-1}=2^{n-1} & n \ge 2 \\ \end{cases}} \\
+  \textsf{(5)} \: S_n=2^n-1 & \boxed{a_n=1\cdot2^{n-1}} \hspace{1.2cm} a_n=a_1q^{n-1} \\
   \textsf{(6)} \: S_n=2^n+1 & \boxed{a_n=\begin{cases} 3 & n=1 \\ 2^{n-1} & n \ge 2 \\ \end{cases}} \\
-  \textsf{(7)} \: S_n=3(2^n-1) & \boxed{a_n=3 \times 2^{n-1}} \hspace{1.2cm} a_n=a_1q^{n-1} \\
+  \textsf{(7)} \: S_n=3(2^n-1) & \boxed{a_n=3\cdot2^{n-1}} \hspace{1.2cm} a_n=a_1q^{n-1} \\
   \end{array}
   >$  
   :::
@@ -637,7 +637,7 @@ $
 \boldsymbol{q=1} \\
 \boxed{
 \begin{array}{ll}
-2a_1+5a_1=2 \times 8a_1 \\
+2a_1+5a_1=2\cdot8a_1 \\
 7a_1=16a_1 \\
 0=9a_1 \\
 a_1=\frac{0}{9}=0 & \textsf{no term of a geometric sequence can be zero}  \,❌\;\\
@@ -656,7 +656,7 @@ q^2+q^5=2q^8 \\
 (1t-1)(2t+1)=0 \\
 t=1 \lor -\frac{1}{2} & t\ne1 \textsf{ (} t=1 \Longrightarrow q=1 \textsf{)} \\
 q^3=-\frac{1}{2} \\
-q=-\frac{1}{\sqrt[3]{2}}=-\frac{1\times\sqrt[3]{4}}{\sqrt[3]{2}\times\sqrt[3]{4}}=-\frac{\sqrt[3]{4}}{\sqrt[3]{8}}=-\frac{\sqrt[3]{4}}{2} \\
+q=-\frac{1}{\sqrt[3]{2}}=-\frac{1\cdot\sqrt[3]{4}}{\sqrt[3]{2}\cdot\sqrt[3]{4}}=-\frac{\sqrt[3]{4}}{\sqrt[3]{8}}=-\frac{\sqrt[3]{4}}{2} \\
 \end{array}
 } \\
 \end{array}
@@ -678,7 +678,7 @@ $
   na_1 & q=1 \\
   \frac{a_{1}(1-q^n)}{1-q}=\frac{a_{1}-a_{n}q}{1-q}=\frac{a_{1}-a_{n+1}}{1-q} & q \ne 1
   \end{cases} & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_3-sum-of-the-first-terms}{\textsf{geometric series sum formula}} \\
-  S_n=\frac{a_1}{1-q} \times (1-q^n)=k(1-q^n) & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#properties-of}{\textsf{properties of geometric series sum formula}} \\
+  S_n=\frac{a_1}{1-q}\cdot(1-q^n)=k(1-q^n) & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#properties-of}{\textsf{properties of geometric series sum formula}} \\
   x^3=a \longrightarrow x=\sqrt[3]{a} & \textsf{n-th root property} \\
   \end{array}
   >$
@@ -689,7 +689,7 @@ $
 
 ## 8.Focus 4
 __The property of terms in a geometric sequence__  
-- If $\boldsymbol{k \in\mathbb{Z_+}}$ and $\boldsymbol{m+n=k+t}$, then $\boldsymbol{a_m \cdot a_n=a_k \cdot a_t}$.
+- If $\boldsymbol{k \in\mathbb{Z_+}}$ and $\boldsymbol{m+n=k+t}$, then $\boldsymbol{a_m\cdot a_n=a_k\cdot a_t}$.
 
 
 
@@ -709,7 +709,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-x_1 \cdot x_2=\frac{c}{a} \\
+x_1\cdot x_2=\frac{c}{a} \\
 a_4a_7=a_3a_8=\frac{-18}{3}=-6 & \\
 \end{array}
 $  

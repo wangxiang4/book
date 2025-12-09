@@ -27,8 +27,8 @@ lang: en-US
   \begin{array}{ll}
   a_n=3n-1=f(n) \\
   a_1=3-1=2 \\
-  a_2=3\times2-1=5 \\
-  a_8=3\times8-1=23 \\
+  a_2=3\cdot2-1=5 \\
+  a_8=3\cdot8-1=23 \\
   \end{array}
   $
 - Note: not every sequence can be __expressed by a general term formula__; and for some sequences, __the general term formula is not unique__.
@@ -263,7 +263,7 @@ __For the given $a_n$, find $S_n$__
 :::  
   
 
-### $\fbox{5}\:$In the sequence $\small \left\{ a_n \right\}$, $\small a_n＝\frac{n}{2}$. Define $\small b_n=\frac{2}{a_n \cdot a_{n+1}}$. Find the sum of the first $\small 99$ terms of the sequence $\small \left\{ b_n \right\}$.
+### $\fbox{5}\:$In the sequence $\small \left\{ a_n \right\}$, $\small a_n＝\frac{n}{2}$. Define $\small b_n=\frac{2}{a_n\cdot a_{n+1}}$. Find the sum of the first $\small 99$ terms of the sequence $\small \left\{ b_n \right\}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -280,7 +280,7 @@ $
 $
 \begin{array}{ll}
 a_n＝\frac{n}{2} \\
-b_n=\frac{2}{\frac{n}{2} \cdot \frac{n+1}{2}}=\frac{2}{\frac{n(n+1)}{4}}=\frac{8}{n(n+1)} \\
+b_n=\frac{2}{\frac{n}{2}\cdot \frac{n+1}{2}}=\frac{2}{\frac{n(n+1)}{4}}=\frac{8}{n(n+1)} \\
 8\cdot\frac{1}{n(n+1)}=8(\frac{1}{n}-\frac{1}{n+1}) & \frac{1}{n(n+k)}=\frac{1}{k}(\frac{1}{n}-\frac{1}{n+k}) \\
 S_{99}=8[(1-\bcancel{\frac{1}{2}})+(\bcancel{\frac{1}{2}}-\bcancel{\frac{1}{3}})+\cdots+(\bcancel{\frac{1}{99}}-\frac{1}{100})]=8(1-\frac{1}{100}) \\
 8(1-\frac{1}{100})=8\cdot\frac{99}{100}=\frac{792}{100}=\frac{198}{25} \\
@@ -394,7 +394,7 @@ $
   :::
 ---
 ::: wrap  
-### $\fbox{8}\:$Find the value of $\small S_{99}=1\times1!+2\times2!+3\times3!+\cdots+99\times99!$.
+### $\fbox{8}\:$Find the value of $\small S_{99}=1\cdot1!+2\cdot2!+3\cdot3!+\cdots+99\cdot99!$.
 :::  
 ::: wrap  
 $
@@ -411,7 +411,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-a_n=n \cdot n!=(n+1)!-n! & n \times n! = (n+1)!-n! \\
+a_n=n\cdot n!=(n+1)!-n! & n\cdot n! = (n+1)!-n! \\
 S_{99}=(\bcancel{2!}-1!)+(\bcancel{3!}-\bcancel{2!})+\cdots+(100!-\bcancel{99!})=100!-1 \\
 \end{array}
 $  
@@ -428,7 +428,7 @@ $
   >$
   \begin{array}{ll}
   a_n=f(n) & \href{/math/0%20Core%20Course/18%20Chapter5%20sequences%20Module1%20definition%20of%20sequences.html#_2-general-term}{\textsf{definition of general term}} \\
-  n \times n! = (n+1)!-n! & \textsf{factorial difference telescoping identity} \\
+  n\cdot n! = (n+1)!-n! & \textsf{factorial difference telescoping identity} \\
   S_n=a_1+a_2+\cdots+a_n=\sum_{i=1}^{n}a_i & \href{/math/0%20Core%20Course/18%20Chapter5%20sequences%20Module1%20definition%20of%20sequences.html#_3-sum-of-the-first-terms}{\textsf{sum of first }n\textsf{ terms}} \\
   \end{array}
   >$

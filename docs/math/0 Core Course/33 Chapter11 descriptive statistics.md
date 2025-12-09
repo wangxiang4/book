@@ -9,7 +9,7 @@ lang: en-US
 - Let $n$ numbers be $x_1,x_2,\cdots,x_n$.
   The quantity $\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$ is called __the mean of these $\boldsymbol{n}$ numbers__.  
   - $\boldsymbol{\overline{×}}=\frac{\textsf{sum}}{\textsf{count}}$
-  - $\textsf{sum}=\boldsymbol{\overline{×}}\times\textsf{count}$
+  - $\textsf{sum}=\boldsymbol{\overline{×}}\cdot\textsf{count}$
 
 ## 2.Mode
 - In a set of data,
@@ -189,10 +189,10 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\overline{x}=\frac{18\times\frac{3}{6}+24\times\frac{2}{6}+36\times\frac{1}{6}}{1} \\
+\overline{x}=\frac{18\cdot\frac{3}{6}+24\cdot\frac{2}{6}+36\cdot\frac{1}{6}}{1} \\
 \textsf{let }m=24 & \textsf{simplify mean calculation} \\
-(18-m)\times\frac{3}{6}+(24-m)\times\frac{2}{6}+(36-m)\times\frac{1}{6} \\
--6\times\frac{1}{2}+0+12\times\frac{1}{6}+24=-3+2+24=23 \\
+(18-m)\cdot\frac{3}{6}+(24-m)\cdot\frac{2}{6}+(36-m)\cdot\frac{1}{6} \\
+-6\cdot\frac{1}{2}+0+12\cdot\frac{1}{6}+24=-3+2+24=23 \\
 \end{array}
 $  
 :::  
@@ -230,10 +230,10 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\overline{x}=\frac{80\times\frac{2}{5}+70\times\frac{3}{5}}{1} \\
+\overline{x}=\frac{80\cdot\frac{2}{5}+70\cdot\frac{3}{5}}{1} \\
 \textsf{let }m=70 \\
-80-m\times\frac{2}{5}+70-m\times\frac{3}{5} \\
-10\times\frac{2}{5}+0+70=4+70=74 \\
+80-m\cdot\frac{2}{5}+70-m\cdot\frac{3}{5} \\
+10\cdot\frac{2}{5}+0+70=4+70=74 \\
 \end{array}
 $  
 :::  
@@ -327,12 +327,12 @@ $
   8-m=1 \\
   9-m=2 \\
   \end{cases} \\
-  \overline{x}_A=\frac{-1\times\frac{1}{4}+0\times\frac{1}{4}+1\times\frac{1}{4}+2\times\frac{1}{4}}{1} \\
+  \overline{x}_A=\frac{-1\cdot\frac{1}{4}+0\cdot\frac{1}{4}+1\cdot\frac{1}{4}+2\cdot\frac{1}{4}}{1} \\
   \frac{-1+0+1+2}{4}+7=0.5+7=7.5 \\
-  \overline{x}_B=\frac{-1\times\frac{1}{4}+0\times\frac{1}{4}+1\times\frac{1}{6}+2\times\frac{1}{3}}{1} \\
+  \overline{x}_B=\frac{-1\cdot\frac{1}{4}+0\cdot\frac{1}{4}+1\cdot\frac{1}{6}+2\cdot\frac{1}{3}}{1} \\
   \frac{-1+0}{4}+\frac{1}{6}+\frac{2}{3}+7 \\
   \frac{-3}{12}+\frac{2}{12}+\frac{8}{12}+7=\frac{7}{12}+\frac{84}{12}=\frac{91}{12}\approx7.58 \\
-  \overline{x}_C=\frac{-1\times\frac{1}{5}+0\times\frac{1}{5}+1\times\frac{3}{10}+2\times\frac{3}{10}}{1} \\
+  \overline{x}_C=\frac{-1\cdot\frac{1}{5}+0\cdot\frac{1}{5}+1\cdot\frac{3}{10}+2\cdot\frac{3}{10}}{1} \\
   \frac{-1+0}{5}+\frac{3}{10}+\frac{6}{10}+7 \\
   \frac{-2}{10}+\frac{3}{10}+\frac{6}{10}+7=0.7+7=7.7 \\
   7.7\gt7.58\gt7.5 \Longrightarrow C,B,A

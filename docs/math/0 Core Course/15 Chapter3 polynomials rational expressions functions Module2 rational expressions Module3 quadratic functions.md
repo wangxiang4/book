@@ -557,7 +557,7 @@ $
 $
 \begin{array}{ll}
 \textsf{let price increase}=x \\
-\textsf{profit}=\textsf{unit profit}\times\textsf{sales volume} \\
+\textsf{profit}=\textsf{unit profit}\cdot\textsf{sales volume} \\
 y=(2+x)(100-10x) \\
 x=\frac{-2+10}{2}=4 & \textsf{axis of symmetry} \\
 \textsf{selling price}=20+4=24 \\
