@@ -9,13 +9,13 @@ __The non-standard method for summation__
 - The indices of sequence terms are __normally positive integers__,
   but sometimes __introducing a fractional index such as $\boldsymbol{0.5}$ can make the solution more convenient__.
   The formula $\boldsymbol{S_n=\frac{a_1+a_n}{2}n}$ can be __equivalently rewritten as $\boldsymbol{S_n=na_{\frac{n+1}{2}}}$__
-  (when $\boldsymbol{n}$ is __even__, __a fractional index may be used__).
+  (__when $\boldsymbol{n}$ is even__, __a fractional index may be used__).
   For example, $S_{10}= 10a_{5.5}$.
   Similarly, $\boldsymbol{a_m+a_n=2a_{\frac{m+n}{2}}}$,
   for example, $a_3+a_8=2a_{5.5}$.
 
 
-### $\fbox{21}\:$For the arithmetic sequence $\small \left\{ a_n \right\}$ with sum of the first $\small n$ terms, if $\small S_{14}=70$ and $\small S_{16}=144$, then what is the common difference of the sequence $\small \left\{ a_n \right\}\,\mathpunct{?}$.
+### $\fbox{21}\:$For the arithmetic sequence $\small \left\{ a_n \right\}$ with sum of the first $\small n$ terms, if $\small S_{14}=70$ and $\small S_{16}=144$, then what is the common difference of the sequence $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -59,7 +59,7 @@ $
   \end{array}
   $   
   :::
-- $\textcolor{#228B22}{\fbox{3}}\:$Solve by using the arithmetic series sum formula with fractional index  
+- $\textcolor{#228B22}{\fbox{3}}\:$Solve by using the arithmetic series sum formula with a fractional index  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -84,7 +84,7 @@ $
   \begin{array}{ll}
   S_n=na_1+\frac{n(n-1)}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
   \frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#note-if-the-sums-of-the-first-and-terms-are-known-then-the-common-difference-of-the-arithmetic-sequence-can-be-found-using}{\textsf{arithmetic series sum common difference formula}} \\
-  S_n=na_{\frac{n+1}{2}} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{arithmetic series sum formula with fractional index}} \\
+  S_n=na_{\frac{n+1}{2}} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{arithmetic series sum formula with a fractional index}} \\
   a_{n+1}-a_n=d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_1-definition}{\textsf{definition of common difference}} \\
   \end{array}
   >$
@@ -92,7 +92,7 @@ $
   :::
 ---
 
-### $\fbox{22}\:$The sum of the first $\small n$ terms of the arithmetic sequence $\small \left\{ a_n \right\}$ is $\small S_n$. If $\small a_5+a_8=16$ and $\small S_{18}=90$, then find $S_{32}$.
+### $\fbox{22}\:$The sum of the first $\small n$ terms of the arithmetic sequence $\small \left\{ a_n \right\}$ is $\small S_n$. If $\small a_5+a_8=16$ and $\small S_{18}=90$, then find $\small S_{32}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -125,7 +125,7 @@ $
   \end{array}
   $   
   :::
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the arithmetic sequence terms property with fractional index  
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the property of arithmetic sequence terms with a fractional index  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -151,12 +151,12 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{arithmetic sequence terms property}} \\
+  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
   S_n=na_1+\frac{n(n-1)}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
   \begin{cases}
   a_m+a_n=2a_{\frac{m+n}{2}} \\
   S_n=na_{\frac{n+1}{2}} \\
-  \end{cases} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{arithmetic sequence terms property with fractional index}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{property of arithmetic sequence terms with a fractional index}} \\
   d=\frac{a_n-a_m}{n-m} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{common difference formula}} \\
   \end{array}
   >$
@@ -199,7 +199,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{arithmetic sequence terms property}} \\
+  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
@@ -223,7 +223,7 @@ $
 $  
 :::
 #### Solution
-- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the arithmetic sequence terms property with fractional index  
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the property of arithmetic sequence terms with a fractional index  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -266,8 +266,8 @@ $
   \begin{cases}
   a_m+a_n=2a_{\frac{m+n}{2}} \\
   S_n=na_{\frac{n+1}{2}} \\
-  \end{cases} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{arithmetic sequence terms property with fractional index}} \\
-  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{arithmetic sequence terms property}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{property of arithmetic sequence terms with a fractional index}} \\
+  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
   S_n=\frac{a_1+a_n}{2}n & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
   \end{array}
   >$
@@ -288,7 +288,7 @@ $
 $  
 :::
 #### Solution
-- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the arithmetic sequence terms property with fractional index  
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the property of arithmetic sequence terms with a fractional index  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -331,8 +331,8 @@ $
   \begin{cases}
   a_m+a_n=2a_{\frac{m+n}{2}} \\
   S_n=na_{\frac{n+1}{2}} \\
-  \end{cases} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{arithmetic sequence terms property with fractional index}} \\
-  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{arithmetic sequence terms property}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{property of arithmetic sequence terms with a fractional index}} \\
+  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
   S_n=\frac{a_1+a_n}{2}n & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
   \end{array}
   >$
@@ -347,7 +347,7 @@ __The property of arithmetic series summation__
   then the sequence $\boldsymbol{S_n, S_{2n}-S_n, S_{3n}-S_{2n},\cdots}$ also form __an arithmetic sequence__,
   with __common difference $\boldsymbol{n^2d}$__.
 - __Essence__: after grouping the sums, __the results still form an arithmetic sequence__.
-  The subscripts of $\boldsymbol{S_n}$ are in __a multiple relationship__.
+  __The subscripts of $\boldsymbol{S_n}$__ are in __a multiple relationship__.
 
 ### $\fbox{26}\:$In an arithmetic sequence $\small \left\{ a_n \right\}$, the sum of the first $\small 5$ terms is $\small S_5=15$, and the sum of the first $\small 15$ terms is $\small S_{15}=120$, then find the sum of the first $\small 10$ terms $\small S_{10}$.
 ::: wrap  
@@ -397,7 +397,7 @@ $
   \end{array}
   $   
   :::
-- $\textcolor{#228B22}{\fbox{3}}\:$Solve by using the arithmetic series sum formula with fractional index  
+- $\textcolor{#228B22}{\fbox{3}}\:$Solve by using the arithmetic series sum formula with a fractional index  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -412,7 +412,7 @@ $
   \end{array}
   $   
   :::
-- $\textcolor{#228B22}{\fbox{4}}\:$Solve by using the property of the arithmetic series sum  
+- $\textcolor{#228B22}{\fbox{4}}\:$Solve by using the arithmetic series sum property  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -449,12 +449,12 @@ $
   \begin{array}{ll}
   S_n=na_1+\frac{n(n-1)}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
   \frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#note-if-the-sums-of-the-first-and-terms-are-known-then-the-common-difference-of-the-arithmetic-sequence-can-be-found-using}{\textsf{arithmetic series sum common difference formula}} \\
-  S_n=na_{\frac{n+1}{2}} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{arithmetic series sum formula with fractional index}} \\
+  S_n=na_{\frac{n+1}{2}} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{arithmetic series sum formula with a fractional index}} \\
   d=\frac{a_n-a_m}{n-m} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{common difference formula}} \\
   \begin{cases}
   \frac{S_n}{n}, \frac{S_{2n}}{2n}, \frac{S_{3n}}{3n}, \cdots \\
   S_n, S_{2n}-S_n, S_{3n}-S_{2n},\cdots \\
-  \end{cases} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-is-the-sum-of-the-first-terms-of-an-arithmetic-sequence-then-also-form-an-arithmetic-sequence-with-common-difference}{\textsf{property of arithmetic series sum}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-is-the-sum-of-the-first-terms-of-an-arithmetic-sequence-then-also-form-an-arithmetic-sequence-with-common-difference}{\textsf{arithmetic series sum property}} \\
   a+c=2b & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_5-focus-1}{\textsf{arithmetic mean}} \\
   \end{array}
   >$
@@ -476,7 +476,7 @@ $
 $  
 :::
 #### Solution
-- $\textcolor{#228B22}{\fbox{4}}\:$Solve by using the property of the arithmetic series sum  
+- $\textcolor{#228B22}{\fbox{4}}\:$Solve by using the arithmetic series sum property  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -514,7 +514,7 @@ $
   \begin{cases}
   \frac{S_n}{n}, \frac{S_{2n}}{2n}, \frac{S_{3n}}{3n}, \cdots \\
   S_n, S_{2n}-S_n, S_{3n}-S_{2n},\cdots \\
-  \end{cases} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-is-the-sum-of-the-first-terms-of-an-arithmetic-sequence-then-also-form-an-arithmetic-sequence-with-common-difference}{\textsf{property of arithmetic series sum}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-is-the-sum-of-the-first-terms-of-an-arithmetic-sequence-then-also-form-an-arithmetic-sequence-with-common-difference}{\textsf{arithmetic series sum property}} \\
   \frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#note-if-the-sums-of-the-first-and-terms-are-known-then-the-common-difference-of-the-arithmetic-sequence-can-be-found-using}{\textsf{arithmetic series sum common difference formula}} \\
   \end{array}
   >$

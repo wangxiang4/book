@@ -106,9 +106,9 @@ lang: en-US
 ::: wrap  
 - $S_n=\frac{a_1+a_n}{2}n=na_1+\frac{n(n-1)}{2}d=\frac{d}{2}n^2+(a_1-\frac{d}{2})n$  
 :::
-- ###### Note: If the sums of the first $n$ and $m$ terms are known, then the common difference $d$ of the arithmetic sequence can be found using $\boldsymbol{\frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d}$.
+- ###### Note: if the sums of the first $n$ and $m$ terms are known, then the common difference $d$ of the arithmetic sequence can be found using $\boldsymbol{\frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d}$.
 - ###### Special case: $\boldsymbol{d=0}$, $S_n=na_1$ is __a linear function__.
-- ###### $S_n=\frac{d}{2}n^2+(a_1-\frac{d}{2})n$ can be regarded as __a quadratic function $\boldsymbol{y=ax^2+bx+c}$__.  
+- ###### $S_n=\frac{d}{2}n^2+(a_1-\frac{d}{2})n$ can be regarded as __a quadratic function $\href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\boldsymbol{y=ax^2+bx+c}}$__.  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -214,7 +214,7 @@ lang: en-US
   \begin{array}{ll}
   S_n=\frac{a_1+a_n}{2}n \\
   \frac{S_{2k-1}}{T_{2k-1}}=\frac{\frac{a_1+a_{2k-1}}{2}(2k-1)}{\frac{b_1+b_{2k-1}}{2}(2k-1)} \\
-  a_1+a_{2k-1}=2a_k & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{arithmetic sequence terms property}} \\
+  a_1+a_{2k-1}=2a_k & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
   \frac{\frac{\bcancel{2}a_k}{\bcancel{2}}\bcancel{(2k-1)}}{\frac{\bcancel{2}b_k}{\bcancel{2}}\bcancel{(2k-1)}}=\frac{a_k}{b_k} \\
   \end{array}
   $  
@@ -223,7 +223,7 @@ lang: en-US
 
 ## 5.Focus 1
 __The identification and definition of sequences__
-- If __three numbers $\boldsymbol{a,b,c}$__ form an arithmetic sequence, then $\boldsymbol{b}$ is called __the arithmetic mean of $\boldsymbol{a}$ and $\boldsymbol{c}$__, i.e., $\boldsymbol{a+c=2b}$.
+- If __three numbers $\boldsymbol{a,b,c}$__ form an arithmetic sequence, then $\boldsymbol{b}$ is called __the arithmetic mean of $\boldsymbol{a}$ and $\boldsymbol{c}$__, i.e., $a+c=2b$.
 
 
 ### $\fbox{9}\:$Let $\small 3^a=4, 3^b= 8, 3^c=16$. Then $\small a,b,c$ are $\small \mathpunct{?}$.
@@ -401,7 +401,7 @@ lg^{2(x+3)}=lg^{(x-1)^2} \\
 x^2-4x-5=0 \\
 (x-5)(x+1)=0 \\
 x=5 \lor -1 \\
-x=-1 \Longrightarrow \log_{10}(-a)=c \longrightarrow  10^c=-a  & x\ne-1 \\
+\log_{10}(-a)=c \longrightarrow  10^c=-a  & x\ne-1 \\
 x=5 \\
 \end{array}
 $  
@@ -463,7 +463,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{arithmetic sequence terms property}} \\
+  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
   \end{array}
   >$
 
@@ -517,7 +517,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{arithmetic sequence terms property}} \\
+  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
   \end{array}
   >$
 
@@ -900,7 +900,7 @@ a_6>|a_5| \Longrightarrow a_5+a_6>0 \\
 a_5+a_6=a_1+a_{10} >0 \\
 a_1+a_{10} \Longrightarrow S_n=\frac{a_1+a_n}{2}n \\
 S_{10}=\frac{a_1+a_{10}}{2}10>0 \\
-S_9=\frac{a_1+a_9}{2}9=9a_5<0 & a_5<0 \\
+S_9=\frac{a_1+a_9}{2}9=9a_5<0 \\
 \end{array}
 $  
 :::  
@@ -921,7 +921,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{arithmetic sequence terms property}} \\
+  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
   S_n=\frac{a_1+a_n}{2}n & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
   \end{array}
   >$
