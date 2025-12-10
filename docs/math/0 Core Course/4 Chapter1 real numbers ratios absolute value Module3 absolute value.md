@@ -60,7 +60,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#_1-definition}{\textsf{definition}} \\
+  & \href{/math/0%20Core%20Course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#_1-definition}{\textsf{absolute value definition}} \\
   \end{array}
   >$
 
@@ -102,7 +102,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#_1-definition}{\textsf{definition}} \\
+  & \href{/math/0%20Core%20Course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#_1-definition}{\textsf{absolute value definition}} \\
   \end{array}
   >$
 
@@ -165,7 +165,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#_1-definition}{\textsf{definition}} \\
+  & \href{/math/0%20Core%20Course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#_1-definition}{\textsf{absolute value definition}} \\
   \end{array}
   >$
 

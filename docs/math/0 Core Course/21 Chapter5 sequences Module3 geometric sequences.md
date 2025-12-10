@@ -227,7 +227,7 @@ $
   \begin{array}{ll}
   ac=b^2 & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_5-focus-1}{\textsf{geometric mean}} \\
   (a-b)^2=a^2-2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
-  b^x=y \longrightarrow \log_{b}y=x & \href{https://en.wikipedia.org/wiki/Logarithm}{\textsf{definition of logarithm}} \\
+  b^x=y \longrightarrow \log_{b}y=x & \href{https://en.wikipedia.org/wiki/Logarithm}{\textsf{logarithm definition}} \\
   \end{array}
   >$
 
@@ -356,7 +356,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{a_{n+1}}{a_n}=q & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_1-definition}{\textsf{definition of geometric sequence}} \\
+  \frac{a_{n+1}}{a_n}=q & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_1-definition}{\textsf{geometric sequence definition}} \\
   \frac{a_m}{a_n}=q^{m-n} & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{term ratio formula}} \\
   \end{array}
   >$
@@ -585,7 +585,7 @@ $
   S_n=na_1 & q=1 \\
   S_n=k-kq^n & q \ne 1 \\
   \end{cases}
-  & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#properties-of}{\textsf{properties of geometric series sum formula}} \\
+  & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#properties-of}{\textsf{geometric series sum formula properties}} \\
   \end{array}
   >$
 
@@ -678,7 +678,7 @@ $
   na_1 & q=1 \\
   \frac{a_{1}(1-q^n)}{1-q}=\frac{a_{1}-a_{n}q}{1-q}=\frac{a_{1}-a_{n+1}}{1-q} & q \ne 1
   \end{cases} & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_3-sum-of-the-first-terms}{\textsf{geometric series sum formula}} \\
-  S_n=\frac{a_1}{1-q}\cdot(1-q^n)=k(1-q^n) & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#properties-of}{\textsf{properties of geometric series sum formula}} \\
+  S_n=\frac{a_1}{1-q}\cdot(1-q^n)=k(1-q^n) & \href{/math/0%20Core%20Course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#properties-of}{\textsf{geometric series sum formula properties}} \\
   x^3=a \longrightarrow x=\sqrt[3]{a} & \textsf{n-th root property} \\
   \end{array}
   >$

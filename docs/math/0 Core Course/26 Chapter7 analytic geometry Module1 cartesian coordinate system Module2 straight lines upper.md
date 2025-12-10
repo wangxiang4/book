@@ -338,13 +338,13 @@ $
   \begin{cases}
   0<\alpha<90^\circ, k>0 \\
   90^\circ<\alpha<180^\circ, k<0 \\
-  \end{cases} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-definition-of-slope}{\textsf{definition of slope}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-definition-of-slope}{\textsf{slope definition}} \\
   135^\circ=-1 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-common-inclination-angles-and-slope}{\textsf{inclination angle–slope}} \\
   \end{array}
   >$
 
   :::  
-- $y=kx+b$ [variation of the slope-intercept line](https://phet.colorado.edu/sims/html/graphing-slope-intercept/latest/graphing-slope-intercept_all.html)  
+- [variation of the slope-intercept line](https://phet.colorado.edu/sims/html/graphing-slope-intercept/latest/graphing-slope-intercept_all.html) $\boldsymbol{y=kx+b}$  
   ::: wrap  
   > counterclockwise rotation: $k\uparrow$.  
   > clockwise rotation: $k\downarrow$.  
@@ -556,7 +556,7 @@ $
   \begin{array}{ll}
   \frac{x}{a}+\frac{y}{b}=1 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#intercept-form}{\textsf{intercept form}} \\
   y=y_0+k(x-x_0) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#point-slope-form}{\textsf{point-slope form}} \\
-  ax+by+c=0 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#general-form}{\textsf{general form of a line}} \\
+  ax+by+c=0 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#general-form}{\textsf{line general form}} \\
   \end{array}
   >$
 
@@ -775,7 +775,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  ax+by+c=0 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#general-form}{\textsf{general form of a line}} \\
+  ax+by+c=0 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#general-form}{\textsf{line general form}} \\
   \begin{cases}
   \textsf{y-intercept}=-\frac{c}{b} \\
   \textsf{x-intercept}=-\frac{c}{a} \\
@@ -888,7 +888,7 @@ $
   \end{cases} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#quickly-calculate-the-intercept-form}{\textsf{transform general form to intercept form}} \\
   a=0 \longrightarrow by+c=0 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#horizontal-line}{\textsf{horizontal line}} \\
   k=-\frac{a}{b} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#note-the-general-form-is-crucial-as-it-allows-for-quick-calculation-of-the-slope}{\textsf{convert general form to slope}} \\
-  90^\circ<\alpha<180^\circ, k<0 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-definition-of-slope}{\textsf{definition of slope}} \\
+  90^\circ<\alpha<180^\circ, k<0 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-definition-of-slope}{\textsf{slope definition}} \\
   \end{array}
   >$
 

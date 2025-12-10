@@ -157,7 +157,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
   a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
   (a^m)^n=a^{m\cdot n} & \textsf{power of a power rule} \\
@@ -207,7 +207,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
-  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
   \end{array}
   >$
@@ -259,7 +259,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
-  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   \end{array}
   >$
 
@@ -359,7 +359,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
   x=-\frac{b}{2a} & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#axis-of-symmetry}{\textsf{axis of symmetry}} \\
   \end{array}
@@ -466,7 +466,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
-  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
   \end{array}
   >$
@@ -514,7 +514,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
-  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
   \end{array}
   >$
@@ -561,7 +561,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
-  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   \end{array}
   >$
 
@@ -665,7 +665,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
-  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{definition of standard power function}} \\
+  y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
   \end{array}
   >$
@@ -1552,8 +1552,8 @@ $
   :::
 ---
 
-| Platform    | Lesson                                                                                       | Materials                                                                                                                                                                                                                                                                           | 
-|-------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=xswEYoH6ybA&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Core courseware](../../public/math/Core%20Course/pdf/Core%20courseware.pdf) <br/> [Core courseware answers](../../public/math/Core%20Course/pdf/Core%20courseware%20answers.pdf)                                                                                                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gx65i?playlist=x9h6d2)                           | [Power functions and cones exercise](../../public/math/Core%20Course/pdf/34%20Power%20functions%20and%20cones%20exercise.pdf) <br/> [Power functions and cones exercise answers](../../public/math/Core%20Course/pdf/34%20Power%20functions%20and%20cones%20exercise%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95j1-35-chapter12-power-function-and-cone.html)                |                                                                                                                                                                                                                                                                                     |
+| Platform    | Lesson                                                                                       | Materials                                                                                                                                                                                                                                                                         | 
+|-------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| YouTube     | [Watch](https://www.youtube.com/watch?v=xswEYoH6ybA&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Core courseware](../../public/math/Core%20Course/pdf/Core%20courseware.pdf)<br/>[Core courseware answers](../../public/math/Core%20Course/pdf/Core%20courseware%20answers.pdf)                                                                                                   |
+| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gx65i?playlist=x9h6d2)                           | [Power functions and cones exercise](../../public/math/Core%20Course/pdf/34%20Power%20functions%20and%20cones%20exercise.pdf)<br/>[Power functions and cones exercise answers](../../public/math/Core%20Course/pdf/34%20Power%20functions%20and%20cones%20exercise%20answers.pdf) |
+| Rumble      | [Watch](https://rumble.com/v6s95j1-35-chapter12-power-function-and-cone.html)                |                                                                                                                                                                                                                                                                                   |

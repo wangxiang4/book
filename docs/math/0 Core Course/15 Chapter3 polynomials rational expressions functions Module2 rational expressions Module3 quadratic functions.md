@@ -299,7 +299,7 @@ $
 ## 1.Three Forms of a Quadratic Function
 1. Standard form: $\boldsymbol{y=ax^2+bx+c}$.
 ::: wrap  
-2. Vertex form ([completed square form](/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas)): $\boldsymbol{y=a(x+\frac{b}{2a})^2+\frac{4ac-b^2}{4a}}$.  
+2. Vertex form ([completing the square](/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas)): $\boldsymbol{y=a(x+\frac{b}{2a})^2+\frac{4ac-b^2}{4a}}$.  
    $y=x^2+4x+10=(x+2)^2+6$
 :::  
 3. Root form: $\boldsymbol{y=a(x-x_1)(x-x_2)}$.  
@@ -423,9 +423,9 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_2-properties}{\textsf{properties of quadratic functions}} \\
-  y=ax^2+bx+c & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{standard form of a quadratic function}} \\
-  y=a(x+\frac{b}{2a})^2+\frac{4ac-b^2}{4a} & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{vertex form of a quadratic function}} \\
-  y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{root form of a quadratic function}} \\
+  y=ax^2+bx+c & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{quadratic function standard form}} \\
+  y=a(x+\frac{b}{2a})^2+\frac{4ac-b^2}{4a} & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{quadratic function vertex form}} \\
+  y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{quadratic function root form}} \\
   (a+b)^2=a^2+2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \end{array}
   >$
@@ -481,7 +481,7 @@ $
   >$
   \begin{array}{ll}
   (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-the-coordinates-of-the-midpoint-between-two-points}{\textsf{midpoint formula}} \\
-  y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{root form of a quadratic function}} \\
+  y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{quadratic function root form}} \\
   \end{array}
   >$
 
@@ -533,7 +533,7 @@ $
   >$
   \begin{array}{ll}
   (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-the-coordinates-of-the-midpoint-between-two-points}{\textsf{midpoint formula}} \\
-  y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{root form of a quadratic function}} \\
+  y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{quadratic function root form}} \\
   \end{array}
   >$
 
@@ -578,7 +578,7 @@ $
   >$
   \begin{array}{ll}
   (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-the-coordinates-of-the-midpoint-between-two-points}{\textsf{midpoint formula}} \\
-  y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{root form of a quadratic function}} \\
+  y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{quadratic function root form}} \\
   \end{array}
   >$
 

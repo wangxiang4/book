@@ -865,7 +865,7 @@ $
   x_1+x_2<0 \\
   x_1x_2>0 \\
   \Delta\ge0 \\
-  \end{cases} & \href{/math/0%20Core%20Course/16%20Chapter4%20equations%20inequalities%20Module1%20equations.html#_9-focus-4}{\textsf{sign conditions of two roots}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/16%20Chapter4%20equations%20inequalities%20Module1%20equations.html#_9-focus-4}{\textsf{sign conditions for two roots}} \\
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\

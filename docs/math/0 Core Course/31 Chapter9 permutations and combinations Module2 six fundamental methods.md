@@ -671,7 +671,7 @@ $
   \begin{array}{ll}
   C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars formula}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
-  C_n^m=C_n^{n-m} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#property-of-combinations}{\textsf{property of combinations}} \\
+  C_n^m=C_n^{n-m} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#property-of-combinations}{\textsf{combinations property}} \\
   \end{array}
   >$
 

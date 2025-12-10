@@ -399,7 +399,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{definition of proportion}} \\
+  & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{proportion definition}} \\
   a:b=c:d \Longrightarrow ad=bc & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{fundamental properties of proportion}} \\
   \end{array}
   >$
@@ -446,7 +446,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{definition of proportion}} \\
+  & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{proportion definition}} \\
   a:b=c:d \Longrightarrow ad=bc & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{fundamental properties of proportion}} \\
   \end{array}
   >$

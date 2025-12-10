@@ -162,7 +162,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  b^x=y \longrightarrow \log_{b}y=x & \href{https://en.wikipedia.org/wiki/Logarithm}{\textsf{definition of logarithm}} \\
+  b^x=y \longrightarrow \log_{b}y=x & \href{https://en.wikipedia.org/wiki/Logarithm}{\textsf{logarithm definition}} \\
   a_n=
   \begin{cases}
   a_1=S_1 & n=1 \\
@@ -243,7 +243,7 @@ $
   a_1=S_1 & n=1 \\
   S_n-S_{n-1} & n \ge 2 \\
   \end{cases} & \href{/math/0%20Core%20Course/18%20Chapter5%20sequences%20Module1%20definition%20of%20sequences.html#given-find}{S_n\textsf{ to general term }a_n\textsf{ formula}} \\
-  a_n=f(n) & \href{/math/0%20Core%20Course/18%20Chapter5%20sequences%20Module1%20definition%20of%20sequences.html#_2-general-term}{\textsf{definition of general term}} \\
+  a_n=f(n) & \href{/math/0%20Core%20Course/18%20Chapter5%20sequences%20Module1%20definition%20of%20sequences.html#_2-general-term}{\textsf{general term definition}} \\
   \end{array}
   >$
 
@@ -385,7 +385,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_n=f(n) & \href{/math/0%20Core%20Course/18%20Chapter5%20sequences%20Module1%20definition%20of%20sequences.html#_2-general-term}{\textsf{definition of general term}} \\
+  a_n=f(n) & \href{/math/0%20Core%20Course/18%20Chapter5%20sequences%20Module1%20definition%20of%20sequences.html#_2-general-term}{\textsf{general term definition}} \\
   \frac{n}{(n+1)!}=\frac{1}{n!}-\frac{1}{(n+1)!} & \textsf{factorial fraction telescoping identity} \\
   S_n=a_1+a_2+\cdots+a_n=\sum_{i=1}^{n}a_i & \href{/math/0%20Core%20Course/18%20Chapter5%20sequences%20Module1%20definition%20of%20sequences.html#_3-sum-of-the-first-terms}{\textsf{sum of first }n\textsf{ terms}} \\
   \end{array}
@@ -427,7 +427,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_n=f(n) & \href{/math/0%20Core%20Course/18%20Chapter5%20sequences%20Module1%20definition%20of%20sequences.html#_2-general-term}{\textsf{definition of general term}} \\
+  a_n=f(n) & \href{/math/0%20Core%20Course/18%20Chapter5%20sequences%20Module1%20definition%20of%20sequences.html#_2-general-term}{\textsf{general term definition}} \\
   n\cdot n! = (n+1)!-n! & \textsf{factorial difference telescoping identity} \\
   S_n=a_1+a_2+\cdots+a_n=\sum_{i=1}^{n}a_i & \href{/math/0%20Core%20Course/18%20Chapter5%20sequences%20Module1%20definition%20of%20sequences.html#_3-sum-of-the-first-terms}{\textsf{sum of first }n\textsf{ terms}} \\
   \end{array}

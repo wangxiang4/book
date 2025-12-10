@@ -421,7 +421,7 @@ $
   \log_b (a\cdot c) = \log_b a + \log_b c & \textsf{logarithm product rule} \\
   \log_b (a^k) = k\cdot\log_b a & \textsf{logarithm power rule} \\
   (a-b)^2=a^2-2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
-  b^x=y \longrightarrow \log_{b}y=x & \href{https://en.wikipedia.org/wiki/Logarithm}{\textsf{definition of logarithm}} \\
+  b^x=y \longrightarrow \log_{b}y=x & \href{https://en.wikipedia.org/wiki/Logarithm}{\textsf{logarithm definition}} \\
   \end{array}
   >$
 

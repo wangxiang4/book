@@ -85,7 +85,7 @@ $
   S_n=na_1+\frac{n(n-1)}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
   \frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#note-if-the-sums-of-the-first-and-terms-are-known-then-the-common-difference-of-the-arithmetic-sequence-can-be-found-using}{\textsf{arithmetic series sum common difference formula}} \\
   S_n=na_{\frac{n+1}{2}} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{arithmetic series sum formula with a fractional index}} \\
-  a_{n+1}-a_n=d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_1-definition}{\textsf{definition of common difference}} \\
+  a_{n+1}-a_n=d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_1-definition}{\textsf{common difference definition}} \\
   \end{array}
   >$
 

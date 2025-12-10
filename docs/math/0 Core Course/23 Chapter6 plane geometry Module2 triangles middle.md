@@ -108,7 +108,7 @@ $
   \frac{S_1}{S_2}=\frac{a_1}{a_2} & h\textsf{ are equal} \\
   \frac{S_1}{S_2}=\frac{h_1}{h_2} & a\textsf{ are equal} \\
   S_1=S_2 & a,h\textsf{ are equal} \\
-  \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_6-focus-3}{\textsf{properties of triangle area formula}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_6-focus-3}{\textsf{triangle area formula properties}} \\
   \end{array}
   >$
 
@@ -173,7 +173,7 @@ $
   \frac{S_1}{S_2}=\frac{a_1}{a_2} & h\textsf{ are equal} \\
   \frac{S_1}{S_2}=\frac{h_1}{h_2} & a\textsf{ are equal} \\
   S_1=S_2 & a,h\textsf{ are equal} \\
-  \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_6-focus-3}{\textsf{properties of triangle area formula}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_6-focus-3}{\textsf{triangle area formula properties}} \\
   \end{array}
   >$
 
@@ -485,7 +485,7 @@ $
   S=\frac{1}{2}ah
   \begin{cases}
   \frac{S_1}{S_2}=\frac{a_1}{a_2} & h\textsf{ are equal} \\
-  \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_6-focus-3}{\textsf{property of triangle area formula}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_6-focus-3}{\textsf{triangle area formula property}} \\
   S_{\triangle ABD}:S_{\triangle ACD} = BD:CD & \triangle ABD \textsf{ and } \triangle ACD \textsf{ have equal altitude} \\
   S_{\triangle BOD}:S_{\triangle COD} = BD:CD & \triangle BOD \textsf{ and } \triangle COD \textsf{ have equal altitude} \\
   \frac{S_{\triangle ABD}}{S_{\triangle ACD}}= \frac{S_{\triangle BOD}}{S_{\triangle COD}}=\frac{BD}{CD} \\
