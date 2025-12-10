@@ -301,24 +301,24 @@ $
 
 ## 2.Triangle Side Relationships
 ::: wrap
-- __The sum of any two sides__ is __greater than__ the third side, __i.e., $\boldsymbol{a+b>c, a+c>b, b+c>a}$__.
-  - When one of the largest sides is known, it can be simplified into an inequality.  
+- __The sum of any two sides__ is __greater than the third side__, i.e., $\boldsymbol{a+b>c, a+c>b, b+c>a}$.
+  - When __the longest side is known__, it can be simplified into __an inequality__.  
     $
     \begin{array}{ll}
-    b+c>a & a\textsf{ as largest side} \\
-    a+c>b & b\textsf{ as largest side} \\
-    a+b>c & c\textsf{ as largest side} \\
+    b+c>a & a\textsf{ as longest side} \\
+    a+c>b & b\textsf{ as longest side} \\
+    a+b>c & c\textsf{ as longest side} \\
     \end{array}
     $  
 :::  
 ::: wrap  
-- __The difference of any two sides__ is __less than__ the third side, __i.e., $\boldsymbol{|a-b| \lt c, |a-c| \lt b, |b-c| \lt a}$__.
-  - When one of the smallest sides is known, it can be simplified into an inequality.  
+- __The difference of any two sides__ is __less than the third side__, i.e., $\boldsymbol{|a-b| \lt c, |a-c| \lt b, |b-c| \lt a}$.
+  - When __the shortest side is known__, it can be simplified into __an inequality__.  
     $
     \begin{array}{ll}
-    |b-c| \lt a & a\textsf{ as smallest side} \\
-    |a-c| \lt b & b\textsf{ as smallest side} \\
-    |a-b| \lt c & c\textsf{ as smallest side} \\
+    |b-c| \lt a & a\textsf{ as shortest side} \\
+    |a-c| \lt b & b\textsf{ as shortest side} \\
+    |a-b| \lt c & c\textsf{ as shortest side} \\
     \end{array}
     $  
 :::
@@ -327,8 +327,7 @@ $
 ## 3.Focus 1
 __The finding angles__
 - When __parallel lines are combined with special figures__,
-  the resulting angles must be analyzed using __both the relationships of parallel lines and those of the special figures__.
-
+  the angles must be analyzed using __both the relationships of parallel lines and the angle relationships of special figures__.
 
 
 ### $\fbox{6}\:$Figure 6–9, if $\small AB \parallel CE, CE=DE$, and $\small y=45^\circ$, then find $\small x$.
