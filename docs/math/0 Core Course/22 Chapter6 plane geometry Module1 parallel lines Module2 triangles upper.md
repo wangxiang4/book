@@ -11,7 +11,7 @@ lang: en-US
   - $\angle 3$ and $\angle 4$ are __same-side interior angles__, same-side interior angles are __supplementary__.  
   ![Angle between line and parallel.svg](../../public/math/Core%20Course/Angle%20between%20line%20and%20parallel.svg)  
 
-## 2.Line Segments Cut by a Pair of Parallel Lines Are Proportional
+## 2.Proportional Line Segments Cut by Parallel Lines
   - __top–bottom ratio formula__: $\boldsymbol{\frac{a}{b}=\frac{c}{d}}$
   - __left–right ratio formula__: $\boldsymbol{\frac{a}{c}=\frac{b}{d}}$  
   ![Proportional segments parallel lines.svg](../../public/math/Core%20Course/Proportional%20segments%20parallel%20lines.svg)   
@@ -21,8 +21,8 @@ lang: en-US
 ## 3.Focus 1
 __The finding angles__
 - When __parallel lines are combined with special figures__,
-  the resulting angles must be analyzed using __both the relationships of parallel lines and those of the special figures__.
-- Note special figures such as __right triangles__ and __isosceles triangles__.
+  the angles must be analyzed using __both the relationships of parallel lines and the angle relationships of special figures__.
+- Note: special figures such as __right triangles__ and __isosceles triangles__.
 
 
 
@@ -41,7 +41,7 @@ $
 $  
 :::
 #### Solution
-- Show parallel line  
+- Show known conditions  
   ![Question parallel lines figure 6-4 solve-1.svg](../../public/math/Core%20Course/Question%20parallel%20lines%20figure%206-4%20solve-1.svg)  
   ::: wrap  
   $
@@ -106,7 +106,7 @@ $
 $  
 :::
 #### Solution
-- Show parallel line  
+- Show known conditions  
   ![Question parallel lines figure 6-5 solve-1.svg](../../public/math/Core%20Course/Question%20parallel%20lines%20figure%206-5%20solve-1.svg)  
   ::: wrap  
   $
@@ -190,7 +190,7 @@ $
   \angle1+\angle4=180^\circ & \textsf{same-side interior angles}\\
   \end{array}
   \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_1-angles-formed-by-a-line-intersecting-parallel-lines}{\textsf{line and parallel lines intersection angles}} \\
-  \angle A + \angle B + \angle C = 180^\circ & \textsf{triangle angle sum}=180^\circ \\
+  \angle A + \angle B + \angle C = 180^\circ & \textsf{triangle angle sum} \\
   \end{array}
   >$
 
@@ -237,7 +237,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{a}{c}=\frac{b}{d} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-line-segments-cut-by-a-pair-of-parallel-lines-are-proportional}{\textsf{left–right ratio formula}} \\
+  \frac{a}{c}=\frac{b}{d} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-proportional-line-segments-cut-by-parallel-lines}{\textsf{left–right ratio formula}} \\
   \end{array}
   >$
 
@@ -283,7 +283,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{a}{b}=\frac{c}{d} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-line-segments-cut-by-a-pair-of-parallel-lines-are-proportional}{\textsf{top–bottom ratio formula}}
+  \frac{a}{b}=\frac{c}{d} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-proportional-line-segments-cut-by-parallel-lines}{\textsf{top–bottom ratio formula}}
   \end{array}
   >$
 
@@ -296,7 +296,7 @@ $
 ## 1.Sum of Interior Angles of a Triangle
 - $\boldsymbol{\angle1+\angle2+\angle3=\pi}$.
   __The exterior angle of a triangle__ equals __the sum of the two non-adjacent interior angles__.  
-  ![Triangle interior angle sum.svg](../../public/math/Core%20Course/Triangle%20interior%20angle%20sum.svg)   
+  ![Triangle angle sum.svg](../../public/math/Core%20Course/Triangle%20angle%20sum.svg)   
 
 
 ## 2.Triangle Side Relationships
@@ -377,7 +377,7 @@ $
   \angle1+\angle4=180^\circ & \textsf{same-side interior angles}\\
   \end{array}
   \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_1-angles-formed-by-a-line-intersecting-parallel-lines}{\textsf{line and parallel lines intersection angles}} \\
-  \angle A + \angle B + \angle C = 180^\circ & \textsf{triangle angle sum}=180^\circ \\
+  \angle A + \angle B + \angle C = 180^\circ & \textsf{triangle angle sum} \\
   \end{array}
   >$
 
