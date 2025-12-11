@@ -17,7 +17,7 @@ lang: en-US
   | $\textsf{sin}C$  |                $\frac{1}{2}$                 |             $\frac{\sqrt{2}}{2}$             |             $\frac{\sqrt{3}}{2}$             |    $\boldsymbol{1}$     |
 
 - Application: when __two sides and the included angle__ are known, this formula can be __used to find the area__.  
-  ![Triangle Area formula two sides angle.svg](../../public/math/Core%20Course/Triangle%20Area%20formula%20two%20sides%20angle.svg)     
+  ![Triangle area formula two sides angle.svg](../../public/math/Core%20Course/Triangle%20area%20formula%20two%20sides%20angle.svg)       
 
 ::: wrap  
 ### $\textcolor{#1E3A5F}{\fbox{3}\:}\: \small S=\sqrt{p(p-a)(p-b)(p-c)}$, where $\small p=\frac{1}{2}(a+b+c)$
