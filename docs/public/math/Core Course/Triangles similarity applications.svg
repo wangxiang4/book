@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="512" height="246" viewBox="0 0 2134 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <path d="M1059.66,870.831l-478.984,-843.259" style="fill:none;stroke:#0dcaf2;stroke-width:8.77px;"/>
-  <path d="M2128.82,870.831l-652.594,-843.259" style="fill:none;stroke:#0dcaf2;stroke-width:8.77px;"/>
-  <path d="M580.676,27.572l-576.291,836.384" style="fill:none;stroke:#0dcaf2;stroke-width:8.77px;"/>
-  <path d="M2009.6,27.572l-672.379,836.384" style="fill:none;stroke:#0dcaf2;stroke-width:8.77px;"/>
-  <path d="M1052.81,870.831l-1048.42,-6.87" style="fill:none;stroke:#0dcaf2;stroke-width:8.77px;"/>
-  <path d="M2128.82,870.831l-791.607,-6.666" style="fill:none;stroke:#0dcaf2;stroke-width:8.77px;"/>
-  <path d="M2009.6,27.572l-533.367,-0" style="fill:none;stroke:#0dcaf2;stroke-width:8.77px;"/>
-  <g>
-        <clipPath id="_clip1">
-            <path d="M292.559,453.585c-2.42,0.016 -4.398,-1.936 -4.413,-4.356c-0.016,-2.42 1.935,-4.397 4.355,-4.413l519.489,-3.436c2.42,-0.015 4.398,1.936 4.414,4.356c0.016,2.42 -1.936,4.397 -4.355,4.413l-519.49,3.436Z"/>
-        </clipPath>
-    <g clip-path="url(#_clip1)">
-            <use id="_Image2_" serif:id="_Image2" xlink:href="#_Image2" x="288.146" y="441.38" width="529px" height="13px"/>
-        </g>
-    </g>
-  <text x="313.588px" y="988.842px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:58.46px;fill:#1e3a5f;">pyramid similarity</text>
-  <text x="1482.83px" y="988.842px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:58.46px;fill:#1e3a5f;">hourglass similarity</text>
-  <defs>
-        <image id="_Image2" width="529px" height="13px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhEAAAANCAYAAAAXFTzbAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACf0lEQVR4nO3cPWgTYRgH8P/zkoaCVCvaWqyKHVykOFRwdRMEoYgoFj/Q4tIugou4uddBsEt2B2kndVIHdRBsQRCqTUWLIqHgUAxBmqtJ73G4XpKr1+Tycdd8/H/T817u4+Xl+N9LkntFVfE6k8folyyCmD7ajet9XYH2JSKiCKkqVAFbAduGp7Z1s11FvfUcQWrbBhTV1bX0re5+ttl41NK3gOOhJ4axJ/EQECm92wQAYum8YuK7Fej+PNsbwzVOIIjqo6ptE0IM4tquE9Z4EIVAFpdwNbWCx4cHSzcrAJHx5SxmV3MVT7IvJpgb3oX+Lqm4b8tzZ/OtGFQM6OYeA9UduqmJiOpwoB8Dz55gbcu3EdIzn3EbZdPt09uXOJL87A33Zg7reh5YDHoiIiKvyxex+86kZ5M7iSj71Bxb+YXEhSvAxkaIvSMiIqKmtbcXx5/PIBUv/q3BoMIEYjCXR2LsJicQREREnex3GosPHnk2mUrHJO/dB7LB3twgIiKiNvbiFU5lCy9jSNlJxMTyD+Dd+9D7RERERC0ga+Hp1FShKT3zGd+fM45Z6/hw7hKQyfh9TERERFEwBjDirNPgVxuz2a6xLnduKdl/6CBwegQYH8WtnzmZWc35TyKMKtI3JoHk0k4MFxFRa3EDuVIQNyL8jXGW+ammjqxvEV2nU8ZDBBDvO5XNIvVXcXLhD2J+H979uAB8/RZ1n4jC1YkhxCCOYgyaMuSJwnQoLrg9EP//Fc8Ry8KbM+cBK9gqlg3X7qHFsA53DLa7LoOeiKih1mxF6WJT6BbVuf3rGEKuGMAiTpgXap9txjgncAMdKD4EtjvOPcYNeadm0BMREbWIf8vhXiO0tAQaAAAAAElFTkSuQmCC"/>
-    </defs>
+<svg width="512" height="246" viewBox="0 0 1753 804" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M241.511,347.486l427.819,-2.332" style="fill:none;stroke:#8dcc33;stroke-width:8.33px;"/>
+  <path d="M870.51,696.339l-393.485,-692.737" style="fill:none;stroke:#0dcaf2;stroke-width:7.2px;"/>
+  <path d="M1748.83,696.339l-536.106,-692.737" style="fill:none;stroke:#0dcaf2;stroke-width:7.2px;"/>
+  <path d="M477.025,3.602l-473.423,687.09" style="fill:none;stroke:#0dcaf2;stroke-width:7.2px;"/>
+  <path d="M1650.89,3.602l-552.359,687.09" style="fill:none;stroke:#0dcaf2;stroke-width:7.2px;"/>
+  <path d="M864.883,696.339l-861.277,-5.643" style="fill:none;stroke:#0dcaf2;stroke-width:7.2px;"/>
+  <path d="M1748.83,696.339l-650.305,-5.476" style="fill:none;stroke:#0dcaf2;stroke-width:7.2px;"/>
+  <path d="M1650.89,3.602l-438.161,0" style="fill:none;stroke:#0dcaf2;stroke-width:7.2px;"/>
+  <text x="257.612px" y="793.285px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:48.025px;fill:#0dcaf2;stroke:#1e3a5f;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">pyramid similarity</text>
+  <text x="1218.14px" y="793.285px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:48.025px;fill:#0dcaf2;stroke:#1e3a5f;stroke-width:1px;stroke-linecap:butt;stroke-miterlimit:2;">hourglass similarity</text>
 </svg>
