@@ -121,27 +121,27 @@ const tableData = [
     },
     col_2: {
       type: 'image',
-      content: '/math/Core%20Courses/Power%20functions%20positive%20graph%201.svg'
+      content: '/math/Core%20Course/Power%20functions%20positive%20graph%201.svg'
     },
     col_3: {
       type: 'image',
-      content: '/math/Core%20Courses/Power%20functions%20positive%20graph%202.svg'
+      content: '/math/Core%20Course/Power%20functions%20positive%20graph%202.svg'
     },
     col_4: {
       type: 'image',
-      content: '/math/Core%20Courses/Power%20functions%20positive%20graph%203.svg'
+      content: '/math/Core%20Course/Power%20functions%20positive%20graph%203.svg'
     },
     col_5: {
       type: 'image',
-      content: '/math/Core%20Courses/Power%20functions%20negative%20graph%201.svg'
+      content: '/math/Core%20Course/Power%20functions%20negative%20graph%201.svg'
     },
     col_6: {
       type: 'image',
-      content: '/math/Core%20Courses/Power%20functions%20negative%20graph%202.svg'
+      content: '/math/Core%20Course/Power%20functions%20negative%20graph%202.svg'
     },
     col_7: {
       type: 'image',
-      content: '/math/Core%20Courses/Power%20functions%20negative%20graph%203.svg'
+      content: '/math/Core%20Course/Power%20functions%20negative%20graph%203.svg'
     }
   },
   {
