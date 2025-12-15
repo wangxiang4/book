@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="276" height="110" viewBox="0 0 812 238" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <path d="M-351.425,-170.391l-569.435,569.435" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;"/>
-  <path d="M808.428,234.626l-805.303,-0" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;"/>
-  <path d="M808.435,114.29l-805.303,-0" style="fill:none;stroke:#9370db;stroke-width:6.25px;"/>
-  <g transform="matrix(47.4544,0,0,47.4544,623.325,34.3855)">
-    </g>
-  <text x="190.744px" y="34.386px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:47.454px;fill:#8e44ad;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">two lines are parallel</text>
+<svg width="276" height="110" viewBox="0 0 276 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M274.786,79.749l-273.724,-0" style="fill:none;stroke:#8dcc33;stroke-width:2.12px;"/>
+  <path d="M274.788,38.847l-273.723,-0" style="fill:none;stroke:#9370db;stroke-width:2.12px;"/>
+  <text x="64.834px" y="11.687px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16.13px;fill:#8e44ad;stroke:#1e3a5f;stroke-width:0.28px;stroke-linecap:butt;stroke-miterlimit:2;">two lines are parallel</text>
 </svg>
