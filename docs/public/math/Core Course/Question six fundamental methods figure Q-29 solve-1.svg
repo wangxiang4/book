@@ -1,60 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="588" height="198" viewBox="0 0 938 283" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <path d="M-438.012,-1091.55l783.852,0" style="fill:none;stroke:#8dcc33;stroke-width:12.5px;"/>
-  <path d="M-458.942,-390.144l264.924,0" style="fill:none;stroke:#ff822e;stroke-width:6.25px;"/>
-  <path d="M-196.003,-757.734l-254.083,367.548" style="fill:none;stroke:#0dcaf2;stroke-width:6.25px;"/>
-  <path d="M46.563,89.059l-6.03,-12.608l-6.468,12.388c3.179,-3.069 9.428,-2.96 12.498,0.22Z" style="fill:#dcdcdc;"/>
-  <path d="M40.357,86.449c-0.527,30.03 -2.06,117.367 -2.06,117.367" style="fill:none;stroke:#dcdcdc;stroke-width:4.17px;"/>
-  <path d="M216.66,89.059l-6.029,-12.608l-6.469,12.388c3.18,-3.069 9.429,-2.96 12.498,0.22Z" style="fill:#dcdcdc;"/>
-  <path d="M210.455,86.449c-0.527,30.03 -2.06,117.367 -2.06,117.367" style="fill:none;stroke:#dcdcdc;stroke-width:4.17px;"/>
-  <path d="M-428.401,-421.555l-19.704,28.503" style="fill:none;stroke:#0dcaf2;stroke-width:6.25px;"/>
-  <rect x="3.381" y="3.125" width="70.362" height="70.362" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:square;stroke-miterlimit:4;"/>
-  <rect x="518.743" y="3.125" width="70.362" height="70.362" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:square;stroke-miterlimit:4;"/>
-  <rect x="175.063" y="3.125" width="70.362" height="70.362" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:square;stroke-miterlimit:4;"/>
-  <rect x="690.424" y="3.125" width="70.362" height="70.362" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:square;stroke-miterlimit:4;"/>
-  <rect x="864.199" y="3.515" width="70.362" height="70.362" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:square;stroke-miterlimit:4;"/>
-  <rect x="346.381" y="3.125" width="70.362" height="70.362" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:square;stroke-miterlimit:4;"/>
-  <circle cx="38.562" cy="243.483" r="35.437" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:square;stroke-miterlimit:4;"/>
-  <circle cx="553.924" cy="243.483" r="35.437" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:square;stroke-miterlimit:4;"/>
-  <circle cx="210.244" cy="243.483" r="35.437" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:square;stroke-miterlimit:4;"/>
-  <circle cx="725.606" cy="243.483" r="35.437" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:square;stroke-miterlimit:4;"/>
-  <circle cx="898.758" cy="243.25" r="35.437" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:square;stroke-miterlimit:4;"/>
-  <circle cx="381.562" cy="243.483" r="35.437" style="fill:none;stroke:#8dcc33;stroke-width:6.25px;stroke-linecap:square;stroke-miterlimit:4;"/>
-  <g transform="matrix(50,0,0,50,54.3338,56.275)">
-    </g>
-  <text x="26.526px" y="56.275px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">1</text>
-  <g transform="matrix(50,0,0,50,568.719,56.2017)">
-    </g>
-  <text x="540.911px" y="56.202px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">4</text>
-  <g transform="matrix(50,0,0,50,224.711,56.275)">
-    </g>
-  <text x="196.904px" y="56.275px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">2</text>
-  <g transform="matrix(50,0,0,50,739.473,55.6524)">
-    </g>
-  <text x="711.665px" y="55.652px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">5</text>
-  <g transform="matrix(50,0,0,50,912.625,55.4195)">
-    </g>
-  <text x="884.818px" y="55.42px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">6</text>
-  <g transform="matrix(50,0,0,50,395.551,55.9576)">
-    </g>
-  <text x="367.744px" y="55.958px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">3</text>
-  <g transform="matrix(50,0,0,50,54.3338,261.452)">
-    </g>
-  <text x="26.526px" y="261.452px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">1</text>
-  <g transform="matrix(50,0,0,50,568.719,261.379)">
-    </g>
-  <text x="540.911px" y="261.379px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">4</text>
-  <g transform="matrix(50,0,0,50,224.711,261.452)">
-    </g>
-  <text x="196.904px" y="261.452px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">2</text>
-  <g transform="matrix(50,0,0,50,739.473,260.829)">
-    </g>
-  <text x="711.665px" y="260.829px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">5</text>
-  <g transform="matrix(50,0,0,50,912.625,260.596)">
-    </g>
-  <text x="884.818px" y="260.596px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">6</text>
-  <g transform="matrix(50,0,0,50,395.551,261.135)">
-    </g>
-  <text x="367.744px" y="261.135px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.83px;stroke-linecap:butt;stroke-miterlimit:2;">3</text>
+<svg width="588" height="188" viewBox="0 0 960 289" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M47.662,91.161l-6.172,-12.906l-6.621,12.681c3.254,-3.142 9.651,-3.03 12.793,0.225Z" style="fill:#9370db;"/>
+  <path d="M41.31,88.489c-0.54,30.739 -2.109,120.138 -2.109,120.138" style="fill:none;stroke:#9370db;stroke-width:4.27px;"/>
+  <path d="M221.774,91.161l-6.172,-12.906l-6.621,12.681c3.255,-3.142 9.651,-3.03 12.793,0.225Z" style="fill:#9370db;"/>
+  <path d="M215.422,88.489c-0.539,30.739 -2.108,120.138 -2.108,120.138" style="fill:none;stroke:#9370db;stroke-width:4.27px;"/>
+  <rect x="3.461" y="3.199" width="72.023" height="72.023" style="fill:none;stroke:#8dcc33;stroke-width:6.4px;stroke-linecap:square;stroke-miterlimit:4;"/>
+  <rect x="530.987" y="3.199" width="72.023" height="72.023" style="fill:none;stroke:#8dcc33;stroke-width:6.4px;stroke-linecap:square;stroke-miterlimit:4;"/>
+  <rect x="179.195" y="3.199" width="72.023" height="72.023" style="fill:none;stroke:#8dcc33;stroke-width:6.4px;stroke-linecap:square;stroke-miterlimit:4;"/>
+  <rect x="706.72" y="3.199" width="72.023" height="72.023" style="fill:none;stroke:#8dcc33;stroke-width:6.4px;stroke-linecap:square;stroke-miterlimit:4;"/>
+  <rect x="884.596" y="3.598" width="72.023" height="72.023" style="fill:none;stroke:#8dcc33;stroke-width:6.4px;stroke-linecap:square;stroke-miterlimit:4;"/>
+  <rect x="354.556" y="3.199" width="72.023" height="72.023" style="fill:none;stroke:#8dcc33;stroke-width:6.4px;stroke-linecap:square;stroke-miterlimit:4;"/>
+  <circle cx="39.472" cy="249.23" r="36.273" style="fill:none;stroke:#8dcc33;stroke-width:6.4px;stroke-linecap:square;stroke-miterlimit:4;"/>
+  <circle cx="566.998" cy="249.23" r="36.273" style="fill:none;stroke:#8dcc33;stroke-width:6.4px;stroke-linecap:square;stroke-miterlimit:4;"/>
+  <circle cx="215.206" cy="249.23" r="36.273" style="fill:none;stroke:#8dcc33;stroke-width:6.4px;stroke-linecap:square;stroke-miterlimit:4;"/>
+  <circle cx="742.732" cy="249.23" r="36.273" style="fill:none;stroke:#8dcc33;stroke-width:6.4px;stroke-linecap:square;stroke-miterlimit:4;"/>
+  <circle cx="919.971" cy="248.991" r="36.273" style="fill:none;stroke:#8dcc33;stroke-width:6.4px;stroke-linecap:square;stroke-miterlimit:4;"/>
+  <circle cx="390.568" cy="249.23" r="36.273" style="fill:none;stroke:#8dcc33;stroke-width:6.4px;stroke-linecap:square;stroke-miterlimit:4;"/>
+  <text x="27.152px" y="57.603px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:51.18px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.85px;stroke-linecap:butt;stroke-miterlimit:2;">1</text>
+  <text x="553.678px" y="57.528px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:51.18px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.85px;stroke-linecap:butt;stroke-miterlimit:2;">4</text>
+  <text x="201.551px" y="57.603px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:51.18px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.85px;stroke-linecap:butt;stroke-miterlimit:2;">2</text>
+  <text x="728.462px" y="56.966px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:51.18px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.85px;stroke-linecap:butt;stroke-miterlimit:2;">5</text>
+  <text x="905.702px" y="56.728px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:51.18px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.85px;stroke-linecap:butt;stroke-miterlimit:2;">6</text>
+  <text x="376.424px" y="57.279px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:51.18px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.85px;stroke-linecap:butt;stroke-miterlimit:2;">3</text>
+  <text x="27.152px" y="267.623px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:51.18px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.85px;stroke-linecap:butt;stroke-miterlimit:2;">1</text>
+  <text x="553.678px" y="267.548px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:51.18px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.85px;stroke-linecap:butt;stroke-miterlimit:2;">4</text>
+  <text x="201.551px" y="267.623px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:51.18px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.85px;stroke-linecap:butt;stroke-miterlimit:2;">2</text>
+  <text x="728.462px" y="266.985px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:51.18px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.85px;stroke-linecap:butt;stroke-miterlimit:2;">5</text>
+  <text x="905.702px" y="266.747px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:51.18px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.85px;stroke-linecap:butt;stroke-miterlimit:2;">6</text>
+  <text x="376.424px" y="267.298px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:51.18px;fill:#8dcc33;stroke:#1e3a5f;stroke-width:0.85px;stroke-linecap:butt;stroke-miterlimit:2;">3</text>
 </svg>
