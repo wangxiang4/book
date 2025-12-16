@@ -6,7 +6,7 @@ lang: en-US
 ## 5.Basic Area Formulas
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\: \small S=\frac{1}{2}ah$, where $\small h$ is the altitude to side $\small a$
-- Application: when __the base and the height__ are known, this formula can be __used to find the area__.  
+- Application: when __the base and the height are known__, this formula can be __used to find the area__.  
 
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\: \small S=\frac{1}{2}ab\textsf{sin}C$, where $\small C$ is the included angle between sides $\small a$ and $\small b$
@@ -14,15 +14,15 @@ lang: en-US
 
   | $\boldsymbol{C}$ | $\boldsymbol{30^\circ \, \lor \, 150^\circ}$ | $\boldsymbol{45^\circ \, \lor \, 135^\circ}$ | $\boldsymbol{60^\circ \, \lor \, 120^\circ}$ | $\boldsymbol{90^\circ}$ |
   |------------------|:--------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|:-----------------------:|
-  | $\textsf{sin}C$  |                $\frac{1}{2}$                 |             $\frac{\sqrt{2}}{2}$             |             $\frac{\sqrt{3}}{2}$             |    $\boldsymbol{1}$     |
+  | $\textsf{sin}C$  |                $\frac{1}{2}$                 |             $\frac{\sqrt{2}}{2}$             |             $\frac{\sqrt{3}}{2}$             |           $1$           |
 
-- Application: when __two sides and the included angle__ are known, this formula can be __used to find the area__.  
+- Application: when __two sides and the included angle are known__, this formula can be __used to find the area__.  
   ![Triangle area formula two sides angle.svg](../../public/math/Core%20Course/Triangle%20area%20formula%20two%20sides%20angle.svg)       
 
 ::: wrap  
 ### $\textcolor{#1E3A5F}{\fbox{3}\:}\: \small S=\sqrt{p(p-a)(p-b)(p-c)}$, where $\small p=\frac{1}{2}(a+b+c)$
 :::  
-- Application: when __all three sides of the triangle__ are known, this formula can be __used to find the area__.    
+- Application: when __all three sides of the triangle are known__, this formula can be __used to find the area__.    
   ![Triangle area formula three sides.svg](../../public/math/Core%20Course/Triangle%20area%20formula%20three%20sides.svg)      
 
   
@@ -76,8 +76,8 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  S_{\triangle BDE}=S_{\triangle CDE} \Longrightarrow D\textsf{ is the midpoint of }BC & S_1=S_2\\
-  S_{\triangle ABD}=\frac{1}{2}S_{\triangle ABC}=\frac{1}{2} & AD\textsf{ is the median of }\triangle ABC\\
+  S_{\triangle BDE}=S_{\triangle CDE} \Longrightarrow D=\textsf{midpoint of }BC & S_1=S_2\\
+  S_{\triangle ABD}=\frac{1}{2}S_{\triangle ABC}=\frac{1}{2} & AD=\textsf{median of }\triangle ABC\\
   S_{\triangle AED}=\frac{1}{2}-\frac{1}{3}=\frac{1}{6} \\
   \end{array}
   $  
@@ -87,8 +87,8 @@ $
   $
   \begin{array}{ll}
   S_{\triangle BCE}=2S_{\triangle ACE} \\
-  BE=2AE & \frac{S_1}{S_2}=\frac{a_1}{a_2} h\textsf{ are equal}\\
-  S_{\triangle AED}=\frac{1}{2}S_{\triangle BDE}=\frac{1}{6} & \frac{S_1}{S_2}=\frac{a_1}{a_2}  h\textsf{ are equal}\\
+  BE=2AE & \frac{S_1}{S_2}=\frac{a_1}{a_2}\\
+  S_{\triangle AED}=\frac{1}{2}S_{\triangle BDE}=\frac{1}{6} & \frac{S_1}{S_2}=\frac{a_1}{a_2}\\
   \end{array}
   $  
   :::  
@@ -117,7 +117,7 @@ $
 
 
 
-### $\fbox{13}\:$Figure 6–14, given that $\small CD=5, DE=7, EF=15$, and $\small FG=6$, the line segment $\small AB$ divides the figure into two parts. The area of the left part is 38, and the area of the right part is 65. Find the area of triangle $\small ADG$.
+### $\fbox{13}\:$Figure 6–14, given that $\small CD=5, DE=7, EF=15$, and $\small FG=6$, the line segment $\small AB$ divides the figure into two parts. The area of the left part is $\small 38$, and the area of the right part is $\small 65$. Find the area of triangle $\small ADG$.
 ![Question triangles figure 6-14.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-14.svg)  
 ::: wrap  
 $
@@ -182,9 +182,9 @@ $
 
 ## 7.Focus 4
 __The using the included angle to find the area__  
-- If __two sides and the included angle of a triangle__ are known,
-  the area can be found using the formula: $\boldsymbol{S=\frac{1}{2}ab\textsf{sin}C}$.
-  It is necessary to remember __the trigonometric values of common angles__.
+- If __two sides and the included angle of a triangle are known__,
+  the area can be found using __the formula $\boldsymbol{S=\frac{1}{2}ab\textsf{sin}C}$__.
+  Memorize __the trigonometric values of common angles__.
 
 
 
@@ -206,8 +206,8 @@ $
 \begin{array}{ll}
 S=\frac{1}{2}\cdot4\cdot6\cdot\textsf{sin}C = 6\sqrt{2} \\
 12\textsf{sin}C=6\sqrt{2} \\
-\textsf{sin}C=\frac{6\sqrt{2}}{12}=\frac{√2}{2} \\
-\textsf{sin}C=\frac{√2}{2}=45^\circ \lor 135^\circ \\ 
+\textsf{sin}C=\frac{6\sqrt{2}}{12}=\frac{\sqrt{2}}{2} \\
+\textsf{sin}C=\frac{\sqrt{2}}{2}=45^\circ \lor 135^\circ \\ 
 \end{array}
 $  
 :::  
@@ -247,8 +247,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-S_{\textsf{max}}=\frac{1}{2}\cdot4\cdot6\cdot\textsf{sin}90^\circ \\
-\textsf{sin}90^\circ= 12 & \textsf{max area when }\textsf{sin}C=1 \longrightarrow C=90^\circ \\
+S_{\textsf{max}}=\frac{1}{2}\cdot4\cdot6\cdot\textsf{sin}90^\circ=12
 \end{array}
 $  
 :::  
@@ -256,7 +255,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(D)}$  
-  > According to the Solution, get $S_{\textsf{max}}=\textsf{sin}90^\circ=12$, so choose $D$. 
+  > According to the Solution, get $S_{\textsf{max}}=12$, so choose $D$. 
 
   :::
 - Formulas used  
@@ -273,7 +272,7 @@ $
 
 ## 8.Focus 5
 __The using three sides to find the area__
-- When __the three sides of a triangle__ are known, the area can be found using the formula: $\boldsymbol{S=\sqrt{p(p-a)(p-b)(p-c)}}$,
+- When __the three sides of a triangle are known__, the area can be found using __the formula $\boldsymbol{S=\sqrt{p(p-a)(p-b)(p-c)}}$__,
   where $\boldsymbol{p=\frac{1}{2}(a+b+c)}$. 
 
 
@@ -323,15 +322,15 @@ $
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Right triangles
 - ###### Pythagorean theorem: $a^2+b^2=c^2$      
 - ###### __Common pythagorean triples__: $\boldsymbol{(3,4,5)}$, $\boldsymbol{(6,8,10)}$, $\boldsymbol{(5,12,13)}$, $\boldsymbol{(7,24,25)}$, $\boldsymbol{(8,15,17)}$, $\boldsymbol{(9,12,15)}$    
-  - __The proportional (scaled) pythagorean triple__ equation is $\boldsymbol{(ka)^2+(kb)^2=(kc)^2}$.  
+  - The proportional (scaled) pythagorean triple equation is $\boldsymbol{(ka)^2+(kb)^2=(kc)^2}$.  
 - In __an isosceles right triangle__, the ratio of the three sides is $\boldsymbol{1:1:\sqrt{2}}$.  
   ![Side ratio of isosceles right triangle.svg](../../public/math/Core%20Course/Side%20ratio%20of%20isosceles%20right%20triangle.svg)   
-- The area of an isosceles right triangle is $S=\frac{1}{2}a^2=\frac{1}{4}c^2$, where __$\boldsymbol{a}$ is the length of a leg__ and __$\boldsymbol{c}$ is the hypotenuse__.     
+- The area of an isosceles right triangle is $\boldsymbol{S=\frac{1}{2}a^2=\frac{1}{4}c^2}$, where __$\boldsymbol{a}$ is the length of a leg__ and __$\boldsymbol{c}$ is the hypotenuse__.     
 - ###### In __a $\boldsymbol{30^\circ,60^\circ,90^\circ}$ right triangle__, the ratio of the three sides is $\boldsymbol{1:\sqrt{3}:2}$.   
   ![Triangle 30-60-90 side ratio.svg](../../public/math/Core%20Course/Triangle%2030-60-90%20side%20ratio.svg)    
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Equilateral triangles
-- ###### __The ratio of the height to the side__ is $\boldsymbol{\sqrt{3}:2=\frac{\sqrt{3}}{2}:1}$.   
+- ###### The ratio of the height to the side is $\boldsymbol{\sqrt{3}:2=\frac{\sqrt{3}}{2}:1}$.   
   - $h=\frac{\sqrt{3}}{2}a$  
 - ###### The area of an equilateral triangle is $\boldsymbol{S=\frac{\sqrt{3}}{4}a^2}$, where __$\boldsymbol{a}$ is the side length__.
   - $S=\frac{1}{2}a\cdot\frac{\sqrt{3}}{2}a=\frac{\sqrt{3}}{4}a^2$   
@@ -344,9 +343,9 @@ $
 ::: wrap  
 - If two triangles have $\overbrace{\textsf{angle that is equal or supplementary}}^{\href{https://www.mathsisfun.com/sine-cosine-tangent.html}{\textsf{same sine value}}}$, they are called __common-angle triangles__.
 :::  
-- For common-angle triangles, __the ratio of their areas equals the ratio of the products of the two sides enclosing the equal (or supplementary) angle__.
+- For common-angle triangles, __the ratio of their areas equals the ratio of the products of the two sides enclosing the equal or supplementary angles__.
 ::: wrap  
-- Figure 6–11, in $\angle ABC$ and $\angle ADE$, since __the sine of $\boldsymbol{\angle A}$ has the same sine value__, $\boldsymbol{S_{\triangle ABC}:S_{\triangle ADE}=(AB\cdot AC):(AD\cdot AE)}$.     
+- Figure 6–11, in $\angle ABC$ and $\angle ADE$, since the sine of $\angle A$ has the same sine value, $\boldsymbol{S_{\triangle ABC}:S_{\triangle ADE}=(AB\cdot AC):(AD\cdot AE)}$.     
   ![Common angle area ratio theorem figure 6-11.svg](../../public/math/Core%20Course/Common%20angle%20area%20ratio%20theorem%20figure%206-11.svg)  
 :::  
 - __Theorem derivation__     
@@ -363,11 +362,10 @@ $
 
 
 ## 11.Focus 6
-__The use of the area ratio theorem for common-angle triangles__   
-- If triangles with __a common or equal angle appear__,
-  __the area ratio theorem for common-angle triangles__ can be applied:
-  __the ratio of their areas equals the ratio of the products of the two sides enclosing the equal (or supplementary) angle__.
-
+__The application of the area ratio theorem for common-angle triangles__   
+- If triangles share __a common angle__ or __an equal angle__, 
+  __the area ratio theorem for common-angle triangles can be applied__.
+- __the ratio of their areas equals the ratio of the products of the two sides enclosing the equal or supplementary angles__.
 
 
 ::: wrap  
@@ -420,7 +418,7 @@ $
 
 
 ::: wrap  
-### $\fbox{18}\:$Figure 6–15, in $\small \triangle ABC$, point $\small D$ lies on the extension of $\small BA$, and point $\small E$ lies on $\small AC$. Given that $AB: AD=5:2, AE: EC=3:2, S_{\triangle ADE}=12$, find the area of $\small \triangle ABC$.
+### $\fbox{18}\:$Figure 6–15, in $\small \triangle ABC$, point $\small D$ lies on the extension of $\small BA$, and point $\small E$ lies on $\small AC$. Given that $\small AB: AD=5:2, AE: EC=3:2, S_{\triangle ADE}=12$, find the area of $\small \triangle ABC$.
 :::  
 ![Question triangles figure 6-16.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-16.svg)  
 ::: wrap  
@@ -470,7 +468,7 @@ $
 
 ## 12.Area Ratio Theorem for Concurrent Cevians
 - Figure 6–12, in $\triangle ABC$,
-  if __cevians $\boldsymbol{AD, AE}$, and $\boldsymbol{CF}$__ are __concurrent at a single point $\boldsymbol{O}$__,
+  if __cevians $\boldsymbol{AD, AE}$, and $\boldsymbol{CF}$ are concurrent at a single point $\boldsymbol{O}$__,
   then $\boldsymbol{S_{\triangle ABO}:S_{\triangle ACO}=BD:DC}$.  
   ![Cevians area ratio theorem figure 6-12.svg](../../public/math/Core%20Course/Cevians%20area%20ratio%20theorem%20figure%206-12.svg)
 - This theorem provides __a way to transform an area ratio into a segment ratio__.
@@ -486,8 +484,8 @@ $
   \begin{cases}
   \frac{S_1}{S_2}=\frac{a_1}{a_2} & h\textsf{ are equal} \\
   \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_6-focus-3}{\textsf{triangle area formula property}} \\
-  S_{\triangle ABD}:S_{\triangle ACD} = BD:CD & \triangle ABD \textsf{ and } \triangle ACD \textsf{ have equal altitude} \\
-  S_{\triangle BOD}:S_{\triangle COD} = BD:CD & \triangle BOD \textsf{ and } \triangle COD \textsf{ have equal altitude} \\
+  S_{\triangle ABD}:S_{\triangle ACD} = BD:CD & \triangle ABD \textsf{ and } \triangle ACD \textsf{ have same height} \\
+  S_{\triangle BOD}:S_{\triangle COD} = BD:CD & \triangle BOD \textsf{ and } \triangle COD \textsf{ have same height} \\
   \frac{S_{\triangle ABD}}{S_{\triangle ACD}}= \frac{S_{\triangle BOD}}{S_{\triangle COD}}=\frac{BD}{CD} \\
   \frac{S_{\triangle ABD}-S_{\triangle BOD}}{S_{\triangle ACD}-S_{\triangle COD}}=\frac{S_{\triangle AOB}}{S_{\triangle AOC}} \\
   (S_{\triangle ABD}-S_{\triangle BOD}):(S_{\triangle ACD}-S_{\triangle COD})=BD:CD \\
@@ -498,9 +496,9 @@ $
 
 
 ## 13.Focus 7
-__The use of the area ratio theorem for concurrent cevians__
-- If __a point inside a triangle__ is __connected to all three vertices__,
-  __the area ratio theorem for concurrent cevians__ can be applied.
+__The application of the area ratio theorem for concurrent cevians__
+- If __a point inside a triangle is connected to its vertices__,
+  __the area ratio theorem for concurrent cevians can be applied__.
 
 
 ::: wrap  
