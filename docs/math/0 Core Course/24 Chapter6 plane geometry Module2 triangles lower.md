@@ -4,33 +4,29 @@ lang: en-US
 ---
 
 ## 14.Right Triangle
-- It can be identified using __the pythagorean theorem $\boldsymbol{a^2+b^2=c^2}$__ or by __having one angle of $\boldsymbol{90^\circ}$__.
+- It can be determined by __using the Pythagorean theorem $\boldsymbol{a^2+b^2=c^2}$__ or by __having one angle equal to $\boldsymbol{90^\circ}$__.
 
 ## 15.Isosceles Right Triangle
-- The ratio of the sides is $\boldsymbol{1:1:\sqrt{2}}$, or it is __a right triangle with two equal sides__.
+- It can be determined by __the sides being in the ratio $\boldsymbol{1:1:\sqrt{2}}$__ or by __a right triangle with two equal sides__.
 
 
 ## 16.Equilateral Triangle
-- __All three sides are equal__, or __all three interior angles are equal__, or __the four centers coincide__.
+- It can be determined by __three sides being equal__, __three interior angles being equal__, or __the four centers coinciding__.
 
 
 ## 17.Isosceles Triangle
-- A triangle with __two equal sides__ or __two equal angles__.
+- It can be determined by a triangle with __two equal sides__ or __two equal angles__.
 
 
 
 ## 18.Focus 8
-__The triangle identification__  
-- This mainly involves using __the internal angle relationships__ and __the conditions that satisfy the side lengths of the triangle__,
-  along with __the properties of the triangle__ to determine __its shape__.
-  Focus on mastering the characteristics of __equilateral triangles__, __isosceles triangles__, __right triangles__, and __isosceles right triangles__.
-  When the given condition in a problem is __the side lengths of a triangle__,
-  the key to determining its shape is using __identity transformations__ to find __the relationship between $\boldsymbol{a,b,c}$__.
+__The triangle determination__  
+- Determine the shape of a triangle by analyzing the conditions satisfied
+  by __its interior angles and side lengths__, __combined with the properties of triangles__.
 
 
 
-
-### $\fbox{20}\:$For triangle $\small \triangle ABC$, if its sides $\small a, b$, and $\small c$ satisfy the equation $\small 1+\frac{b}{c}=\frac{b+c}{b+c-a}$, then what type of triangle is it $\small \mathpunct{?}$.
+### $\fbox{20}\:$For $\small \triangle ABC$, if its sides $\small a, b$, and $\small c$ satisfy the equation $\small 1+\frac{b}{c}=\frac{b+c}{b+c-a}$, then what type of triangle is it $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -84,7 +80,7 @@ $
 ---
 
 ::: wrap  
-### $\fbox{21}\:$For triangle $\small \triangle ABC$, if its sides $\small a, b$, and $\small c$, and they satisfy the equation $\small 4a^2+4b^2+13c^2-8ac-12bc=0$, then what type of triangle is $\small \triangle ABC =\, \mathpunct{?}$.
+### $\fbox{21}\:$For $\small \triangle ABC$, if its sides $\small a, b$, and $\small c$, and they satisfy the equation $\small 4a^2+4b^2+13c^2-8ac-12bc=0$, then what type of triangle is it $\small \mathpunct{?}$.
 :::  
 ::: wrap  
 $
@@ -98,7 +94,7 @@ $
 $  
 :::
 #### Solution
-- Solve it by completing the square and by observing the non-negativity property of $(x)^2 \ge 0$   
+- Show known conditions  
   ![Question triangles figure Q-21 solve-1.svg](../../public/math/Core%20Course/Question%20triangles%20figure%20Q-21%20solve-1.svg)     
   ::: wrap  
   $
@@ -130,7 +126,7 @@ $
 ---
 
 ::: wrap   
-### $\fbox{22}\:$For triangle $\small \triangle ABC$, if its sides $\small a, b$, and $\small c$, and they satisfy the equation $\small a^2+2bc=b^2+2ac=c^2+2ab=27$, then what type of triangle is $\small \triangle ABC =\, \mathpunct{?}$. 
+### $\fbox{22}\:$For $\small \triangle ABC$, if its sides $\small a, b$, and $\small c$, and they satisfy the equation $\small a^2+2bc=b^2+2ac=c^2+2ab=27$, then what type of triangle is it $\small \mathpunct{?}$. 
 :::   
 ::: wrap  
 $
@@ -189,9 +185,7 @@ a+b=6 \;\\
 9+2ab=27 & ③ \;\; c=3 \;\\
 ab=\frac{18}{2}=9 \;\\
 6 \ge 2\sqrt{9} & a+b \ge 2\sqrt{ab} \;\\
-6=6 \;\\
-\boxed{(a=b) \land (a+b)}=6 \;\\
-a=b=3 \;\\
+6=6 & a=b \;\\
 a=b=c=3 \;\\
 \end{array}}
 \end{cases} & a+b=2c \\
