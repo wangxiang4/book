@@ -443,11 +443,11 @@ $
 
 ## 4.Focus 2 
 __The side relationships__   
-- Analyze the conditions for a triangle using __the side relationships__:
+- According to the triangle side relationships,
   __the sum of any two sides is greater than the third side__,
-  and __the difference of any two sides is less than the third side__.
-  As long as these are __satisfied__, a triangle can be __formed__.
-
+  and __the difference between two sides is smaller than the third side__.
+  As long as __one of these conditions is satisfied__,
+  __a triangle can be formed__.
 
 
 
@@ -464,7 +464,7 @@ $
 $  
 :::
 #### Solution
-- $\textcolor{#228B22}{\fbox{1}}\:$Solve by enumeration, let $c$ be the smallest side    
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by enumeration, let $c$ be the shortest side    
   ::: wrap  
   $
   \begin{array}{ll}
@@ -495,7 +495,7 @@ $
   \end{array}
   $  
   :::  
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by enumeration, let $c$ be the largest side  
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by enumeration, let $c$ be the longest side  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -538,8 +538,8 @@ $
   >$
   \begin{array}{ll}
   \begin{cases}
-  a+b>c & c\textsf{ as largest side} \\
-  |a-b| \lt c & c\textsf{ as smallest side} \\
+  a+b>c & c\textsf{ as longest side} \\
+  |a-b| \lt c & c\textsf{ as shortest side} \\
   \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-triangle-side-relationships}{\textsf{triangle side relationships}} \\
   \end{array}
   >$
@@ -549,7 +549,7 @@ $
 
 
 
-### $\fbox{9}\:$If the three sides of a triangle are integers, and the perimeter is $\small 11$, with one side equal to $\small 3$, then among all possible triangles, what is the length of the largest side $\small \mathpunct{?}$.
+### $\fbox{9}\:$If the three sides of a triangle are integers, and the perimeter is $\small 11$, with one side equal to $\small 3$, then among all possible triangles, what is the length of the longest side $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -574,7 +574,7 @@ $
   5-3=2 \\
   4-4=0 \\
   \end{cases} \\
-  \textsf{largest side} = 5 \\
+  \textsf{longest side} = 5 \\
   \end{array}
   $  
   :::  
@@ -582,16 +582,14 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(C)}$  
-  > According to the Solution, get $\textsf{largest side} = 5$, so choose $C$. 
+  > According to the Solution, get $\textsf{longest side} = 5$, so choose $C$. 
 
   :::
 - Formulas used  
   ::: wrap
   >$
   \begin{array}{ll}
-  \begin{cases}
-  |a-b| \lt c & c\textsf{ as smallest side} \\
-  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-triangle-side-relationships}{\textsf{triangle side relationships}} \\
+  |a-b| \lt c & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-triangle-side-relationships}{c\textsf{ as shortest side}} \\
   \end{array}
   >$
 
@@ -706,8 +704,8 @@ $
   >$
   \begin{array}{ll}
   \begin{cases}
-  a+b>c & c\textsf{ as largest side} \\
-  |a-b| \lt c & c\textsf{ as smallest side} \\
+  a+b>c & c\textsf{ as longest side} \\
+  |a-b| \lt c & c\textsf{ as shortest side} \\
   \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-triangle-side-relationships}{\textsf{triangle side relationships}} \\
   \frac{|AB-AC|}{2} < AD < \frac{AB+AC}{2} & \textsf{triangle median inequality} \\
   \end{array}
