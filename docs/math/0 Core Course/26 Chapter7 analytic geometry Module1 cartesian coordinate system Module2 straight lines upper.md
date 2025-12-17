@@ -5,29 +5,30 @@ lang: en-US
 
 # Module 7–01 Cartesian Coordinate System
 
-## 1.Coordinate Relationship Between Two Points  
+## 1.Quadrant Positions of Coordinates
 ![Coordinate Relationship Between Two points.svg](../../public/math/Core%20Course/Coordinate%20Relationship%20Between%20Two%20points.svg)   
 
-- Points on the coordinate axis do not belong to any quadrant.   
-  - points on x-axis $(x,0)$.
-  - points on y-axis $(0,y)$.
+- __Points on the coordinate axes do not belong to any quadrant__.   
+  - __points on x-axis $\boldsymbol{(x,0)}$__.
+  - __points on y-axis $\boldsymbol{(0,y)}$__.
 
-## 2.The Coordinates of the Midpoint Between Two Points
-- The coordinates of the midpoint between two points $p_1(x_1,y_1)$ and $p_2(x_2,y_2)$ are $(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2})$,average.
-  - Special case: the midpoint between point $p_1(x_1,y_1)$ and the origin $(0,0)$ is $(\frac{x_1}{2},\frac{y_1}{2})$.
-  - __Formula derivation__  
-    ![Midpoint coordinates formula derivation.svg](../../public/math/Core%20Course/Midpoint%20coordinates%20formula%20derivation.svg)       
-    ::: wrap  
-    $
-    \begin{array}{ll}
-    x_2-x=x-x_1 \\
-    x=\frac{x_1+x_2}{2} \\
-    y=\frac{y_1+y_2}{2} \\
-    p_1+p_2=2p \\
-    p=\frac{p_1+p_2}{2} \\
-    \end{array}
-    $  
-    :::
+## 2.Midpoint Coordinates of Two Points
+- __The midpoint of points $\boldsymbol{P_1(x_1,y_1)}$ and $\boldsymbol{P_2(x_2,y_2)}$ is $\boldsymbol{\left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right)}$__,
+  which is essentially __the average of the two points__.
+- Special case: __the midpoint of points $\boldsymbol{P_1(x_1,y_1)}$ and $O\boldsymbol{(0,0)}$ is $\boldsymbol{\left(\frac{x_1}{2},\frac{y_1}{2}\right)}$__.
+- __Formula derivation__  
+  ![Midpoint coordinates formula derivation.svg](../../public/math/Core%20Course/Midpoint%20coordinates%20formula%20derivation.svg)       
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  x_2-x=x-x_1 \\
+  x=\frac{x_1+x_2}{2} \\
+  y=\frac{y_1+y_2}{2} \\
+  P_1+P_2=2P \\
+  P=\frac{P_1+P_2}{2} \\
+  \end{array}
+  $  
+  :::
 
 ## 3.Distance Formula Between Two Points
 - The distance between two points $A(x_1,y_1)$ and $B(x_2,y_2)$ is $d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$.  
@@ -44,8 +45,8 @@ lang: en-US
   :::  
 
 ## 4.Focus 1
-__The midpoint formula__   
-- Analyze using the midpoint formula $(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2})$.
+__The midpoint formula of two points__  
+- Analyze using the midpoint formula of two points $(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2})$.
 
 
 ### $\fbox{1}\:$Given three points $\small A(x,5),B(-2,y)$, and $\small C(1,1)$, if point $\small C$ is the midpoint of segment $\small AB$, then $\small \mathpunct{?}$.
@@ -87,7 +88,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-the-coordinates-of-the-midpoint-between-two-points}{\textsf{midpoint formula}} \\
+  (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
   \end{array}
   >$
 
@@ -400,7 +401,7 @@ $
   >$
   \begin{array}{ll}
   k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
-  (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-the-coordinates-of-the-midpoint-between-two-points}{\textsf{midpoint formula}} \\
+  (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
   \end{array}
   >$
 
