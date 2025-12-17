@@ -352,11 +352,11 @@ $
 
 ## 8.Focus 2
 __The rectangle__
-- A rectangle has __two pairs of opposite sides that are perpendicular__, and __its diagonals bisect each other__.  
-- Note: in a rectangle, propositions often involve __a straight line dividing it into several triangles__.
+- In a rectangle, __the opposite sides are perpendicular to each other__, and __the diagonals bisect each other__.
+- Note: A rectangle can be __divided into several triangles using straight lines__.
 
 
-### $\fbox{31}\:$Figure 6–28, the two sides of rectangle $\small ABCD$ are $\small 8$ and $\small 6$ respectively, and the area of quadrilateral $\small OEFG$ is $\small 4$, then the area of the shaded part is $\small \mathpunct{?}$.
+### $\fbox{31}\:$Figure 6–28, the two sides of rectangle $\small ABCD$ are $\small 8$ and $\small 6$ respectively, and the area of quadrilateral $\small OEFG$ is $\small 4$, find the area of the shaded part.
 ![Question quadrilaterals figure 6-28.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-28.svg)   
 ::: wrap  
 $
@@ -393,13 +393,14 @@ $
   > According to the Solution, get $S_\textsf{Shaded}=28$, so choose $B$. 
 
   :::
-- The diagonals of a rectangle divide it into four congruent right triangles, each with an area equal to $\frac{1}{4}$ of the rectangle's area    
+- In a rectangle, the diagonals can divide it into four congruent right triangles,
+  each of which is equal $\frac{1}{4}$ of the original rectangle  
   ::: wrap   
   > ![Rectangle into four triangles.svg](../../public/math/Core%20Course/Rectangle%20into%20four%20triangles.svg)    
   >$S_1=S_2=S_3=S_4$
 
   :::
-- ###### A triangle with the same base and height as a rectangle has an area equal to $\frac{1}{2}$ of the rectangle's area       
+- ###### A triangle with the same base and height as a rectangle is half the area of the rectangle  
   ::: wrap
   > ![Triangle half area formula.svg](../../public/math/Core%20Course/Triangle%20half%20area%20formula.svg)        
   >$S_\triangle=\frac{1}{2}S_{ABCD}$
@@ -408,7 +409,7 @@ $
 ---
 
 
-### $\fbox{32}\:$Figure 6–29, in rectangle $\small ABCD$, points $\small E, F, G, H$ are on $\small AB, BC, CD, DA$ respectively, and point $\small P$ is inside rectangle $\small ABCD$. If $\small AB=4, BC=6$, $\small AE=CG=3, BF=DH=4$, and the area of quadrilateral $\small AEPH$ is $\small 5$, then the area of quadrilateral $\small PFCG$ is $\small \mathpunct{?}$.
+### $\fbox{32}\:$Figure 6–29, in rectangle $\small ABCD$, points $\small E, F, G$, and $\small H$ are located on sides $\small AB, BC, CD$, and $\small DA$, respectively, and point $\small P$ is inside the rectangle. Given that $\small AB=4, BC=6$, $\small AE=CG=3, BF=DH=4$, and the area of quadrilateral $\small AEPH$ is $\small 5$, find the area of quadrilateral $\small PFCG$.
 ![Question quadrilaterals figure 6-29.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-29.svg)  
 ::: wrap  
 $
@@ -428,11 +429,11 @@ $
   $
   \begin{array}{ll}
   S_{\triangle APH}+S_{\triangle PCF} = (\frac{1}{2}\cdot2\cdot h_1) + (\frac{1}{2}\cdot2\cdot h_2) \\
-  = h_1+h_2=AB=4 \\
-  = \frac{2}{2}(h_1+h_2)=4 \\
+  h_1+h_2=AB=4 \\
+  \frac{2}{2}(h_1+h_2)=4 \\
   S_{\triangle AEP}+S_{\triangle PCG} = (\frac{1}{2}\cdot3\cdot h_3) + (\frac{1}{2}\cdot3\cdot h_4) \\
-  = h_3+h_4=BC=6 \\
-  = \frac{3}{2}(h_3+h_4)=\frac{18}{2}=9 \\
+  h_3+h_4=BC=6 \\
+  \frac{3}{2}(h_3+h_4)=\frac{18}{2}=9 \\
   S_{AEPH}+S_{PFCG}=4+9=13 \\
   S_{AEPH}=5 \\
   S_{PFCG}=13-5=8 \\
@@ -477,7 +478,7 @@ $
   $
   \begin{array}{ll}
   C=120 \Rightarrow a+b=60 \\
-  c=\sqrt{a^2+b^2} \le 50 \\
+  l=\sqrt{a^2+b^2} \le 50 \\
   2ab=(a+b)^2-(a^2+b^2) \\
   S=ab=\frac{(a+b)^2-(a^2+b^2)}{2} \ge \frac{60^2-50^2}{2}=550 \\
   \end{array}
@@ -495,14 +496,14 @@ $
   >$
   \begin{array}{ll}
   c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
-  S=ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_2-rectangle}{\textsf{rectangle area formula}} \\
   (a-b)^2=a^2-2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  S=ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_2-rectangle}{\textsf{rectangle area formula}} \\
   2ab=(a+b)^2-(a^2+b^2) & \textsf{rectangle area identity} \\
   \end{array}
   >$
 
   :::
-- Additionally, __cuboid surface area identity__   
+- Cuboid surface area identity   
   ::: wrap
   >$2ab+2bc+2ac=(a+b+c)^2-(a^2+b^2+c^2)$
 
@@ -510,18 +511,18 @@ $
 - Inequality sign flips  
   > <br/>
   > 
-  > | Operation                                           | Inequality sign changes? |
-  > |-----------------------------------------------------|--------------------------|
-  > | __Multiply $\boldsymbol{\lor}$ Divide__ by negative | ✅ Flip the sign          |
-  > | __Multiply $\boldsymbol{\lor}$ Divide__ by positive | ❌ Do not flip the sign   |
-  > | __Add $\boldsymbol{\lor}$ Subtract__ both sides     | ❌ Do not flip the sign   |
+  > | Operation                                           | Inequality sign changes ? |
+  > |-----------------------------------------------------|---------------------------|
+  > | __Multiply $\boldsymbol{\lor}$ Divide__ by negative | ✅ Flip the sign           |
+  > | __Multiply $\boldsymbol{\lor}$ Divide__ by positive | ❌ Do not flip the sign    |
+  > | __Add $\boldsymbol{\lor}$ Subtract__ both sides     | ❌ Do not flip the sign    |
 ---
 
 
 ## 9.Focus 3
-__The rhombus__   
-- The diagonals of a rhombus are __perpendicular bisectors of each other__, and __its area is equal to half the product of the diagonals__.
-
+__The rhombus__  
+- The two diagonals of a rhombus are __perpendicular and bisect each other__,
+  and __the area is equal to half of the product of the diagonals__.
 
 
 ### $\fbox{34}\:$If a rhombus has diagonals of lengths $\small 10$ and $\small 24$, then what is the area of the rhombus $\small \mathpunct{?}$.
@@ -608,7 +609,7 @@ $
 ---
 
 
-### $\fbox{36}\:$Figure 6–30, in rhombus $\small ABCD$, the lengths of the two diagonals are $\small 6$ and $\small 8$ respectively, point $\small P$ is a moving point on $\small AC$, $\small M, N$ are the midpoints of $\small AB, AC$ respectively, then the minimum value of $\small PM+PN$ is $\small \mathpunct{?}$.
+### $\fbox{36}\:$Figure 6–30, in rhombus $\small ABCD$, the lengths of the two diagonals are $\small 6$ and $\small 8$, and point $\small P$ is a variable point on diagonal $\small AC$, $\small M$ and $\small N$ are the midpoints of sides $\small AB$ and $\small AC$, respectively, Find the minimum value of $\small PM+PN$.
 ![Question quadrilaterals figure 6-30.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-30.svg)  
 ::: wrap  
 $
@@ -622,14 +623,14 @@ $
 $  
 :::
 #### Solution
-- Solve by reflectional symmetry  
+- Solve by using reflectional symmetry  
   ![Question quadrilaterals figure 6-30 solve-1.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-30%20solve-1.svg)  
   ::: wrap  
   $
   \begin{array}{ll}
-  \textsf{the symmetric point of }N\textsf{ about }AC\textsf{ is }N^\prime \\
+  \textsf{symmetric point of }N=N^\prime \\
   PM+PN=PM+PN^\prime \ge MN^\prime \\
-  MN^\prime=AD & \textsf{let }M, N^\prime\textsf{ be the midpoints of }AB, DC\textsf{ respectively} \\
+  MN^\prime=AD \\
   (3,4,5) \implies DC=5 \\
   AD=DC=5 \\
   PM+PN^\prime \ge 5 \\
@@ -640,7 +641,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(C)}$  
-  > According to the Solution, get $PM+PN=PM+PN^\prime \ge 5$, so choose $C$. 
+  > According to the Solution, get $PM+PN^\prime \ge 5$, so choose $C$. 
 
   :::
 - Formulas used  
@@ -655,20 +656,18 @@ $
 - [Reflectional symmetry](https://en.wikipedia.org/wiki/Reflection_symmetry)      
   ::: wrap
   > ![Rhombus reflectional symmetry.svg](../../public/math/Core%20Course/Rhombus%20reflectional%20symmetry.svg)     
-  > After reaching the orange line by the shortest distance, diagram 1 return representation $A \to C \to B$
+  > __After reaching the orange line by the shortest distance, continue to $\boldsymbol{B}$__
 
   :::
 ---
 
 ## 10.Focus 4
 __The parallelogram__  
-- A parallelogram has __two pairs of opposite sides that are parallel and equal in length__.
-  The key property of a parallelogram lies in __its diagonals__.
-  Additionally, unless otherwise specified,
-  a parallelogram can often be __transformed into a rectangle or a square__ to find the solution.
+- In a parallelogram, __both pairs of opposite sides are parallel and equal__.
+  __The key is the diagonals__;
+  alternatively, the parallelogram can be __transformed into a rectangle or a square__ to solve the problem.
 
-
-### $\fbox{37}\:$Figure 6–31, let $\small P$ be a point inside parallelogram $\small ABCD$. Given that $\small S_{\triangle PAB}=5$ and $\small S_{\triangle PAD}=2$, find $\small S_{\triangle PAC}=\, \mathpunct{?}$.
+### $\fbox{37}\:$Figure 6–31, let $\small P$ be a point inside parallelogram $\small ABCD$. Given that $\small S_{\triangle PAB}=5$ and $\small S_{\triangle PAD}=2$, find $\small S_{\triangle PAC}$.
 ![Question quadrilaterals figure 6-31.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-31.svg)  
 ::: wrap  
 $
@@ -682,7 +681,7 @@ $
 $  
 :::  
 #### Solution
-- Solve by transformed into a square   
+- Solve by transforming into a square   
   ![Question quadrilaterals figure 6-31 solve-1.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-31%20solve-1.svg)  
   ::: wrap  
   $
@@ -706,11 +705,10 @@ $
 
 ## 11.Focus 5
 __The trapezoid__
-- Analyze using __the area formula and properties__ of trapezoids.
-  Pay attention to __the two special cases: right trapezoids and isosceles trapezoids__.
+- Analyze using __the area formula and properties of a trapezoid__.
+- Note: __two special types of trapezoids, the isosceles trapezoid and the right trapezoid__.
 
-
-### $\fbox{38}\:$Figure 6–32, $\small AB \perp BC$ at point $\small B$, $\small CD \perp BC$ at point $\small C$, the angle bisectors of $\angle BAD$ and $\angle CDA$ intersect at point $\small E$ on $\small BC$, $\small AD=8, BC=6$, then the area of quadrilateral $\small ABCD$ is $\small \mathpunct{?}$.
+### $\fbox{38}\:$Figure 6–32, $\small AB \perp BC$ at point $\small B$, $\small CD \perp BC$ at point $\small C$, the angle bisectors of $\small \angle BAD$ and $\small \angle CDA$ intersect at point $\small E$ on $\small BC$, if $\small AD=8$ and $\small BC=6$, find the area of quadrilateral $\small ABCD$.
 ![Question quadrilaterals figure 6-32.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-32.svg)   
 ::: wrap  
 $
@@ -731,12 +729,10 @@ $
   \begin{array}{ll}
   ABCD=\textsf{right trapezoid} \\
   AB \parallel CD \\
-  \angle BAD + \angle CDA=180^\circ & \textsf{same-side interior angles }180^\circ \\
+  \angle BAD + \angle CDA=180^\circ & \textsf{same-side interior angles} \\
   S_{ABCD}=\frac{AB+CD}{2}\cdot BC \\
-  \textsf{the points on the angle bisector divide} \\ 
-  \textsf{the left and right triangles into two congruent triangles} \\
-  \triangle EFA \cong \triangle ABE \\
-  \triangle DFE \cong \triangle DEC \\
+  \triangle EFA \cong \triangle ABE & \textsf{altitude of }\triangle AED \\
+  \triangle DFE \cong \triangle DEC & \textsf{altitude of }\triangle AED \\
   AF=AB \\
   DF=CD \\
   AF+DF=AB+CD=AD=8 \\
@@ -770,7 +766,7 @@ $
 ---
 
 
-### $\fbox{39}\:$Figure 6–33, in trapezoid $\small ABCD$, $\small AD \parallel BC$. Points $\small P, Q$ are the midpoints of $\small AD, BC$ respectively. Point $\small O$ is the midpoint of $\small PQ$. A line is drawn through point $\small O$, intersecting $\small AD$ at point $\small M$ and $\small BC$ at point $\small N$. Then the area ratio of quadrilaterals $\small AMNB$ and $\small MDCN$ is $\small \mathpunct{?}$. 
+### $\fbox{39}\:$Figure 6–33, in trapezoid $\small ABCD$, $\small AD \parallel BC$. Points $\small P$ and $\small Q$ are the midpoints of $\small AD$ and $\small BC$, respectively, and point $\small O$ is the midpoint of $\small PQ$. A line through $\small O$ intersects $\small AD$ at $\small M$ and $\small BC$ at $\small N$. Find the ratio of the areas of quadrilaterals $\small AMNB$ and $\small MDCN$. 
 ![Question quadrilaterals figure 6-33.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-33.svg)  
 ::: wrap  
 $
@@ -790,13 +786,11 @@ $
   $
   \begin{array}{ll}
   S_{AMNB}=\frac{S_{ABCD}}{2}+S_{\triangle POM}-S_{\triangle NOQ} \\
-  \begin{cases}
-  \begin{array}{ll}
   \angle NQO = \angle MPO & \textsf{right angles are equal}\\
   \angle POM = \angle NOQ & \textsf{vertical angles are equal}\\
-  \end{array}
-  \end{cases} \Rightarrow \triangle NOQ \cong \triangle POM \\
-  S_{AMNB}=\frac{S_{ABCD}}{2} \Rightarrow S_{MDCN}=\frac{S_{ABCD}}{2} \\
+  \triangle NOQ \cong \triangle POM \\
+  S_{AMNB}=\frac{S_{ABCD}}{2} \\
+  S_{MDCN}=\frac{S_{ABCD}}{2} \\
   \frac{S_{AMNB}}{S_{MDCN}} = \frac{1}{1} = 1 \\
   \end{array}
   $  
@@ -813,8 +807,7 @@ $
 ## 12.Focus 6
 __The other quadrilaterals__
 - When dealing with other quadrilaterals,
-  you can __divide them into triangles__ for solving,
-  or analyze them using __the properties of special quadrilaterals__.
+  analyze them by __dividing them into triangles__ or __transforming them into special quadrilaterals__.
 
 
 ### $\fbox{40}\:$Figure 6–34, $\small ABCD$ is a parallelogram, and $\small BC:CE=3:2$. If the area of triangle $\small ODE$ is $\small 6$, what is the area of the shaded $\small \mathpunct{?}$.
@@ -831,12 +824,12 @@ $
 $  
 :::
 #### Solution
-- Solve by forming a trapezoid using the diagonals of the irregular quadrilateral      
+- Solve by forming a trapezoid     
   ![Question quadrilaterals figure 6-34 solve-1.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-34%20solve-1.svg)  
   ::: wrap  
   $
   \begin{array}{ll}
-  \textsf{join the diagonal }AC \\
+  \textsf{join diagonal }AC \\
   ACED=\textsf{trapezoid} \\
   AD=BC & \textsf{parallelogram}\\
   AD:CE=3:2 \\
@@ -845,7 +838,7 @@ $
   b^2=2^2=4 \\
   ab=2\cdot3=6 \\
   \end{cases} \\
-  \frac{S_{\triangle ODE}}{ab} = \frac{6}{6} = 1 \implies
+  \frac{S_{\triangle ODE}}{ab} = \frac{6}{6} = 1 \\
   \begin{cases}
   a^2=1\cdot9=9 \\
   b^2=1\cdot4=4 \\
@@ -876,7 +869,7 @@ $
 ---
 
 
-### $\fbox{41}\:$Figure 6–35, rectangle $\small ABCD$ is divided into four pieces by $\small CE$ and $\small DF$. If the areas of three of the pieces are $\small 2, 5$ and $\small 8$, what is the area of the remaining quadrilateral $\small OFBC=\, \mathpunct{?}$.
+### $\fbox{41}\:$Figure 6–35, rectangle $\small ABCD$ is divided into four pieces by $\small CE$ and $\small DF$. If the areas of three of the pieces are $\small 2, 5$ and $\small 8$, find the area of the remaining quadrilateral $\small OFBC$.
 ![Question quadrilaterals figure 6-35.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-35.svg)    
 ::: wrap  
 $
@@ -890,12 +883,12 @@ $
 $  
 :::
 #### Solution
-- Solve by forming a trapezoid using the diagonals of the irregular quadrilateral     
+- Solve by forming a trapezoid  
   ![Question quadrilaterals figure 6-35 solve-1.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-35%20solve-1.svg)   
   ::: wrap
   $
   \begin{array}{ll}
-  \textsf{join the diagonal }CF\textsf{ and }DE \\
+  \textsf{join diagonals }CF\textsf{ and }DE \\
   EDCF=\textsf{trapezoid} \\
   2\cdot8=4\cdot4 & \textsf{top}\cdot\textsf{bottom}=\textsf{left}\cdot\textsf{right} \\
   S_{\triangle EOD}=S_{\triangle COF}=4 \\
@@ -918,7 +911,7 @@ $
   \begin{array}{ll}
   S_1\cdot S_3=S_2\cdot S_4 & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#area-ratio-for-any-quadrilateral-figure-6%E2%80%9323}{\textsf{any quadrilateral area ratio theorem}} \\
   S_1:S_3:S_2:S_4=a^2:b^2:ab:ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#combining-the-above-four-into-one-proportion}{\textsf{trapezoid area ratio theorem}} \\
-  S_\triangle=\frac{1}{2}S_{ABCD} & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#a-triangle-with-the-same-base-and-height-as-a-rectangle-has-an-area-equal-to-of-the-rectangle-s-area}{\textsf{half-area rule for rectangle}}
+  S_\triangle=\frac{1}{2}S_{ABCD} & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#a-triangle-with-the-same-base-and-height-as-a-rectangle-is-half-the-area-of-the-rectangle}{\textsf{triangle is half of rectangle}}
   \end{array}
   >$
 
@@ -927,9 +920,7 @@ $
 
 ## 13.Focus 7
 __The polygon__  
-- When dealing with a polygon,
-  you can __draw auxiliary lines (usually connecting the diagonals)__
-  to __divide it into several triangles for solving__.
+- For polygons, __connect the diagonals to divide them into several triangles__ for solving.
 
 - ###### Regular hexagon  
   ![Regular hexagon divided into equilateral triangles.svg](../../public/math/Core%20Course/Regular%20hexagon%20divided%20into%20equilateral%20triangles.svg)  
@@ -943,7 +934,7 @@ __The polygon__
   $  
   :::
 
-- Interior angles of common regular polygons  
+- __Interior angles of common regular polygons__  
   > $\textsf{each interior angle}=\frac{(n-2)\cdot180^\circ}{n}$
 
   | Regular Polygon      | Number of Sides(n) | Each Interior Angle($^\circ$)               |
@@ -957,7 +948,7 @@ __The polygon__
 
 
 
-### $\fbox{42}\:$What is the area of a regular hexagon with side length $\small 2 \,\mathpunct{?}$.
+### $\fbox{42}\:$Find the area of a regular hexagon with side length $\small 2$.
 ::: wrap  
 $
 \begin{array}{lllll}
