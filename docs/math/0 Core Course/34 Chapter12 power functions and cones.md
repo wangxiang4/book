@@ -835,7 +835,7 @@ $
    ::: wrap  
    $
    \begin{array}{ll}
-   \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#in-similar-triangles-or-similar-figures-the-ratios-of-corresponding-sides-are-equal-called-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
+   \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
    \frac{h_1}{h}=\frac{r_1}{r} \\
    \frac{S_1}{S}=\frac{r_1^2}{r^2}=\frac{h_1^2}{h^2} & \href{https://www.mathsisfun.com/geometry/area.html}{\textsf{what is area}}\\
    \frac{V_1}{V}=\frac{r_1^3}{r^3}=\frac{h_1^3}{h^3} \\

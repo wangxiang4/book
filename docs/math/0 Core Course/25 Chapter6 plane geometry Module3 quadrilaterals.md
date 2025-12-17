@@ -95,7 +95,7 @@ lang: en-US
     ::: wrap  
     $
     \begin{array}{ll}
-    \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#in-similar-triangles-or-similar-figures-the-ratios-of-corresponding-sides-are-equal-called-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
+    \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
     \frac{a}{b}=\frac{OD}{OB}=\frac{OA}{OC} \\
     \end{array}
     $
@@ -108,7 +108,7 @@ lang: en-US
     ::: wrap  
     $
     \begin{array}{ll}
-    \frac{S_1}{S_2}=k^2 & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#the-ratio-of-the-areas-of-two-similar-triangles-or-similar-figures-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
+    \frac{S_1}{S_2}=k^2 & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratio-of-their-areas-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
     \frac{S_1}{S_3}=\frac{a_2}{b_2} \\
     \end{array}
     $

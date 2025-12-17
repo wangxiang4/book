@@ -215,57 +215,57 @@ $
 ## 19.Congruence of Triangles
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Definition
-- Two triangles are __said to be congruent__ if they have __the same shape__ and __the same size__.
-
+- Two triangles with __the same shape and size__ are called __congruent triangles__.
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Identification
-- Congruence can be determined by the following conditions:
-  - __Side-Side-Side (SSS)__
-  - __Side-Angle-Side (SAS)__
-  - __Angle-Side-Angle (ASA)__
-  - __Angle-Angle-Side (AAS)__
+- __Side-Side-Side (SSS)__
+- __Side-Angle-Side (SAS)__
+- __Angle-Side-Angle (ASA)__
+- __Angle-Angle-Side (AAS)__
 
 
 ### $\textcolor{#1E3A5F}{\fbox{3}}\:$Properties
-- If two triangles are congruent,
-  then __their corresponding sides, corresponding angles, and areas are all equal__.
-  In __mathematical terms__, two congruent triangles are __equivalent__,
-  sharing __the same side lengths, angles, and area__.
+- If two triangles are congruent, __their corresponding sides__, __corresponding angles__, __and areas are all equal__.
+- the two triangles are equivalent, __having the same side lengths__, __angles__, __and area__.
 
 
 ### $\textcolor{#1E3A5F}{\fbox{4}}\:$Applications
-- Congruence can be applied in situations __involving folding, symmetry, or rotation__.
+- Congruence can be applied in situations __involving folding__, __symmetry__, __or rotation__.
 
 
 ## 20.Similarity of Triangles
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Definition
-- Two triangles are __said to be similar__ if they have __the same shape__ and __their sizes are in proportional__.
-- A ratio of $1$ implies congruence.
+- Two triangles with __the same shape and proportional sizes__ are called __similar triangles__.
+- __A ratio of $\boldsymbol{1}$ implies congruence__.
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Identification
-- Two triangles are similar if they have __two pairs of corresponding angles equal__. 
+- __Two pairs of corresponding interior angles are equal__.
   ![Triangles similarity identification.svg](../../public/math/Core%20Course/Triangles%20similarity%20identification.svg)     
 
 
 ### $\textcolor{#1E3A5F}{\fbox{3}}\:$Properties
-1. ###### In similar triangles (or similar figures), __the ratios of corresponding sides are equal__, called the similarity ratio: $\frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=\boldsymbol{k}$.
-2. In similar triangles (or similar figures), __the ratios of corresponding altitudes, medians, and angle bisectors are also equal__ to __the similarity ratio__.     
-   ![Triangles similarity properties.svg](../../public/math/Core%20Course/Triangles%20similarity%20properties.svg)       
-3. The ratio of __the perimeters of two similar triangles__ (or similar figures) equals __the similarity ratio__: $\frac{C_1}{C_2}=\boldsymbol{k}$.
-4. ###### The ratio of __the areas of two similar triangles__ (or similar figures) equals __the square of the similarity ratio__: $\frac{S_1}{S_2}=\boldsymbol{k^2}$.
+1. ###### For similar triangles (similar figures), __the ratios of corresponding sides are equal to the similarity ratio__.  
+   $\frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k$
+2. For similar triangles (similar figures),
+   __the ratios of the altitudes__, __medians__, __and angle bisectors are equal to the similarity ratio__.  
+   ![Triangles similarity properties.svg](../../public/math/Core%20Course/Triangles%20similarity%20properties.svg)     
+3. For similar triangles (similar figures), __the ratio of their perimeters equals the similarity ratio__.  
+   $\frac{C_1}{C_2}=k$
+4. ###### For similar triangles (similar figures), __the ratio of their areas equals the square of the similarity ratio__.  
+   $\frac{S_1}{S_2}=k^2$
 
 
 ### $\textcolor{#1E3A5F}{\fbox{4}}\:$Applications
-- When __parallel lines appear__, __similarity can be used__ for analysis.
-- Note: the properties of similar triangles can be __fully extended to other similar figures__, such as __quadrilaterals__.   
+- When __parallel lines appear__, __use similarity analysis__.
+- Note: __the properties of similar triangles can be fully extended to other similar figures__, such as __quadrilaterals__.   
   ![Triangles similarity applications.svg](../../public/math/Core%20Course/Triangles%20similarity%20applications.svg)      
 
 
 
 ## 21.Focus 9
 __The congruent triangles__   
-- When dealing with __folding__, __symmetry__, or __reflection__, use __congruence analysis__.
+- When dealing with __folding__, __symmetry__, __or reflection__, __use congruence analysis__.
 
 
 
@@ -392,8 +392,8 @@ $
   >$
   \begin{array}{ll}
   (5,12,13)& \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
-  \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#in-similar-triangles-or-similar-figures-the-ratios-of-corresponding-sides-are-equal-called-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
-  \frac{S_1}{S_2}=k^2 & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#the-ratio-of-the-areas-of-two-similar-triangles-or-similar-figures-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
+  \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
+  \frac{S_1}{S_2}=k^2 & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratio-of-their-areas-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
   S=\frac{1}{2}ah & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
   \end{array}
   >$
@@ -457,7 +457,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#identification-1}{\textsf{similar triangles identification}} \\
-  \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#in-similar-triangles-or-similar-figures-the-ratios-of-corresponding-sides-are-equal-called-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
+  \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
   \end{array}
   >$
 
@@ -505,7 +505,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#definition-1}{\textsf{similar triangles definition}} \\
-  \frac{S_1}{S_2}=k^2 & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#the-ratio-of-the-areas-of-two-similar-triangles-or-similar-figures-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
+  \frac{S_1}{S_2}=k^2 & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratio-of-their-areas-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
   \end{array}
   >$
 
@@ -556,7 +556,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#applications-1}{\textsf{similar triangles applications}} \\
-  \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#in-similar-triangles-or-similar-figures-the-ratios-of-corresponding-sides-are-equal-called-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
+  \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
   \end{array}
   >$
 
