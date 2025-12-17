@@ -7,49 +7,49 @@ lang: en-US
 
 
 ## 1.Parallelogram
-- A parallelogram has __two sides of lengths $\boldsymbol{a}$ and $\boldsymbol{b}$__.
-  Taking $b$ as the base, the height is $h$.
-  Its area is $\boldsymbol{S=bh}$.
-  Its perimeter is $\boldsymbol{C=2(a+b)}$.   
-
-![Parallelogram area and perimeter formulas.svg](../../public/math/Core%20Course/Parallelogram%20area%20and%20perimeter%20formulas.svg)  
+- A parallelogram has __side lengths $\boldsymbol{a}$ and $\boldsymbol{b}$__,
+  with __$\boldsymbol{b}$ as the base__.
+  __The height is $\boldsymbol{h}$__,
+  __the area is $\boldsymbol{S=bh}$__,
+  and __the perimeter is $\boldsymbol{C=2(a+b)}$__.  
+  ![Parallelogram area and perimeter formulas.svg](../../public/math/Core%20Course/Parallelogram%20area%20and%20perimeter%20formulas.svg)  
 
 
 ## 2.Rectangle
-- A rectangle has __two sides of lengths $\boldsymbol{a}$ and $\boldsymbol{b}$__.
-  Its area is $S=ab$.
-  Its perimeter is $\boldsymbol{C=2(a+b)}$.
-  Its diagonal is $\boldsymbol{l=\sqrt{a^2+b^2}}$.  
-
-![Rectangle area perimeter diagonal.svg](../../public/math/Core%20Course/Rectangle%20area%20perimeter%20diagonal.svg)  
+- A rectangle has __side lengths $\boldsymbol{a}$ and $\boldsymbol{b}$__.
+  __The area is $\boldsymbol{S=ab}$__,
+  __the perimeter is $\boldsymbol{C=2(a+b)}$__,
+  and __the diagonal is $\boldsymbol{l=\sqrt{a^2+b^2}}$__.  
+  ![Rectangle area perimeter diagonal.svg](../../public/math/Core%20Course/Rectangle%20area%20perimeter%20diagonal.svg)  
 
 
 ## 3.Rhombus
-- A rhombus has __four sides, each of length $\boldsymbol{a}$__.
-  Taking $a$ as the base, its height is $h$.
-  Its area is $\boldsymbol{S=ah=\frac{1}{2}l_1l_2}$, where $l_1$ and $l_2$ are __the lengths of its diagonals__.
-  Its perimeter is $\boldsymbol{C=4a}$.   
-- $S=\frac{1}{2}\cdot\frac{l_1}{2}\cdot\frac{l_2}{2}\cdot4=\frac{l_1\cdot l_2}{2}$   
-
-![Rhombus area diagonals perimeter.svg](../../public/math/Core%20Course/Rhombus%20area%20diagonals%20perimeter.svg)  
+- A rhombus has __four sides of length $\boldsymbol{a}$__,
+  with __$\boldsymbol{a}$ as the base and height $\boldsymbol{h}$__.
+  __The area is $\boldsymbol{S=ah=\frac{1}{2}l_1l_2}$__,
+  where __$\boldsymbol{l_1}$ and $\boldsymbol{l_2}$ are the lengths of the diagonals__.
+  __The perimeter is $\boldsymbol{C=4a}$__.
+- $S=\frac{1}{2}\cdot\frac{l_1}{2}\cdot\frac{l_2}{2}\cdot4=\frac{l_1\cdot l_2}{2}$  
+  ![Rhombus area diagonals perimeter.svg](../../public/math/Core%20Course/Rhombus%20area%20diagonals%20perimeter.svg)  
 
   
 ## 4.Square
-- A square has __four sides, each of length $\boldsymbol{a}$__, and all four interior angles are $\boldsymbol{90^\circ}$.
-  Its area is $\boldsymbol{S=a^2}$.
-  Its perimeter is $\boldsymbol{C=4a}$.   
-- According to __the pythagorean theorem $c=\sqrt{a^2+b^2}$, diagonal is $\sqrt{2}$__.   
-
-![Square area and perimeter.svg](../../public/math/Core%20Course/Square%20area%20and%20perimeter.svg)  
+- A square has __four sides of length $\boldsymbol{a}$ and four interior angles of $\boldsymbol{90^\circ}$__.
+  __The area is $\boldsymbol{S=a^2}$__, 
+  and __the perimeter is $\boldsymbol{C=4a}$__.   
+- According to __the pythagorean theorem $\boldsymbol{c=\sqrt{a^2+b^2}}$__, and __the diagonal is $\boldsymbol{\sqrt{2}a}$__.  
+  ![Square area and perimeter.svg](../../public/math/Core%20Course/Square%20area%20and%20perimeter.svg)  
 
 
 ## 5.Trapezoid
-- A trapezoid has an upper base of length $a$, a lower base of length $b$, and a height of $h$.
-  Its midline is $\boldsymbol{l=\frac{1}{2}(a+b)}$.
-  ts area is $\boldsymbol{S=\frac{1}{2}(a+b)h}$.   
+- A trapezoid has __an upper base of length $\boldsymbol{a}$__,
+  __a lower base of length $\boldsymbol{b}$__,
+  __and height $\boldsymbol{h}$__.
+  __The midline is $\boldsymbol{l=\frac{1}{2}(a+b)}$__.
+  __The area is $\boldsymbol{S=\frac{1}{2}(a+b)h}$__.  
   ![Trapezoid area and median formula.svg](../../public/math/Core%20Course/Trapezoid%20area%20and%20median%20formula.svg)  
 
-- Note: there are two special types of trapezoids — __the isosceles trapezoid__ and __the right trapezoid__.   
+- Note: __two special types of trapezoids, the isosceles trapezoid and the right trapezoid__.  
   ![Special types of trapezoids.svg](../../public/math/Core%20Course/Special%20types%20of%20trapezoids.svg)  
 
 
