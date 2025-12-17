@@ -271,7 +271,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
+  \left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
   k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
   k=-\frac{a}{b} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#note-the-general-form-is-crucial-as-it-allows-for-quick-calculation-of-the-slope}{\textsf{convert general form to slope}} \\
   \end{array}

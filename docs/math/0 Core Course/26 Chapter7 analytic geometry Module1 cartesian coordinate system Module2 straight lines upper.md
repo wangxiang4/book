@@ -15,7 +15,7 @@ lang: en-US
 ## 2.Midpoint Coordinates of Two Points
 - __The midpoint of points $\boldsymbol{P_1(x_1,y_1)}$ and $\boldsymbol{P_2(x_2,y_2)}$ is $\boldsymbol{\left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right)}$__,
   which is essentially __the average of the two points__.
-- Special case: __the midpoint of points $\boldsymbol{P_1(x_1,y_1)}$ and $O\boldsymbol{(0,0)}$ is $\boldsymbol{\left(\frac{x_1}{2},\frac{y_1}{2}\right)}$__.
+- Special case: __the midpoint of points $\boldsymbol{P_1(x_1,y_1)}$ and $\boldsymbol{O(0,0)}$ is $\boldsymbol{\left(\frac{x_1}{2},\frac{y_1}{2}\right)}$__.
 - __Formula derivation__  
   ![Midpoint coordinates formula derivation.svg](../../public/math/Core%20Course/Midpoint%20coordinates%20formula%20derivation.svg)       
   ::: wrap  
@@ -31,8 +31,8 @@ lang: en-US
   :::
 
 ## 3.Distance Formula Between Two Points
-- The distance between two points $A(x_1,y_1)$ and $B(x_2,y_2)$ is $d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$.  
-- Special case: the distance between point $A(x,y)$ and the origin $(0,0)$ is $d=\sqrt{x^2+y^2}$.  
+- __The distance between points $\boldsymbol{A(x_1,y_1)}$ and $\boldsymbol{B(x_2,y_2)}$ is $\boldsymbol{d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}$__.
+- Special case: __the distance between points $\boldsymbol{A(x_1,y_1)}$ and $\boldsymbol{O(0,0)}$ is $\boldsymbol{d=\sqrt{x^2+y^2}}$__.  
 - __Formula derivation__  
   ![Distance formula between two points derivation.svg](../../public/math/Core%20Course/Distance%20formula%20between%20two%20points%20derivation.svg)  
   ::: wrap  
@@ -46,7 +46,7 @@ lang: en-US
 
 ## 4.Focus 1
 __The midpoint formula of two points__  
-- Analyze using the midpoint formula of two points $(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2})$.
+- Analyze using __the midpoint formula of two points $\boldsymbol{\left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right)}$__.
 
 
 ### $\fbox{1}\:$Given three points $\small A(x,5),B(-2,y)$, and $\small C(1,1)$, if point $\small C$ is the midpoint of segment $\small AB$, then $\small \mathpunct{?}$.
@@ -88,7 +88,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
+  \left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
   \end{array}
   >$
 
@@ -401,7 +401,7 @@ $
   >$
   \begin{array}{ll}
   k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
-  (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
+  \left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
   \end{array}
   >$
 
