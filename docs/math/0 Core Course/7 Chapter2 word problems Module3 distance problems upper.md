@@ -272,7 +272,7 @@ $
   > According to the Solution, get $s=105$, so choose $D$. 
 
   :::
-- Formulas used  
+- ###### Formulas used  
   ::: wrap
   >$
   \begin{array}{ll}

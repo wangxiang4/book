@@ -54,21 +54,17 @@ lang: en-US
 
 
 ## 6.Area Ratio Theorem for Quadrilaterals
-- This theorem provides a way to __solve the area problem of an irregular quadrilateral__.
-  By constructing a model,
-  on the one hand,
-  __the area of the irregular quadrilateral__ can be related to __the triangles inside the quadrilateral__;
-  on the other hand,
-  we can also obtain __the proportional relationship of the diagonals corresponding to the area__.
-
+- This theorem provides a way to __solve area problems involving irregular quadrilaterals__.
+  __It can relate the triangles inside an irregular quadrilateral__
+  and __provide proportional relationships between the diagonals corresponding to the areas__.
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Area ratio for any quadrilateral (Figure 6–23)
 ![Any quadrilateral area ratio theorem figure 6–23.svg](../../public/math/Core%20Course/Any%20quadrilateral%20area%20ratio%20theorem%20figure%206%E2%80%9323.svg)  
 
 - ① $\frac{S_1}{S_2}=\frac{S_4}{S_3}=\frac{OD}{OB}$    
    ![Any quadrilateral area ratio theorem figure 6–23 solve-1.svg](../../public/math/Core%20Course/Any%20quadrilateral%20area%20ratio%20theorem%20figure%206%E2%80%9323%20solve-1.svg)  
-   - Based on the fact that __the ratio of the areas of triangles with the same height equals the ratio of their bases__,
-     we have $S_1\cdot S_3=S_2\cdot S_4$ (__top$\cdot$bottom=left$\cdot$right__).
+   - Based on triangles with equal height, __the ratio of their areas is equal to the ratio of their bases__,
+     $S_1\cdot S_3=S_2\cdot S_4$ ($\textsf{top}\cdot\textsf{bottom}=\textsf{left}\cdot\textsf{right}$).
   - __Theorem derivation__  
     ::: wrap  
     $
@@ -81,7 +77,7 @@ lang: en-US
     \end{array}
     $
     :::   
-- ② According to __the proportionality theorem__ $\frac{S_1}{S_2}=\frac{S_4}{S_3}=\frac{OD}{OB}=\frac{S_1+S_4}{S_2+S_3}$.        
+- ② According to [the internal section formula](/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#formulas-used) $\frac{S_1}{S_2}=\frac{S_4}{S_3}=\frac{OD}{OB}=\frac{S_1+S_4}{S_2+S_3}$.
    Similarly, $\frac{S_1+S_2}{S_4+S_3}=\frac{AO}{OC}$.   
    ![Any quadrilateral area ratio theorem figure 6–23 solve-2.svg](../../public/math/Core%20Course/Any%20quadrilateral%20area%20ratio%20theorem%20figure%206%E2%80%9323%20solve-2.svg)  
 
@@ -89,7 +85,7 @@ lang: en-US
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Area ratio for trapezoids (Figure 6–24)
 ![Trapezoids area ratio theorem figure 6–24.svg](../../public/math/Core%20Course/Trapezoids%20area%20ratio%20theorem%20figure%206%E2%80%9324.svg)  
  
-- ① $\overbrace{\boldsymbol{\frac{S_1}{S_2}=\frac{S_4}{S_3}=\frac{OD}{OB}}}^{\textsf{common property of any quadrilateral}} = \frac{a}{b}$    
+- ① $\overbrace{\frac{S_1}{S_2}=\frac{S_4}{S_3}=\frac{OD}{OB}}^{\textsf{common property of any quadrilateral}} = \frac{a}{b}$    
   - __Theorem derivation__  
     ![Trapezoids area ratio theorem figure 6–24 solve-1.svg](../../public/math/Core%20Course/Trapezoids%20area%20ratio%20theorem%20figure%206%E2%80%9324%20solve-1.svg)  
     ::: wrap  
@@ -101,7 +97,7 @@ lang: en-US
     $
     :::
 
-- ② $\overbrace{\boldsymbol{S_1\cdot S_3=S_2\cdot S_4}}^{\textsf{common property of any quadrilateral}}$    
+- ② $\overbrace{S_1\cdot S_3=S_2\cdot S_4}^{\textsf{common property of any quadrilateral}}$    
 
 - ③ $\frac{S_1}{S_3}=\frac{a^2}{b^2}$    
   - __Theorem derivation__  
@@ -127,9 +123,10 @@ lang: en-US
     S_2+S_3=S_4+S_3 \implies S_2=S_4 \\
     \end{array}
     $
-:::   
+:::  
 ::: wrap
-- ###### The unified proportion obtained from the four results is $\boldsymbol{S_1:S_3:S_2:S_4=a^2:b^2:ab:ab}$.    
+- ###### Combining the above four into one proportion.  
+  $S_1:S_3:S_2:S_4=a^2:b^2:ab:ab$  
   ![Trapezoids area ratio theorem.svg](../../public/math/Core%20Course/Trapezoids%20area%20ratio%20theorem.svg)     
   - __Theorem derivation__  
     $
@@ -872,7 +869,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S_1:S_3:S_2:S_4=a^2:b^2:ab:ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#the-unified-proportion-obtained-from-the-four-results-is}{\textsf{trapezoid area ratio theorem}} \\
+  S_1:S_3:S_2:S_4=a^2:b^2:ab:ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#combining-the-above-four-into-one-proportion}{\textsf{trapezoid area ratio theorem}} \\
   \end{array}
   >$
 
@@ -921,7 +918,7 @@ $
   >$
   \begin{array}{ll}
   S_1\cdot S_3=S_2\cdot S_4 & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#area-ratio-for-any-quadrilateral-figure-6%E2%80%9323}{\textsf{any quadrilateral area ratio theorem}} \\
-  S_1:S_3:S_2:S_4=a^2:b^2:ab:ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#the-unified-proportion-obtained-from-the-four-results-is}{\textsf{trapezoid area ratio theorem}} \\
+  S_1:S_3:S_2:S_4=a^2:b^2:ab:ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#combining-the-above-four-into-one-proportion}{\textsf{trapezoid area ratio theorem}} \\
   S_\triangle=\frac{1}{2}S_{ABCD} & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#a-triangle-with-the-same-base-and-height-as-a-rectangle-has-an-area-equal-to-of-the-rectangle-s-area}{\textsf{half-area rule for rectangle}}
   \end{array}
   >$
