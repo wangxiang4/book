@@ -713,7 +713,7 @@ $
   :::
 ---
 
-### $\fbox{50}\:$Figure 2–18: It shows the relationship between the train's speed $\small v$ and travel time $\small t$. When the train travels $\small 72\textsf{km}$ in $\small 1$ hour, find the value of $\small v_0$ in kilometers per hour.
+### $\fbox{50}\:$Figure 2–18: It shows the relationship between the train's speed $\small v$ and travel time $\small t$. When the train travels $\small 72\textsf{km}$ in $\small 1$ hour, find $\small v_0$ in kilometers per hour.
 ![Question distance problems figure 2-18.svg](../../public/math/Core%20Course/Question%20distance%20problems%20figure%202-18.svg)  
 ::: wrap  
 $

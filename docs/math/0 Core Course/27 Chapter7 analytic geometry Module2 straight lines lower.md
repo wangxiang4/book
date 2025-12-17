@@ -63,7 +63,7 @@ __The two lines are parallel__
 
 
 
-### $\fbox{12}\:$Given that the lines $\small l_1:\;(k-3)x+(4-k)y+1=0$ and $\small l_2:\;2(k-3)x-2y+3=0$ are parallel, find the value of $\small k$.
+### $\fbox{12}\:$Given that the lines $\small l_1:\;(k-3)x+(4-k)y+1=0$ and $\small l_2:\;2(k-3)x-2y+3=0$ are parallel, find $\small k$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -217,7 +217,7 @@ $
 ---
 
 
-### $\fbox{15}\:$Given the points $\small A(1, -2)$ and $\small B(m, 2)$, and the equation of the perpendicular bisector of segment $\small AB$ as $\small x+2y−2=0$, what is the value of the real number $\small m \, \mathpunct{?}$.
+### $\fbox{15}\:$Given the points $\small A(1, -2)$ and $\small B(m, 2)$, and the equation of the perpendicular bisector of segment $\small AB$ as $\small x+2y−2=0$, find $\small m$.
 ::: wrap  
 $
 \begin{array}{lllll}

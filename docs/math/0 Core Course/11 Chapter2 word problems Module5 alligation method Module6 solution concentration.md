@@ -706,7 +706,7 @@ $
   :::
 ---
 
-### $\fbox{73}\:$Container $\small A$ contains $\small 120\textsf{g}$ of $\small 5\%$ salt solution, and container $\small B$ contains some amount of salt solution of unknown concentration. If $\small 480\textsf{g}$ of the solution is taken from container $\small B$ and poured into container $\small A$, forming a $\small 13\%$ salt solution, what is the concentration of the solution in container $\small B\, \mathpunct{?}$.
+### $\fbox{73}\:$Container $\small A$ contains $\small 120\textsf{g}$ of $\small 5\%$ salt solution, and container $\small B$ contains some amount of salt solution of unknown concentration. If $\small 480\textsf{g}$ of the solution is taken from container $\small B$ and poured into container $\small A$, forming a $\small 13\%$ salt solution, find the concentration of the solution in container $\small B$.
 ::: wrap  
 $
 \begin{array}{lllll}

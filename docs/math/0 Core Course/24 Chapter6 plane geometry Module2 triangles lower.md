@@ -269,7 +269,7 @@ __The congruent triangles__
 
 
 
-### $\fbox{23}\:$Figure 6–19, in $\small \triangle ABC$, $\small AD \perp BC$ at point $\small D$, $\small CE \perp AB$ at point $\small E$, $\small AD$ and $\small CE$ intersect at point $\small H$, if $\small EH=EB=3, AE=4$, then $\small CH=\, \mathpunct{?}$.
+### $\fbox{23}\:$Figure 6–19, in $\small \triangle ABC$, $\small AD \perp BC$ at point $\small D$, $\small CE \perp AB$ at point $\small E$, $\small AD$ and $\small CE$ intersect at point $\small H$, if $\small EH=EB=3$, and $\small  AE=4$, find $\small CH$.
 ![Question triangles figure 6-19.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-19.svg)     
 ::: wrap  
 $

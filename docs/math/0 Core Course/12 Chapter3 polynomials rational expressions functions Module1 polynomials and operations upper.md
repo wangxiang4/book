@@ -109,7 +109,7 @@ $
 ---
 
 ::: wrap  
-### $\fbox{2}\:$If the real number $\small a\ne1$, then $\small (a+1)(a^2+1)(a^4+1)\cdots(a^{64}+1)=\,\mathpunct{?}$.
+### $\fbox{2}\:$If the real number $\small a\ne1$, find $\small (a+1)(a^2+1)(a^4+1)\cdots(a^{64}+1)$.
 :::  
 ::: wrap  
 $
@@ -163,7 +163,7 @@ __The perfect square formulas for two terms__
 - ###### Special applications involving reciprocals: $\boldsymbol{x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2}$.
 
 
-### $\fbox{3}\:$Given $\small (x+2y)^2=40$ and $\small xy=2$, then $(x-2y)^2=\,\mathpunct{?}$.
+### $\fbox{3}\:$Given that $\small (x+2y)^2=40$ and $\small xy=2$, find $(x-2y)^2$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -204,8 +204,8 @@ $
   :::
 ---
 
-### $\fbox{4}\:$Given $\small x+\frac{1}{x}=3$.
-#### (1) Then $\small x^2+\frac{1}{x^2}=\,\mathpunct{?}$.
+### $\fbox{4}\:\small x+\frac{1}{x}=3$.
+#### (1) $\small x^2+\frac{1}{x^2}=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -217,7 +217,7 @@ $
 \end{array}
 $  
 :::  
-#### (2) Then $\small x^4+\frac{1}{x^4}=\,\mathpunct{?}$.
+#### (2) $\small x^4+\frac{1}{x^4}=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -229,7 +229,7 @@ $
 \end{array}
 $  
 :::  
-#### (3) Then $\small x^3+\frac{1}{x^3}=\,\mathpunct{?}$.
+#### (3) $\small x^3+\frac{1}{x^3}=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -241,7 +241,7 @@ $
 \end{array}
 $  
 :::  
-#### (4) Then $\small |x-\frac{1}{x}|=\,\mathpunct{?}$.
+#### (4) $\small |x-\frac{1}{x}|=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -302,8 +302,8 @@ $
   :::
 ---
 
-### $\fbox{5}\:$Given $\small x-\frac{1}{x}=3$.
-#### (1) Then $\small x^2+\frac{1}{x^2}=\,\mathpunct{?}$.
+### $\fbox{5}\:\small x-\frac{1}{x}=3$.
+#### (1) $\small x^2+\frac{1}{x^2}=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -315,7 +315,7 @@ $
 \end{array}
 $  
 :::
-#### (2) Then $\small x^4+\frac{1}{x^4}=\,\mathpunct{?}$.
+#### (2) $\small x^4+\frac{1}{x^4}=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -327,7 +327,7 @@ $
 \end{array}
 $  
 :::
-#### (3) Then $\small x^3-\frac{1}{x^3}=\,\mathpunct{?}$.
+#### (3) $\small x^3-\frac{1}{x^3}=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -339,7 +339,7 @@ $
 \end{array}
 $  
 :::
-#### (4) Then $\small |x+\frac{1}{x}|=\,\mathpunct{?}$.
+#### (4) $\small |x+\frac{1}{x}|=\,\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -400,7 +400,7 @@ $
   :::
 ---
 
-### $\fbox{6}\:$Given $\small x^2-3x+1=0$, then $x^2+\frac{1}{x^2}=\,\mathpunct{?}$.
+### $\fbox{6}\:$Given that Given $\small x^2-3x+1=0$, find $x^2+\frac{1}{x^2}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -451,7 +451,7 @@ $
   :::
 ---
 
-### $\fbox{7}\:$Given $\small x^4-7x^2+1=0$, then $x+\frac{1}{x}=\,\mathpunct{?}$.
+### $\fbox{7}\:$Given that $\small x^4-7x^2+1=0$, find $x+\frac{1}{x}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -518,7 +518,7 @@ __The perfect square formulas for three terms__
 :::  
 
 
-### $\fbox{8}\:$Expression $\small (a-b+c)^2+(a-b-c)^2=\,\mathpunct{?}$
+### $\fbox{8}\:\small (a-b+c)^2+(a-b-c)^2=\,\mathpunct{?}$
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -574,7 +574,7 @@ $
 ---
 
 ::: wrap  
-### $\fbox{9}\:$If real numbers $\small a,b,c$ satisfy $\small a+b+c=1$ and $\small \frac{1}{a+2}+\frac{1}{b+3}+\frac{1}{c+4}=0$, then the algebraic expression $\small (a+2)^2+(b+3)^2+(c+4)^2=\,\mathpunct{?}$.
+### $\fbox{9}\:$If real numbers $\small a,b,c$ satisfy $\small a+b+c=1$ and $\small \frac{1}{a+2}+\frac{1}{b+3}+\frac{1}{c+4}=0$, find $\small (a+2)^2+(b+3)^2+(c+4)^2$.
 :::  
 ::: wrap  
 $
@@ -617,7 +617,7 @@ $
 ---
 
 ::: wrap  
-### $\fbox{10}\:$If real numbers $\small a,b,c$ satisfy $\small a^2+b^2+c^2=9$, then what is the maximum value of the algebraic expression $\small (a-b)^2+(b-c)^2+(c-a)^2\,\mathpunct{?}$.
+### $\fbox{10}\:$If real numbers $\small a,b,c$ satisfy $\small a^2+b^2+c^2=9$, find the maximum value of $\small (a-b)^2+(b-c)^2+(c-a)^2$.
 :::  
 ::: wrap  
 $

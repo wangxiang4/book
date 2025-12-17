@@ -406,7 +406,7 @@ __The variable ratio problems (involving varying quantities)__
 - For ratio problems where __all quantities vary__,
   __set up unknowns and form equations to solve__.
 
-### $\fbox{10}\:\small A$ and $\small B$ originally had paper in the ratio $\small 4:3$. $\small A$ received $\small 15$ more sheets, and $\small B$ lost $\small 8$ sheets, the ratio became $\small 5:2$. How many more sheets did $\small A$ originally have than $\small B \,\mathpunct{?}$.
+### $\fbox{10}\:\small A$ and $\small B$ originally had paper in the ratio $\small 4:3$. $\small A$ received $\small 15$ more sheets, and $\small B$ lost $\small 8$ sheets, the ratio became $\small 5:2$. Find how many more sheets of paper $\small A$ originally had than $\small B$.
 ::: wrap  
 $
 \begin{array}{lllll}

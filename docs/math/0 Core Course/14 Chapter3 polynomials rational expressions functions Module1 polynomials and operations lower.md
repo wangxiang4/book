@@ -22,7 +22,7 @@ __The evaluating polynomials__
   In such cases,
   one usually performs __a substitution of the whole expression to find the value of the polynomial__.
 
-### $\fbox{18}\:$Given $\small y=ax^7+bx^5+cx^3+dx+e$, where $\small a,b,c,d,e$ are constants. When $\small x=2,y=23$; and when $\small x=-2, y=-35$. Find the value of $\small e$.
+### $\fbox{18}\:$Given $\small y=ax^7+bx^5+cx^3+dx+e$, where $\small a,b,c,d,e$ are constants. When $\small x=2,y=23$; and when $\small x=-2, y=-35$. Find $\small e$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -67,7 +67,7 @@ __The equality of polynomials__
   for two polynomials to be equal.
 
 ::: wrap  
-### $\fbox{19}\:$Given real numbers $\small a,b,c$. If the polynomials $\small f(x)=-7x+4$ and $\small \operatorname{g}(x)=a(x-1)^2-b(x+2)+c(x^2+x-2)$ are equal, then find the value of $\small a+b+c$.
+### $\fbox{19}\:$Given real numbers $\small a,b,c$. If the polynomials $\small f(x)=-7x+4$ and $\small \operatorname{g}(x)=a(x-1)^2-b(x+2)+c(x^2+x-2)$ are equal, find $\small a+b+c$.
 :::  
 ::: wrap  
 $
@@ -154,7 +154,7 @@ __The multiplication of polynomials__
   __the coefficient of a specific term__ can be found using __the matching method__.
 
 
-### $\fbox{20}\:$Given that in the expansion of $\small (x^2+px+8)(x^2-3x+q)$, the $\small x^2$ and $\small x^3$ terms are missing, find the value of $\small p+q$.
+### $\fbox{20}\:$Given that in the expansion of $\small (x^2+px+8)(x^2-3x+q)$, the $\small x^2$ and $\small x^3$ terms are missing, find $\small p+q$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -376,7 +376,7 @@ __The divisibility and factors__
   __when the factor equals zero, the original expression also equals zero__.
 
 
-### $\fbox{22}\:$If the polynomial $\small f(x)=x^3+a^2x^2+x-3a$ is divisible by $\small x-1$, then find the real number $\small a$.
+### $\fbox{22}\:$If the polynomial $\small f(x)=x^3+a^2x^2+x-3a$ is divisible by $\small x-1$, find the real number $\small a$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -682,7 +682,7 @@ __The common factors and common multiples__
   one usually __splits terms first__ and then __factors by grouping__.
 
 
-### $\fbox{27}\:$What factor is common to both $\small x^3-9x+8$ and $\small x^9+x^6+x^3-3 \,\mathpunct{?}$.
+### $\fbox{27}\:$Find the common factor of $\small x^3-9x+8$ and $\small x^9+x^6+x^3-3$.
 ::: wrap  
 $
 \begin{array}{lllll}

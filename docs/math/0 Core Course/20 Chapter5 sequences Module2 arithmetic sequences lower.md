@@ -92,7 +92,7 @@ $
   :::
 ---
 
-### $\fbox{22}\:$The sum of the first $\small n$ terms of an arithmetic sequence is $\small S_n$. If $\small a_5+a_8=16$ and $\small S_{18}=90$, then find $\small S_{32}$.
+### $\fbox{22}\:$The sum of the first $\small n$ terms of an arithmetic sequence is $\small S_n$. If $\small a_5+a_8=16$ and $\small S_{18}=90$, find $\small S_{32}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -349,7 +349,7 @@ __The property of arithmetic series summation__
 - __Essence__: after grouping the sums, __the results still form an arithmetic sequence__.
   __The subscripts of $\boldsymbol{S_n}$__ are in __a multiple relationship__.
 
-### $\fbox{26}\:$In an arithmetic sequence, the sum of the first $\small 5$ terms is $\small S_5=15$, and the sum of the first $\small 15$ terms is $\small S_{15}=120$, then find the sum of the first $\small 10$ terms $\small S_{10}$.
+### $\fbox{26}\:$In an arithmetic sequence, the sum of the first $\small 5$ terms is $\small S_5=15$, and the sum of the first $\small 15$ terms is $\small S_{15}=120$, find the sum of the first $\small 10$ terms $\small S_{10}$.
 ::: wrap  
 $
 \begin{array}{lllll}

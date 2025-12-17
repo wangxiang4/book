@@ -49,7 +49,7 @@ __The calculating area using the base–height relationship__
 
 
 
-### $\fbox{12}\:$Figure 6–13, if the area of $\small \triangle ABC$ is $\small 1$, and the areas of $\small \triangle AEC, \triangle DEC$, and $\small \triangle BED$ are equal, then what is the area of $\small \triangle AED \,\mathpunct{?}$.
+### $\fbox{12}\:$Figure 6–13, if the area of $\small \triangle ABC$ is $\small 1$, and the areas of $\small \triangle AEC, \triangle DEC$, and $\small \triangle BED$ are equal, find the area of $\small \triangle AED$.
 ![Question triangles figure 6-13.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-13.svg)  
 ::: wrap  
 $
@@ -369,7 +369,7 @@ __The application of the area ratio theorem for common-angle triangles__
 
 
 ::: wrap  
-### $\fbox{17}\:$Figure 6–15, in $\small \triangle ABC$, points $\small D$ and $\small E$ lie on $\small AB$ and $\small AC$, respectively. Given that $\small AD:AB=2:5, AE:AC=4:7, S_{\triangle ADE}=16$, find the area of $\small \triangle ABC$.
+### $\fbox{17}\:$Figure 6–15, in $\small \triangle ABC$, points $\small D$ and $\small E$ lie on $\small AB$ and $\small AC$, respectively. Given that $\small AD:AB=2:5, AE:AC=4:7$, and $\small S_{\triangle ADE}=16$, find the area of $\small \triangle ABC$.
 :::  
 ![Question triangles figure 6-15.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-15.svg)  
 ::: wrap  
@@ -418,7 +418,7 @@ $
 
 
 ::: wrap  
-### $\fbox{18}\:$Figure 6–15, in $\small \triangle ABC$, point $\small D$ lies on the extension of $\small BA$, and point $\small E$ lies on $\small AC$. Given that $\small AB: AD=5:2, AE: EC=3:2, S_{\triangle ADE}=12$, find the area of $\small \triangle ABC$.
+### $\fbox{18}\:$Figure 6–15, in $\small \triangle ABC$, point $\small D$ lies on the extension of $\small BA$, and point $\small E$ lies on $\small AC$. Given that $\small AB: AD=5:2, AE: EC=3:2$, and $\small  S_{\triangle ADE}=12$, find the area of $\small \triangle ABC$.
 :::  
 ![Question triangles figure 6-16.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-16.svg)  
 ::: wrap  
@@ -502,7 +502,7 @@ __The application of the area ratio theorem for concurrent cevians__
 
 
 ::: wrap  
-### $\fbox{19}\:$Figure 6–17, in $\small \triangle ABC$, $\small BD:DC=4:9, CE:EA=4:3$, then $\small AF:FB=\,\mathpunct{?}$.
+### $\fbox{19}\:$Figure 6–17, in $\small \triangle ABC$, Given that $\small BD:DC=4:9$, and $\small CE:EA=4:3$, find $\small AF:FB$.
 :::  
 ![Question triangles figure 6-17.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-17.svg)  
 ::: wrap  

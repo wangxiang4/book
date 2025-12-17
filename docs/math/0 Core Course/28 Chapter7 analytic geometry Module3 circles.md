@@ -373,7 +373,7 @@ __The positional relationship between a line and a circle__
   $\textsf{chord length} = \boldsymbol{2\sqrt{r^2-d^2}}$.
 
 
-### $\fbox{27}\:$If the line $\small y=k(x+2)$ is a tangent to the circle $\small x^2+y^2=1$, then what is the value of $\small k\,\mathpunct{?}$.
+### $\fbox{27}\:$If the line $\small y=k(x+2)$ is a tangent to the circle $\small x^2+y^2=1$, find $\small k$.
 ::: wrap   
 $
 \begin{array}{lllll}
@@ -573,7 +573,7 @@ $
 ---
 
 
-### $\fbox{30}\:$If the line $\small x−y+1=0$ and the circle $\small (x-a)^2+y^2=2$ have a common point, then what is the range of values for the real number $\small a \, \mathpunct{?}$.
+### $\fbox{30}\:$If the line $\small x−y+1=0$ and the circle $\small (x-a)^2+y^2=2$ have a common point, find the range of $\small a$.
 ::: wrap   
 $
 \begin{array}{lllll}
@@ -802,7 +802,7 @@ $
 ---
 
 ::: wrap   
-### $\fbox{34}\:$If circle $\small C_1:\,(x-2)^2+(y-1)^2=r^2 (r>0)$ and circle $\small C_2:\,x^2-6x+y^2-8y=0$ have intersection points, then what is the range of values for $\small r \, \mathpunct{?}$.
+### $\fbox{34}\:$If circle $\small C_1:\,(x-2)^2+(y-1)^2=r^2 (r>0)$ and circle $\small C_2:\,x^2-6x+y^2-8y=0$ have intersection points, find the range of $\small r$.
 :::   
 ::: wrap  
 $
@@ -915,7 +915,7 @@ $
 ---
 
 
-### $\fbox{36}\:$If the circle $\small x^2+y^2=4$ and the circle $\small x^2+y^2-2ax+a^2-1=0$ are internally tangent, then what is the value of $\small a \, \mathpunct{?}$.
+### $\fbox{36}\:$If the circle $\small x^2+y^2=4$ and the circle $\small x^2+y^2-2ax+a^2-1=0$ are internally tangent, find $\small a$.
 ::: wrap  
 $
 \begin{array}{lllll}

@@ -52,7 +52,7 @@ __The linear equation in one variable__
 - A linear equation in one variable can be __transformed into the standard form $\boldsymbol{ax=b}$__ by __transposition__,
   and then solved accordingly.
 
-### $\fbox{1}\:$A student, when solving the equation $\small \frac{ax+1}{3}-\frac{x+1}{2}=1$, mistakenly treated $\small x+1$ as $\small x-1$, and obtained the solution $\small x=1$. What are the value of $\small a$ and the solution of the original equation $\small \mathpunct{?}$.
+### $\fbox{1}\:$A student, when solving the equation $\small \frac{ax+1}{3}-\frac{x+1}{2}=1$, mistakenly treated $\small x+1$ as $\small x-1$, and obtained the solution $\small x=1$. What are $\small a$ and the solution of the original equation $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -100,7 +100,7 @@ __The system of two linear equations in two variables__
   and then determine __the parameter values__.
 
 
-### $\fbox{2}\:$If $\scriptsize \left\{ \begin{array}{ll} x+3y=7 \\ \beta x+\alpha y=1 \\ \end{array} \right.$ and $\scriptsize \left\{ \begin{array}{ll} 3x-y=1 \\ \alpha x+\beta y=2 \\ \end{array} \right.$ have the same solution, then find $\small (\alpha+\beta)^{9999}$.
+### $\fbox{2}\:$If $\scriptsize \left\{ \begin{array}{ll} x+3y=7 \\ \beta x+\alpha y=1 \\ \end{array} \right.$ and $\scriptsize \left\{ \begin{array}{ll} 3x-y=1 \\ \alpha x+\beta y=2 \\ \end{array} \right.$ have the same solution, find $\small (\alpha+\beta)^{9999}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -278,7 +278,7 @@ __The cases of real roots of an equation__
   but they are __equal roots__.
 
 
-### $\fbox{4}\:$Given the quadratic equation $\small k^2x^2-(2k+1)x+1=0$ has two distinct real roots, find the range of values of $\small k$.
+### $\fbox{4}\:$Given the quadratic equation $\small k^2x^2-(2k+1)x+1=0$ has two distinct real roots, find the range of $\small k$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -377,7 +377,7 @@ $
   :::
 ---
 
-### $\fbox{6}\:$Let the quadratic equation $\small 3x^2+mx+5=0$ have two real roots $\small x_1,x_2$ satisfying $\small \frac{1}{x_1}+\frac{1}{x_2}=2$, then find the value of $\small m$.
+### $\fbox{6}\:$Let the quadratic equation $\small 3x^2+mx+5=0$ have two real roots $\small x_1,x_2$ satisfying $\small \frac{1}{x_1}+\frac{1}{x_2}=2$, find $\small m$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -416,7 +416,7 @@ $
   :::
 ---
 
-### $\fbox{7}\:$Given that the roots of $\small 2x^2-3x-1=0$ are $x_1,x_2$, find the value of $\small |x_1-x_2|$.
+### $\fbox{7}\:$Given that the roots of $\small 2x^2-3x-1=0$ are $x_1,x_2$, find $\small |x_1-x_2|$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -455,7 +455,7 @@ $
   :::
 ---
 
-### $\fbox{8}\:$Given the quadratic equation $\small x^2-2(m-\frac{1}{2})x+m^2-2=0$ with two real roots $\small x_1,x_2$, and $\small x_1^2-x_1x_2+x_2^2=12$, find the value of $\small m$.
+### $\fbox{8}\:$Given the quadratic equation $\small x^2-2(m-\frac{1}{2})x+m^2-2=0$ with two real roots $\small x_1,x_2$, and $\small x_1^2-x_1x_2+x_2^2=12$, find $\small m$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -512,7 +512,7 @@ $
   :::
 ---
 
-### $\fbox{9}\:$Given that $\small m$ is a positive real number, for the equation $\small 2x^2-mx-30=0$ with roots $x_1,x_2$, and satisfying $\small 5x_1+3x_2=0$, find the value of $\small m$.
+### $\fbox{9}\:$Given that $\small m$ is a positive real number, for the equation $\small 2x^2-mx-30=0$ with roots $x_1,x_2$, and satisfying $\small 5x_1+3x_2=0$, find $\small m$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -564,7 +564,7 @@ $
   :::
 ---
 
-### $\fbox{10}\:$Given that $\small a,b,c$ form both an arithmetic sequence and a geometric sequence, let $\small \alpha,\beta$ be the two roots of the equation $\small ax^2+bx-c=0$ with $\small \alpha > \beta$. Then find the value of $\small \alpha^3\beta-\alpha\beta^3$.
+### $\fbox{10}\:$Given that $\small a,b,c$ form both an arithmetic sequence and a geometric sequence, let $\small \alpha,\beta$ be the two roots of the equation $\small ax^2+bx-c=0$ with $\small \alpha > \beta$. Find $\small \alpha^3\beta-\alpha\beta^3$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -617,7 +617,7 @@ $
   :::
 ---
 
-### $\fbox{11}\:$The quadratic equation $\small 3x^2+bx+c=0 \textsf{ (}c\ne0\textsf{)}$ has two roots $\small \alpha,\beta$. If the quadratic equation with roots $\small \alpha+\beta$ and $\small \alpha\beta$ is $\small 3x^2-bx+c=0$, then what are the values of $\small b$ and $\small c \,\mathpunct{?}$.
+### $\fbox{11}\:$The quadratic equation $\small 3x^2+bx+c=0 \textsf{ (}c\ne0\textsf{)}$ has two roots $\small \alpha,\beta$. If the quadratic equation with roots $\small \alpha+\beta$ and $\small \alpha\beta$ is $\small 3x^2-bx+c=0$, find $\small b$ and $\small c$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -884,7 +884,7 @@ __The range of roots of an equation__
   __draw the parabola__ and analyze based on __the intersection points with the x-axis__.
   Note __that vieta's theorem should not be used__ for this analysis.
 
-### $\fbox{14}\:$If the quadratic equation $\small mx^2-(m-1)x+m-5=0$ has two real roots $\small \alpha,\beta$ satisfying $\small -1<\alpha<0$ and $\small 0<\beta<1$, then how many integers are contained in the range of $\small m\,\mathpunct{?}$.
+### $\fbox{14}\:$If the quadratic equation $\small mx^2-(m-1)x+m-5=0$ has two real roots $\small \alpha,\beta$ satisfying $\small -1<\alpha<0$ and $\small 0<\beta<1$, find the integers in the range of the real number $\small m$.
 ::: wrap  
 $
 \begin{array}{lllll}

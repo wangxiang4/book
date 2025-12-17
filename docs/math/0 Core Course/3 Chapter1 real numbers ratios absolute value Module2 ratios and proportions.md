@@ -366,7 +366,7 @@ __The proportion calculation__
   then solve and analyze accordingly.
 
 
-### $\fbox{16}\:\small \frac{4}{5}$ of number $\small A$ is equal to $\small \frac{6}{7}$ of number $\small B$ (both $\small A$ and $\small B$ are nonzero). What is the ratio of $\small A$ to $\small B \,\mathpunct{?}$.
+### $\fbox{16}\:\small \frac{4}{5}$ of number $\small A$ is equal to $\small \frac{6}{7}$ of number $\small B$ (both $\small A$ and $\small B$ are nonzero). Find the ratio of $\small A$ to $\small B$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -461,7 +461,7 @@ __The general methods for solving proportions__
   or analyze by __assigning specific values__.
 
 
-### $\fbox{18}\:$If $\small \frac{1}{a}:\frac{1}{b}:\frac{1}{c}=2:3:4$, then find $\small (a+b):(b+c):(c+a)$.
+### $\fbox{18}\:$If $\small \frac{1}{a}:\frac{1}{b}:\frac{1}{c}=2:3:4$, find $\small (a+b):(b+c):(c+a)$.
 ::: wrap  
 $
 \begin{array}{lllll}

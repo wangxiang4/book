@@ -358,7 +358,7 @@ $
   :::
 ---
 
-### $\fbox{17}\:$Given nonzero real numbers $\small a,b,c$ such that $\small a+b+c=0$, find the value of $\small a^3+b^3+c^3-3abc$.
+### $\fbox{17}\:$Given nonzero real numbers $\small a,b,c$ such that $\small a+b+c=0$, find $\small a^3+b^3+c^3-3abc$.
 ::: wrap  
 $
 \begin{array}{lllll}

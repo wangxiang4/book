@@ -273,7 +273,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  DG=x \Rightarrow HE=x \Rightarrow DH=7-x \\
+  DG=x \Longrightarrow HE=x \Longrightarrow DH=7-x \\
   x^2+(7-x)^2=5^2 \\
   (3,4,5) \Longrightarrow x=4 \\
   GE=\sqrt{4^2+7^2}=\sqrt{65} \\
@@ -300,7 +300,7 @@ $
 ---
 
 
-### $\fbox{30}\:$Figure 6–27, quadrilateral $\small ABCD$ is square. Lines $\small l_1,l_2,l_3$ pass through points $\small A,B,C$ respectively, with $\small l_1 \parallel l_2 \parallel l_3$. Line $\small BM \perp l_1$ at $\small M$, and line $\small BN \perp l_3$ at $\small N$. If the distance between $\small l_1$ and $\small l_2$ is $\small 5$, and the distance between $\small l_2$ and $\small l_3$ is $\small 7$, then what is the area of square $\small ABCD \,\mathpunct{?}$.
+### $\fbox{30}\:$Figure 6–27, quadrilateral $\small ABCD$ is a square. Lines $\small l_1,l_2$, and $\small l_3$ pass through points $\small A,B$, and $\small C$, respectively, with $\small l_1 \parallel l_2 \parallel l_3$. Line $\small BM \perp l_1$ at $\small M$, and line $\small BN \perp l_3$ at $\small N$. If the distance between $\small l_1$ and $\small l_2$ is $\small 5$, and the distance between $\small l_2$ and $\small l_3$ is $\small 7$, find the area of square $\small ABCD$.
 ![Question quadrilaterals figure 6-27.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-27.svg)    
 ::: wrap  
 $

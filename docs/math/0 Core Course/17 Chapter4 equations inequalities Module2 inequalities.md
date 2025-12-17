@@ -149,7 +149,7 @@ __The linear inequalities (systems)__
   and then find __the solution set of the system__ by considering __the intersection of the individual solution sets__.
 
 
-### $\fbox{16}\:$For the system of inequalities $\scriptsize \begin{cases} x-1 \le a^2 \\ x-4 \ge 2a \end{cases}$ to have a solution, how many integers are contained in the range of values of the real number $\small a\,\mathpunct{?}$.
+### $\fbox{16}\:$For the system of inequalities $\scriptsize \begin{cases} x-1 \le a^2 \\ x-4 \ge 2a \end{cases}$ to have a solution, find the integers in the range of the real number $\small a$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -227,7 +227,7 @@ __The finding solution set__
   __compare the sizes of the two roots__ before writing the solution set.
 
 
-### $\fbox{17}\:$What is the solution set of the quadratic inequality $\small x^2-3x+2<0 \,\mathpunct{?}$.
+### $\fbox{17}\:$Find the solution set of the quadratic inequality $\small x^2-3x+2<0$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -272,7 +272,7 @@ $
   :::
 ---
 
-### $\fbox{18}\:$What is the solution set of the quadratic inequality $\small 3x^2-4ax+a^2<0 \textsf{ (}a<0\textsf{)} \,\mathpunct{?}$.
+### $\fbox{18}\:$Find the solution set of the quadratic inequality $\small 3x^2-4ax+a^2<0 \textsf{ (}a<0\textsf{)}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -325,7 +325,7 @@ __The finding solution set parameters__
   Substituting them into __the original equation allows us to determine the parameters__.
 
 
-### $\fbox{19}\:$If the solution set of the inequality $\small 5x^2-bx+c<0$ is $\small \left\{ x \,|\, -1< x <3 \right\}$, then find the value of $\small b+c$.
+### $\fbox{19}\:$If the solution set of the inequality $\small 5x^2-bx+c<0$ is $\small \left\{ x \,|\, -1< x <3 \right\}$, find $\small b+c$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -412,7 +412,7 @@ __The solution set is either all real numbers or the empty set__
  ![Quadratic inequality with all-real solution set.svg](../../public/math/Core%20Course/Quadratic%20inequality%20with%20all-real%20solution%20set.svg)
 
 
-### $\fbox{20}\:$Given the quadratic inequality $\small ax^2+(a-1)x+a-1<0$, if its solution set is $\small \mathbb{R}$, find the range of values of $\small a$.
+### $\fbox{20}\:$Given the quadratic inequality $\small ax^2+(a-1)x+a-1<0$, if its solution set is $\small \mathbb{R}$, find the range of $\small a$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -460,7 +460,7 @@ $
   :::
 ---
 
-### $\fbox{21}\:$Given $\small (a^2-1)x^2-(a-1)x-1\ge0$ has an empty solution set, then how many integers are contained in the range of real numbers $\small a\,\mathpunct{?}$.
+### $\fbox{21}\:$Given $\small (a^2-1)x^2-(a-1)x-1\ge0$ has an empty solution set, find the integers in the range of the real number $\small a$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -522,7 +522,7 @@ $
   :::
 ---
 
-### $\fbox{22}\:$If the inequality $\small \frac{2x^2+2kx+k}{4x^2+6x+3}<1$ holds for all real numbers $\small x$, then how many integers are contained in the range of real numbers $\small k\,\mathpunct{?}$.
+### $\fbox{22}\:$If the inequality $\small \frac{2x^2+2kx+k}{4x^2+6x+3}<1$ holds for all real numbers $\small x$, find the integers in the range of the real number $\small k$.
 ::: wrap  
 $
 \begin{array}{lllll}

@@ -70,7 +70,7 @@ __The simplifying and evaluating rational expressions__
   and then __substitute these values back into the rational expression__ for simplification.
 
 
-### $\fbox{29}\:$If $\small a,b$ are real numbers and $\small \frac{a^2b^2}{a^4-2b^4}=1$, then $\small \frac{a^2-b^2}{19a^2+96b^2}=\,\mathpunct{?}$.
+### $\fbox{29}\:$If $\small a,b$ are real numbers and $\small \frac{a^2b^2}{a^4-2b^4}=1$, find $\small \frac{a^2-b^2}{19a^2+96b^2}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -494,7 +494,7 @@ __The finding extremum__
   which can be determined by __analyzing the axis of symmetry__.
 
 
-### $\fbox{34}\:$What is the maximum value of $\small 2x(2-x)\,\mathpunct{?}$.
+### $\fbox{34}\:$Find is the maximum value of $\small 2x(2-x)$.
 ::: wrap  
 $
 \begin{array}{lllll}

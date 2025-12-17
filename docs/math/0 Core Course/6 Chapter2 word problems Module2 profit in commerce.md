@@ -198,7 +198,7 @@ $
   :::
 ---
 
-### $\fbox{14}\:$From the end of 2005 to the end of 2009, the annual growth rate of an industry's output value was $\small q$. From the end of 2009 to the end of 2013, the average annual growth rate of its output value decreased by $\small 40\%$ compared with the previous four years. By the end of 2013, the output value was approximately $\small 14.46$ ($\small \approx 1.95^4$) times that of 2005. Find the value of $\small q$. 
+### $\fbox{14}\:$From the end of 2005 to the end of 2009, the annual growth rate of an industry's output value was $\small q$. From the end of 2009 to the end of 2013, the average annual growth rate of its output value decreased by $\small 40\%$ compared with the previous four years. By the end of 2013, the output value was approximately $\small 14.46$ ($\small \approx 1.95^4$) times that of 2005. Find $\small q$. 
 ::: wrap  
 $
 \begin{array}{lllll}

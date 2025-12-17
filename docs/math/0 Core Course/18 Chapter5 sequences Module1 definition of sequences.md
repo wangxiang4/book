@@ -352,7 +352,7 @@ $
 ---
 
 ::: wrap  
-### $\fbox{7}\:$Find the value of $\small S_{99}=\frac{1}{2!}+\frac{2}{3!}+\frac{3}{4!}+\cdots+\frac{99}{100!}$.
+### $\fbox{7}\:$Find $\small S_{99}=\frac{1}{2!}+\frac{2}{3!}+\frac{3}{4!}+\cdots+\frac{99}{100!}$.
 :::  
 ::: wrap  
 $
@@ -394,7 +394,7 @@ $
   :::
 ---
 ::: wrap  
-### $\fbox{8}\:$Find the value of $\small S_{99}=1\cdot1!+2\cdot2!+3\cdot3!+\cdots+99\cdot99!$.
+### $\fbox{8}\:$Find $\small S_{99}=1\cdot1!+2\cdot2!+3\cdot3!+\cdots+99\cdot99!$.
 :::  
 ::: wrap  
 $

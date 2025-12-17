@@ -226,7 +226,7 @@ __The identification and definition of sequences__
 - If __three numbers $\boldsymbol{a,b,c}$__ form an arithmetic sequence, then $\boldsymbol{b}$ is called __the arithmetic mean of $\boldsymbol{a}$ and $\boldsymbol{c}$__, i.e., $a+c=2b$.
 
 
-### $\fbox{9}\:$Let $\small 3^a=4, 3^b= 8, 3^c=16$. Then $\small a,b,c$ are $\small \mathpunct{?}$.
+### $\fbox{9}\:$Let $\small 3^a=4, 3^b= 8, 3^c=16$. Then $\small a,b,c$ are:
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -326,7 +326,7 @@ $
   :::
 ---
 
-### $\fbox{11}\:$In an arithmetic sequence, if $\small a_1=3，a_n=21，d=2$, then find $\small n$.
+### $\fbox{11}\:$In an arithmetic sequence, if $\small a_1=3，a_n=21，d=2$, find $\small n$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -378,7 +378,7 @@ $
   :::
 ---
 
-### $\fbox{12}\:$If $\small \lg2, \lg(x-1), \lg(x+3)$ form an arithmetic sequence, then find $\small x$.
+### $\fbox{12}\:$If $\small \lg2, \lg(x-1), \lg(x+3)$ form an arithmetic sequence, find $\small x$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -428,7 +428,7 @@ $
   :::
 ---
 
-### $\fbox{13}\:$Given that $\small \left\{ a_n \right\}$ is an arithmetic sequence, $\small a_1+a_5=14, a_3+a_7=26$, then find $\small a_3+a_5$.
+### $\fbox{13}\:$Given that $\small \left\{ a_n \right\}$ is an arithmetic sequence, $\small a_1+a_5=14, a_3+a_7=26$, find $\small a_3+a_5$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -525,7 +525,7 @@ $
 ---
 
 
-### $\fbox{15}\:$The sum of the first $\small n$ terms of the sequence is $\small S_n=4n^2+n-2$, then what is its general term $\small a_n\,\mathpunct{?}$.
+### $\fbox{15}\:$The sum of the first $\small n$ terms of the sequence is $\small S_n=4n^2+n-2$, find general term $\small a_n$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -813,7 +813,7 @@ $
   :::
 ---
 
-### $\fbox{19}\:$In an arithmetic sequence, let $\small S_n$ denote the sum of the first $\small n$ terms. If $\small a_1=13$ and $\small S_3=S_{11}$, then what is the maximum value of $\small S_n \,\mathpunct{?}$.
+### $\fbox{19}\:$In an arithmetic sequence, let $\small S_n$ denote the sum of the first $\small n$ terms. If $\small a_1=13$ and $\small S_3=S_{11}$, find the maximum value of $\small S_n$.
 ::: wrap  
 $
 \begin{array}{lllll}

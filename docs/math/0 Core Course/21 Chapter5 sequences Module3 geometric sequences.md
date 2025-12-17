@@ -186,7 +186,7 @@ __The identification and definition of sequences__
 
 
 
-### $\fbox{28}\:$If $\small 2, 2^x-1, 2^x+3$ form a geometric sequence, then $\small x=\,\mathpunct{?}$.
+### $\fbox{28}\:$If $\small 2, 2^x-1, 2^x+3$ form a geometric sequence, find $\small x$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -378,7 +378,7 @@ $
 
 
 
-### $\fbox{31}\:$In a geometric sequence, if $\small a_4a_7=-512,a_3+a_8=124$, and the common ratio $\small q \in \mathbb{Z}$, then find $\small a_{10}$.
+### $\fbox{31}\:$In a geometric sequence, if $\small a_4a_7=-512,a_3+a_8=124$, and the common ratio $\small q \in \mathbb{Z}$, find $\small a_{10}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -618,7 +618,7 @@ $
 
 
 
-### $\fbox{34}\:$Given $\small S_n$ is the sum of the first $\small n$ terms of a geometric sequence, if $\small S_2+S_5=2S_8$, then the common ratio is $\small q=\,\mathpunct{?}$.
+### $\fbox{34}\:$Given $\small S_n$ is the sum of the first $\small n$ terms of a geometric sequence, if $\small S_2+S_5=2S_8$, find the common ratio $\small q$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -738,7 +738,7 @@ $
 
 
 
-### $\fbox{36}\:$If a geometric sequence satisfies $\small a_2a_4+2a_3a_5+a_2a_8=25$ with $\small a_1 > 0$, then find $\small a_3+a_5$. 
+### $\fbox{36}\:$If a geometric sequence satisfies $\small a_2a_4+2a_3a_5+a_2a_8=25$ with $\small a_1 > 0$, find $\small a_3+a_5$. 
 ::: wrap  
 $
 \begin{array}{lllll}

@@ -27,7 +27,7 @@ __The finding angles__
 
 
 
-### $\fbox{1}\:$Figure 6–4, $\small l_1 \parallel l_2$, $\small \angle1 = 105^\circ$, $\small \angle2 = 140^\circ$, then $\small \angle \alpha = \, \mathpunct{?}$.
+### $\fbox{1}\:$Figure 6–4, $\small l_1 \parallel l_2$, $\small \angle1 = 105^\circ$, and $\small \small \angle2 = 140^\circ$, find $\small \angle \alpha$.
 ![Question parallel lines figure 6-4.svg](../../public/math/Core%20Course/Question%20parallel%20lines%20figure%206-4.svg)  
 ::: wrap
 $
@@ -92,7 +92,7 @@ $
 
 
 
-### $\fbox{2}\:$Figure 6–5, $\small AB \parallel CD$, $\small \angle \alpha =\, \mathpunct{?}$.
+### $\fbox{2}\:$Figure 6–5, $\small AB \parallel CD$, find $\small \angle \alpha$.
 ![Question parallel lines figure 6-5.svg](../../public/math/Core%20Course/Question%20parallel%20lines%20figure%206-5.svg)  
 ::: wrap
 $
@@ -143,7 +143,7 @@ $
 ---
 
 ::: wrap  
-### $\fbox{3}\:$Figure 6–6, $\small AB=AC, \angle BAC=80^\circ, AD=BD$, and $\small CM \parallel AB$ intersects the extended of $\small AD$ at point $\small M$, then $\small \angle M= \, \mathpunct{?}$.
+### $\fbox{3}\:$Figure 6–6, $\small AB=AC, \angle BAC=80^\circ, AD=BD$, and $\small CM \parallel AB$ intersects the extended of $\small AD$ at point $\small M$, find $\small \angle M$.
 :::  
 ![Question parallel lines figure 6-6.svg](../../public/math/Core%20Course/Question%20parallel%20lines%20figure%206-6.svg)  
 ::: wrap
@@ -203,7 +203,7 @@ __The finding lengths__
 
 
 
-### $\fbox{4}\:$Figure 6–7, if the four segments $\small AB, BC, DE$, and $\small EF$ are proportional, and $\small AB=2, BC=3, DE=4$, then $\small EF= \, \mathpunct{?}$.
+### $\fbox{4}\:$Figure 6–7, if the four segments $\small AB, BC, DE$, and $\small EF$ are proportional, $\small AB=2, BC=3$, and $\small DE=4$, find $\small EF$.
 ![Question parallel lines figure 6-7.svg](../../public/math/Core%20Course/Question%20parallel%20lines%20figure%206-7.svg)  
 ::: wrap  
 $
@@ -246,7 +246,7 @@ $
 
 
 
-### $\fbox{5}\:$Figure 6–8, given that line $\small l_1 \parallel l_2 \parallel l_3$, with $\small DE=6, EF=9$, and $\small AB=5$, then $\small AC = \, \mathpunct{?}$.
+### $\fbox{5}\:$Figure 6–8, given that line $\small l_1 \parallel l_2 \parallel l_3$, with $\small DE=6, EF=9$, and $\small AB=5$, find $\small AC$.
 ![Question parallel lines figure 6-8.svg](../../public/math/Core%20Course/Question%20parallel%20lines%20figure%206-8.svg)  
 ::: wrap  
 $
@@ -330,7 +330,7 @@ __The finding angles__
   the angles must be analyzed using __both the relationships of parallel lines and the angle relationships of special figures__.
 
 
-### $\fbox{6}\:$Figure 6–9, if $\small AB \parallel CE, CE=DE$, and $\small y=45^\circ$, then find $\small x$.
+### $\fbox{6}\:$Figure 6–9, if $\small AB \parallel CE, CE=DE$, and $\small y=45^\circ$, find $\small x$.
 ![Question triangles figure 6-9.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-9.svg)  
 ::: wrap  
 $
@@ -451,7 +451,7 @@ __The side relationships__
 
 
 
-### $\fbox{8}\:$There are seven sticks with lengths $\small 1,2,3,4,5,6,7$. If any three are chosen, how many different triangles can be formed $\small \mathpunct{?}$. 
+### $\fbox{8}\:$There are seven sticks with lengths $\small 1,2,3,4,5,6$, and $\small 7$. If any three are chosen, how many different triangles can be formed $\small \mathpunct{?}$. 
 ::: wrap
 $
 \begin{array}{lllll}
@@ -598,7 +598,7 @@ $
 
 
 
-### $\fbox{10}\:$For the three-line segments $\small 3a-1, 4a+1$, and $\small 12-a$ to form a triangle, what is the range of $\small a \,\mathpunct{?}$.
+### $\fbox{10}\:$For the three-line segments $\small 3a-1, 4a+1$, and $\small 12-a$ to form a triangle, find the range of $\small a$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -656,7 +656,7 @@ $
 ---
 
 
-### $\fbox{11}\:$In triangle $\small ABC, AB=5, AC=3$. As $\small \angle A$ varies in $\small (0,\pi)$, what is the range of the length of the median to side $\small BC \,\mathpunct{?}$.
+### $\fbox{11}\:$In triangle $\small ABC$, $\small AB=5$, and $\small AC=3$. As $\small \angle A$ varies in $\small (0,\pi)$, find the range of the length of the median to side $\small BC$.
 ::: wrap  
 $
 \begin{array}{lllll}
