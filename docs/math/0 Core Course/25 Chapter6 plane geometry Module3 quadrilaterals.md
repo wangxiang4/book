@@ -35,7 +35,7 @@ lang: en-US
   
 ## 4.Square
 - A square has __four sides of length $\boldsymbol{a}$ and four interior angles of $\boldsymbol{90^\circ}$__.
-  __The area is $\boldsymbol{S=a^2}$__, 
+  __The area is $\boldsymbol{S=a^2}$__,
   and __the perimeter is $\boldsymbol{C=4a}$__.   
 - According to __the pythagorean theorem $\boldsymbol{c=\sqrt{a^2+b^2}}$__, and __the diagonal is $\boldsymbol{\sqrt{2}a}$__.  
   ![Square area and perimeter.svg](../../public/math/Core%20Course/Square%20area%20and%20perimeter.svg)  
@@ -142,13 +142,13 @@ lang: en-US
   
 ## 7.Focus 1
 __The square__  
-- All four sides have length $a$, and __all four interior angles are $\boldsymbol{90^\circ}$__.
-  The area is $\boldsymbol{S=a^2}$.
-  The perimeter is $\boldsymbol{C=4a}$.  
+- A square has __four sides of length $\boldsymbol{a}$ and four interior angles of $\boldsymbol{90^\circ}$__.
+  __The area is $\boldsymbol{S=a^2}$__,
+  and __the perimeter is $\boldsymbol{C=4a}$__.  
 
-  
-### $\fbox{28}\:$Figure 6–25, suppose square $\small ABCD$ has all four sides tangent to circle $\small O$, while square $\small EFGH$ is inscribed in circle $\small O$. If the area of square $\small ABCD$ is $\small 1$, then what is the area of square $\small EFGH \,\mathpunct{?}$.
-![Question quadrilaterals figure 6-25.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-25.svg)    
+
+### $\fbox{28}\:$Figure 6–25, Given that circle $\small O$ is inscribed in square $\small ABCD$, and square $\small EFGH$ is inscribed in circle $\small O$. If the area of square $\small ABCD$ is $\small 1$, find the area of square $\small EFGH$.
+![Question quadrilaterals figure 6-25.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-25.svg)  
 ::: wrap   
 $
 \begin{array}{lllll}
@@ -161,7 +161,7 @@ $
 $  
 :::  
 #### Solution
-- $\textcolor{#228B22}{\fbox{1}}\:$Show the condition for diagonal $EG$ to be the diameter of the circle   
+- $\textcolor{#228B22}{\fbox{1}}\:$The diagonal $EG$ of square $EFGH$ is the diameter of the circle.   
   ![Question quadrilaterals figure 6-25 solve-1.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-25%20solve-1.svg)   
   ::: wrap  
   $
@@ -202,23 +202,22 @@ $
 
   :::
 - Derive that the quadrilateral
-  formed by joining the midpoints of the sides of a quadrilateral has an area equal to half of the original       
+  formed by joining the midpoints of the sides of a quadrilateral has half the area of the original quadrilateral  
   ::: wrap
   > ![Inner half of outer quadrilateral.svg](../../public/math/Core%20Course/Inner%20half%20of%20outer%20quadrilateral.svg)       
-  > - In any triangle, the triangle formed by joining the midpoints of two sides has an area equal to $\frac{1}{4}$ of the original triangle.        
-  > - $\triangle ABD$ (similarly for the other triangles)   
+  > - In any triangle, the triangle formed by joining the midpoints of two sides has $\frac{1}{4}$ the area of the original triangle.        
+  > - $\triangle ABD$ (__other triangles are similar__)  
   >$
   \begin{array}{ll}
-  E=AB\textsf{ midpoint} \\
-  H=AD\textsf{ midpoint} \\
-  EH=\textsf{ midline} \\
-  \textbf{because }\boldsymbol{EF}\textbf{ is a midline and triangle }\boldsymbol{\triangle AEH}\textbf{ shares vertex }\boldsymbol{A}\textbf{ with }\boldsymbol{\triangle ABD}, \\
-  \textbf{its base and height are each half of those of }\boldsymbol{\triangle ABD} \\
+  E=\textsf{midpoint of }AB \\
+  H=\textsf{midpoint of }AD \\
+  EH=\textsf{midline} \\
+  \triangle AEH \textsf{ and } \triangle ABD \textsf{ share vertex }A\textsf{, and its base and height are half of those of }\triangle ABD \\
   \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{S=\frac{1}{2}ah} \\
   S_{\triangle ABD}=\frac{1}{2}\cdot(1\cdot a)\cdot(1\cdot h) \\
   S_{\triangle AEH}=\frac{1}{2}\cdot(\frac{1}{2}\cdot a)\cdot(\frac{1}{2}\cdot h) \\
-  \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#properties-1}{\textsf{properties of similar triangles}} \\
-  \frac{\triangle AEH}{\triangle ABD}=\frac{\frac{1}{8}\cdot a\cdot h}{\frac{1}{2}\cdot a\cdot h}=\frac{\frac{1}{8}}{\frac{1}{2}}=\frac{1}{4}  \\
+  \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratio-of-their-areas-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
+  \frac{S_{\triangle AEH}}{S_{\triangle ABD}}=\frac{\frac{1}{8}\cdot a\cdot h}{\frac{1}{2}\cdot a\cdot h}=\frac{\frac{1}{8}}{\frac{1}{2}}=\frac{1}{4}  \\
   \end{array}
   >$
   ---
