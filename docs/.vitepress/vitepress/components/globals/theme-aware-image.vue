@@ -27,7 +27,7 @@ const imageSrc = computed(() => {
 })
 
 const defaultImgStyle = {
-  width: '300px',
+  width: '256px',
   height: 'auto'
 }
 
