@@ -14,7 +14,7 @@ lang: en-US
   ::: wrap  
   $
   \begin{array}{ll}
-  \sqrt{(x-x_0)^2+(y-y_0)^2} = r & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{two-point distance formula}} \\
+  \sqrt{(x-x_0)^2+(y-y_0)^2} = r & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   (x-x_0)^2+(y-y_0)^2 = r^2 \\
   \boldsymbol{\textsf{example: }}(x+3)^2+(y-2)^2=4 \\
   \textsf{center: }(-3,2) & \textsf{let }r=0\textsf{ to shrink the circle to a point — the center} \\
@@ -746,7 +746,7 @@ $
   d=|r_1-r_2| \\
   \end{cases} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_7-relationship-between-two-circles}{\textsf{two circles relationship}} \\
   (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
-  d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{two-point distance formula}} \\
+  d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \end{array}
   >$
 
@@ -793,7 +793,7 @@ $
   \begin{array}{ll}
   (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#it-can-be-completed-into-the-standard-form}{\textsf{completing the circle standard form}} \\
   (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#center}{\textsf{center of standard-form circle}} \\
-  d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{two-point distance formula}} \\
+  d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \textsf{axis position diagram} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#the-range-of-the-distance-between-the-circles-and-their-position-relationship}{\textsf{distance range and positional relationship between circles}} \\
   \end{array}
   >$
@@ -846,7 +846,7 @@ $
   \begin{array}{ll}
   (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#it-can-be-completed-into-the-standard-form}{\textsf{completing the circle standard form}} \\
   (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
-  d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{two-point distance formula}} \\
+  d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \textsf{axis position diagram} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#the-range-of-the-distance-between-the-circles-and-their-position-relationship}{\textsf{distance range and positional relationship between circles}} \\
   ∣x∣ \le c \iff −c \le x \le c & \textsf{absolute value inequality expansion} \\
   \end{array}
@@ -906,7 +906,7 @@ $
   \begin{array}{ll}
   (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#it-can-be-completed-into-the-standard-form}{\textsf{completing the circle standard form}} \\
   (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#center}{\textsf{center of standard-form circle}} \\
-  d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{two-point distance formula}} \\
+  d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \textsf{axis position diagram} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#the-range-of-the-distance-between-the-circles-and-their-position-relationship}{\textsf{distance range and positional relationship between circles}} \\
   \end{array}
   >$
@@ -928,7 +928,7 @@ $
 $  
 :::
 #### Solution 
-- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the geometric method with the two-point distance formula to find $a$      
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the geometric method with the distance formula between two points to find $a$      
   ::: wrap  
   $
   \begin{array}{ll}
@@ -965,7 +965,7 @@ $
   \begin{array}{ll}
   (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#it-can-be-completed-into-the-standard-form}{\textsf{completing the circle standard form}} \\
   (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#center}{\textsf{center of standard-form circle}} \\
-  d=\sqrt{x^2+y^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{two-point distance formula}} \\
+  d=\sqrt{x^2+y^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \end{array}
   >$
 

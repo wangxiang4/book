@@ -49,7 +49,7 @@ __The midpoint formula of two points__
 - Analyze using __the midpoint formula of two points $\boldsymbol{\left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right)}$__.
 
 
-### $\fbox{1}\:$Given three points $\small A(x,5),B(-2,y)$, and $\small C(1,1)$, if point $\small C$ is the midpoint of segment $\small AB$, then $\small \mathpunct{?}$.
+### $\fbox{1}\:$Given three points $\small A(x,5),B(-2,y)$, and $\small C(1,1)$, if point $\small C$ is the midpoint of segment $\small AB$, find $\small x$ and $\small y$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -69,11 +69,9 @@ A+B=2C \\
 \begin{cases}
 x-2=1\cdot2 \\
 5+y=1\cdot2 \\
-\end{cases}\Rightarrow
-\begin{cases}
-x=4 \\
-y=-3 \\
-\end{cases}
+\end{cases} \\
+x=4 & ① \\
+y=-3 & ② \\
 \end{array}
 $  
 :::  
@@ -81,7 +79,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(A)}$  
-  > According to the Solution, get $\begin{cases} x=4 \\ y=-3 \\ \end{cases}$, so choose $A$. 
+  > According to the Solution, get $x=4, y=-3$, so choose $A$. 
 
   :::
 - Formulas used  
@@ -97,10 +95,10 @@ $
 
 ## 5.Focus 2
 __The distance formula__  
-- Analyze using the distance formula $d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$.
+- Analyze using __the distance formula between two points $\boldsymbol{d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}$__.
 
 
-### $\fbox{2}\:$Given that the length of segment $\small AB$ is $\small 12$, point $\small A$ has coordinates $\small (-4, 8)$, and point $\small B$ has equal x- and y-coordinates, what are the coordinates of point $\small B \, \mathpunct{?}$.
+### $\fbox{2}\:$Given that the length of segment $\small AB$ is $\small 12$, point $\small A$ has coordinates $\small (-4,8)$, and the x- and y-coordinates of point $\small B$ are equal, find the coordinates of point $\small B$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -146,7 +144,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{two-point distance formula}} \\
+  d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   x=\frac{-b\pm\sqrt{\Delta}}{2a} & \href{/math/0%20Core%20Course/16%20Chapter4%20equations%20inequalities%20Module1%20equations.html#_3-steps-for-solving-quadratic-equations}{\textsf{quadratic formula}} \\
   \Delta=b^2-4ac & \href{/math/0%20Core%20Course/17%20Chapter4%20equations%20inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
@@ -171,30 +169,20 @@ $
 :::
 #### Solution
 - Show known conditions  
-  - equilateral triangle: $AB=AC=BC$    
   ![Question cartesian coordinate system figure Q-3 solve-1.svg](../../public/math/Core%20Course/Question%20cartesian%20coordinate%20system%20figure%20Q-3%20solve-1.svg)  
   ::: wrap   
   $
   \begin{array}{ll}
   \textsf{let }C=(x, y) \\
-  \sqrt{3^2+(3\sqrt{3})^2}=\sqrt{(x-2)^2+y^2}=\sqrt{(x-5)^2+(y-3\sqrt{3})^2} \\
-  \sqrt{3^2+(3\sqrt{3})^2}=\sqrt{9+9\cdot3}=6\\
-  \textsf{there are two equations and two unknowns, and solving them is too complicated, } \\
-  \textsf{so it is better to substitute the options directly}\\
-  \textsf{(A)}
-  \begin{cases}
-  \begin{array}{ll}
+  AB=AC=BC \\
+  \sqrt{3^2+(3\sqrt{3})^2}=\sqrt{(x-2)^2+y^2}=\sqrt{(x-5)^2+(y-3\sqrt{3})^2}=6 \\
+  \textsf{two equations with two unknowns, complex; substitute options to verify} \\
+  \textsf{(A)}\:\,❌\; \\
   \sqrt{(8-2)^2+0^2}=6 \\
   \sqrt{(8-5)^2+(0-3\sqrt{3})^2}\ne6 \\
-  \end{array}
-  \end{cases}\,❌\; \\
-  \textsf{(D)}
-  \begin{cases}
-  \begin{array}{ll}
+  \textsf{(D)}\:\,✅\; \\
   \sqrt{(8-2)^2+0^2}=6 \\
   \sqrt{(-1-5)^2+(3\sqrt{3}-3\sqrt{3})^2}=6 \\
-  \end{array}
-  \end{cases}\,✅\; \\
   \end{array}
   $  
   :::  
@@ -202,7 +190,7 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(D)}$  
-  > According to the Solution, get $AB=AC=BC=6$, so choose $D$. 
+  > According to the Solution, get $C(8, 0) \lor C(-1, 3\sqrt{3})$, so choose $D$. 
 
   :::
 - Formulas used  
@@ -210,19 +198,20 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#_16-equilateral-triangle}{\textsf{equilateral triangle}} \\
-  d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{two-point distance formula}} \\
+  d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \end{array}
   >$
 
   :::
-- Additionally, if the problem is an isosceles right triangle  
+- Additionally, if the problem is an isosceles right triangle with the right-angle vertex at $C$  
   ::: wrap   
   >$
   \begin{array}{ll}
-  \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#_15-isosceles-right-triangle}{\textsf{isosceles right triangle: }}AC=BC=\sqrt{2}AB \implies AB=\sqrt{2}AC=\sqrt{2}BC \\
   \textsf{let }C=(x, y) \\
-  \sqrt{3^2+(3\sqrt{3})^2}=\sqrt{2}\cdot\sqrt{(x-2)^2+y^2}=\sqrt{2}\cdot\sqrt{(x-5)^2+(y-3\sqrt{3})^2} \\
-  \textsf{after that, directly substitute the options}\\
+  AC=BC=\sqrt{2}AB & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#_15-isosceles-right-triangle}{\textsf{isosceles right triangle}} \\
+  AB=\sqrt{2}AC=\sqrt{2}BC \\
+  \sqrt{3^2+(3\sqrt{3})^2}=\sqrt{2}\cdot\sqrt{(x-2)^2+y^2}=\sqrt{2}\cdot\sqrt{(x-5)^2+(y-3\sqrt{3})^2}=6 \\
+  \textsf{two equations with two unknowns, complex; substitute options to verify} \\
   \end{array}
   >$
 
