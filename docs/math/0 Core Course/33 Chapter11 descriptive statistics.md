@@ -23,7 +23,7 @@ lang: en-US
 __The basic concepts__  
 - Analyze and make judgments based on __the concepts of mean, mode, and median__.
 
-### $\fbox{1}\:$Which of the following statements are incorrect $\small \mathpunct{?}$.
+### $\fbox{1}\:$How many of the following statements are incorrect $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}

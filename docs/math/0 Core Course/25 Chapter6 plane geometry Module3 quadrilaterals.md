@@ -344,7 +344,7 @@ $
   \begin{array}{ll}
   c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   \begin{cases}
-  \textsf{find one side and an acute angle }0^\circ \sim 90^\circ \\
+  \textsf{find one side and acute angles }0^\circ \sim 90^\circ \\
   \textsf{find two sides (pythagorean theorem already holds)} \\
   \end{cases} & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#identification}{\textsf{right triangles congruence}} \\
   S=a^2 & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_4-square}{\textsf{square area formula}} \\
@@ -821,7 +821,7 @@ __The other quadrilaterals__
   or analyze them using __the properties of special quadrilaterals__.
 
 
-### $\fbox{40}\:$Figure 6–34, $\small ABCD$ is a parallelogram, and $\small BC:CE=3:2$. If the area of triangle $\small ODE$ is $\small 6$, what is the area of the shaded region $\small \mathpunct{?}$.
+### $\fbox{40}\:$Figure 6–34, $\small ABCD$ is a parallelogram, and $\small BC:CE=3:2$. If the area of triangle $\small ODE$ is $\small 6$, what is the area of the shaded $\small \mathpunct{?}$.
 ![Question quadrilaterals figure 6-34.svg](../../public/math/Core%20Course/Question%20quadrilaterals%20figure%206-34.svg)  
 ::: wrap  
 $

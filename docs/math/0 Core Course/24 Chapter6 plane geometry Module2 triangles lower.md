@@ -269,7 +269,7 @@ __The congruent triangles__
 
 
 
-### $\fbox{23}\:$Figure 6–19, in triangle $\small \triangle ABC$, $\small AD \perp BC$ at point $\small D$, $\small CE \perp AB$ at point $\small E$, $\small AD$ and $\small CE$ intersect at point $\small H$, if $\small EH=EB=3, AE=4$, then $\small CH=\, \mathpunct{?}$.
+### $\fbox{23}\:$Figure 6–19, in $\small \triangle ABC$, $\small AD \perp BC$ at point $\small D$, $\small CE \perp AB$ at point $\small E$, $\small AD$ and $\small CE$ intersect at point $\small H$, if $\small EH=EB=3, AE=4$, then $\small CH=\, \mathpunct{?}$.
 ![Question triangles figure 6-19.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-19.svg)     
 ::: wrap  
 $
@@ -283,25 +283,18 @@ $
 $  
 :::
 #### Solution
-- Find __the corresponding equal sides and equal (acute) angles__ of two congruent right triangles.
+- Find __the corresponding equal sides and equal acute angles__ of two congruent right triangles.  
   ![Question triangles figure 6-19 solve-1.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-19%20solve-1.svg)    
   ::: wrap  
   $
   \begin{array}{ll}
-  \begin{cases}
   \boxed{
   \begin{array}{ll}
   \angle 1 +\angle 2 = 90^\circ \\
   \angle 3 +\angle 4 = 90^\circ \\
-  \angle 2 = \angle 3 & \textsf{vertical angles are equal} \;\\
-  \end{array}}
-  \end{cases} \implies \angle 1 = \angle 4 & \textsf{equal (acute) angles}\\
-  \begin{cases}
-  \boxed{
-  \begin{array}{ll}
-  EH=EB
-  \end{array}}
-  \end{cases} \implies \triangle AEH \cong \triangle CEB & \textsf{equal sides}\\
+  \angle 2 = \angle 3 \\
+  \end{array}} \implies \angle 1 = \angle 4 & \textsf{equal acute angles}\\
+  EH=EB \implies \triangle AEH \cong \triangle CEB & \textsf{equal sides}\\
   AE=CE=4 \\
   CH=CE-EH=4-3=1 \\
   \end{array}
@@ -319,7 +312,7 @@ $
   >$
   \begin{array}{ll}
   \begin{cases}
-  \textsf{find one side and an acute angle }0^\circ \sim 90^\circ \\
+  \textsf{find one side and acute angles }0^\circ \sim 90^\circ \\
   \textsf{find two sides (pythagorean theorem already holds)} \\
   \end{cases} & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#identification}{\textsf{right triangles congruence}} \\
   \end{array}
@@ -328,7 +321,7 @@ $
   :::
 ---
 
-### $\fbox{24}\:$Figure 6–20, in right triangle $\small ABC$, the hypotenuse $\small AB=13$ and the leg $\small AC=5$. Fold $\small AC$ onto $\small AB$ so that they overlap, with point $\small C$ coinciding with point $\small E$. The crease is $\small AD$. Find the area of the shaded region.  
+### $\fbox{24}\:$Figure 6–20, in right triangle $\small ABC$, the hypotenuse $\small AB=13$ and the leg $\small AC=5$. Fold $\small AC$ onto $\small AB$ so that they overlap, with point $\small C$ coinciding with point $\small E$. The crease is $\small AD$. Find the area of the shaded.  
 ![Question triangles figure 6-20.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-20.svg)   
 ::: wrap  
 $
@@ -367,7 +360,7 @@ $
   \end{array}
   $  
   :::  
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by analyzing that the area ratio equals the square of the similarity ratio   
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by analyzing that the ratio of their areas equals the square of the similarity ratio.   
   ::: wrap  
   $
   \begin{array}{ll}
@@ -403,14 +396,14 @@ $
 
 ## 22.Focus 10
 __The similar triangles__  
-- When __parallel lines are involved__, __similarity analysis is used__.
-  For __the similar figure__, __the area ratio is equal to the square of the similarity ratio__. 
+- When __parallel lines appear__, __use similarity analysis__.
+  For the similar figure, __the ratio of their areas equals the square of the similarity ratio__. 
 - Congruent shapes __look at the sides__.   
 - Similar shapes __look at angles__.  
 
 
 
-### $\fbox{25}\:$Which of the following statements is correct $\small \mathpunct{?}$.
+### $\fbox{25}\:$How many of the following statements are correct $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -437,7 +430,7 @@ $
 \textsf{(1)} \: \triangle30^\circ60^\circ90^\circ \ne \triangle45^\circ45^\circ90^\circ \;\textsf{two pairs of corresponding angles unequal} \,❌\;\\
 \textsf{(2)} \: \textsf{two pairs of corresponding angles unequal} \,❌\;\\
 \textsf{(3)} \: \textsf{four pairs of corresponding angles unequal} \,❌\;\\
-\textsf{(4)} \: \triangle60^\circ60^\circ60^\circ = \triangle60^\circ60^\circ60^\circ \;\textsf{two pairs of corresponding angles unequal} \,✅\;\\
+\textsf{(4)} \: \triangle60^\circ60^\circ60^\circ = \triangle60^\circ60^\circ60^\circ \;\textsf{two pairs of corresponding angles equal} \,✅\;\\
 \textsf{(5)} \: \textsf{corresponding angles unequal, corresponding sides not proportional} \,❌\;\\
 \textsf{(6)} \: 90^\circ \;\textsf{four pairs of corresponding angles equal} \,✅\;\\
 \textsf{(7)} \: \textsf{corresponding sides not proportional} \,❌\;\\
@@ -465,7 +458,7 @@ $
 ---
 
 ::: wrap
-### $\fbox{26}\:$Figure 6–21, in triangle $\small \triangle ABC$, $DE, FG$, and $BC$ are parallel to each other, and $\small AD=DF=FB$. What is the ratio of the areas $S_{\triangle ADE}:S_{\textsf{quadrilateral}\,DEGF}:S_{\textsf{quadrilateral}\,FGCB} \,\mathpunct{?}$.
+### $\fbox{26}\:$Figure 6–21, in $\small \triangle ABC$, $\small DE, FG$, and $\small BC$ are parallel to each other, and $\small AD=DF=FB$. Find the ratio of the areas $\small S_{\triangle ADE}:S_{\textsf{quadrilateral}\,DEGF}:S_{\textsf{quadrilateral}\,FGCB}$.
 :::  
 ![Question triangles figure 6-21.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-21.svg)  
 ::: wrap  
@@ -513,7 +506,7 @@ $
 ---
 
 
-### $\fbox{27}\:$Figure 6–22, in triangle $\small \triangle ABC$, points $\small D, E$, and $\small F$ lie on sides $\small AB, AC$, and $\small BC$, respectively, and $\small DE \parallel BC, EF \parallel AB$. Given that $\small AD:DB=2:3$, and $\small BC=20$, what is the length of $\small CF \,\mathpunct{?}$. 
+### $\fbox{27}\:$Figure 6–22, in $\small \triangle ABC$, points $\small D, E$, and $\small F$ lie on sides $\small AB, AC$, and $\small BC$, respectively, and $\small DE \parallel BC, EF \parallel AB$. Given that $\small AD:DB=2:3$, and $\small BC=20$, what is the length of $\small CF \,\mathpunct{?}$. 
 ![Question triangles figure 6-22.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-22.svg)  
 ::: wrap  
 $
