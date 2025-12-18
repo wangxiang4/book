@@ -492,10 +492,7 @@ $
 
 ## 7.Focus 2
 __The equation of a line__  
-- Master __the various forms__ of the equation of a line and __their applicable situations__,
-  and understand __the differences between these forms__. 
-
-
+- Use the equation of a line to __understand the differences between various forms of the equation__.
 
 ### $\fbox{6}\:$How many of the following statements are correct $\small \mathpunct{?}$.
 ::: wrap  
@@ -555,7 +552,7 @@ $
 ---
 
 
-### $\fbox{7}\:$Given $\small A(-1, 2), B(2, 4), C (x, 3)$ and $\small A, B, C$ are collinear, then $\small x=\, \mathpunct{?}$.
+### $\fbox{7}\:$Given $\small A(-1, 2), B(2, 4)$, and $\small C(x, 3)$ and that points $\small A, B$, and $\small C$ are collinear, find $\small x$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -568,12 +565,14 @@ $
 $  
 :::
 #### Solution
-- collinearity of three points $\Leftrightarrow$ any two points have the same slope $\Leftrightarrow$ they cannot form $\triangle$  
+- Three points are collinear $\Longleftrightarrow$
+  The slopes of any two points are equal $\Longleftrightarrow$
+  They cannot form a triangle    
   ::: wrap   
   $
   \begin{array}{ll}
   k_{AB}=k_{BC}=k_{AC} \\
-  k_{AB}=k_{BC} & \textsf{first find }k\textsf{ without unknowns} \\
+  k_{AB}=k_{BC} & \textsf{ no unknown} \\
   \frac{4-2}{2-(-1)}=\frac{4-3}{2-x} \\
   \frac{2}{3}=\frac{1}{2-x} \\
   4-2x=3 \\
@@ -617,13 +616,15 @@ $
 $
 \begin{array}{ll}
 \frac{x}{a}+\frac{y}{b}=1 \xrightarrow{\textsf{opposite numbers}} b=-a \\
-\frac{x}{a}-\frac{y}{a}=1 \Rightarrow x-y=a \\
-(5, 8) \rightarrow 5-8=a \\
-a=-3 \rightarrow \frac{x}{-3}-\frac{y}{-3}=1 \Rightarrow x-y+3=0 \\
-\textsf{there is also a case where }\boldsymbol{(a,b=0)}\textsf{ is a line passing through the origin}\\
-y=kx \quad k=\frac{y}{x} \\
-(5, 8) \rightarrow y=\frac{8}{5}x \\
-5y=8x \Rightarrow 8x-5y=0 \\
+\frac{x}{a}-\frac{y}{a}=1 \Longrightarrow x-y=a \\
+(5, 8) \Longrightarrow 5-8=a \\
+a=-3 \\
+\frac{x}{-3}-\frac{y}{-3}=1 \\
+x-y+3=0 \\
+y=kx \quad k=\frac{y}{x} & \textsf{line passing through origin} \\
+(5, 8) \Longrightarrow y=\frac{8}{5}x \\
+5y=8x \\
+8x-5y=0 \\
 \end{array}
 $  
 :::  
@@ -647,20 +648,20 @@ $
   :::
 - Opposite intercepts and equal intercepts  
   ::: wrap   
-  >- The intercepts are opposites.    
+  >- __The intercepts are opposites__  
      ![Opposite intercepts.svg](../../public/math/Core%20Course/Opposite%20intercepts.svg)    
-     ① $k=1$     
-     ② passes through the origin     
-  >- The intercepts are equal.   
+     __① $\boldsymbol{k=1}$__     
+     __② line passes through origin__     
+  >- __The intercepts are equal__  
      ![Equal intercepts.svg](../../public/math/Core%20Course/Equal%20intercepts.svg)     
-     ① $k=-1$    
-     ② passes through the origin     
+     __① $\boldsymbol{k=-1}$__    
+     __② line passes through origin__   
 
   :::  
 ---
 
 
-### $\fbox{9}\:$What is the y-intercept of the line passing through the points $\small (1, -3)$ and $\small (3, 1) \, \mathpunct{?}$.
+### $\fbox{9}\:$Find the y-intercept of the line passing through the points $\small (1, -3)$ and $\small (3, 1)$.
 ::: wrap   
 $
 \begin{array}{lllll}
@@ -680,18 +681,19 @@ $
   k=\frac{y_2-y_1}{x_2-x_1} \\
   k=\frac{4}{2}=2 \\
   y=y_0+k(x-x_0) \\
-  y=-3+2(x-1) \Rightarrow y=2(x-1)-3 \\
+  y=-3+2(x-1) \\
+  y=2(x-1)-3 \\
   y=2x-5 \\
-  y=kx+b \Rightarrow \textsf{y-intercept} = -5 \\
+  b=-5 \\
   \end{array}
   $  
   :::    
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the three-point collinearity method            
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the three points are collinear  
   ::: wrap  
   $
   \begin{array}{ll}
   \textsf{y-intercept}=(0,b) \\
-  \textsf{collinearity of three points} \Leftrightarrow \textsf{any two points have the same slope} \\
+  \textsf{three points are collinear} \Longleftrightarrow \textsf{slopes of any two points are equal} \\
   k=\frac{y_2-y_1}{x_2-x_1} \\
   \frac{1-(-3)}{3-1}=\frac{b-1}{0-3} \\
   2=\frac{b-1}{-3} \\
@@ -721,7 +723,7 @@ $
 ---
 
 
-### $\fbox{10}\:$What is the product of the x- and y-intercepts of the line $\small 2x-3y+12=0 \, \mathpunct{?}$.
+### $\fbox{10}\:$Find the product of the x- and y-intercepts of the line $\small 2x-3y+12=0$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -765,13 +767,13 @@ $
   >$
 
   :::
-- Additionally, If the problem is to calculate the area of the triangle formed by the intercept form    
+- Additionally, If the problem is the area of the triangle formed by the intercepts  
   ::: wrap
   > ![Question straight lines figure Q-10 solve-2.svg](../../public/math/Core%20Course/Question%20straight%20lines%20figure%20Q-10%20solve-2.svg)  
   >$
   \begin{array}{ll}
   2x-3y+12=0 \\
-  S=\frac{c^2}{2|ab|} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-intercepts-of-the-general-form}{triangle area formed by intercepts} \\
+  S=\frac{c^2}{2|ab|} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-intercepts-of-the-general-form}{\textsf{triangle area formed by intercepts}} \\
   S=\frac{12^2}{2|2\cdot-3|}=\frac{24}{12}=12 \\
   \end{array}
   >$
@@ -781,16 +783,13 @@ $
 
 ## 8.Focus 3
 __The line passes through quadrants__  
-- Analyze the graph based on __the slope and intercepts of the line__.   
-- Remember the conclusion:
-  when $\boldsymbol{k>0}$,
-  the line must pass through __the first and third quadrants__;
-  when $\boldsymbol{k<0}$,
-  the line must pass through __the second and fourth quadrants__.   
+- Analyze based on __the slope and intercepts of the line__.   
+- $\boldsymbol{k>0}$: the line must pass through __the first and third quadrants__
+- $\boldsymbol{k<0}$: the line must pass through __the second and fourth quadrants__  
   ![Line cross quadrants.svg](../../public/math/Core%20Course/Line%20cross%20quadrants.svg)    
 
 
-### $\fbox{11}\:$(Sufficiency judgment) Line $\small l:\: ax+bx+c=0$ definitely does not pass through the third quadrant.
+### $\fbox{11}\:$(Sufficiency judgment) The line $\small ax+bx+c=0$ does not pass through the third quadrant.
 ::: wrap   
 $
 \begin{array}{lllll}
@@ -810,7 +809,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  (ac<0 \lor ac=0),bc<0 \\ 
+  ac<0 \lor ac=0,bc<0 \\ 
   ①\,
   \begin{cases}
   \begin{array}{ll}
@@ -827,7 +826,7 @@ $
   bc<0 \\
   \end{array}
   \end{cases} \\
-  a=0 \longrightarrow by+c=0 \Rightarrow -\frac{c}{a}=0 \\
+  a=0 \longrightarrow by+c=0 \\
   \textsf{x-intercept}=-\frac{c}{a}=0 \\
   \textsf{y-intercept}=-\frac{c}{b}=-\frac{9}{-3}=3 \\
   \end{array}
@@ -840,7 +839,7 @@ $
   \begin{array}{ll}
   ab>0, c<0 \\
   k=-\frac{a}{b}=-\frac{9}{3}=-3 \\
-  k<0 \Rightarrow 90^\circ<\alpha<180^\circ \\
+  k<0 \Longrightarrow 90^\circ<\alpha<180^\circ \\
   \begin{cases}
   \begin{array}{ll}
   ac & \textsf{unknown} \\
