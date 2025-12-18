@@ -62,7 +62,7 @@ lang: en-US
 
 ## 3.Focus 1
 __The equation of a circle__   
-- Pay attention to __the requirements of the circle's equation__, as well as __the forms of semicircle equations__.
+- Note __the requirements of the circle's equation__, as well as __the forms of semicircle equations__.
 
 
 ### $\fbox{22}\:$Given that $\small x^2+y^2-4x+6y+m=0$ represents a circle. What is the range of values for $\small m\, \mathpunct{?}$.
@@ -657,7 +657,7 @@ __The positional relationship between two circles__
   then __compare it with $\boldsymbol{r_1+r_2}$ and $\boldsymbol{|r_1-r_2|}$__ to __determine their relationship__.
   The most important cases are __internal tangency__ and __external tangency__.
   additionally,
-  pay attention to how __these positional relationships__ correspond to __the number of common tangents__.
+  note how __these positional relationships__ correspond to __the number of common tangents__.
 
 
 ### $\fbox{31}\:$The radii of two circles are the two roots of the equation $\small x^2-3x+2=0$, and the distance between the centers of the two circles is $\small 3$. What is the positional relationship between the two circles $\small \mathpunct{?}$.

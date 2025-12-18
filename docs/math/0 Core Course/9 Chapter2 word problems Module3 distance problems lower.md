@@ -419,7 +419,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  k=\frac{y}{x} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-slope-between-and-is}{\textsf{slope of line passing through origin}} \\
+  k=\frac{y}{x} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-slope-between-points-and-is}{\textsf{slope of line passing through origin}} \\
   v=\frac{s}{t} \Longleftrightarrow k=\frac{y}{x} & \boldsymbol{v=k} \\
   \end{array}
   $

@@ -220,66 +220,65 @@ $
 
 # Module 7–02 Straight Lines
 
-## 1.Angle of Inclination
-- __The angle__ formed between a straight line and __the positive direction of the x-axis__ is called __the angle of inclination__,
-  denoted as $\boldsymbol{\alpha}$, where $\alpha \in [0, \pi)$.  
+## 1.Inclination angle
+- The angle between __the line and the positive direction of the x-axis__ is called __the inclination angle__,
+  denoted as $\boldsymbol{\alpha}$, where $\boldsymbol{\alpha \in [0, \pi)}$.  
   ![Angle of inclination with x-axis figure 7-1.svg](../../public/math/Core%20Course/Angle%20of%20inclination%20with%20x-axis%20figure%207-1.svg)      
-- Note: when __a line is horizontal__, its __angle of inclination is $\boldsymbol{0^\circ}$__.
-  When __a line is vertical__, its __angle of inclination is $\boldsymbol{90^\circ}$__.  
-  - counterclockwise rotation increases $\alpha$.  
-  - clockwise rotation decreases $\alpha$.  
-
-  <ThemeAwareImage
-    dark-src="/math/Core%20Course/Angle%20of%20inclination%20with%20x-axis%20figure%207-1%20black%20solve-1.gif"
-    light-src="/math/Core%20Course/Angle%20of%20inclination%20with%20x-axis%20figure%207-1%20white%20solve-1.gif"
-  />  
+- Note: when __the line is horizontal__, __the inclination angle is $\boldsymbol{0^\circ}$__.
+  When __the line is vertical__, __the inclination angle is $\boldsymbol{90^\circ}$__.  
+  - __clockwise rotation decreases $\boldsymbol{\alpha}$__.
+  - __counterclockwise rotation increases $\boldsymbol{\alpha}$__.  
+    <ThemeAwareImage
+      dark-src="/math/Core%20Course/Angle%20of%20inclination%20with%20x-axis%20figure%207-1%20black%20solve-1.gif"
+      light-src="/math/Core%20Course/Angle%20of%20inclination%20with%20x-axis%20figure%207-1%20white%20solve-1.gif"
+    />  
 
 
 ## 2.Definition of Slope
-- The tangent of the inclination angle is the slope, denoted as $k=\textsf{tan}\alpha, \alpha=\frac{\pi}{2}$.  
-  - $\boldsymbol{\alpha=\frac{\textsf{opposite}}{\textsf{adjacent}}}$  
+- __The tangent of the inclination angle is the slope__, denoted as $\boldsymbol{k=\textsf{tan}\alpha, \alpha\ne\frac{\pi}{2}}$.  
+  $\boldsymbol{\alpha=\frac{\textsf{opposite}}{\textsf{adjacent}}}$  
   ![Tan alpha slope figure 7-2.svg](../../public/math/Core%20Course/Tan%20alpha%20slope%20figure%207-2.svg)  
-- __Notes__  
-  - When $\alpha=0, \boldsymbol{k=0}$; __zero numerator__.
-  - When $0<\alpha<90^\circ, \boldsymbol{k>0}$.
-  - When $\alpha=90^\circ$, __$\boldsymbol{k}$ is undefined__; __zero denominator__.
-  - When $90^\circ<\alpha<180^\circ, \boldsymbol{k<0}$.  
+ 
+- __When $\boldsymbol{\alpha=0, k=0}$;__  
+  $\textsf{numerator}=0$
+- __When $\boldsymbol{0<\alpha<90^\circ, k>0}$__.
+- __When $\boldsymbol{\alpha=90^\circ, k=\textsf{undefined}}$__;  
+  $\textsf{denominator}=0$
+- __When $\boldsymbol{90^\circ<\alpha<180^\circ, k<0}$__.  
 
   ![Tan alpha slope figure 7-2 solve-1.svg](../../public/math/Core%20Course/Tan%20alpha%20slope%20figure%207-2%20solve-1.svg)  
 
 ## 3.Common Inclination Angles and Slope
-- __Supplementary angles__: their tangents are __opposite numbers__.   
-  - $\boldsymbol{\textsf{tan}(180^\circ-\theta)=-\textsf{tan}\theta}$   
+- __Two complementary angles, the tangents are opposites of each other__.  
+  $\boldsymbol{\textsf{tan}(180^\circ-\theta)=-\textsf{tan}\theta}$  
 
-| Inclination Angle $\boldsymbol{(\alpha)}$ | Slope $\boldsymbol{k=\textsf{tan}\alpha}$ |
-|-------------------------------------------|-------------------------------------------|
-| $0^\circ$                                 | $0$                                       |
-| $30^\circ$                                | $\frac{\sqrt{3}}{3}$                      |
-| $45^\circ$                                | $1$                                       |
-| $60^\circ$                                | $\sqrt{3}$                                |
-| $90^\circ$                                | $\infty \lor$undefined                    |
-| $120^\circ$                               | $-\sqrt{3}$                               |
-| $135^\circ$                               | $-1$                                      |
-| $150^\circ$                               | $-\frac{\sqrt{3}}{3}$                     |
-| $180^\circ$                               | $0$                                       |
+| Inclination Angle $\boldsymbol{(\alpha)}$ | Slope $\boldsymbol{(k=\textsf{tan}\alpha)}$ |
+|-------------------------------------------|---------------------------------------------|
+| $0^\circ$                                 | $0$                                         |
+| $30^\circ$                                | $\frac{\sqrt{3}}{3}$                        |
+| $45^\circ$                                | $1$                                         |
+| $60^\circ$                                | $\sqrt{3}$                                  |
+| $90^\circ$                                | $\textsf{undefined}$                        |
+| $120^\circ$                               | $-\sqrt{3}$                                 |
+| $135^\circ$                               | $-1$                                        |
+| $150^\circ$                               | $-\frac{\sqrt{3}}{3}$                       |
+| $180^\circ$                               | $0$                                         |
 
 
 ## 4.Two-Point Slope Formula
-- Let there be __two points $\boldsymbol{P_1(x_1,y_1)}$ and $\boldsymbol{P_2(x_2,y_2)}$__ in __a straight line $\boldsymbol{l}$__,
-  then $k=\frac{y_2-y_1}{x_2-x_1}, \boldsymbol{x_1 \ne x_2}$.  
+- Let there be __two points $\boldsymbol{P_1(x_1,y_1)}$ and $\boldsymbol{P_2(x_2,y_2)}$ on line $\boldsymbol{l}$__,
+  the slope is $\boldsymbol{k=\frac{y_2-y_1}{x_2-x_1}}$, where $\boldsymbol{x_1 \ne x_2}$.
 - __Special cases__   
-  - If $y_2=y_1$, the line is __horizontal__, and $k=0$.
-  - If $x_2=x_1$, the line is __vertical__, and $k=\infty\lor$undefined.  
-  - ###### The slope between $(x,y)$ and $(0,0)$ is $k=\frac{y}{x}$.  
+  - If $\boldsymbol{y_2=y_1}$, __the line is horizontal, and $k=0$__.
+  - If $\boldsymbol{x_2=x_1}$, __the line is vertical, and $k=\textsf{undefined}$__.  
+  - ###### __The slope between points $\boldsymbol{P(x,y)}$ and $\boldsymbol{O(0,0)}$ is $\boldsymbol{k=\frac{y}{x}}$__.  
 
   ![Line slope two points.svg](../../public/math/Core%20Course/Line%20slope%20two%20points.svg)
 
 
 ## 5.Focus 1
 __The inclination angle and slope__  
-- Pay attention to special inclination angels, __such as $\boldsymbol{90^\circ}$__, and observe __the sign and magnitude changes__ of the slope.  
-
-
+- Note __special inclination angles__, __such as $\boldsymbol{90^\circ}$__, and __observe the changes in the sign and magnitude of the slope__.  
 
 ### $\fbox{4}\:$How many correct statements are there about the inclination angle and slope $\small \mathpunct{?}$.
 ::: wrap  
@@ -303,14 +302,12 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\textsf{(1)} \:
-\begin{cases}
-\alpha=45^\circ \Rightarrow k=1 \\
-\alpha=135^\circ \Rightarrow k=-1 \\
-\end{cases} \,❌\;\\
-\textsf{(2)} \: \alpha>90^\circ \Rightarrow k<0 \,❌\;\\
-\textsf{(3)} \: \boxed{0 \le \alpha<90^\circ} \implies \alpha \uparrow \,\Rightarrow k \uparrow \,✅\;\\
-\textsf{(4)} \: \boxed{\alpha>90^\circ} \implies \alpha \uparrow \,\Rightarrow k \uparrow \,❌\;\\
+\textsf{(1)} \:\,❌\;\\
+\alpha=45^\circ \implies k=1 \\
+\alpha=135^\circ \implies k=-1 \\
+\textsf{(2)} \: \alpha>90^\circ \implies k<0 \,❌\;\\
+\textsf{(3)} \: 0 \le \alpha<90^\circ \implies \alpha \uparrow \,\Rightarrow k \uparrow \,✅\;\\
+\textsf{(4)} \: \alpha>90^\circ \implies \alpha \uparrow \,\Rightarrow k \uparrow \,❌\;\\
 \end{array}
 $  
 :::  
@@ -336,17 +333,17 @@ $
   :::  
 - [variation of the slope-intercept line](https://phet.colorado.edu/sims/html/graphing-slope-intercept/latest/graphing-slope-intercept_all.html) $\boldsymbol{y=kx+b}$  
   ::: wrap  
-  > counterclockwise rotation: $k\uparrow$.  
-  > clockwise rotation: $k\downarrow$.  
-  > - The size of $|k|$ indicates the steepness of the line.
-  >   - The larger $|k|$ is, the steeper the line becomes.
-  >   - The smaller $|k|$ is, the flatter the line becomes.
+  > - __Counterclockwise rotation: $\boldsymbol{k\uparrow}$__.  
+  > - __Clockwise rotation: $\boldsymbol{k\downarrow}$__.  
+  > - The size of $\boldsymbol{|k|}$ indicates __the steepness of the line__.
+  >   - The larger $\boldsymbol{|k|}$ is, __the steeper the line becomes__.
+  >   - The smaller $\boldsymbol{|k|}$ is, __the flatter the line becomes__.
 
   :::
 ---
 
 
-### $\fbox{5}\:$If the line $\small l$ intersects the line $\small y=1$ at point $\small P$ and the line $\small x=7$ at point $\small Q$, and the midpoint of segment $\small PQ$ has coordinates $\small (1,−1)$, find the slope of line $\small l$.
+### $\fbox{5}\:$If line $\small l$ intersects the line $\small y=1$ at point $\small P$ and the line $\small x=7$ at point $\small Q$, and the midpoint of segment $\small PQ$ has coordinates $\small (1,−1)$, find the slope of line $\small l$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -368,11 +365,9 @@ $
   \begin{cases}
   x+7=1\cdot2 \\
   1+y=(-1)\cdot2 \\
-  \end{cases} \Rightarrow
-  \begin{cases}
-  x=-5 \\
-  y=-3 \\
   \end{cases} \\
+  x=-5 & ① \\
+  y=-3 & ② \\
   P(-5,1) \quad Q(7,-3) \\
   k=\frac{1-(-3)}{-5-7}=\frac{4}{-12}=-\frac{1}{3} \\
   \end{array}
@@ -389,8 +384,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
   \left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
+  k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
   \end{array}
   >$
 
@@ -400,17 +395,20 @@ $
 ## 6. Equation of a Line
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Slope-intercept form
-- If __the slope $\boldsymbol{k}$__ and the $\overbrace{\textsf{y-intercept }\boldsymbol{b}}^{\textsf{y-axis intersection}}$ are known, the equation of the line can be expressed as $y=kx+b$.  
-- __Special cases__  
-  - ###### $b=0: y=kx$ (passing through the origin)   
-  - $k=0: y=b$ (horizontal line)   
+- Given __the slope $\boldsymbol{k}$__ and __the $\overbrace{\textsf{y-intercept }\boldsymbol{b}}^{\textsf{y-axis intersection}}$__,
+  the equation of the line is $\boldsymbol{y=kx+b}$.
+- ###### __Special cases__  
+  - $b=0: y=kx$  
+    __line passing through the origin__
+  - $k=0: y=b$  
+    __horizontal line__ 
 - [slope-intercept demo](https://phet.colorado.edu/sims/html/graphing-slope-intercept/latest/graphing-slope-intercept_all.html)       
   ![Slope-intercept form.svg](../../public/math/Core%20Course/Slope-intercept%20form.svg)  
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Point-slope form
-- If __the slope $\boldsymbol{k}$__ and __a point $\boldsymbol{(x_0, y_0)}$__ are known,
-  the equation of the line can be expressed as $y=y_0+k(x-x_0)$ or $\boldsymbol{\frac{y-y_0}{x-x_0}=k}$.  
-- Special case: $(x_0, y_0) \longrightarrow (0,b)$ the point-slope form becomes the slope-intercept form.  
+- Given __the slope $\boldsymbol{k}$__ and __a point $\boldsymbol{(x_0, y_0)}$__,
+  the equation of the line is __$\boldsymbol{y=y_0+k(x-x_0)}$ or $\boldsymbol{\frac{y-y_0}{x-x_0}=k}$__.  
+- __Special case__: $(x_0, y_0) \rightarrow (0,b) \Longrightarrow \textsf{point-slope form}=\textsf{slope-intercept form}$.  
 - [point-slope demo](https://phet.colorado.edu/sims/html/graphing-lines/latest/graphing-lines_all.html)  
 - __Equation derivation__  
   ![Point-slope equation derivation.svg](../../public/math/Core%20Course/Point-slope%20equation%20derivation.svg)   
@@ -418,7 +416,7 @@ $
   $
   \begin{array}{ll}
   y=k(x-x_0)+y_0 \\
-  \frac{y-y_0}{x-x_0}=k & \textsf{two-point slope formula} \\
+  \frac{y-y_0}{x-x_0}=k & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
   y=y_0+k(x-x_0) \\
   \end{array}
   $  
@@ -426,78 +424,71 @@ $
 
 
 ### $\textcolor{#1E3A5F}{\fbox{3}}\:$Intercept form
-- If the x-axis and y-axis intercepts are known to be $a$ and $b$ respectively,
-  the equation of the line can be expressed as $\boldsymbol{\frac{x}{a}+\frac{y}{b}=1,(a,b \ne 0)}$.  
-![Intercept form.svg](../../public/math/Core%20Course/Intercept%20form.svg)  
+- Given __the x-intercept and y-intercept__, the equation of the line is $\boldsymbol{\frac{x}{a}+\frac{y}{b}=1}$,
+  where __$\boldsymbol{a}$ and $\boldsymbol{b}$ are the x-intercept and y-intercept__, respectively, and $\boldsymbol{a,b \ne 0}$.
+  ![Intercept form.svg](../../public/math/Core%20Course/Intercept%20form.svg)  
 
 
 ### $\textcolor{#1E3A5F}{\fbox{4}}\:$Two-point form
-- If the coordinates of __two points $\boldsymbol{(x_1, y_1)}$ and $\boldsymbol{(x_2, y_2)}$__ are known,
-  __the equation of the line__ can be expressed as $\boldsymbol{\frac{x-x_1}{x_2-x_1}=\frac{y-y_1}{y_2-y_1}}$.  
-- __Special case__  
-  - The intercept form is a special case of the two-point form. 
-  - The two-point form can be changed into the point-slope form.
+- Given __the coordinates of two points $\boldsymbol{(x_1, y_1)}$ and $\boldsymbol{(x_2, y_2)}$__,
+  the equation of the line is $\boldsymbol{\frac{x-x_1}{x_2-x_1}=\frac{y-y_1}{y_2-y_1}}$.
+- __Special cases__  
+  - __The intercept form is a special case of the two-point form__. 
+  - __The two-point form can be converted into the point-slope form__.
 - __Equation derivation__  
   ![Two-point equation derivation.svg](../../public/math/Core%20Course/Two-point%20equation%20derivation.svg)   
   ::: wrap  
   $
   \begin{array}{ll}
-  \frac{x-x_1}{x_2-x_1}=\frac{y-y_1}{y_2-y_1} & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similarity ratio}} \\
+  \frac{x-x_1}{x_2-x_1}=\frac{y-y_1}{y_2-y_1} & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
   y-y_1=\frac{x-x_1}{x_2-x_1}(y_2-y_1) \\
-  y-y_1=\underbrace{\boxed{\frac{y_2-y_1}{x_2-x_1}}}_{k}(x-x_1) & \textsf{point-slope form} \\
+  y-y_1=\underbrace{\frac{y_2-y_1}{x_2-x_1}}_{k}(x-x_1) &\href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#point-slope-form}{\textsf{point-slope form}} \\
   \end{array}
   $  
   :::
 
 
 ### $\textcolor{#1E3A5F}{\fbox{5}}\:$General form
-- The above equations can all be transformed into __the form of a linear equation $\boldsymbol{ax+by+c=0}$__,
-  which is called __the general form of the equation of a line__.  
-- ###### Note: the general form is crucial, as it allows for quick calculation of the slope, $k=-\frac{a}{b}$.
-  - __$k=-\frac{a}{b}$ derivation__   
-    ::: wrap  
-    $
-    \begin{array}{ll}
-    ax+by+c=0 \longrightarrow by=-ax-c \\
-    y=\underbrace{-\boxed{\frac{a}{b}}}_{k}x-\frac{c}{b} \\
-    \textsf{example: }4x+3y-5=0 \rightarrow k=-\frac{4}{3} \\
-    \end{array}
-    $  
-    :::
-- ###### Quickly calculate the intercept form  
+- Combine the above four equations into __a linear function of the form $\boldsymbol{ax+by+c=0}$__.
+- ###### The slope of the general form is $k=-\frac{a}{b}$.  
+  ::: wrap  
+  $
+  \begin{array}{ll}
+  ax+by+c=0 \\
+  by=-ax-c \\
+  y=\underbrace{-\frac{a}{b}}_{k}x-\frac{c}{b} \\
+  \textsf{example: }4x+3y-5=0 \Longrightarrow k=-\frac{4}{3} \\
+  \end{array}
+  $  
+  :::
+- ###### The intercepts of the general form  
   ![General form calculate intercept form.svg](../../public/math/Core%20Course/General%20form%20calculate%20intercept%20form.svg)   
   ::: wrap  
   $
   \begin{array}{ll}
-  y=0 
-  \begin{cases}
-  \begin{array}{ll}
+  \textsf{let }y=0 \\
   ax+b0+c=0 \\
   ax+c=0 \\
   ax=-c \\
-  x=-\frac{c}{a}
-  \end{array}
-  \end{cases} \\
-  x=0
-  \begin{cases}
-  \begin{array}{ll}
+  x=-\frac{c}{a} \\
+  \textsf{let }x=0 \\
   a0+by+c=0 \\
   by+c=0 \\
   by=-c \\
   y=-\frac{c}{b} \\
-  \end{array}
-  \end{cases} \\
-  \textsf{calculate the area of the triangle formed by the intercept form} \\
-  \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{S=\frac{1}{2}ah} \\
-  S=\frac{1}{2}\cdot -\frac{c}{a}\cdot -\frac{c}{b} \\
+  \textsf{triangle area formed by intercepts} \\
+  S=\frac{1}{2}\cdot -\frac{c}{a}\cdot -\frac{c}{b} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}}\\
   S=\frac{c^2}{2|ab|} \\
   \end{array}
   $  
   :::  
-- __Special case__
-  - ###### $a=0:\:by+c=0$ (horizontal line)
-  - $b=0:\:ax+c=0$ (vertical line)
-  - $c=0:\:ax+by=0$ (line passing through the origin)
+- ###### __Special cases__
+  - $a=0:\:by+c=0$  
+    __horizontal line__
+  - $b=0:\:ax+c=0$  
+    __vertical line__
+  - $c=0:\:ax+by=0$  
+    __line passing through the origin__
 
 ## 7.Focus 2
 __The equation of a line__  
@@ -648,8 +639,8 @@ $
   >$
   \begin{array}{ll}
   \frac{x}{a}+\frac{y}{b}=1 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#intercept-form}{\textsf{intercept form}} \\
-  y=kx & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#passing-through-the-origin}{\textsf{passing through origin}} \\
-  k=\frac{y}{x} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-slope-between-and-is}{\textsf{slope of line passing through origin}} \\
+  y=kx & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#special-cases}{\textsf{line passing through origin}} \\
+  k=\frac{y}{x} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-slope-between-points-and-is}{\textsf{slope of line passing through origin}} \\
   \end{array}
   >$
 
@@ -769,7 +760,7 @@ $
   \begin{cases}
   \textsf{y-intercept}=-\frac{c}{b} \\
   \textsf{x-intercept}=-\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#quickly-calculate-the-intercept-form}{\textsf{transform general form to intercept form}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-intercepts-of-the-general-form}{\textsf{intercepts of general form}} \\
   \end{array}
   >$
 
@@ -780,7 +771,7 @@ $
   >$
   \begin{array}{ll}
   2x-3y+12=0 \\
-  \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#quickly-calculate-the-intercept-form}{S=\frac{c^2}{2|ab|}} \\
+  S=\frac{c^2}{2|ab|} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-intercepts-of-the-general-form}{triangle area formed by intercepts} \\
   S=\frac{12^2}{2|2\cdot-3|}=\frac{24}{12}=12 \\
   \end{array}
   >$
@@ -875,9 +866,9 @@ $
   \begin{cases}
   \textsf{y-intercept}=-\frac{c}{b} \\
   \textsf{x-intercept}=-\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#quickly-calculate-the-intercept-form}{\textsf{transform general form to intercept form}} \\
-  a=0 \longrightarrow by+c=0 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#horizontal-line}{\textsf{horizontal line}} \\
-  k=-\frac{a}{b} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#note-the-general-form-is-crucial-as-it-allows-for-quick-calculation-of-the-slope}{\textsf{convert general form to slope}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-intercepts-of-the-general-form}{\textsf{intercepts of general form}} \\
+  a=0 \longrightarrow by+c=0 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#special-cases-1}{\textsf{horizontal line of general form}} \\
+  k=-\frac{a}{b} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-slope-of-the-general-form-is}{\textsf{slope of general form}} \\
   90^\circ<\alpha<180^\circ, k<0 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-definition-of-slope}{\textsf{slope definition}} \\
   \end{array}
   >$

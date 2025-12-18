@@ -1120,7 +1120,7 @@ $
 - When __elements interfere with each other__ or __cannot be directly selected__,
   use __exhaustive listing__ to solve __the problem based on the requirements of the question__.
 
-### $\textcolor{#1E3A5F}{\fbox{2}}\:$Notes
+### $\textcolor{#1E3A5F}{\fbox{2}}\:$Note
 - When listing, it is important to __establish a clear reference standard__;
   otherwise, it is easy to __overcount__ or __undercount__ the possibilities.
 

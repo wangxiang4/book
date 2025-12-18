@@ -125,7 +125,7 @@ lang: en-US
     $
 :::  
 ::: wrap
-- ###### Combining the above four into one proportion.  
+- ###### Combine the above four into one proportion.  
   $S_1:S_3:S_2:S_4=a^2:b^2:ab:ab$  
   ![Trapezoids area ratio theorem.svg](../../public/math/Core%20Course/Trapezoids%20area%20ratio%20theorem.svg)     
   - __Theorem derivation__  
@@ -861,7 +861,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S_1:S_3:S_2:S_4=a^2:b^2:ab:ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#combining-the-above-four-into-one-proportion}{\textsf{trapezoid area ratio theorem}} \\
+  S_1:S_3:S_2:S_4=a^2:b^2:ab:ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#combine-the-above-four-into-one-proportion}{\textsf{trapezoid area ratio theorem}} \\
   \end{array}
   >$
 
@@ -910,7 +910,7 @@ $
   >$
   \begin{array}{ll}
   S_1\cdot S_3=S_2\cdot S_4 & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#area-ratio-for-any-quadrilateral-figure-6%E2%80%9323}{\textsf{any quadrilateral area ratio theorem}} \\
-  S_1:S_3:S_2:S_4=a^2:b^2:ab:ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#combining-the-above-four-into-one-proportion}{\textsf{trapezoid area ratio theorem}} \\
+  S_1:S_3:S_2:S_4=a^2:b^2:ab:ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#combine-the-above-four-into-one-proportion}{\textsf{trapezoid area ratio theorem}} \\
   S_\triangle=\frac{1}{2}S_{ABCD} & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#a-triangle-with-the-same-base-and-height-as-a-rectangle-is-half-the-area-of-the-rectangle}{\textsf{triangle is half of rectangle}}
   \end{array}
   >$
