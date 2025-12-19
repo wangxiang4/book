@@ -739,7 +739,7 @@ $
   >$
 
   :::
-- Additionally, if the problem is: A product is __reduced by $\boldsymbol{20\%}$__, then __increased by $\boldsymbol{10\%}$__.
+- Additionally, if the problem is: a product is __reduced by $\boldsymbol{20\%}$__, then __increased by $\boldsymbol{10\%}$__.
   How much more must it increase to return to __the original price__ $\small \mathpunct{?}$.  
   ::: wrap
   >$
