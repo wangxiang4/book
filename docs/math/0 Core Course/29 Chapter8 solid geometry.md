@@ -28,10 +28,10 @@ lang: en-US
 
 ## 3.Focus 1
 __The cuboid__   
-- Use __the space diagonal, surface area, and volume formulas of a cuboid__.
+- Use __the formulas for the space diagonal, surface area, and volume of a cuboid__.
 
 
-### $\fbox{1}\:$The ratio of the length to the width of a cuboid is $\small 2:1$, and the ratio of the width to the height is $\small 3:2$. If the total length of all the edges of the cuboid is $\small 220$ cm, what is its volume $\small \mathpunct{?}$.
+### $\fbox{1}\:$The ratio of the length to the width of a cuboid is $\small 2:1$, and the ratio of the width to the height is $\small 3:2$. If the total length of all the edges of the cuboid is $\small 220\textsf{cm}$, what is its volume $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -50,8 +50,9 @@ $
 \begin{cases}
 \textsf{length}:\textsf{width}=2:1 \\
 \textsf{width}:\textsf{height}=3:2 \\
-\end{cases} \Rightarrow \textsf{length}:\textsf{width}:\textsf{height}=6:3:2 \\
-6:3:2 \rightarrow 6k:3k:2k & k:\textsf{scale factor} \\
+\end{cases} \\
+\textsf{length}:\textsf{width}:\textsf{height}=6:3:2 \\
+6:3:2 \longrightarrow 6k:3k:2k & k=\textsf{scale factor} \\
 l=4(6k+3k+2k)=220 \\
 4\cdot11k=220 \\
 k=\frac{220}{44}=5 \\
@@ -96,7 +97,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-3:2:1 \rightarrow 3k:2k:k & k:\textsf{scale factor} \\
+3:2:1 \rightarrow 3k:2k:k & k=\textsf{scale factor} \\
 S=2(3k\cdot2k + 3k\cdot k + 2k\cdot k)=2(6k^2+3k^2+2k^2) \\
 22k^2=88 \\
 k=\sqrt{4}=2 \\
@@ -148,19 +149,26 @@ $
   b=\frac{2}{a} \\
   c=\frac{3}{a} \\
   bc=\frac{2}{a}\cdot\frac{3}{a}=6 \\
-  \frac{6}{a^2}=6 \Longrightarrow a^2=1 \Longrightarrow a=1 \\
+  \frac{6}{a^2}=6 \\
+  a^2=1 \\
+  a=1 \\
   b=\frac{2}{1}=2 \\
   c=\frac{3}{1}=3 \\
   V=1\cdot2\cdot3=6 \\
   \end{array}
   $   
   :::  
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the volume formula (suitable for special cases)    
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the volume formula  
   ::: wrap  
   $
   \begin{array}{ll}
   V=abc=\sqrt{a^2 \cdot b^2 \cdot c^2}=\sqrt{ab \cdot bc \cdot ac} \\
-  \sqrt{2 \cdot 6 \cdot 3}=\sqrt{36}=6 & \textsf{substitute }[ab=2, bc=6, ac=3] \\
+  \begin{cases}
+  ab=2 \\
+  bc=6 \\
+  ac=3 \\
+  \end{cases} \\
+  \sqrt{2 \cdot 6 \cdot 3}=\sqrt{36}=6 \\
   \end{array}
   $   
   :::  
@@ -185,7 +193,7 @@ $
 
 ## 4.Focus 2
 __The cube__  
-- Use __the space diagonal, surface area, and volume formulas of a cube__.
+- Use __the formulas for the space diagonal, surface area, and volume of a cube__.
 
 
 ### $\fbox{4}\:$Given that the space diagonal of a cube is $\small 3$, what is its total surface area $\small \mathpunct{?}$.
@@ -251,8 +259,8 @@ $
 
 ## 3.Focus 1
 __The cylinders__   
-- Use __the lateral surface area, total surface area, and volume formulas of a cylinder__,
-  with particular attention to __the special case of an equilateral cylinder__.  
+- Use __the formulas for the lateral surface area, total surface area, and volume of a cylinder__,
+  including __the special case of an equilateral cylinder__.
 - ###### Equilateral cylinder: the axial section is a square $(h=2r)$.  
   ![Equilateral cylinder.svg](../../public/math/Core%20Course/Equilateral%20cylinder.svg)  
 
@@ -342,7 +350,7 @@ $
 
 ## 4.Focus 2
 __The prisms__   
-- Use __the surface area and volume formulas of common triangular and quadrangular prisms__.
+- Use __the formulas for the surface area and volume of common triangular and quadrangular prisms__.
 
 
 ### $\fbox{7}\:$Figure 8–3, if the top and bottom faces of a right triangular prism are right triangles, what is the surface area of the triangular prism $\small \mathpunct{?}$.
@@ -462,7 +470,7 @@ $
 
 ## 4.Focus 1
 __The basic formulas of a sphere__   
-- Use __the volume and surface area formulas of a sphere__. 
+- Use __the formulas for the volume and surface area of a sphere__. 
 - ###### Note that __the surface area is proportional to the square of the radius__, and __the volume is proportional to the cube of the radius__. 
   - $\frac{S_1}{S_2}=(\frac{r_1}{r_2})^2$. 
   - $\frac{V_1}{V_2}=(\frac{r_1}{r_2})^3$.
