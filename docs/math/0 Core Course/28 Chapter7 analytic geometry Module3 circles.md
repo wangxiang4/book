@@ -7,8 +7,8 @@ lang: en-US
 
 ## 1.Equation of a Circle
 
-### $\textcolor{#1E3A5F}{\fbox{1}}\:$Standard form  
-- A circle with center $\boldsymbol{(x_0,y_0)}$ and radius $r$ can be represented by the equation: $(x-x_0)^2+(y-y_0)^2=r^2$.
+### $\textcolor{#1E3A5F}{\fbox{1}}\:$Standard form
+- __The equation of a circle with center $\boldsymbol{(x_0,y_0)}$ and radius $\boldsymbol{r}$ is $\boldsymbol{(x-x_0)^2+(y-y_0)^2=r^2}$__.
 - __Equation derivation__  
   ![Circle standard form equation derivation.svg](../../public/math/Core%20Course/Circle%20standard%20form%20equation%20derivation.svg)  
   ::: wrap  
@@ -17,33 +17,36 @@ lang: en-US
   \sqrt{(x-x_0)^2+(y-y_0)^2} = r & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   (x-x_0)^2+(y-y_0)^2 = r^2 \\
   \boldsymbol{\textsf{example: }}(x+3)^2+(y-2)^2=4 \\
-  \textsf{center: }(-3,2) & \textsf{let }r=0\textsf{ to shrink the circle to a point — the center} \\
+  \textsf{center: }(-3,2) & \textsf{let }r=0\textsf{ to shrink center} \\
   \textsf{radius: }r=2 & 2^2=4 \\
   \end{array}
   $  
   :::
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$General form  
-- $x^2+y^2+ax+by+c=0$  
-- ###### It can be __completed into the standard form__: $(x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4}$.  
-  - ###### Center: $(-\frac{a}{2},-\frac{b}{2})$.
-  - Radius: $r=\frac{a^2+b^2-4c}{2}$.
+$\boldsymbol{x^2+y^2+ax+by+c=0}$  
+- ###### __Completing the square, the standard form of the circle is $\boldsymbol{(x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4}}$__.
+  - __The center is $\boldsymbol{(-\frac{a}{2},-\frac{b}{2})}$__.
+  - __The radius is $\boldsymbol{r=\frac{a^2+b^2-4c}{2}}$__.
 ::: wrap
-- Special cases:   
-  - $a=0: x^2+y^2+by+c=0$. Center on the y-axis.
-  - $b=0: x^2+y^2+ax+c=0$. Center on the x-axis.
-  - $c=0: x^2+y^2+ax+by+c=0$. The function passes through the origin.
+- __Special cases__
+  - $a=0\textsf{: }x^2+y^2+by+c=0$  
+    __center on the y-axis__
+  - $b=0\textsf{: }x^2+y^2+ax+c=0$  
+    __center on the x-axis__
+  - $c=0\textsf{: }x^2+y^2+ax+by+c=0$  
+    __equation passes through the origin__
 :::   
-- ###### Note: the condition for the general form to represent a circle is $a^2+b^2-4c>0$.  
+- ###### Note: __the condition for the general form of a circle is $\boldsymbol{a^2+b^2-4c>0}$__.
 - __Equation derivation__   
   ::: wrap  
   $
   \begin{array}{ll}
   (x-x_0)^2+(y-y_0)^2 = r^2 & \textsf{standard form} \\
-  x^2-2x_0x+x_0^2+y^2-2 y_0y+y_0^2 = r^2 & \textsf{expand the perfect square} \\
+  x^2-2x_0x+x_0^2+y^2-2 y_0y+y_0^2 = r^2 \\
   x^2+y^2-2x_0x-2y_0y+(x_0^2+y_0^2)=r^2 \\
   x^2+y^2-2x_0x-2y_0y+(x_0^2+y_0^2-r^2)=0 \\
-  \textsf{Let }a=-2x_0 \quad b=-2y_0 \quad c=x_0^2+y_0^2-r^2 \\
+  \textsf{let }a=-2x_0 \quad b=-2y_0 \quad c=x_0^2+y_0^2-r^2 \\
   x^2+y^2+ax+by+c=0 \\
   \end{array}
   $  
@@ -51,22 +54,22 @@ lang: en-US
 
 ## 2.Special Circles (Standard Form)  
 
-|   	Special Circle   |         Equation          |                                                               Graph                                                                |       Property        |
-|:-------------------:|:-------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|
-|       $x_0=0$       |    $x^2+(y-y_0)^2=r^2$    | ![Special circles standard form graph 1.svg](../../public/math/Core%20Course/Special%20circles%20standard%20form%20graph%201.svg) | Center on the y-axis  |
-|       $y_0=0$       |    $(x-x_0)^2+y^2=r^2$    | ![Special circles standard form graph 2.svg](../../public/math/Core%20Course/Special%20circles%20standard%20form%20graph%202.svg) | Center on the x-axis  |
-|     $x_0=y_0=0$     |       $x^2+y^2=r^2$       | ![Special circles standard form graph 3.svg](../../public/math/Core%20Course/Special%20circles%20standard%20form%20graph%203.svg) | Center at the origin  |
-|     $\|y_0\|=r$     | $(x-x_0)^2+(y-y_0)^2=r^2$ | ![Special circles standard form graph 4.svg](../../public/math/Core%20Course/Special%20circles%20standard%20form%20graph%204.svg) | Tangent to the x-axis |
-|     $\|x_0\|=r$     | $(x-x_0)^2+(y-y_0)^2=r^2$ | ![Special circles standard form graph 5.svg](../../public/math/Core%20Course/Special%20circles%20standard%20form%20graph%205.svg) | Tangent to the y-axis |
-| $\|x_0\|=\|y_0\|=r$ | $(x-x_0)^2+(y-y_0)^2=r^2$ | ![Special circles standard form graph 6.svg](../../public/math/Core%20Course/Special%20circles%20standard%20form%20graph%206.svg) | Tangent to both axes  |
+|   	Special Circle   |         Equation          |                                                               Graph                                                               |         Property          |
+|:-------------------:|:-------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|
+|       $x_0=0$       |    $x^2+(y-y_0)^2=r^2$    | ![Special circles standard form graph 1.svg](../../public/math/Core%20Course/Special%20circles%20standard%20form%20graph%201.svg) | __Center on the y-axis__  |
+|       $y_0=0$       |    $(x-x_0)^2+y^2=r^2$    | ![Special circles standard form graph 2.svg](../../public/math/Core%20Course/Special%20circles%20standard%20form%20graph%202.svg) | __Center on the x-axis__  |
+|     $x_0=y_0=0$     |       $x^2+y^2=r^2$       | ![Special circles standard form graph 3.svg](../../public/math/Core%20Course/Special%20circles%20standard%20form%20graph%203.svg) | __Center at the origin__  |
+|     $\|y_0\|=r$     | $(x-x_0)^2+(y-y_0)^2=r^2$ | ![Special circles standard form graph 4.svg](../../public/math/Core%20Course/Special%20circles%20standard%20form%20graph%204.svg) | __Tangent to the x-axis__ |
+|     $\|x_0\|=r$     | $(x-x_0)^2+(y-y_0)^2=r^2$ | ![Special circles standard form graph 5.svg](../../public/math/Core%20Course/Special%20circles%20standard%20form%20graph%205.svg) | __Tangent to the y-axis__ |
+| $\|x_0\|=\|y_0\|=r$ | $(x-x_0)^2+(y-y_0)^2=r^2$ | ![Special circles standard form graph 6.svg](../../public/math/Core%20Course/Special%20circles%20standard%20form%20graph%206.svg) | __Tangent to both axes__  |
 
 ## 3.Focus 1
-__The equation of a circle__   
-- Note __the requirements of the circle's equation__, as well as __the forms of semicircle equations__.
+__The equation of a circle__  
+- Note __the conditions of the circle's equation__ and __the form of the semicircle's equation__.
 
 
-### $\fbox{22}\:$Given that $\small x^2+y^2-4x+6y+m=0$ represents a circle. What is the range of values for $\small m\, \mathpunct{?}$.
-::: wrap   
+### $\fbox{22}\:$Given the circle $\small x^2+y^2-4x+6y+m=0$, find the range of $\small m$.
+::: wrap  
 $
 \begin{array}{lllll}
 \textsf{(A)} \: m<12 &
@@ -78,22 +81,22 @@ $
 $  
 :::
 #### Solution
-- $\textcolor{#228B22}{\fbox{1}}\:$Solve by completing the square to transform the general form into the standard form    
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by transforming into standard form  
   ::: wrap   
   $
   \begin{array}{ll}
   (x+\frac{-4}{2})^2+(y+\frac{6}{2})^2=\frac{(-4)^2+6^2-4m}{4} \\
   (x-2)^2+(y+3)^2=\frac{16+36-4m}{4}=\frac{52-4m}{4} \\
-  (x-2)^2+(y+3)^2=13-m>0 & \textsf{radius }> 0\textsf{ for a valid circle}\\
+  (x-2)^2+(y+3)^2=13-m>0 & \textsf{valid circle (radius}>0\textsf{)}\\
   m<13 \\
   \end{array}
   $   
   :::    
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the condition for the general form of a circle   
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the condition for the general form  
   ::: wrap   
   $
   \begin{array}{ll}
-  a^2+b^2-4c>0 & \textsf{necessary condition for a circle} \\
+  a^2+b^2-4c>0 \\
   (-4)^2+6^2-4m>0 \\
   16+36-4m>0 \\
   52-4m>0 \\
@@ -113,9 +116,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#it-can-be-completed-into-the-standard-form}{\textsf{completing the circle standard form}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
   x^2+y^2+ax+by+c=0 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#general-form}{\textsf{circle general form}} \\
-  a^2+b^2-4c>0 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#note-the-condition-for-the-general-form-to-represent-a-circle-is}{\textsf{general form circle condition}} \\
+  a^2+b^2-4c>0 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#note-the-condition-for-the-general-form-of-a-circle-is}{\textsf{circle general form condition}} \\
   \end{array}
   >$
 
@@ -123,7 +126,7 @@ $
 ---
 
 
-### $\fbox{23}\:$If the equation of the circle is $\small x^2+y^2=1$, then the equation of its right semicircle (the part located in the first and fourth quadrants) $\small \mathpunct{?}$.
+### $\fbox{23}\:$Given the circle $\small x^2+y^2=1$, find the equation of its right semicircle.
 ::: wrap   
 $
 \begin{array}{lllll}
@@ -143,11 +146,11 @@ $
   \begin{array}{ll}
   x^2+y^2=1 \\
   x^2=1-y^2 \\
-  x=\sqrt{1-y^2} & x > 0 \textsf{ since it has the right half} \\
-  x-\sqrt{1-y^2}=0 & \textsf{right semicircle}\\
+  x=\sqrt{1-y^2} \\
+  x-\sqrt{1-y^2}=0 \rightarrow x=\sqrt{1-y^2} & x \in \mathbb{R_+} \textsf{ right semicircle} \\
+  x+\sqrt{1-y^2}=0 \rightarrow x=-\sqrt{1-y^2} & x \in \mathbb{R_-} \textsf{ left semicircle} \\
   y-\sqrt{1-x^2}=0 \rightarrow y=\sqrt{1-x^2} & y \in \mathbb{R_+} \textsf{ upper semicircle} \\
   y+\sqrt{1-x^2}=0 \rightarrow y=-\sqrt{1-x^2} & y \in \mathbb{R_-} \textsf{ lower semicircle} \\
-  x+\sqrt{1-y^2}=0 \rightarrow x=-\sqrt{1-y^2} & x \in \mathbb{R_-} \textsf{ left semicircle} \\
   \end{array}
   $  
   :::  
@@ -158,7 +161,7 @@ $
   > According to the Solution, get $x-\sqrt{1-y^2}=0$, so choose $B$. 
 
   :::
-- Additionally, if the problem is a standard form equation of a circle  
+- Circle standard form semicircle equation    
   ::: wrap
   >$
   \begin{array}{ll}
@@ -177,13 +180,14 @@ $
 
 ## 4.Focus 2
 __The intersection of a circle and the coordinate axes__
-- Let $\boldsymbol{y=0}$ to find the points where __the circle intersects the x-axis__; 
-  let $\boldsymbol{x=0}$ to find the points where __it intersects the y-axis__.
-  If the circle has only one point of intersection with an axis, then it is __tangent to that axis__.
+- $\boldsymbol{y=0}$: __intersection points of the circle with the x-axis__. 
+- $\boldsymbol{x=0}$: __intersection points of the circle with the y-axis__.
+- If the circle has __only one intersection point with an axis__,
+  __the circle is tangent to that axis__.
 
 
 
-### $\fbox{24}\:$The two intersection points of the circle $\small x^2+(y-1)^2=4$ with the x-axis are $\small \mathpunct{?}$.
+### $\fbox{24}\:$Find the two intersection points of the circle $\small x^2+(y-1)^2=4$ with the x-axis.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -202,7 +206,7 @@ $
 \textsf{let }y=0 \\
 x^2+(0-1)^2=4 \\
 x^2+1=4 \\
-x=\pm\sqrt{3} \Rightarrow (-\sqrt{3},0),(\sqrt{3},0)\\
+x=\pm\sqrt{3} \Longrightarrow (-\sqrt{3},0),(\sqrt{3},0)\\
 \end{array}
 $  
 :::  
@@ -216,7 +220,7 @@ $
 ---
 
 
-### $\fbox{25}\:$The equation of a circle with center at $\small P(−2,3)$ and tangent to the y-axis is $\small \mathpunct{?}$.
+### $\fbox{25}\:$Find the equation of a circle tangent to the y-axis with its center at $\small P(−2,3)$.
 ::: wrap   
 $
 \begin{array}{lllll}
@@ -232,7 +236,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-|x_0|=r & \textsf{tangent to the y-axis} \\
+|x_0|=r & \textsf{tangent to y-axis} \\
 r=|-2|=2 \\
 ((-2)-x_0)^2+(3-y_0)^2=2^2 \\ 
 (x+2)^2+(y-3)^2=4 \\
@@ -561,10 +565,10 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#it-can-be-completed-into-the-standard-form}{\textsf{completing the circle standard form}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
   d=\frac{|ax_0+by_0+c|}{\sqrt{a^2+b^2}} & \href{/math/0%20Core%20Course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20lower.html#_14-distance-from-a-point-to-a-line}{\textsf{point-to-line distance formula}} \\
   2\sqrt{r^2-d^2} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#chord-length-of-a-circle}{\textsf{chord length of a circle}} \\
-  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#center}{\textsf{center of standard-form circle}} \\
+  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
   \end{array}
   >$
 
@@ -639,7 +643,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#center}{\textsf{center of standard-form circle}} \\
+  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
   d=\frac{|ax_0+by_0+c|}{\sqrt{a^2+b^2}} & \href{/math/0%20Core%20Course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20lower.html#_14-distance-from-a-point-to-a-line}{\textsf{point-to-line distance formula}} \\
   ∣x∣ \le c \iff −c \le x \le c & \textsf{absolute value inequality expansion} \\
   \Delta=b^2-4ac & \href{/math/0%20Core%20Course/17%20Chapter4%20equations%20inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
@@ -790,8 +794,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#it-can-be-completed-into-the-standard-form}{\textsf{completing the circle standard form}} \\
-  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#center}{\textsf{center of standard-form circle}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
+  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \textsf{axis position diagram} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#the-range-of-the-distance-between-the-circles-and-their-position-relationship}{\textsf{distance range and positional relationship between circles}} \\
   \end{array}
@@ -843,7 +847,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#it-can-be-completed-into-the-standard-form}{\textsf{completing the circle standard form}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
   (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \textsf{axis position diagram} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#the-range-of-the-distance-between-the-circles-and-their-position-relationship}{\textsf{distance range and positional relationship between circles}} \\
@@ -903,8 +907,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#it-can-be-completed-into-the-standard-form}{\textsf{completing the circle standard form}} \\
-  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#center}{\textsf{center of standard-form circle}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
+  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \textsf{axis position diagram} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#the-range-of-the-distance-between-the-circles-and-their-position-relationship}{\textsf{distance range and positional relationship between circles}} \\
   \end{array}
@@ -962,8 +966,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#it-can-be-completed-into-the-standard-form}{\textsf{completing the circle standard form}} \\
-  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#center}{\textsf{center of standard-form circle}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
+  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
   d=\sqrt{x^2+y^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \end{array}
   >$
