@@ -492,7 +492,7 @@ $
 
 
 ## 15.Distance Between Two Parallel Lines
-- __The distance between the lines $\boldsymbol{ax+by+c_1=0}$ and $\boldsymbol{ax+by+c_2=0}$ and $\boldsymbol{d=\frac{|c_1-c_2|}{\sqrt{a^2+b^2}}}$__.
+- __The distance between the lines $\boldsymbol{ax+by+c_1=0}$ and $\boldsymbol{ax+by+c_2=0}$ is $\boldsymbol{d=\frac{|c_1-c_2|}{\sqrt{a^2+b^2}}}$__.
 - Note: the derivation is done using __a point on one of the lines__,
   and then applying __the point-to-line distance formula__ to find __the distance between the two parallel lines__.  
   ![Parallel lines distance.svg](../../public/math/Core%20Course/Parallel%20lines%20distance.svg)  

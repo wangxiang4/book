@@ -262,49 +262,49 @@ $
   :::
 ---
 
-## 5.Position of a Point Relative to a Circle
-- Let $P(x_p, y_p)$ be a point, and let the circle be defined by $(x-x_0)^2+(y-y_0)^2=r^2$,   
-  Substitute the point into the circle's equation:  
+## 5.Positional Relationship Between a Point and a Circle
+- For __a point $\boldsymbol{P(x_p, y_p)}$__ and __a circle $\boldsymbol{(x-x_0)^2+(y-y_0)^2=r^2}$__  
   ::: wrap  
   $
   (x_p-x_0)^2+(y_p-y_0)^2
   \begin{cases}
-  \lt r^2\textsf{ the point lies inside the circle} \\
-  =r^2\textsf{ the point lies on the circle} \\
-  \gt r^2\textsf{ the point lies outside the circle} \\
+  \lt r^2 & \textsf{ point lies inside circle} \\
+  =r^2 & \textsf{ point lies on circle} \\
+  \gt r^2 & \textsf{ point lies outside circle} \\
   \end{cases}
   $  
-  :::   
-  ![Point circle relation.svg](../../public/math/Core%20Course/Point%20circle%20relation.svg)  
+  :::  
+  ![Point circle relation.svg](../../public/math/Core%20Course/Point%20circle%20relation.svg)
 
 ## 6.Relationship Between a Line and a Circle
-- Given the line $l:\,y=kx+b$ and the circle $O:\,(x-x_0)^2+(y-y_0)^2=r^2$, let $d$
-  be the distance from the center of the circle $(x_0,y_0)$ to the line $l$.
+- For __the line $\boldsymbol{y=kx+b}$__ and __the circle $\boldsymbol{(x-x_0)^2+(y-y_0)^2=r^2}$__,
+  __the distance from the circle's center $\boldsymbol{O(x_0,y_0)}$ to the line is $\boldsymbol{d}$__.
 
-|          Line–Circle Position Relationship           |                                                          Diagram                                                          | Condition (Geometric Interpretation) |
-|:----------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:|
-| __Line and circle are separate__<br/>No Intersection | ![Line circle relationship diagram 1.svg](../../public/math/Core%20Course/Line%20circle%20relationship%20diagram%201.svg) |                $d>r$                 |
-| __Line tangent to circle__<br/>1 Intersection Point  | ![Line circle relationship diagram 2.svg](../../public/math/Core%20Course/Line%20circle%20relationship%20diagram%202.svg) |                $d=r$                 |
-| __Line intersects circle__<br/>2 Intersection Points | ![Line circle relationship diagram 3.svg](../../public/math/Core%20Course/Line%20circle%20relationship%20diagram%203.svg) |                $d<r$                 |
+|          Line–Circle Position Relationship           |                                                          Diagram                                                          |              Geometric Condition              |
+|:----------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------:|
+| __Line and circle are separate__<br/>No Intersection | ![Line circle relationship diagram 1.svg](../../public/math/Core%20Course/Line%20circle%20relationship%20diagram%201.svg) |                     $d>r$                     |
+| __Line tangent to circle__<br/>1 Intersection Point  | ![Line circle relationship diagram 2.svg](../../public/math/Core%20Course/Line%20circle%20relationship%20diagram%202.svg) |                     $d=r$                     |
+| __Line intersects circle__<br/>2 Intersection Points | ![Line circle relationship diagram 3.svg](../../public/math/Core%20Course/Line%20circle%20relationship%20diagram%203.svg) |                     $d<r$                     |
 
-- ###### Chord length of a circle   
-  - Derived from the pythagorean theorem.   
-  - $\textsf{chord length} = 2\sqrt{r^2-d^2}$      
+- ###### __Chord length of a circle__
+  - Derived from __the pythagorean theorem $\boldsymbol{c^2=a^2+b^2}$__.
+  - $\textsf{chord length} = 2\sqrt{r^2-d^2}$  
     ![Circle chord length.svg](../../public/math/Core%20Course/Circle%20chord%20length.svg)  
 
 
-## 7.Relationship Between Two Circles  
-- Let $O_1:\,(x-x_1)^2+(y-y_1)^2=r_1^2$, and $O_2:\,(x-x_2)^2+(y-y_2)^2=r_2^2$, where $r_1>r_2$ is assumed. Let $d$ be the distance between the centers $(x_1, y_1)$ and $(x_2, y_2)$.
+## 7.Relationship Between Two Circles
+- For __the two circles $\boldsymbol{(x-x_1)^2+(y-y_1)^2=r_1^2}$ and $\boldsymbol{(x-x_2)^2+(y-y_2)^2=r_2^2}$__, __where $\boldsymbol{r_1>r_2}$__,
+  __the distance between their centers $\boldsymbol{O_1(x_1, y_1)}$ and $\boldsymbol{O_2(x_2, y_2)}$ is $\boldsymbol{d}$__.
 
-|       Circle–Circle Position Relationship       |                                                          Diagram                                                          | Condition (Geometric Interpretation) | 	Number of Common Internal Tangents | Number of Common External Tangents |
-|:-----------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:|:-----------------------------------:|:----------------------------------:|
-|   __Externally separate__<br/>No Intersection   | ![Two circles relationship diagram 1.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%201.svg) |             $d>r_1+r_2$              |                  2                  |                 2                  |
-| __Externally tangent__<br/>1 Intersection Point | ![Two circles relationship diagram 2.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%202.svg) |             $d=r_1+r_2$              |                  1                  |                 2                  |
-|   __Intersecting__<br/>2 Intersection Points    | ![Two circles relationship diagram 3.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%203.svg) |    $\|r_1-r_2\|\lt d\lt r_1+r_2$     |                  0                  |                 2                  |
-| __Internally tangent__<br/>1 Intersection Point | ![Two circles relationship diagram 4.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%204.svg) |           $d=\|r_1-r_2\|$            |                  0                  |                 1                  |
-|  __Internally contained__<br/>No Intersection   | ![Two circles relationship diagram 5.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%205.svg) |          $d\lt \|r_1-r_2\|$          |                  0                  |                 0                  |
+|       Circle–Circle Position Relationship       |                                                          Diagram                                                          |              Geometric Condition              | 	Number of Common Internal Tangents | Number of Common External Tangents |
+|:-----------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------:|:-----------------------------------:|:----------------------------------:|
+|   __Externally separate__<br/>No Intersection   | ![Two circles relationship diagram 1.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%201.svg) |                  $d>r_1+r_2$                  |                  2                  |                 2                  |
+| __Externally tangent__<br/>1 Intersection Point | ![Two circles relationship diagram 2.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%202.svg) |                  $d=r_1+r_2$                  |                  1                  |                 2                  |
+|   __Intersecting__<br/>2 Intersection Points    | ![Two circles relationship diagram 3.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%203.svg) |         $\|r_1-r_2\|\lt d\lt r_1+r_2$         |                  0                  |                 2                  |
+| __Internally tangent__<br/>1 Intersection Point | ![Two circles relationship diagram 4.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%204.svg) |                $d=\|r_1-r_2\|$                |                  0                  |                 1                  |
+|  __Internally contained__<br/>No Intersection   | ![Two circles relationship diagram 5.svg](../../public/math/Core%20Course/Two%20circles%20relationship%20diagram%205.svg) |              $d\lt \|r_1-r_2\|$               |                  0                  |                 0                  |
 
-- ###### The range of the distance $d$ between the circles and their position relationship.       
+- ###### Distance relationships between two circles  
   ![Circle distance range position axis.svg](../../public/math/Core%20Course/Circle%20distance%20range%20position%20axis.svg)   
 
 
@@ -357,10 +357,10 @@ $
   \begin{array}{ll}
   (x_p-x_0)^2+(y_p-y_0)^2
   \begin{cases}
-  \lt r^2\textsf{ the point lies inside the circle} \\
-  =r^2\textsf{ the point lies on the circle} \\
-  \gt r^2\textsf{ the point lies outside the circle} \\
-  \end{cases} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_5-position-of-a-point-relative-to-a-circle}{\textsf{point-circle relationship}} \\
+  \lt r^2 & \textsf{ point lies inside circle} \\
+  =r^2 & \textsf{ point lies on circle} \\
+  \gt r^2 & \textsf{ point lies outside circle} \\
+  \end{cases} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_5-positional-relationship-between-a-point-and-a-circle}{\textsf{point-circle position}} \\
   \end{array}
   >$
 
@@ -464,7 +464,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  d=r & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_6-relationship-between-a-line-and-a-circle}{\textsf{line circle relationship}} \\
+  d=r & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_6-relationship-between-a-line-and-a-circle}{\textsf{line-circle relationship}} \\
   d=\frac{|c|}{\sqrt{a^2+b^2}} & \href{/math/0%20Core%20Course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20lower.html#_14-distance-from-a-point-to-a-line}{\textsf{point-to-line distance formula}} \\
   ax+by+c=0 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#general-form}{\textsf{line general form}} \\
   y=y_0+k(x-x_0) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#point-slope-form}{\textsf{point-slope form}} \\
@@ -697,7 +697,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  d=r_1+r_2 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_7-relationship-between-two-circles}{\textsf{two circles relationship}} \\
+  d=r_1+r_2 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_7-relationship-between-two-circles}{\textsf{relationship between two circles}} \\
   \end{array}
   >$
 
@@ -747,7 +747,7 @@ $
   \begin{cases}
   d=r_1+r_2 \\
   d=|r_1-r_2| \\
-  \end{cases} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_7-relationship-between-two-circles}{\textsf{two circles relationship}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_7-relationship-between-two-circles}{\textsf{relationship between two circles}} \\
   (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \end{array}
@@ -794,10 +794,10 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
+  & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#distance-relationships-between-two-circles}{\textsf{distance relationship between two circles}} \\
   (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
   (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
-  \textsf{axis position diagram} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#the-range-of-the-distance-between-the-circles-and-their-position-relationship}{\textsf{distance range and positional relationship between circles}} \\
   \end{array}
   >$
 
@@ -847,10 +847,10 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
+  & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#distance-relationships-between-two-circles}{\textsf{distance relationship between two circles}} \\
   (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
   (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
-  \textsf{axis position diagram} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#the-range-of-the-distance-between-the-circles-and-their-position-relationship}{\textsf{distance range and positional relationship between circles}} \\
   ∣x∣ \le c \iff −c \le x \le c & \textsf{absolute value inequality expansion} \\
   \end{array}
   >$
@@ -907,10 +907,10 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
+  & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#distance-relationships-between-two-circles}{\textsf{distance relationship between two circles}} \\
   (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
   (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
-  \textsf{axis position diagram} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#the-range-of-the-distance-between-the-circles-and-their-position-relationship}{\textsf{distance range and positional relationship between circles}} \\
   \end{array}
   >$
 
