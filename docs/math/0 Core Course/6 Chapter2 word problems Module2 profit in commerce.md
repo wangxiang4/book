@@ -406,7 +406,7 @@ $
 
 ## 4.Focus 3
 __The price change (discounts and promotions)__  
-- Master __the transformations of the formulas__:  
+- __The transformations of the formulas__:  
   ::: wrap  
   $
   \begin{array}{ll}

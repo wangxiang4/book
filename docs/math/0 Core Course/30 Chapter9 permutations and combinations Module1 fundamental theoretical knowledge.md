@@ -54,40 +54,39 @@ __the corresponding way of completing the entire task is considered different__.
 ## 3.The Difference and Connection Between the Two Principles
 
 1. Grasp the fundamental distinction between these two basic principles and avoid confusing them:
-   - When you have __different types of methods__,
+   - When there are __different types of methods__,
      each of which can complete the task from start to finish on its own,
-     __you add the counts of these methods together__.
-   - When you have __different steps__,
+     __the counts of these methods are added together__.
+   - When there are __different steps__,
      where each method only completes part of the task,
-     __you multiply the counts of these methods across the steps__.
+     __the counts of these methods are multiplied across the steps__.
 
-2. When studying the number of different ways to complete a task, you must follow the principle of __no overlaps and no omissions__. 
+2. When studying the number of different ways to complete a task, __the principle of no overlap and no omission must be followed__. 
    - __For example__:   
    - When selecting several products from a group for inspection,
-     if you classify the selection methods in
-     which there are __at most two defective products__ into two categories —
+     if the selection methods in which there are __at most two defective products__ are classified into two categories —
      the first category being selections with __two defective products__,
      and the second category being selections with __one defective product__ —
      then this classification clearly misses the case
      where the selection contains no defective products.
      - __At most $\boldsymbol{\Leftrightarrow \le}$__. 
      - __At least $\boldsymbol{\Leftrightarrow \ge}$__.
-   - If you classify numbers divisible by 2, 3, or 6 into three categories —
+   - If the numbers divisible by 2, 3, or 6 are classified into three categories —
      the first being numbers divisible by 2,
      the second being numbers divisible by 3,
      and the third being numbers divisible by 6 —
      then the first and second categories both overlap with the third category.
      This classification is therefore incorrect.
      
-3. When applying the multiplication principle, you must note that all the steps must be completed in order for the task itself to be considered complete.  
+3. When applying the multiplication principle, it must be noted that all the steps must be completed in order for the task itself to be considered complete.  
 
-  | Content     | Addition Principle                                                                                                                                                                | Multiplication Principle                                                                              |
-  |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-  | Essence     | Each category __can independently complete__ the task                                                                                                                             | If __any step is missing__, the task __cannot be completed__                                          |
-  | Feature     | __The number of categories__ determines __the number of terms to add__                                                                                                            | __The number of steps__ determines __the number of terms to multiply__                                |
-  | Symbol      | Plus sign $\boldsymbol{(+)}$                                                                                                                                                      | Multiplication sign $\boldsymbol{(\times)}$                                                           |
-  | Application | When there is __uncertainty__ or __interference__ between methods, use __classification__                                                                                         | When __several processes or stages__ are required to complete the task, use __step-by-step counting__ |
-  | Coexistence | When both __classification__ and __step-by-step__ processes __appear together__, you should first __classify at a macro level__, then __break down into steps at a micro level__	 |
+  | Content     | Addition Principle                                                                                                                                                     | Multiplication Principle                                                                              |
+  |-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+  | Essence     | Each category __can independently complete__ the task                                                                                                                  | If __any step is missing__, the task __cannot be completed__                                          |
+  | Feature     | __The number of categories__ determines __the number of terms to add__                                                                                                 | __The number of steps__ determines __the number of terms to multiply__                                |
+  | Symbol      | Plus sign $\boldsymbol{(+)}$                                                                                                                                           | Multiplication sign $\boldsymbol{(\times)}$                                                           |
+  | Application | When there is __uncertainty__ or __interference__ between methods, use __classification__                                                                              | When __several processes or stages__ are required to complete the task, use __step-by-step counting__ |
+  | Coexistence | When both __classification__ and __step-by-step__ processes __appear together__, __first classify at a macro level__, then __break down into steps at a micro level__	 |
 
 
 ## 4.Focus 1
@@ -324,10 +323,10 @@ $
 
 ## 6.Focus 3
 __The coexistence of addition and multiplication__
-- When both classification and step-by-step processes appear together, you should __first classify at a macro level__, then __break down into steps at a micro level__.  
+- When both classification and step-by-step processes appear together, __first classify at a macro level__, then __break down into steps at a micro level__.  
 
 
-### $\fbox{4}\:$From $\small 5$ sketches, $\small 3$ oil paintings, and $\small 2$ watercolors, how many different ways can you select two pieces of artwork of different types to decorate the classroom $\small \mathpunct{?}$.
+### $\fbox{4}\:$From $\small 5$ sketches, $\small 3$ oil paintings, and $\small 2$ watercolors, how many different ways can two pieces of artwork of different types be selected to decorate the classroom $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}

@@ -814,7 +814,7 @@ $
 
 ## 10.Focus 6
 __The repeated-element exponentiation method__  
-- You need to learn how to apply the formula and understand its usage. __Be careful not to mix up the base and the exponent__.
+- Learn how to apply the formula and understand its usage. __Be careful not to mix up the base and the exponent__.
 
 
 ### $\fbox{25}\:$Five people are signing up for three different training courses, and each person signs up for only one course. How many different ways can they sign up $\small \mathpunct{?}$.
@@ -968,7 +968,7 @@ $
 ## 12.Focus 7
 __The correct matching and incorrect matching__  
 - When elements are __correctly matched__, there is __only one way to arrange them__.
-  When they are __incorrectly matched__, you can __memorize the results__:
+  When they are __incorrectly matched__, __the results can be memorized__:
   $2$ incorrect matches: $1$ way,
   $3$ incorrect matches: $2$ ways,
   __$\boldsymbol{4}$ incorrect matches: $\boldsymbol{9}$ ways__,
@@ -1128,9 +1128,9 @@ $
 ## 14.Focus 8
 __The exhaustive listing method__  
 - When the constraints on the elements make __it impossible to use combinations directly__,
-  you need to list all possible cases __according to the given conditions__.
+  all possible cases must be listed __according to the given conditions__.
   If __direct (positive) listing involves too many cases__,
-  you can solve the problem by __listing the complementary (negative) cases instead__.
+  the problem can be solved by __listing the complementary (negative) cases instead__.
 
 
 
@@ -1296,7 +1296,7 @@ $
 ---
 
 
-### $\fbox{34}\:$Using 10-cent, 20-cent, and 50-cent coins (with no limit on the number of each coin), how many different ways can you make $\small 1$ dollar $\small \mathpunct{?}$.
+### $\fbox{34}\:$Using 10-cent, 20-cent, and 50-cent coins (with no limit on the number of each coin), how many different ways can $\small 1$ dollar be made $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}

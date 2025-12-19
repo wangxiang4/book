@@ -105,7 +105,7 @@ $
 
 ## 21.Focus 7
 __The repeating decimals__  
-- Master the methods for __converting pure repeating decimals and mixed repeating decimals into fractions__.
+- Use __the method for converting pure repeating decimals and mixed repeating decimals into fractions__.
 
 ### $\fbox{11}\:$The pure repeating decimal $0.\dot{a}b\dot{c}$, when written as a simplified fraction, has a numerator and denominator whose sum is $\small 58$. Find $\small a+b+c$.
 ::: wrap  

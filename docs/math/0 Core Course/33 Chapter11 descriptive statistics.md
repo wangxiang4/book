@@ -76,9 +76,9 @@ __The calculation of the average value for a set of numbers__
   first __find the sum__,
   then divide by __the count to get the average__.
   __To simplify__ the calculation,
-  you can subtract $m$ from each number,
-  find __the average of the remaining numbers__,
-  and then add $m$ back.
+  the number $m$ can be subtracted from each number,
+  the average of the remaining numbers can be found,
+  and then $m$ can be added back.
 
 
 ### $\fbox{2}\:$In a singing competition, the scores given by $\small 8$ judges are shown in the table below:  

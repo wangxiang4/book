@@ -290,7 +290,7 @@ $
 
 
 ## 7.Relationship Between Two Circles  
-- Let $O_1:\,(x-x_1)^2+(y-y_1)^2=r_1^2$, and $O_2:\,(x-x_2)^2+(y-y_2)^2=r_2^2$, where we may assume $r_1>r_2$. Let $d$ be the distance between the centers $(x_1, y_1)$ and $(x_2, y_2)$.
+- Let $O_1:\,(x-x_1)^2+(y-y_1)^2=r_1^2$, and $O_2:\,(x-x_2)^2+(y-y_2)^2=r_2^2$, where $r_1>r_2$ is assumed. Let $d$ be the distance between the centers $(x_1, y_1)$ and $(x_2, y_2)$.
 
 |       Circle–Circle Position Relationship       |                                                          Diagram                                                          | Condition (Geometric Interpretation) | 	Number of Common Internal Tangents | Number of Common External Tangents |
 |:-----------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:|:-----------------------------------:|:----------------------------------:|
@@ -368,9 +368,8 @@ __The positional relationship between a line and a circle__
 - First, find __the distance $\boldsymbol{d}$ from the center of the circle to the line__. 
   Then compare __the sizes of $\boldsymbol{d}$ and $\boldsymbol{r}$__ to __determine their relationship__. 
   The most important positional relationship is tangency. 
-  Additionally, when the line intersects the circle, 
-  you should be able to use __the pythagorean theorem to find the chord length__:
-  $\textsf{chord length} = \boldsymbol{2\sqrt{r^2-d^2}}$.
+  Additionally, when the line intersects the circle,
+  the length of the chord is $\boldsymbol{2\sqrt{r^2-d^2}}$.
 
 
 ### $\fbox{27}\:$If the line $\small y=k(x+2)$ is a tangent to the circle $\small x^2+y^2=1$, find $\small k$.

@@ -654,7 +654,7 @@ $
 \end{array}
 $
 :::  
-#### (2) If an enemy aircraft intrudes, and we require at least a $\small 99\%$ probability of hitting it, what is the minimum number of anti-aircraft guns needed $\small \,\mathpunct{?}\,(2^{10}=1024)$.
+#### (2) If an enemy aircraft intrudes, and at least a $\small 99\%$ probability of hitting it is required, what is the minimum number of anti-aircraft guns needed $\small \,\mathpunct{?}\,(2^{10}=1024)$.
 ::: wrap  
 $
 \begin{array}{lllll}

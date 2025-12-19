@@ -293,7 +293,7 @@ $
   \end{array}
   $  
   :::  
-- When $\boldsymbol{r(x)=0}$, we have $\boldsymbol{F(x)=f(x)\operatorname{g}(x)}$.
+- When $\boldsymbol{r(x)=0}$, then $\boldsymbol{F(x)=f(x)\operatorname{g}(x)}$.
   In this case,
   __$\boldsymbol{F(x)}$ is said to be divisible by $\boldsymbol{f(x)}$__,
   denoted as $\boldsymbol{f(x) \mid F(x)}$.
