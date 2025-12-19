@@ -1505,7 +1505,7 @@ $
   >$
   \begin{array}{ll}
   V=\frac{1}{3}\pi r^2h & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
-  V=abc & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-volume}{\textsf{cuboid volume formula}} \\
+  V=abc & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid volume formula}} \\
   \end{array}
   >$
 

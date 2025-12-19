@@ -7,24 +7,24 @@ lang: en-US
 
 ## 1.Cuboid  
 ![Cuboid figure 8-1.svg](../../public/math/Core%20Course/Cuboid%20figure%208-1.svg)  
-- Let the three adjacent edges have lengths $a$, $b$, and $c$.  
-  ###### 1.Volume: $V=abc$. 
-  ###### 2.Total surface area: $F=2(ab + bc +ac)$.
-  ###### 3.Space diagonal (body diagonal): $d=\sqrt{a^2+b^2+c^2}$.
-  ###### 4.Sum of edge lengths: $l=4(a+b+c)$.
-- Constituent parts:
-  - $6$ faces.
-  - $8$ vertices.
-  - $12$ edges.
-  - $4$ space diagonals. 
+- ###### __Let the three adjacent edges have lengths $\boldsymbol{a}$, $b$, and $\boldsymbol{c}$__  
+  - __volume__: $V=abc$
+  - __total surface area__: $F=2(ab + bc +ac)$
+  - __space diagonal (body diagonal)__: $d=\sqrt{a^2+b^2+c^2}$
+  - __sum of edge lengths__: $l=4(a+b+c)$
+- __Components__
+  - __$\boldsymbol{6}$ faces__
+  - __$\boldsymbol{8}$ vertices__
+  - __$\boldsymbol{12}$ edges__
+  - __$\boldsymbol{4}$ space diagonals__ 
 
 
 ## 2.Cube
-- Let the edge length be $a$.  
-  ###### 1.Volume: $V=a^3$.
-  ###### 2.Total surface area: $F=6a^2$.
-  ###### 3.Space diagonal (body diagonal): $d=\sqrt{3}a$.
-  ###### 4.Sum of edge lengths: $l=12a$.
+- ###### __Let the edge length be $\boldsymbol{a}$__
+  - __volume__: $V=a^3$
+  - __total surface area__: $F=6a^2$
+  - __space diagonal (body diagonal)__: $d=\sqrt{3}a$
+  - __sum of edge lengths__: $l=12a$
 
 ## 3.Focus 1
 __The cuboid__   
@@ -71,8 +71,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  l=4(a+b+c) & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_4-sum-of-edge-lengths}{\textsf{cuboid edge length sum formula}} \\
-  V=abc & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-volume}{\textsf{cuboid volume formula}} \\
+  l=4(a+b+c) & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid edge sum formula}} \\
+  V=abc & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid volume formula}} \\
   \end{array}
   >$
 
@@ -115,7 +115,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  F=2(ab + bc +ac) & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_4-sum-of-edge-lengths}{\textsf{cuboid total surface area formula}} \\
+  F=2(ab + bc +ac) & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid total surface area formula}} \\
   \end{array}
   >$
 
@@ -175,8 +175,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  F=2(ab + bc +ac) & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_4-sum-of-edge-lengths}{\textsf{cuboid total surface area formula}} \\
-  V=abc & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-volume}{\textsf{cuboid volume formula}} \\
+  F=2(ab + bc +ac) & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid total surface area formula}} \\
+  V=abc & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid volume formula}} \\
   \end{array}
   >$
 
@@ -221,8 +221,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  d=\sqrt{3}a & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_3-space-diagonal-body-diagonal-1}{\textsf{cube body diagonal formula}} \\
-  F=6a^2 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_2-total-surface-area-1}{\textsf{cube total surface area formula}} \\
+  d=\sqrt{3}a & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-edge-length-be}{\textsf{cube body diagonal formula}} \\
+  F=6a^2 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-edge-length-be}{\textsf{cube total surface area formula}} \\
   \end{array}
   >$
 
@@ -553,7 +553,7 @@ $
   >$
   \begin{array}{ll}
   l=2R & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_3-circumscribed-sphere-and-inscribed-sphere}{\textsf{circumscribed sphere diameter (cuboid)}} \\
-  d=\sqrt{a^2+b^2+c^2} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_3-space-diagonal-body-diagonal-1}{\textsf{cuboid body diagonal formula}} \\
+  d=\sqrt{a^2+b^2+c^2} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid body diagonal formula}} \\
   S=4\pi r^2 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-volume-and-surface-area}{\textsf{sphere surface area formula}} \\ 
   \end{array}
   >$
