@@ -309,12 +309,11 @@ $
 
 
 ## 8.Focus 3
-__The positional relationship between a point and a circle__   
-- First, substitute the point into the equation of the circle, then make the judgment.  
+__The positional relationship between a point and a circle__
+- Analyze by __substituting a point into the equation of a circle__.
 
 
-
-### $\fbox{26}\:$If the point $\small P(2m, m)$ lies inside the circle $\small x^2+y^2-4x+2y+1=0$, what is the range of values for $\small m\,\mathpunct{?}$.
+### $\fbox{26}\:$If the point $\small P(2m, m)$ lies inside the circle $\small x^2+y^2-4x+2y+1=0$, find the range of $\small m$.
 ::: wrap   
 $
 \begin{array}{lllll}
@@ -330,8 +329,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\textsf{the point is inside the circle}\Rightarrow < r^2 \\
-P(2m, m) \\
+x^2+y^2-4x+2y+1<0 & \textsf{point lies inside circle} \\
 4m^2+m^2-8m+2m+1<0 & \textsf{substitute }P \\
 5m^2-6m+1<0 \\
 5m^2-6m+1\Rightarrow(1m-1)(5m-1)=0 \\
@@ -369,14 +367,13 @@ $
   
 ## 9.Focus 4
 __The positional relationship between a line and a circle__   
-- First, find __the distance $\boldsymbol{d}$ from the center of the circle to the line__. 
-  Then compare __the sizes of $\boldsymbol{d}$ and $\boldsymbol{r}$__ to __determine their relationship__. 
-  The most important positional relationship is tangency. 
-  Additionally, when the line intersects the circle,
-  the length of the chord is $\boldsymbol{2\sqrt{r^2-d^2}}$.
+- First, __find the distance $\boldsymbol{d}$ from the circle's center to the line__,
+  then __compare $\boldsymbol{d}$ with the radius $\boldsymbol{r}$ for analysis__.
+- The key positional relationship is __tangency__,
+  when __they intersect__, __the chord length is $\boldsymbol{2\sqrt{r^2-d^2}}$__.
 
 
-### $\fbox{27}\:$If the line $\small y=k(x+2)$ is a tangent to the circle $\small x^2+y^2=1$, find $\small k$.
+### $\fbox{27}\:$The line $\small y=k(x+2)$ is a tangent to the circle $\small x^2+y^2=1$, find $\small k$.
 ::: wrap   
 $
 \begin{array}{lllll}
@@ -389,16 +386,14 @@ $
 $  
 :::
 #### Solution
-- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the geometric method with $r=d$ to find the intersection point           
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the geometric condition $d=r$  
   ::: wrap   
   $
   \begin{array}{ll}
-  \textsf{to line's general form} \to \textsf{point-to-line distance formula} \\
   y=k(x+2) \\
   y=kx+k2 \\
-  0=kx-y+k2 \\
-  \textsf{from center }(0,0) \to kx-y+k2=0 \\
-  d=\frac{|2k|}{\sqrt{k^2+1^2}}=1 & \textsf{r=1} \\
+  kx-y+k2=0 \\
+  d=\frac{|2k|}{\sqrt{k^2+1^2}}=1 & \textsf{center}=O(0,0) \\
   |2k|=\sqrt{k^2+1} \\
   (2k)^2=(\sqrt{k^2+1})^2 \\
   4k^2=k^2+1 \\
@@ -410,7 +405,7 @@ $
   \end{array}
   $   
   :::     
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the algebraic method with simultaneous equations to find the intersection point         
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by setting up a system of equations  
   ::: wrap   
   $
   \begin{array}{ll}
@@ -418,14 +413,13 @@ $
   y=k(x+2) \\
   x^2+y^2=1 \\
   \end{cases} \\
-  x^2+k^2(x+2)^2=1 \\
+  x^2+k^2(x+2)^2=1 & \textsf{substitute }y \\
   x^2+k^2(x^2+4x+4)=1 \\
   x^2+k^2x^2+4k^2x+4k^2=1 \\
   (1+k^2)x^2+4k^2x+(4k^2-1)=0 \\
-  \Delta=0 & \textsf{tangent} \\
-  \Delta=(4k^2)^2-4(1+k^2)(4k^2-1)=0 \\
+  \Delta=(4k^2)^2-4(1+k^2)(4k^2-1)=0 & \textsf{tangent} \\
   16k^4-4(1+k^2)(4k^2-1)=0 \\
-  16k^4-4[(1)(4k^2-1)+k^2(4k^2-1)]=0 \\
+  16k^4-4[1(4k^2-1)+k^2(4k^2-1)]=0 \\
   16k^4-4[4k^2-1+4k^4-k^2]=0 \\
   16k^4-4[3k^2+4k^4-1]=0 \\
   16k^4-[12k^2+16k^4-4]=0 \\
@@ -438,17 +432,17 @@ $
   \end{array}
   $   
   :::  
-- $\textcolor{#228B22}{\fbox{3}}\:$ Solve by using graphical analysis to find the intersection point (only applicable in simple or special cases)       
+- $\textcolor{#228B22}{\fbox{3}}\:$Solve by using graphical analysis (only applicable in simple cases)  
   ![Question circles figure Q-27 solve-1.svg](../../public/math/Core%20Course/Question%20circles%20figure%20Q-27%20solve-1.svg)   
   ::: wrap   
   $
   \begin{array}{ll}
   y=k(x+2) \\
   y=y_0+k(x_0+2) \\
-  \overbrace{y_0=0 \Longrightarrow \textsf{the x-intercept of the line is (–2, 0)}}^{\textsf{let both sides = 0}} \\
-  \textsf{r=1} & (x-x_0)^2+(y-y_0)^2=r^2 \\
+  \overbrace{y_0=0 \Longrightarrow \textsf{x-intercept}=(–2, 0)}^{\textsf{let both sides = 0}} \\
+  (x-x_0)^2+(y-y_0)^2=r^2 \Longrightarrow \textsf{r=1} \\
   1:\sqrt{3}:2 = 30^\circ,60^\circ,90^\circ & \textsf{special right triangle} \\
-  30^\circ=\frac{\sqrt{3}}{3} & \textsf{angle–slope reference}\\
+  30^\circ=\frac{\sqrt{3}}{3} & \textsf{angle-slope reference}\\
   k=\pm\frac{\sqrt{3}}{3} \\
   \end{array}
   $   
@@ -465,14 +459,14 @@ $
   >$
   \begin{array}{ll}
   d=r & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_6-relationship-between-a-line-and-a-circle}{\textsf{line-circle relationship}} \\
-  d=\frac{|c|}{\sqrt{a^2+b^2}} & \href{/math/0%20Core%20Course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20lower.html#_14-distance-from-a-point-to-a-line}{\textsf{point-to-line distance formula}} \\
   ax+by+c=0 & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#general-form}{\textsf{line general form}} \\
-  y=y_0+k(x-x_0) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#point-slope-form}{\textsf{point-slope form}} \\
-  \Delta=b^2-4ac & \href{/math/0%20Core%20Course/17%20Chapter4%20equations%20inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
-  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
-  30^\circ=\frac{\sqrt{3}}{3} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-common-inclination-angles-and-slope}{\textsf{inclination angle–slope}} \\
-  1:\sqrt{3}:2 & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
+  d=\frac{|c|}{\sqrt{a^2+b^2}} & \href{/math/0%20Core%20Course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20lower.html#_14-distance-from-a-point-to-a-line}{\textsf{point-to-line distance formula}} \\
   (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  \Delta=b^2-4ac & \href{/math/0%20Core%20Course/17%20Chapter4%20equations%20inequalities%20Module2%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
+  y=y_0+k(x-x_0) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#point-slope-form}{\textsf{point-slope form}} \\
+  1:\sqrt{3}:2 & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
+  30^\circ=\frac{\sqrt{3}}{3} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-common-inclination-angles-and-slope}{\textsf{inclination angle–slope}} \\
   \end{array}
   >$
 
@@ -480,7 +474,7 @@ $
 ---
 
 
-### $\fbox{28}\:$Given that the center of the circle $\small C$ is the intersection point of the line $\small x-y+1=0$ and the x-axis, and that the circle $\small C$ is tangent to the line $\small x+y+3=0$, find the equation of the circle $\small C$.
+### $\fbox{28}\:$Given a circle whose center is the intersection point of the line $\small x-y+1=0$ and the x-axis, and the circle is tangent to the line $\small x+y+3=0$, find the equation of the circle.
 ::: wrap   
 $
 \begin{array}{lllll}
@@ -497,12 +491,12 @@ $
 $
 \begin{array}{ll}
 x-y+1=0 \\
-y=x+1 & \textsf{slope-intercept form} \\
-\overbrace{y=0 \Longrightarrow \textsf{the x-intercept of the line is (–1, 0)}}^{\textsf{let both sides = 0}} & \textsf{center} \\
+y=x+1 \\
+\overbrace{y=0 \Longrightarrow \textsf{x-intercept}=(–1, 0)}^{\textsf{let both sides = 0}} & \textsf{center} \\
 x+y+3=0 \\
 d=\frac{|-1+3|}{\sqrt{1+1}}=\frac{2\sqrt{2}}{2}=\sqrt{2} & \textsf{substitute }(-1, 0) \\
 r=\sqrt{2} \\
-(x-(-1))^2+(y-0)^2=\sqrt{2}^2 \\
+[x-(-1)]^2+(y-0)^2=\sqrt{2}^2 \\
 (x+1)^2+y^2=2 \\
 \end{array}
 $  
@@ -528,7 +522,7 @@ $
 ---
 
 
-### $\fbox{29}\:$What is the length of the chord cut from the circle $\small x^2+y^2-2x-4y=0$ by the line $\small x+2y-5+\sqrt{5}=0 \, \mathpunct{?}$.
+### $\fbox{29}\:$Find the length of the chord intercepts by the line $\small x+2y-5+\sqrt{5}=0$ on the circle $\small x^2+y^2-2x-4y=0$.
 ::: wrap   
 $
 \begin{array}{lllll}
@@ -566,9 +560,9 @@ $
   >$
   \begin{array}{ll}
   (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
+  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
   d=\frac{|ax_0+by_0+c|}{\sqrt{a^2+b^2}} & \href{/math/0%20Core%20Course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20lower.html#_14-distance-from-a-point-to-a-line}{\textsf{point-to-line distance formula}} \\
   2\sqrt{r^2-d^2} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#chord-length-of-a-circle}{\textsf{chord length of a circle}} \\
-  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
   \end{array}
   >$
 
@@ -576,7 +570,7 @@ $
 ---
 
 
-### $\fbox{30}\:$If the line $\small x−y+1=0$ and the circle $\small (x-a)^2+y^2=2$ have a common point, find the range of $\small a$.
+### $\fbox{30}\:$If the line $\small x−y+1=0$ and the circle $\small (x-a)^2+y^2=2$ have common points, find the range of $\small a$.
 ::: wrap   
 $
 \begin{array}{lllll}
@@ -589,22 +583,23 @@ $
 $  
 :::
 #### Solution
-- Have a common point $\Longrightarrow$ __tangent__ and __intersecting__   
-- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the geometric method with $d \le r$ to find the intersection points  
+- __have common points $\boldsymbol{\Longrightarrow}$ tangent and intersecting__   
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the geometric condition $d \le r$  
   ::: wrap   
   $
   \begin{array}{ll}
   (x-a)^2+y^2=2 & r=\sqrt{2}\\
   (-\frac{a}{2}, -\frac{b}{2}) \longrightarrow (a, 0) \\
-  \textsf{from center }(a, 0) \to x−y+1=0 \\
-  d=\frac{|(1\cdot a)+(-1\cdot0)+1|}{\sqrt{1^2+1^2}} \le \sqrt{2} \Longrightarrow |a+1| \le 2 & \textsf{substitute }(a, 0) \\
+  x−y+1=0 \\
+  d=\frac{|(1\cdot a)+(-1\cdot0)+1|}{\sqrt{1^2+1^2}} \le \sqrt{2} & \textsf{substitute }(a, 0) \\
+  |a+1| \le 2 \\
   -2 \le a+1 \le 2  & ∣x∣ \le c \iff −c \le x \le c \\
   -2-1 \le a \le 2-1 \\
   -3 \le a \le 1 \\
   \end{array}
   $   
   :::  
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the algebraic method with simultaneous equations to find the intersection points
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by setting up a system of equations  
   ::: wrap   
   $
   \begin{array}{ll}
@@ -612,13 +607,12 @@ $
   x−y+1=0 \rightarrow y=x+1\\
   (x-a)^2+y^2=2 \\
   \end{cases} \\
-  (x-a)^2+(x+1)^2=2 \\
+  (x-a)^2+(x+1)^2=2 & \textsf{substitute }y \\
   x^2-2ax+a^2+x^2+2x+1=2 \\
   2x^2+(-2a+2)x+(a^2+1)=2 \\
   2x^2+(-2a+2)x+(a^2+1-2)=0 \\
   2x^2+(2-2a)x+a^2-1=0 \\
-  \Delta \gt 0 & \textsf{tangent or intersect} \\
-  \Delta=(2-2a)^2-8(a^2-1) \ge 0 \\
+  \Delta=(2-2a)^2-8(a^2-1) \ge 0 & \textsf{tangent and intersecting} \\
   4-8a+4a^2-8a^2+8 \ge 0 \\
   -4a^2-8a+12 \ge 0 \\
   a^2+2a-3 \le 0 \\
@@ -643,6 +637,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
+  (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
   (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
   d=\frac{|ax_0+by_0+c|}{\sqrt{a^2+b^2}} & \href{/math/0%20Core%20Course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20lower.html#_14-distance-from-a-point-to-a-line}{\textsf{point-to-line distance formula}} \\
   ∣x∣ \le c \iff −c \le x \le c & \textsf{absolute value inequality expansion} \\
@@ -655,15 +650,13 @@ $
 ---
 
 ## 10.Focus 5
-__The positional relationship between two circles__   
-- First, find __the distance $\boldsymbol{d}$ between the centers of the two circles__,
-  then __compare it with $\boldsymbol{r_1+r_2}$ and $\boldsymbol{|r_1-r_2|}$__ to __determine their relationship__.
-  The most important cases are __internal tangency__ and __external tangency__.
-  additionally,
-  note how __these positional relationships__ correspond to __the number of common tangents__.
+__The positional relationship between two circles__  
+- First, __find the distance $\boldsymbol{d}$ between the two circle centers__,
+  then __compare it with $\boldsymbol{r_1+r_2}$ and $\boldsymbol{|r_1-r_2|}$ for analysis__.
+- The key positional relationship is __internal and external tangency__,
+  __the positional relationships correspond to the common tangents__.
 
-
-### $\fbox{31}\:$The radii of two circles are the two roots of the equation $\small x^2-3x+2=0$, and the distance between the centers of the two circles is $\small 3$. What is the positional relationship between the two circles $\small \mathpunct{?}$.
+### $\fbox{31}\:$The radii of two circles are the two roots of the equation $\small x^2-3x+2=0$, and the distance between the two centers is $\small 3$. What is the positional relationship between the two circles $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -705,7 +698,7 @@ $
 ---
 
 
-### $\fbox{32}\:$The two circles $\small (x-a)^2+(y-b)^2=r^2$ and $\small (x-b)^2+(y-a)^2=r^2$ are tangent to each other, then $\small \mathpunct{?}$.
+### $\fbox{32}\:$The two circles $\small (x-a)^2+(y-b)^2=r^2$ and $\small (x-b)^2+(y-a)^2=r^2$ are tangent, find the correct expression.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -719,14 +712,14 @@ $
 :::
 #### Solution
  
-- Tangent to each other $\Longrightarrow$ __internally tangent__ and __externally tangent__   
-  - Note: $d=|r_1-r_2|=0$, no internal tangent — coincident centers merge into one circle   
-- Use the condition for the circles to be externally tangent $d=r_1+r_2$ to solve    
+- __tangency $\boldsymbol{\Longrightarrow}$ internal and external tangency__  
+- __$\boldsymbol{d=|r_1-r_2|=0}$, there is no tangency; the two circles coincide and merge into one__   
+- Solve by using the geometric condition $d=r_1+r_2$      
   ::: wrap   
   $
   \begin{array}{ll}
-  r_1=r_2=r & \textsf{same radius} \\
-  (a,b) \land (b,a) & \textsf{centers of two circles}\\
+  r_1=r_2=r \\
+  (a,b) \land (b,a) \\
   d=\sqrt{(a-b)^2+(b-a)^2}=r+r=2r \\
   2(a-b)^2=4r^2 \\
   (a-b)^2=2r^2 \\
@@ -757,7 +750,7 @@ $
 ---
 
 
-### $\fbox{33}\:$How many common tangents do the circles $\small C_1: x^2+y^2+2x+2y-2=0$ and $\small C_2: x^2+y^2-4x-2y+1=0$ have $\small \mathpunct{?}$.
+### $\fbox{33}\:$How many common tangents do the circles $\small x^2+y^2+2x+2y-2=0$ and $\small x^2+y^2-4x-2y+1=0$ have $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -773,13 +766,15 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-C_1:\,(x+\frac{2}{2})^2+(y+\frac{2}{2})^2=\frac{2^2+2^2-4(-2)}{4} \\
-(x+1)^2+(y+1)^2=4 \longrightarrow (-1, -1) \land r_1=2 \\
-C_2:\,(x+\frac{-4}{2})^2+(y+\frac{-2}{2})^2=\frac{(-4)^2+(-2)^2-4(1)}{4} \\
-(x-2)^2+(y-1)^2=4 \longrightarrow (2, 1) \land r_2=2 \\
-d=\sqrt{(2-(-1))^2+(1-(-1))^2}=\sqrt{13} \approx 3.6 \\
+(x+\frac{2}{2})^2+(y+\frac{2}{2})^2=\frac{2^2+2^2-4(-2)}{4} \\
+(x+1)^2+(y+1)^2=4 \\
+(-1, -1) \land r_1=2 \\
+(x+\frac{-4}{2})^2+(y+\frac{-2}{2})^2=\frac{(-4)^2+(-2)^2-4(1)}{4} \\
+(x-2)^2+(y-1)^2=4 \\
+(2, 1) \land r_2=2 \\
+d=\sqrt{[2-(-1)]^2+[1-(-1)]^2}=\sqrt{13} \approx 3.6 \\
 r_1-r_2 \lt \sqrt{13} \lt r_1+r_2 \Longrightarrow \textsf{intersecting} \\
-\textsf{intersecting} \Rightarrow \textsf{only 2 common tangents} \\
+\textsf{intersecting} \Longrightarrow \textsf{only 2 common tangents} \\
 \end{array}
 $  
 :::  
@@ -805,7 +800,7 @@ $
 ---
 
 ::: wrap   
-### $\fbox{34}\:$If circle $\small C_1:\,(x-2)^2+(y-1)^2=r^2 (r>0)$ and circle $\small C_2:\,x^2-6x+y^2-8y=0$ have intersection points, find the range of $\small r$.
+### $\fbox{34}\:$The two circles $\small (x-2)^2+(y-1)^2=r^2 \textsf{ (} r>0 \textsf{)}$ and $\small x^2-6x+y^2-8y=0$ have intersection points, find the range of $\small r$.
 :::   
 ::: wrap  
 $
@@ -819,17 +814,19 @@ $
 $  
 :::
 #### Solution
-- Have intersection points $\Longrightarrow$ __intersecting__ and __internally tangent__ and __externally tangent__        
+- __Have intersection points $\boldsymbol{\Longrightarrow}$ intersecting and internal and external tangency__  
   ::: wrap  
   $
   \begin{array}{ll}
-  C_2:\,(x+\frac{-6}{2})^2+(y+\frac{-8}{2})^2=\frac{(-6)^2+(-8)^2+(-4\cdot0)}{4} \\
-  (x-3)^2+(y-4)^2=25 \longrightarrow (3, 4) \land r_2=5 \\
-  C_1:\,(x-2)^2+(y-1)^2=r^2 \longrightarrow (2, 1) \land r_1=r \textsf{ unknown} \\
+  (x-2)^2+(y-1)^2=r^2 \\
+  (2, 1) \land r_1=r \\
+  (x+\frac{-6}{2})^2+(y+\frac{-8}{2})^2=\frac{(-6)^2+(-8)^2+(-4\cdot0)}{4} \\
+  (x-3)^2+(y-4)^2=25 \\
+  (3, 4) \land r_2=5 \\
   d=\sqrt{(3-2)^2+(4-1)^2}=\sqrt{10}\approx 3.16 \\
   |r_1-r_2| \le d \le r_1+r_2 \\
   |r-5| \le d \le r+5 \\
-  d \le r+5 & \textsf{inequality holds directly} \\
+  d \le r+5 & \forall\textsf{ holds} \\
   |r-5| \le d \\
   -\sqrt{10} \le r-5 \le \sqrt{10}  & ∣x∣ \le c \iff −c \le x \le c \\
   5-\sqrt{10} \le r \le 5+\sqrt{10}
@@ -849,14 +846,13 @@ $
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#distance-relationships-between-two-circles}{\textsf{distance relationship between two circles}} \\
   (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
-  (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   ∣x∣ \le c \iff −c \le x \le c & \textsf{absolute value inequality expansion} \\
   \end{array}
   >$
 
   :::   
-- Derivation relationship between __having intersection points__ and __intersecting__    
+- Derivation relationship between __intersection points__ and __intersecting__    
   ::: wrap
   >$
   \begin{array}{ll}
@@ -869,7 +865,7 @@ $
 ---
 
 
-### $\fbox{35}\:$How many common tangents do the circles $\small C_1: x^2+y^2-4x+2y+1=0$ and $\small C_2: x^2+y^2+4x-4y-1=0$ have $\small \mathpunct{?}$.
+### $\fbox{35}\:$How many common tangents do the circles $\small x^2+y^2-4x+2y+1=0$ and $\small x^2+y^2+4x-4y-1=0$ have $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -885,13 +881,15 @@ $
 ::: wrap   
 $
 \begin{array}{ll}
-C_1:\,(x+\frac{-4}{2})^2+(y+\frac{2}{2})^2=\frac{(-4)^2+2^2-4(1)}{4} \\
-(x-2)^2+(y+1)^2=4 \longrightarrow (2, -1) \land r_1=2 \\
-C_2:\,(x+\frac{4}{2})^2+(y+\frac{-4}{2})^2=\frac{4^2+(-4)^2-4(-1)}{4} \\
-(x+2)^2+(y-2)^2=9 \longrightarrow (-2, 2) \land r_2=3 \\
+(x+\frac{-4}{2})^2+(y+\frac{2}{2})^2=\frac{(-4)^2+2^2-4(1)}{4} \\
+(x-2)^2+(y+1)^2=4 \\
+(2, -1) \land r_1=2 \\
+(x+\frac{4}{2})^2+(y+\frac{-4}{2})^2=\frac{4^2+(-4)^2-4(-1)}{4} \\
+(x+2)^2+(y-2)^2=9 \\
+(-2, 2) \land r_2=3 \\
 d=\sqrt{(-2-2)^2+(2-(-1))^2}=\sqrt{25}=5 \\
-5=r_1+r_2 \Longrightarrow \textsf{externally tangent} \\
-\textsf{externally tangent} \Rightarrow \textsf{only 3 common tangents} \\
+5=r_1+r_2 \Longrightarrow \textsf{external tangency} \\
+\textsf{external tangency} \Longrightarrow \textsf{only 3 common tangents} \\
 \end{array}
 $  
 :::  
@@ -918,7 +916,7 @@ $
 ---
 
 
-### $\fbox{36}\:$If the circle $\small x^2+y^2=4$ and the circle $\small x^2+y^2-2ax+a^2-1=0$ are internally tangent, find $\small a$.
+### $\fbox{36}\:$The two circles $\small x^2+y^2=4$ and $\small x^2+y^2-2ax+a^2-1=0$ are internally tangent, find $\small a$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -931,27 +929,31 @@ $
 $  
 :::
 #### Solution 
-- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the geometric method with the distance formula between two points to find $a$      
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the distance formula between two points  
   ::: wrap  
   $
   \begin{array}{ll}
-  C_2:\,(x+\frac{-2a}{2})^2+(y+\frac{0}{2})^2=\frac{(-2a)^2+0^2-4(a^2-1)}{4} \\
-  (x-a)^2+y^2=1 \longrightarrow (a, 0) \land r_2=1 \\
-  C_1:\,x^2+y^2=4 \longrightarrow (0, 0) \land r_1=2 \\
+  x^2+y^2=4 \\
+  (0, 0) \land r_1=2 \\
+  (x+\frac{-2a}{2})^2+(y+\frac{0}{2})^2=\frac{(-2a)^2+0^2-4(a^2-1)}{4} \\
+  (x-a)^2+y^2=1 \\
+  (a, 0) \land r_2=1 \\
   d=\sqrt{a^2+0^2}=|a|=2-1=1 \\
   |a|=1 \\
   a=\pm1 \\
   \end{array}
   $   
   :::  
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using graphical analysis to find $a$ (only applicable in simple cases)    
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using graphical analysis (only applicable in simple cases)  
   ![Question circles figure Q-36 solve-1.svg](../../public/math/Core%20Course/Question%20circles%20figure%20Q-36%20solve-1.svg)  
   ::: wrap  
   $
   \begin{array}{ll}
-  C_2:\,(x+\frac{-2a}{2})^2+(y+\frac{0}{2})^2=\frac{(-2a)^2+0^2-4(a^2-1)}{4} \\
-  (x-a)^2+y^2=1 \longrightarrow (a, 0) \land r_2=1 \\
-  C_1:\,x^2+y^2=4 \longrightarrow (0, 0) \land r_1=2 \\
+  x^2+y^2=4 & C_1 \\ 
+  (0, 0) \land r_1=2 \\
+  (x+\frac{-2a}{2})^2+(y+\frac{0}{2})^2=\frac{(-2a)^2+0^2-4(a^2-1)}{4} & C_2 \\
+  (x-a)^2+y^2=1 \\
+  (a, 0) \land r_2=1 \\
   \end{array}
   $   
   :::  
@@ -966,9 +968,10 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
   (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
   d=\sqrt{x^2+y^2} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
+  d=|r_1-r_2| & \href{/math/0%20Core%20Course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_7-relationship-between-two-circles}{\textsf{relationship between two circles}} \\
   \end{array}
   >$
 
