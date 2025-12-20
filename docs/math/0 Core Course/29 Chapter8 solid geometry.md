@@ -458,7 +458,7 @@ $
 - Let __the distance from the sphere's center to the section be $\boldsymbol{d}$__,
   __the radius of the sphere $\boldsymbol{R}$__,
   and __the radius of the section $\boldsymbol{r}$__,
-  then $r^2+d^2=R^2$.  
+  then $\boldsymbol{r^2+d^2=R^2}$.  
   ![Sphere section figure 8-4.svg](../../public/math/Core%20Course/Sphere%20section%20figure%208-4.svg)
 
 ## 3.Circumscribed Sphere and Inscribed Sphere
