@@ -825,7 +825,7 @@ $
    ::: wrap  
    $
    \begin{array}{ll}
-   V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#volume}{\textsf{cylinder volume formula}} \\
+   V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_2-formulas-for-cylinders}{\textsf{cylinder volume formula}} \\
    V=\frac{1}{3} \cdot \pi r^2h \\
    \end{array}
    $  
@@ -1348,7 +1348,7 @@ $
   >$
   \begin{array}{ll}
   V=\frac{1}{3}\pi r^2h & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
-  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#volume}{\textsf{cylinder volume formula}} \\
+  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_2-formulas-for-cylinders}{\textsf{cylinder volume formula}} \\
   \end{array}
   >$
 

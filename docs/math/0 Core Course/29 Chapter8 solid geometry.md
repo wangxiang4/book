@@ -239,29 +239,28 @@ $
 
 # Module 8–02 Prisms and Cylinders
 
-## 1.General Formulas 
-- The lateral surface of a prism or cylinder, when laid out in its developed form, is __a rectangle__ whose one side equals __the perimeter of the base__ and whose other side equals __the height of the solid__.        
-- ###### Lateral surface area: $S=\textsf{base perimeter}\cdot\textsf{height}$.
-  - The area of the developed rectangle.   
-- ###### Volume: $V=\textsf{base area}\cdot\textsf{height}$.   
-
-![Prisms and cylinders general formulas.svg](../../public/math/Core%20Course/Prisms%20and%20cylinders%20general%20formulas.svg)   
+## 1.General Formulas
+- The lateral surface of a prism and cylinder,
+  when __laid out in its developed form__,
+  is __a rectangle whose one side equals the perimeter of the base__
+  and __whose other side equals the height of the solid__.  
+  ![Prisms and cylinders general formulas.svg](../../public/math/Core%20Course/Prisms%20and%20cylinders%20general%20formulas.svg)
+- __lateral surface area__: $S=\textsf{base perimeter}\cdot\textsf{height}$
+- __volume__: $V=\textsf{base area}\cdot\textsf{height}$
+- __total surface area__: $F=S_{\textsf{lateral}}+2S_{\textsf{base}}$
 
 ## 2.Formulas for Cylinders
-![Cylinder formulas.svg](../../public/math/Core%20Course/Cylinder%20formulas.svg)   
-- Let the height be $h$ and the base radius be $r$.
-- ###### Volume: $V=\pi r^2h$. 
-- ###### Lateral surface area: $S=2\pi rh$. 
-  - The lateral surface in its developed form is a rectangle with length $2πr$ and width $h$.  
-::: wrap  
-- ###### Total surface area: $F=S_{\textsf{lateral}}+2S_{\textsf{base}}=2\pi rh+2\pi r^2$.
-:::  
+- __Let the height be $\boldsymbol{h}$ and the base radius be $\boldsymbol{r}$__.  
+  ![Cylinder formulas.svg](../../public/math/Core%20Course/Cylinder%20formulas.svg)
+- __volume__: $V=\pi r^2h$
+- __lateral surface area__: $S=2\pi rh$
+- __total surface area__: $F=2\pi rh+2\pi r^2$ 
 
 ## 3.Focus 1
 __The cylinders__   
 - Use __the formulas for the lateral surface area, total surface area, and volume of a cylinder__,
   including __the special case of an equilateral cylinder__.
-- ###### Equilateral cylinder: the axial section is a square $(h=2r)$.  
+- ###### Equilateral cylinder: __the axial section is a square ($h=2r$)__.  
   ![Equilateral cylinder.svg](../../public/math/Core%20Course/Equilateral%20cylinder.svg)  
 
 
@@ -281,9 +280,12 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-V_{\textsf{old}}=\pi r^2h \\
-V_{\textsf{new}}=\pi (1.5r)^2(3h)=\pi \cdot 2.25r^2 \cdot 3h=\pi r^2h \cdot (2.25 \cdot 3) = \pi r^2h\cdot 6.75 \\
-\textsf{scale factor}=\frac{V_{\textsf{new}}}{V_{\textsf{old}}}=\frac{\pi r^2h\cdot 6.75}{\pi r^2h}=6.75 \\ 
+V_\textsf{before}=\pi r^2h \\
+V_\textsf{after}=\pi (1.5r)^2(3h) \\
+\pi \cdot 2.25r^2 \cdot 3h \\
+\pi r^2h \cdot (2.25 \cdot 3) \\
+\pi r^2h\cdot 6.75 \\
+\textsf{scale factor}=\frac{V_\textsf{after}}{V_\textsf{before}}=\frac{\pi r^2h\cdot 6.75}{\pi r^2h}=6.75 \\ 
 \end{array}
 $  
 :::  
@@ -298,7 +300,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#volume}{\textsf{cylinder volume formula}} \\
+  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_2-formulas-for-cylinders}{\textsf{cylinder volume formula}} \\
   \end{array}
   >$
 
@@ -324,7 +326,8 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  \textsf{let }r=1 \quad c=2\pi \longrightarrow h=2\pi & \textsf{lateral development = square} \\
+  \textsf{lateral development}=\textsf{square} \\
+  \textsf{let }r=1 \quad c=2\pi \longrightarrow h=2\pi &  \\
   \frac{S_{\textsf{lateral}}}{S_{\textsf{base}}}=\frac{(2\pi)^2}{\pi\cdot1^2}=4\pi \\
   \end{array}
   $  
@@ -391,9 +394,9 @@ $
   >$
   \begin{array}{ll}
   (3,4,5) & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
-  S=\textsf{base perimeter}\cdot\textsf{height} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#lateral-surface-area}{\textsf{prism or cylinder lateral area formula}} \\
+  S=\textsf{base perimeter}\cdot\textsf{height} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-general-formulas}{\textsf{lateral area formula for prisms and cylinders}} \\
   S=\frac{1}{2}ah & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
-  F=S_{\textsf{lateral}}+2S_{\textsf{base}} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#total-surface-area}{\textsf{prism or cylinder total surface area formula}} \\
+  F=S_{\textsf{lateral}}+2S_{\textsf{base}} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-general-formulas}{\textsf{total surface area formula for prisms and cylinders}} \\
   \end{array}
   >$
 
@@ -435,7 +438,7 @@ $
   >$
   \begin{array}{ll}
   S=a^2 & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_4-square}{\textsf{square area formula}} \\
-  V=\textsf{base area}\cdot\textsf{height} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#volume}{\textsf{prism or cylinder volume formula}} \\
+  V=\textsf{base area}\cdot\textsf{height} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-general-formulas}{\textsf{volume formula for prisms and cylinders}} \\
   \end{array}
   >$
 
@@ -445,28 +448,33 @@ $
 # Module 8–01 Sphere
 
 ## 1.Volume and Surface Area
-- Let the radius of the sphere be $r$. Then its __volume is $\boldsymbol{V=\frac{4}{3}\pi r^3}$__, and its __surface area is $\boldsymbol{S=4\pi r^2}$__.
+- __Let the radius of the sphere be $\boldsymbol{r}$__
+  - __volume__: $V=\frac{4}{3}\pi r^3$
+  - __surface area__: $S=4\pi r^2$
 
 ## 2.Section of a Sphere
 - Figure 8–4,
-  the line connecting the center of the sphere to the center of the circular section is perpendicular to the section.
-  Let the distance from the center of the sphere to the section be $d$,
-  the radius of the sphere be $R$, and the radius of the section be $r$, then: $r^2+d^2=R^2$.       
-  ![Sphere section figure 8-4.svg](../../public/math/Core%20Course/Sphere%20section%20figure%208-4.svg)   
+  __the line connecting the center of the sphere to the center of the cross-sectional circle is perpendicular to the section__.
+- Let __the distance from the sphere's center to the section be $\boldsymbol{d}$__,
+  __the radius of the sphere $\boldsymbol{R}$__,
+  and __the radius of the section $\boldsymbol{r}$__,
+  then $r^2+d^2=R^2$.  
+  ![Sphere section figure 8-4.svg](../../public/math/Core%20Course/Sphere%20section%20figure%208-4.svg)
 
 ## 3.Circumscribed Sphere and Inscribed Sphere
-- Let the radius of the cylinder's base be $r$, the radius of the sphere be $R$, and the height of the cylinder be $h$.  
+- For __the cylinder with base radius $\boldsymbol{r}$__,
+  __the sphere with radius $\boldsymbol{R}$__,
+  and __the cylinder height $\boldsymbol{h}$__.
 
-| Solid    | Inscribed Sphere (conditional)                                                                | Circumscribed Sphere (unconditional)                                      |
-|----------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Cuboid   | None (__only a cube has one__)                                                                | Body diagonal $\boldsymbol{l=2R}$                                         |
-| Cube     | Edge length $\boldsymbol{a=2R}$                                                               | Body diagonal $\boldsymbol{l=2R}$  (that is, $\boldsymbol{2R=\sqrt{3}a}$) |
-| Cylinder | Only a cylinder whose __axial section__ is __a square__ has one, where $\boldsymbol{2r=h=2R}$ | Body diagonal $\boldsymbol{\sqrt{h^2+(2r)^2}=2R}$                         |
+| Solid    | Inscribed Sphere (Conditional)                                                          | Circumscribed Sphere (Unconditional)                                   |
+|----------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Cuboid   | __None (only a cube has it)__                                                           | __Body diagonal $\boldsymbol{l=2R}$__                                  |
+| Cube     | __Edge length $\boldsymbol{a=2R}$__                                                     | __Body diagonal $\boldsymbol{l=2R}\textsf{ (}2R=\sqrt{3}a\textsf{)}$__ |
+| Cylinder | __Only a cylinder whose axial section is a square has it, with $\boldsymbol{2r=h=2R}$__ | __Body diagonal $\boldsymbol{\sqrt{h^2+(2r)^2}=2R}$__                  |
 
 ![Solid circumscribed sphere and inscribed sphere.svg](../../public/math/Core%20Course/Solid%20circumscribed%20sphere%20and%20inscribed%20sphere.svg)
 
-- In these relationships, be sure to make use of __the axial section of the solid__ when identifying geometric relationships.
-- The relationships are reciprocal: describe the circumscribed sphere of a cube, or the inscribed cube of a sphere — essentially, they are the same.  
+- __The key is to analyze the solid using its axial section__.
 
 ## 4.Focus 1
 __The basic formulas of a sphere__   
@@ -607,7 +615,7 @@ $
   >$
   \begin{array}{ll}
   h=2r & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#equilateral-cylinder-the-axial-section-is-a-square}{\textsf{axial section height (equilateral cylinder)}} \\
-  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#volume}{\textsf{cylinder volume formula}} \\
+  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_2-formulas-for-cylinders}{\textsf{cylinder volume formula}} \\
   V=\frac{4}{3}\pi r^3 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-volume-and-surface-area}{\textsf{sphere volume formula}} \\
   \end{array}
   >$
@@ -660,7 +668,7 @@ $
   \begin{array}{ll}
   1:\sqrt{3}:2 & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
   V=\frac{4}{3}\pi r^3 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-volume-and-surface-area}{\textsf{sphere volume formula}} \\
-  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#volume}{\textsf{cylinder volume formula}} \\
+  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_2-formulas-for-cylinders}{\textsf{cylinder volume formula}} \\
   \end{array}
   >$
 
