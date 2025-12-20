@@ -479,7 +479,7 @@ $
 ## 4.Focus 1
 __The basic formulas of a sphere__   
 - Use __the formulas for the volume and surface area of a sphere__. 
-- ###### Note that __the surface area is proportional to the square of the radius__, and __the volume is proportional to the cube of the radius__. 
+- ###### __The surface area is proportional to the square of the radius, and the volume is proportional to the cube of the radius__.
   - $\frac{S_1}{S_2}=(\frac{r_1}{r_2})^2$. 
   - $\frac{V_1}{V_2}=(\frac{r_1}{r_2})^3$.
 
@@ -503,7 +503,7 @@ $
 \frac{S_1}{S_2}=(\frac{r_1}{r_2})^2 \\
 S_2=S_1\cdot9 \\
 \frac{S_2}{S_1}=9 \\
-(\frac{r_1}{r_2})^2=9 \longrightarrow \frac{r_1}{r_2}=3 \\
+(\frac{r_1}{r_2})^2=9 \Longrightarrow \frac{r_1}{r_2}=3 \\
 \frac{V_1}{V_2}=(\frac{r_1}{r_2})^3 \\
 \frac{V_2}{V_1}=(3)^3=27 \\
 V_2=V_1\cdot27 \\
@@ -521,8 +521,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{S_1}{S_2}=(\frac{r_1}{r_2})^2 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#note-that-the-surface-area-is-proportional-to-the-square-of-the-radius-and-the-volume-is-proportional-to-the-cube-of-the-radius}{\textsf{sphere surface area ratio formula}} \\
-  \frac{V_1}{V_2}=(\frac{r_1}{r_2})^3 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#note-that-the-surface-area-is-proportional-to-the-square-of-the-radius-and-the-volume-is-proportional-to-the-cube-of-the-radius}{\textsf{sphere volume ratio formula}} \\
+  \frac{S_1}{S_2}=(\frac{r_1}{r_2})^2 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#the-surface-area-is-proportional-to-the-square-of-the-radius-and-the-volume-is-proportional-to-the-cube-of-the-radius}{\textsf{sphere surface area ratio formula}} \\
+  \frac{V_1}{V_2}=(\frac{r_1}{r_2})^3 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#the-surface-area-is-proportional-to-the-square-of-the-radius-and-the-volume-is-proportional-to-the-cube-of-the-radius}{\textsf{sphere volume ratio formula}} \\
   \end{array}
   >$
 
@@ -578,7 +578,7 @@ $
 ---
 
 
-### $\fbox{11}\:$What is the minimum value of the ratio between the volume of an equilateral cylinder (excluding its inscribed sphere) and the volume of that sphere $\small \mathpunct{?}$.
+### $\fbox{11}\:$A circle is inscribed in an equilateral cylinder. Find the ratio of the volume of the empty space of the cylinder to the volume of the inscribed sphere.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -598,7 +598,7 @@ $
   \begin{array}{ll}
   \textsf{let }r=1 \\
   h=2r=2 \\
-  \frac{S_{\textsf{removed}}}{S_{\textsf{sphere}}}=\frac{\pi r^2h-\frac{4}{3}\pi r^3}{\frac{4}{3}\pi r^3}=\frac{\pi\cdot1^2\cdot2-\frac{4}{3}\pi\cdot1^3}{\frac{4}{3}\pi\cdot1^3} \\
+  \frac{S_{\textsf{empty}}}{S_{\textsf{sphere}}}=\frac{\pi r^2h-\frac{4}{3}\pi r^3}{\frac{4}{3}\pi r^3}=\frac{\pi\cdot1^2\cdot2-\frac{4}{3}\pi\cdot1^3}{\frac{4}{3}\pi\cdot1^3} \\
   \frac{2\pi-\frac{4}{3}\pi}{\frac{4}{3}\pi} = \frac{\frac{2}{3}\pi}{\frac{4}{3}\pi}=\frac{2}{3}\cdot\frac{3}{4}=\frac{6}{12}=\frac{1}{2} \\
   \end{array}
   $  
@@ -624,7 +624,7 @@ $
 ---
 
 
-### $\fbox{12}\:$If a hemisphere is cut into a cylinder with a base radius half of the hemisphere's radius, what is the ratio of the volume of the hemisphere to the volume of the cylinder $\small \mathpunct{?}$.
+### $\fbox{12}\:$A cylinder is inscribed in a hemisphere, and the radius of the base of the cylinder is half the radius of the hemisphere. Find the ratio of the volume of the cylinder to the volume of the hemisphere.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -643,12 +643,10 @@ $
   $
   \begin{array}{ll}
   \textsf{let }r=1 \\
-  1:\sqrt{3}:2 \longrightarrow 
-  \begin{cases}
+  1:\sqrt{3}:2 \\ 
   r=1 \\
   R=2 \\
   h=\sqrt{3} \\
-  \end{cases} \\
   V_{\textsf{hemisphere}}=\frac{\frac{4}{3}\pi r^3}{2} = \frac{4}{3}\pi r^3\cdot\frac{1}{2} = \frac{4}{6}\pi r^3=\frac{2}{3}\pi r^3 \\
   \frac{V_{\textsf{hemisphere}}}{V_{\textsf{cylinder}}}=\frac{\frac{2}{3}\pi r^3}{\pi r^2h}=\frac{\frac{2}{3}\pi\cdot2^3}{\pi\cdot1^2\cdot\sqrt{3}} \\
   \frac{\frac{2}{3}\pi\cdot2^3}{\pi\cdot1^2\cdot\sqrt{3}}=\frac{\frac{16}{3}\pi}{\sqrt{3}\pi}=\frac{\frac{16}{3}}{\sqrt{3}}=\frac{16}{3}\cdot\frac{1}{\sqrt{3}}=\frac{16}{3\sqrt{3}} \\
@@ -677,13 +675,13 @@ $
 
 ## 6.Focus 3
 __The section of a sphere__  
-- Let the distance from the center of the sphere to the section be $d$,
-  the radius of the sphere be $R$, and the radius of the section be $r$.
-  According to __the pythagorean theorem__, then $r^2+d^2=R^2$. 
+- Let __the distance from the sphere's center to the section be $\boldsymbol{d}$__,
+  __the radius of the sphere $\boldsymbol{R}$__,
+  and __the radius of the section $\boldsymbol{r}$__,
+  then $\boldsymbol{r^2+d^2=R^2}$.
 
 
-
-### $\fbox{13}\:$Two parallel planes intersect a sphere of radius $\small 5$, creating circular cross-sections with areas $\small 9\pi$ and $\small 16\pi$. What is the distance between these two planes $\small \mathpunct{?}$.
+### $\fbox{13}\:$Two cross-sections of a sphere have radii $\small 5$, and their areas are $\small 9\pi$ and $\small 16\pi$, respectively. Find the distance between the two cross-sections.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -702,18 +700,8 @@ $
   $
   \begin{array}{ll}
   S=\pi r^2 \\
-  \begin{cases}
-  \textsf{cross-section}_1=9\pi \\
-  \textsf{cross-section}_2=16\pi \\
-  \end{cases} \Rightarrow
-  \begin{cases}
-  r_1=3 \\
-  r_2=4 \\
-  \end{cases} \\
-  \begin{cases}
-  (3,5) \\
-  (4,5) \\
-  \end{cases} \Longrightarrow (3,4,5) \\
+  \textsf{cross-section}_1=9\pi \Longrightarrow r_1=3 \\
+  \textsf{cross-section}_2=16\pi \Longrightarrow r_2=4 \\
   d_{\textsf{opposite sides}}=4+3=7 \\
   d_{\textsf{same side}}= 4-3=1 \\
   \end{array}
