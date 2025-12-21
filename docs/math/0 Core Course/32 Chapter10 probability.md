@@ -209,7 +209,7 @@ $
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#single-sampling-the-order-of-the-selected-elements-doesn-t-matter}{\textsf{single sampling}} \\
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#sequential-sampling-by-default-one-element-is-taken-each-time}{\textsf{sequential sampling}} \\
   P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-calculation-formula}{\textsf{classical probability model formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   P(A)+P(\overline{A})=1 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_6-classical-probability-model}{\textsf{classical probability model characteristics}} \\
   P(\overline{A})=1-P(A) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#let-be-the-complement-of-event-then}{\textsf{complementary probability}} \\
   \end{array}
@@ -264,7 +264,7 @@ $
   \begin{array}{ll}
   P(\bigcup_{i=1}^n A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#let-be-a-finite-set-of-mutually-exclusive-events-then}{\textsf{union of disjoint events}} \\
   P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-calculation-formula}{\textsf{classical probability model formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -319,7 +319,7 @@ $
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_11-sampling-with-numbered-samples}{\textsf{sampling with numbers enumeration method}} \\
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#sequential-sampling-by-default-one-element-is-taken-each-time}{\textsf{sequential sampling}} \\
   P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-calculation-formula}{\textsf{classical probability model formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -385,7 +385,7 @@ $
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_11-sampling-with-numbered-samples}{\textsf{sampling with numbers enumeration method}} \\
   P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-calculation-formula}{\textsf{classical probability model formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 

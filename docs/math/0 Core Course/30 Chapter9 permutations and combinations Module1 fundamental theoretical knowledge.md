@@ -319,7 +319,7 @@ $
   >$
   \begin{array}{ll}
   N=m_1\times m_2\times\cdots\times m_n & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#_2-principle-of-counting-by-steps-multiplication-principle}{\textsf{multiplication principle}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   N=m_1+m_2+\cdots+m_n & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#definition}{\textsf{addition principle}} \\
   \end{array}
   >$
@@ -329,74 +329,60 @@ $
 
 ## 7.Permutations
 
-### $\textcolor{#1E3A5F}{\fbox{1}}\:$Definition of permutation
-- A permutation refers to __selecting $\boldsymbol{m}$ elements $\boldsymbol{(m \le n)}$__ from __$\boldsymbol{n}$ distinct elements__ and arranging them in __a specific order__.
-This is called __a permutation__ of $m$ elements from __$\boldsymbol{n}$ distinct elements__.
-
+### $\textcolor{#1E3A5F}{\fbox{1}}\:$Definition
+- From __$\boldsymbol{n}$ distinct items__,
+  __choosing $\boldsymbol{m}$ items $\boldsymbol{(m \le n)}$ and arranging them in a sequence is called a permutation__.
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Number of permutations
-- The number of permutations refers to __the total number of different ways__ to select and arrange $m$ elements $(m \le n)$ from $n$ distinct elements.
-It is denoted as $\boldsymbol{P_n^m}$ or $\boldsymbol{A_n^m}$.
-When $m=n$, it is called __a full permutation__, written as $\boldsymbol{P_n^n}$ or $\boldsymbol{A_n^n}$.
-- Note: It is important to distinguish between a permutation and the number of permutations.
-  - __A permutation__ is one specific arrangement of $m$ elements selected from $n$ distinct elements.
-    It is __not a number__.
-  - __The number of permutations__ is __the total count__ of all such possible arrangements.
-    It is __a numerical value__.
-    Therefore, the notation $P_n^m$ represents only __the number of permutations__,
-    __not the specific arrangements themselves__.
+- __The total number of permutations obtained by choosing $\boldsymbol{m}$ items $\boldsymbol{(m \le n)}$ from $\boldsymbol{n}$ distinct items is denoted by $\boldsymbol{P_n^m}$__.
+  __When $\boldsymbol{m=n}$__, it is called __a full permutation__, __denoted by $\boldsymbol{P_n^m}$__.
 
-
-### $\textcolor{#1E3A5F}{\fbox{3}}\:$Formula for the number of permutations
+### $\textcolor{#1E3A5F}{\fbox{3}}\:$Permutation formula
 ::: wrap  
-- $P_n^m=A_n^m=n(n-1)(n-2)\cdots(n-m+1)=\frac{n!}{(n-m)!}$   
-- $n$: total number of available items (supply).
-- $m$: number of items to arrange (demand, order matters).
+- $\boldsymbol{P_n^m=n(n-1)(n-2)\cdots(n-m+1)=\frac{n!}{(n-m)!}=C_n^m\times m!}$   
+- $\boldsymbol{n}$: __total items__
+- $\boldsymbol{m}$: __number of items chosen (order matters)__
 :::  
-- __Example__      
+- __example__      
   $
   \begin{array}{ll}
-  A_6^3=\underbrace{6\times5\times4}_{3 \textsf{ numbers}}=120 \\
+  P_n^m=n(n-1)(n-2)\cdots(n-m+1) \\
+  P_6^3=\underbrace{6\times5\times4}_{3 \textsf{ numbers}}=120 \\
   \end{array}
   $
 
 
 ## 8.Combinations
 
-### $\textcolor{#1E3A5F}{\fbox{1}}\:$Definition of combination
-- Selecting $m$ elements $(m \le n)$ from $n$ distinct elements and __grouping them together__ (regardless of order)
-is called __a combination__ of $m$ elements from $n$ distinct elements.
- 
+### $\textcolor{#1E3A5F}{\fbox{1}}\:$Definition
+- From __$\boldsymbol{n}$ distinct items__,
+  __choosing $\boldsymbol{m}$ items $\boldsymbol{(m \le n)}$ to form a group is called a combination__.
+
+
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Number of combinations
-- The number of combinations refers to __the total number of ways__ to choose $m$ elements $(m \le n)$ from $n$ distinct elements.
-It is denoted as $\boldsymbol{C_n^m}$.
-  ::: wrap  
-  - ###### __Formula for the number of combinations__: $C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1}=\frac{n!}{m!(n-m)!}=\boldsymbol{\frac{A_n^m}{m!}}$.
-    - $n$: total number of available items (supply).
-    - $m$: number of elements to choose (demand, order does not matter).   
-    - one permutation when all or none are selected: $C_n^0=C_n^n=1$.
-    - __Example__    
-      $
-      \begin{array}{ll}
-      C_7^3=\frac{7\times6\times5}{3\times2\times1}=\frac{210}{6}=35 \\
-      C_7^4=\frac{7\times6\times5\times4}{4\times3\times2\times1}=\frac{840}{24}=35 \\
-      \end{array}
-      $
-  :::  
-  - ###### A permutation is __a combination__ followed by __arrangement__: $A_n^m=C_n^m\times A_m^m=\boldsymbol{C_n^m\times m!}$.  
-    $A_4^3=C_4^3\times3!$
+- __The total number of combinations obtained by choosing $\boldsymbol{m}$ items $\boldsymbol{(m \le n)}$ from $\boldsymbol{n}$ distinct items is denoted by $\boldsymbol{C_n^m}$__.
 
-### $\textcolor{#1E3A5F}{\fbox{3}}\:$Property of combinations
+### $\textcolor{#1E3A5F}{\fbox{3}}\:$Combination formula
+::: wrap
+- $\boldsymbol{C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1}=\frac{n!}{m!(n-m)!}=\boldsymbol{\frac{P_n^m}{m!}}}$
+- $\boldsymbol{n}$: __total items__
+- $\boldsymbol{m}$: __number of items chosen (order does not matter)__
+  :::
+- __example__      
+  $
+  \begin{array}{ll}
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} \\
+  C_7^3=\frac{7\times6\times5}{3\times2\times1}=\frac{210}{6}=35 \\
+  C_7^4=\frac{7\times6\times5\times4}{4\times3\times2\times1}=\frac{840}{24}=35 \\
+  \end{array}
+  $
+
+
+### $\textcolor{#1E3A5F}{\fbox{4}}\:$Properties of combinations
 - $C_n^m=C_n^{n-m}$
-- __Example__: $C_9^6=C_9^3$
+- __example__  
+  $C_9^6=C_9^3$
 
-
-## 9.Problem-Solving Rules
-- Permutations $A_n^m=C_n^m\times A_m^m=C_n^m\times m!$.
-  A permutation is __a combination__ followed by __arrangement__, so $\boldsymbol{A_n^m}$ can be __expressed as $\boldsymbol{C_n^m\times m!}$__.
-- Use combinations $\boldsymbol{C_n^m}$ when __selecting elements or positions__.
-- Use factorial $\boldsymbol{m!}$ when __arranging (sorting) elements__.
-- Break down all problems into a process of __selection__ and __arrangement__ and then __write expressions accordingly__.
 
 
 ## 10.Focus 4
@@ -438,7 +424,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -504,8 +490,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
-  C_n^m=C_n^{n-m} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#property-of-combinations}{\textsf{combinations property}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_n^m=C_n^{n-m} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#properties-of-combinations}{\textsf{property of combinations}} \\
   \frac{n(n+1)}{2} & \textsf{arithmetic sum formula} \\
   \end{array}
   >$
@@ -591,9 +577,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P_n^m=А_n^m=n(n-1)(n-2)\cdots(n-m+1) & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-permutations}{\textsf{permutation formula }} \\
-  P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  P_n^m=n(n-1)(n-2)\cdots(n-m+1) & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
+  P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -646,7 +632,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -685,7 +671,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -726,8 +712,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P_n^m=А_n^m=n(n-1)(n-2)\cdots(n-m+1) & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-permutations}{\textsf{permutation formula }} \\
-  P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
+  P_n^m=n(n-1)(n-2)\cdots(n-m+1) & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
+  P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
   \end{array}
   >$
 
