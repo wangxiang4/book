@@ -379,16 +379,29 @@ $
 
 
 ### $\textcolor{#1E3A5F}{\fbox{4}}\:$Properties of combinations
-- $C_n^m=C_n^{n-m}$
-- __example__  
-  $C_9^6=C_9^3$
-
+- $\boldsymbol{C_n^m=C_n^{n-m}}$
+- $\boldsymbol{C_n^0=C_n^n=1}$
+- $\boldsymbol{C_n^1=C_n^{n-1}=n}$
+- $\boldsymbol{C_n^2=C_n^{n-2}=\frac{n(n-1)}{2}}$
+  - __Property derivation__  
+    $
+    \begin{array}{ll}
+    C_n^{n-2}=\frac{n!}{(n-2)!\times2!}=\frac{n(n-1)(n-2)!}{(n-2)!\times2!} \\
+    \frac{n(n-1)\bcancel{(n-2)!}}{\bcancel{(n-2)!}\times2!}=\frac{n(n-1)}{2} \\
+    C_n^2=C_n^{n-2}=\frac{n(n-1)}{2} \\
+    \end{array}
+    $
+- Common combination values
+  - $C_3^2=C_3^1=3$
+  - $C_4^2=6$
+  - $C_5^2=C_5^3=10$
+  - $C_6^2=C_6^4=15$
+  - $C_6^3=20$
 
 
 ## 10.Focus 4
-__The calculation of permutations and combinations__  
-- The calculation of permutations and combinations is based on their definitions and __formulas__. 
-
+__The permutations and combinations__  
+- Using __the definitions and formulas of permutations and combinations__.
 
 ### $\fbox{5}\:\small C_8^4-C_7^3=\,\mathpunct{?}$.
 ::: wrap  
@@ -406,7 +419,6 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} \\
 C_8^4=\frac{\bcancel{8}\times7\times\bcancel{6}\times5}{\bcancel{4}\times\bcancel{3}\times\bcancel{2}\times1}=\frac{2\times7\times5}{1}=70 \\
 C_7^3=\frac{7\times\bcancel{6}\times5}{\bcancel{3}\times\bcancel{2}\times1}=\frac{7\times5}{1}=35 \\
 70-35=35 \\
@@ -432,7 +444,7 @@ $
 ---
 
 
-### $\fbox{6}\:$If $\small C_{m-1}^{m-2}=\frac{3}{n-1}C_{n+1}^{n-2}$, then what $\small \mathpunct{?}$.
+### $\fbox{6}\:$Given $\small C_{m-1}^{m-2}=\frac{3}{n-1}C_{n+1}^{n-2}$, find $\small m$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -445,28 +457,30 @@ $
 $  
 :::
 #### Solution 
-- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the method of assigning specific values (note: there may be multiple correct options — continue testing values until the correct one(s) are identified)    
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by using the method of assigning specific values (may involve letting specific values again)    
   ::: wrap  
   $
   \begin{array}{ll}
-  \textsf{let }n=2 \\
   C_{m-1}^{m-2}=C_{m-1}^{(m-1)-(m-2)}=C_{m-1}^{1}=\frac{m-1}{1}=m-1 \\
+  \textsf{let }n=2 \\
   m-1=\frac{3}{1}C_3^0=\frac{3}{1}\times1=3 & \textsf{substitute }n=2 \\
-  m-1=3 \longrightarrow m=4 \\
-  \textsf{(A)} \: m=2-2=0 &❌\;\\
-  \textsf{(B)} \: m=2+2=4 &✅\;\\
-  \textsf{(C)} \: m=\sum_{k=1}^{n}k=1+2+\cdots+n=\frac{n(n+1)}{2}=\frac{2(2+1)}{2}=3 &❌\;\\
-  \textsf{(D)} \: m=1+\frac{2(2+1)}{2}=4 &✅\;\\
-  \textsf{two correct options found — keep testing values} \\
+  m-1=3 \\
+  m=4 \\
+  \textsf{(A)} \: m=2-2=0 \,❌\;\\
+  \textsf{(B)} \: m=2+2=4 \,✅\;\\
+  \textsf{(C)} \: m=\sum_{k=1}^{n}k=\frac{2(2+1)}{2}=3 \,❌\;\\
+  \textsf{(D)} \: m=1+\sum_{k=1}^{n} k=1+\frac{2(2+1)}{2}=4 \,✅\;\\
+  \textsf{two correct options found, let}\ldots \\
   \textsf{let }n=4 \\   
   m-1=\frac{3}{3}C_5^2=1\times\frac{5\times4}{2\times1}=10 & \textsf{substitute }n=4 \\
-  m-1=10 \longrightarrow m=11 \\  
-  \textsf{(B)} \: m=4+2=6 &❌\;\\   
-  \textsf{(D)} \: m=1+\frac{4(4+1)}{2}=11 &✅\;\\  
+  m-1=10 \\
+  m=11 \\  
+  \textsf{(B)} \: m=4+2=6 \,❌\;\\   
+  \textsf{(D)} \: m=1+\sum_{k=1}^{n} k=1+\frac{4(4+1)}{2}=11 \,✅\;\\  
   \end{array}
   $   
   :::  
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the symmetric property of combinations: $C_n^m=C_n^{n-m}$    
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the symmetry of combinations  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -474,7 +488,7 @@ $
   C_{n+1}^{n-2}=C_{n+1}^{(n+1)-(n-2)}=C_{n+1}^3 \\
   m-1=\frac{3}{n-1}C_{n+1}^3=\frac{\bcancel{3}}{\bcancel{n-1}}\times\frac{(n+1)\times n \times \bcancel{(n-1)}}{\bcancel{3}\times2\times1}=\frac{n(n+1)}{2} \\
   m=1+\frac{n(n+1)}{2} \\
-  \sum_{k=1}^{n}k=1+2+\cdots+n=\frac{n(n+1)}{2} \\
+  \frac{n(n+1)}{2}=\sum_{k=1}^{n}k \\
   m=1+\sum_{k=1}^{n}k \\
   \end{array}
   $   
@@ -490,39 +504,13 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   C_n^m=C_n^{n-m} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#properties-of-combinations}{\textsf{property of combinations}} \\
-  \frac{n(n+1)}{2} & \textsf{arithmetic sum formula} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  \frac{n(n+1)}{2} & \href{https://letstalkscience.ca/educational-resources/backgrounders/gauss-summation}{\textsf{gauss summation}} \\
   \end{array}
   >$
 
-  :::  
-- Common properties of combinations  
-  ::: wrap   
-  >1. $C_n^0=C_n^n=1$  
-  >2. $C_n^1=C_n^{n-1}=n$   
-  >3. $C_n^2=C_n^{n-2}=\frac{n(n-1)}{2}$  
-  >    - __Derivation__  
-  >$
-         \begin{array}{ll}
-         C_n^{n-2}=\frac{n!}{(n-2)!\times2!}=\frac{n(n-1)(n-2)!}{(n-2)!\times2!} \\
-         \frac{n(n-1)\bcancel{(n-2)!}}{\bcancel{(n-2)!}\times2!}=\frac{n(n-1)}{2} \\
-         C_n^2=C_n^{n-2}=\frac{n(n-1)}{2} \\
-         \end{array}
-  >$  
-  >4. Common combinations   
-  >$
-     \begin{array}{ll}
-     C_3^2=C_3^1=3 \\
-     C_4^2=6 \\
-     C_5^2=C_5^3=10 \\
-     C_6^2=C_6^4=15 \\
-     C_6^3=20 \\
-     \end{array}  
-  >$
-
-  :::   
-
+  :::
 ---
 
 ## 11.Focus 5

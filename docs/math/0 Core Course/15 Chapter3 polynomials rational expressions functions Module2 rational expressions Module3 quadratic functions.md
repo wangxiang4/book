@@ -199,11 +199,11 @@ $
   :::
 - Methods for comparing rational expressions  
   ::: wrap  
-  > 1. __Using subtraction__$^{\textsf{positive integers only}}$: compare the difference with $0$.  
-  > 2. __Using division__$^{\textsf{positive integers only}}$: compare the ratio with $1$; this method is an extension of subtraction.  
-  > 3. __Using the limit method__$^{\textsf{exclude}}$: examine the sign change near a certain point to compare sizes (__only for counterexample elimination with uncertain rational inequality size__).  
-  >    - Find a counterexample: if one can be found, then it is incorrect. If they reference each other and a deadlock occurs, then both are incorrect.  
-  >    - Sign rule for rational inequalities:
+  > 1. __Using subtraction__$^{\textsf{positive integers only}}$: compare the difference with $0$.
+  > 2. __Using division__$^{\textsf{positive integers only}}$: compare the ratio with $1$; this method is an extension of subtraction.
+  > 3. __Using the limit method__$^{\textsf{exclude}}$: examine the sign change near a certain point to compare sizes (__only for counterexample elimination with uncertain rational inequality size__).
+  >    - __Find a counterexample__: if one can be found, then it is incorrect. If they reference each other and a deadlock occurs, then both are incorrect.
+  >    - __Sign rule for rational inequalities__  
   >$
          \begin{cases} 
          \begin{array}{ll}
@@ -212,8 +212,7 @@ $
          \end{array}
          \end{cases}
   >$  
-  > 4. __Using the method of assigning specific values__:
-  > substitute specific values for verification (may involve letting multiple specific values again).  
+  > 4. __Using the method of assigning specific values__: substitute specific values for verification (may involve letting specific values again).
 
   :::
 - The change in size of proper and improper fractions after adding $k$  
