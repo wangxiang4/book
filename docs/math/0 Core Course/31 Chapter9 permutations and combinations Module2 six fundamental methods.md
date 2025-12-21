@@ -6,21 +6,19 @@ lang: en-US
 
 # Module 9–02 Six Fundamental Methods
 
-## 1.Adjacent Element Bundling Method
+## 1.Method of bundling adjacent items
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Adjacency
-- Bundle __the specified adjacent elements__ into __one group__ and treat it as __a single unit in the arrangement__.
+- __Bundle adjacent items into a group and treat it as a single item for the permutation__.
 
-### $\textcolor{#1E3A5F}{\fbox{2}}\:$Fixed subgroup
-- When __a fixed subgroup__ appears, apply __the same bundling method__ and treat it as __one unit for calculation__.
-
+### $\textcolor{#1E3A5F}{\fbox{2}}\:$Subgroup
+- __Use the adjacent-item bundling method to combine the subitems into a single item__.
 
 ## 2.Focus 1
-__The adjacent element bundling method__
-- When applying __the bundling method__ to adjacent elements, be sure to consider __the internal arrangement within the bundle__.   
-- Additionally, some problems may involve __bundling multiple groups__.
+__The adjacent-item bundling method__
+- When bundling, __note the internal order and multiple bundlings__.
 
-### $\fbox{11}\:$Three families of three people each are watching a show. They bought $\small 9$ consecutive seats in one row. How many different ways can they sit if each family sits together $\small \mathpunct{?}$.
+### $\fbox{11}\:$There are $\small 3$ groups of $\small 3$ people each, and $\small 9$ seats in a row. How many different seating arrangements are there if the members of each group must sit together $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -36,13 +34,14 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-3!
-\begin{cases}
+\left.
+\begin{array}{cc}
 [3\,\textsf{people}]=3! \\
 [3\,\textsf{people}]=3! \\
 [3\,\textsf{people}]=3! \\
-\end{cases} \\
-\underbrace{3!\times3!\times3!}_{\textsf{internal arrangement}}\times\underbrace{3!}_{\textsf{external arrangement}}=(3!)^4 \\
+\end{array}
+\right\}3! \\
+\underbrace{3!\times3!\times3!}_{\textsf{internal arrangements}}\times\underbrace{3!}_{\textsf{external arrangements}}=(3!)^4 \\
 \end{array}
 $  
 :::  
@@ -57,7 +56,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-adjacent-element-bundling-method}{\textsf{adjacent element bundling method}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-method-of-bundling-adjacent-items}{\textsf{adjacent-item bundling method}} \\
   \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
@@ -66,7 +65,7 @@ $
 ---
 
 
-### $\fbox{12}\:$Seven people are lined up. $\small A$ and $\small B$ must stand together, and so must $\small C$ and $\small D$. How many different arrangements are there$\small \mathpunct{?}$.
+### $\fbox{12}\:$Seven people stand in a row. If $\small A$ and $\small B$ must be adjacent, and $\small C$ and $\small D$ must be adjacent, how many different arrangements are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -82,12 +81,13 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-5!
-\begin{cases}
+\left.
+\begin{array}{cc}
 [A, B]=2! \\
 [C, D]=2! \\
 3\,\textsf{people} \\
-\end{cases} \\
+\end{array}
+\right\}5! \\
 2!\times2!\times5!=4\times120=480 \\
 \end{array}
 $  
@@ -103,7 +103,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-adjacent-element-bundling-method}{\textsf{adjacent element bundling method}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-method-of-bundling-adjacent-items}{\textsf{adjacent-item bundling method}} \\
   \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
@@ -112,7 +112,7 @@ $
 ---
 
 
-### $\fbox{13}\:$Using the digits $\small 1, 2, 3, 4$, and $\small 5$ without repetition, how many five-digit numbers can be formed where there are two digits between the odd digits $\small 1$ and $\small 5$, and both of those digits are even numbers $\small \mathpunct{?}$.
+### $\fbox{13}\:$Form five-digit numbers using $\small 1, 2, 3, 4, 5$ without repetition, such that two even numbers are between $\small 1$ and $\small 5$. How many different arrangements are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -128,15 +128,17 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\underbrace{1\,\boxed{2}\,\boxed{4}\,5}_{\textsf{fixed subgroup}}3 \\
-2!
-\begin{cases}
-\begin{cases}
+\underbrace{1\,\boxed{2}\,\boxed{4}\,5}_{\textsf{subgroup}}3 \\
+\left.
+\begin{array}{cc}
+\boxed{
+\begin{array}{ll}
 [2,4]=2! \\
 [1,5]=2! \\
-\end{cases} \\
+\end{array}} \\
 3 \\
-\end{cases} \\
+\end{array}
+\right\}2! \\
 2!\times2!\times2!=8 \\
 \end{array}
 $  
@@ -152,7 +154,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-adjacent-element-bundling-method}{\textsf{adjacent element bundling method}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-method-of-bundling-adjacent-items}{\textsf{adjacent-item bundling method}} \\
   \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
@@ -365,7 +367,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-adjacent-element-bundling-method}{\textsf{adjacent element bundling method}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-method-of-bundling-adjacent-items}{\textsf{adjacent-item bundling method}} \\
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
   \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
@@ -421,7 +423,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-adjacent-element-bundling-method}{\textsf{adjacent element bundling method}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-method-of-bundling-adjacent-items}{\textsf{adjacent-item bundling method}} \\
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
   \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
