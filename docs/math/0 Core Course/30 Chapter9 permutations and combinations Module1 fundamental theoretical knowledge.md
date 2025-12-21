@@ -147,23 +147,15 @@ $
   \end{array}
   $   
   :::  
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the permutation formula    
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the permutations of distinct items    
   ::: wrap  
   $
   \begin{array}{ll}
   \frac{24}{3}=8 \\
   [888, 996, 789] \\
   888 \Longrightarrow 1 \\
-  996 \longrightarrow
-  \boxed{
-  \begin{array}{ll}
-  ①: C_3^2=\frac{3!}{2!(3-2)!}=\frac{6}{2}=3 \\
-  ②: \frac{3!}{2!\times1!}=\frac{6}{2}=3 \\
-  \end{array}
-  } \\
-  789 \longrightarrow 
-  \frac{3!}{1!\times1!\times1!}=\frac{6}{1}=6 \\
-  N=m_1+m_2+\cdots+m_n \\
+  996 \Longrightarrow C_3^2=\frac{3\times2}{2\times1}=3 \\
+  789 \Longrightarrow 3!=6 \\
   N=1+3+6=10 \\
   \end{array}
   $   
@@ -220,10 +212,10 @@ $
 
 ## 5.Focus 2
 __The multiplication principle__   
-- When encountering multi-step problems, apply the multiplication principle.
+- When encountering __stepwise problems__, apply __the multiplication principle__.
 
 
-### $\fbox{3}\:$A class is participating in a $\small 400\textsf{m}$ relay at the school sports meet. Two students can run the first leg, three the second, two the third, and one the final leg. The total number of possible running orders is $\small \mathpunct{?}$.
+### $\fbox{3}\:$A class participates in a relay race. Two students can run the first leg, three students can run the second leg, two students can run the third leg, and one student can run the final leg. Find the total number of possible running orders.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -240,13 +232,12 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  \begin{cases}
-  \textsf{part}_1\mapsto2 \\
-  \textsf{part}_2\mapsto3 \\
-  \textsf{part}_3\mapsto2 \\
-  \textsf{part}_4\mapsto1 \\
-  \end{cases}\\
-  N=m_1\times m_2\times\cdots\times m_n \\
+  [
+  \textsf{leg}_1\mapsto2, 
+  \textsf{leg}_2\mapsto3, 
+  \textsf{leg}_3\mapsto2, 
+  \textsf{leg}_4\mapsto1
+  ] \\
   N=2\times3\times2\times1=12 \\
   \end{array}
   $  
@@ -267,25 +258,24 @@ $
   >$
 
   :::
-- Determine: addition or multiplication  
+- Determine whether to use addition or multiplication  
   ::: wrap
   >$
-  \textsf{task}
-  \begin{cases}
-  \textsf{incomplete} \to \times \\
-  \textsf{completed} \to + \\
-  \end{cases}
+  \begin{array}{ll}
+  \textsf{task not completed} \to \times \\
+  \textsf{task completed} \to + \\
+  \end{array}
   >$
 
   :::
 ---
 
 ## 6.Focus 3
-__The coexistence of addition and multiplication__
-- When both classification and step-by-step processes appear together, __first classify at a macro level__, then __break down into steps at a micro level__.  
+__The addition and multiplication principles coexist__
+- When __classification and steps appear together__,
+  first __classify at a macroscopic level__ and __then apply steps at a microscopic level__.
 
-
-### $\fbox{4}\:$From $\small 5$ sketches, $\small 3$ oil paintings, and $\small 2$ watercolors, how many different ways can two pieces of artwork of different types be selected to decorate the classroom $\small \mathpunct{?}$.
+### $\fbox{4}\:$There are $\small 5$ sketches, $\small 3$ oil paintings, and $\small 2$ watercolor paintings. Two paintings of different types are selected to decorate the classroom. How many different ways are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -301,28 +291,16 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-[[\textsf{sketch}, \textsf{oil painting}], [\textsf{sketch}, \textsf{watercolor}], [\textsf{oil painting}, \textsf{watercolor}]] \\
-[\textsf{sketch}, \textsf{oil painting}] 
-\begin{cases}
-\begin{array}{ll}
-\textsf{part}_1\mapsto C_5^1=\frac{5!}{1!(5-1)!}=\frac{120}{24}=5 \\
-\textsf{part}_2\mapsto C_3^1=\frac{3!}{1!(3-1)!}=\frac{6}{2}=3 \\
-\end{array}
-\end{cases} \\
-[\textsf{sketch}, \textsf{watercolor}]
-\begin{cases}
-\begin{array}{ll}
-\textsf{part}_1\mapsto C_5^1=\frac{5!}{1!(5-1)!}=\frac{120}{24}=5 \\
-\textsf{part}_2\mapsto C_2^1=\frac{2!}{1!(2-1)!}=\frac{2}{1}=2 \\
-\end{array}
-\end{cases} \\
-[\textsf{oil painting}, \textsf{watercolor}]
-\begin{cases}
-\begin{array}{ll}
-\textsf{part}_1\mapsto C_3^1=\frac{3!}{1!(3-1)!}=\frac{6}{2}=3 \\
-\textsf{part}_2\mapsto C_2^1=\frac{2!}{1!(2-1)!}=\frac{2}{1}=2 \\
-\end{array}
-\end{cases} \\
+[\left\{ \textsf{sketch}, \textsf{oil painting} \right\}, \left\{ \textsf{sketch}, \textsf{watercolor painting} \right\}, \left\{ \textsf{oil painting}, \textsf{watercolor painting} \right\}] \\
+\left\{ \textsf{sketch}, \textsf{oil painting} \right\} \\
+\textsf{painting}_1\mapsto C_5^1=\frac{5}{1}=5 \\
+\textsf{painting}_2\mapsto C_3^1=\frac{3}{1}=3 \\
+\left\{ \textsf{sketch}, \textsf{watercolor painting} \right\} \\
+\textsf{painting}_1\mapsto C_5^1=\frac{5}{1}=5 \\
+\textsf{painting}_2\mapsto C_2^1=\frac{2}{1}=2 \\
+\left\{ \textsf{oil painting}, \textsf{watercolor painting} \right\} \\
+\textsf{painting}_1\mapsto C_3^1=\frac{3}{1}=3 \\
+\textsf{painting}_2\mapsto C_2^1=\frac{2}{1}=2 \\
 N=m_1\times m_2\times\cdots\times m_n & \textsf{subprocess} \\
 N=m_1+m_2+\cdots+m_n & \textsf{main process} \\
 N=(5\times3)+(5\times2)+(3\times2)=31 \\
@@ -341,7 +319,7 @@ $
   >$
   \begin{array}{ll}
   N=m_1\times m_2\times\cdots\times m_n & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#_2-principle-of-counting-by-steps-multiplication-principle}{\textsf{multiplication principle}} \\
-  C_n^k=\frac{n!}{k!(n-k)!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
   N=m_1+m_2+\cdots+m_n & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#definition}{\textsf{addition principle}} \\
   \end{array}
   >$
