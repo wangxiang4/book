@@ -400,7 +400,7 @@ $
 
 
 ## 10.Focus 4
-__The permutations and combinations__  
+__The calculations of permutations and combinations__  
 - Using __the definitions and formulas of permutations and combinations__.
 
 ### $\fbox{5}\:\small C_8^4-C_7^3=\,\mathpunct{?}$.
@@ -515,10 +515,10 @@ $
 
 ## 11.Focus 5
 __The applications of permutations and combinations__   
-- Calculate using the definitions and formulas of permutations and combinations.
+- Using __the definitions and formulas of permutations and combinations__.
 
 
-### $\fbox{7}\:$How many permutations are there when selecting any two elements from the four distinct elements $\small A, B, C$, and $\small D$ using enumeration $\small \mathpunct{?}$.
+### $\fbox{7}\:$From four distinct items $\small A, B, C$, and $\small D$, how many permutations are there when choosing two items $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -548,8 +548,6 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  Р_4^2=4\times3=12 \\
-  p_n^m \Longleftrightarrow C_n^m\times m! \\
   Р_4^2=C_4^2 \times 2!=\frac{4\times3}{2\times1}\times2=12 \\
   \end{array}
   $   
@@ -564,8 +562,7 @@ $
 - Formulas used  
   ::: wrap
   >$
-  \begin{array}{ll}
-  P_n^m=n(n-1)(n-2)\cdots(n-m+1) & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
+  \begin{array}{ll} 
   P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
@@ -575,7 +572,7 @@ $
 ---
 
 
-### $\fbox{8}\:$How many combinations are there when selecting any two elements from the four distinct elements $\small A, B, C$, and $\small D$ using enumeration $\small \mathpunct{?}$.
+### $\fbox{8}\:$From four distinct items $\small A, B, C$, and $\small D$, how many combinations are there when choosing two items $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -628,7 +625,7 @@ $
 ---
 
 
-### $\fbox{9}\:$There are $\small 9$ number balls labeled $\small 1$ to $\small 9$. How many groups of three balls can be formed $\small \mathpunct{?}$. 
+### $\fbox{9}\:$There are nine numbered balls labeled from $\small 1$ to $\small 9$. How many groups of three balls can be formed $\small \mathpunct{?}$. 
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -667,7 +664,7 @@ $
 ---
 
 
-### $\fbox{10}\:$There are $\small 9$ number balls labeled $\small 1$ to $\small 9$. How many three-digit numbers can be formed by selecting any three of them $\small \mathpunct{?}$.
+### $\fbox{10}\:$There are nine numbered balls labeled from $\small 1$ to $\small 9$. Three are chosen at random. How many three-digit numbers can be formed $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -683,8 +680,6 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-Р_9^3=9\times8\times7=504 \\
-p_n^m \Longleftrightarrow C_n^m\times m! \\
 Р_9^3=C_9^3 \times 3!=\frac{9\times8\times7}{3\times2\times1}\times(3\times2\times1)=84\times6=504 \\
 \end{array}
 $  
@@ -693,14 +688,13 @@ $
 - Derived Solution  
   ::: wrap
   > $\boldsymbol{(E)}$  
-  > According to the Solution, get $Р_9^3=C_9^3 \times 3!=504$, so choose $E$. 
+  > According to the Solution, get $Р_9^3=504$, so choose $E$. 
 
   :::
 - Formulas used  
   ::: wrap
   >$
   \begin{array}{ll}
-  P_n^m=n(n-1)(n-2)\cdots(n-m+1) & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
   P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
   \end{array}
   >$
