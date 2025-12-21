@@ -211,7 +211,7 @@ $
   > $
   >   - __[Combination formula](/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#number-of-combinations)__ $\boldsymbol{C_n^m=\frac{n!}{m!(n-m)!}}$
   >     - __order does not matter, remove duplicates caused by different orders__
-  > - __All distinct items can only be arranged using the multinomial coefficient $\boldsymbol{\frac{n!}{k_1!\times k_2!\times\cdots \times k_m!}}$__
+  > - __All distinct items can only be arranged using the multinomial coefficient $\boldsymbol{\frac{n!}{k_1!\times k_2!\times\cdots \times k_m!}=n!}$__
   >   - __combination formula not applicable, ignores order, removes ordered duplicates__
 
   :::  

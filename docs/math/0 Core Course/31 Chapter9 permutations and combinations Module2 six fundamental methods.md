@@ -58,7 +58,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-adjacent-element-bundling-method}{\textsf{adjacent element bundling method}} \\
-  m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 
@@ -104,7 +104,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-adjacent-element-bundling-method}{\textsf{adjacent element bundling method}} \\
-  m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 
@@ -153,7 +153,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-adjacent-element-bundling-method}{\textsf{adjacent element bundling method}} \\
-  m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 
@@ -212,7 +212,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
-  m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
   \end{array}
   >$
@@ -260,7 +260,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
-  m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
   \end{array}
   >$
@@ -367,7 +367,7 @@ $
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-adjacent-element-bundling-method}{\textsf{adjacent element bundling method}} \\
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
-  m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
   \end{array}
   >$
@@ -423,7 +423,7 @@ $
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-adjacent-element-bundling-method}{\textsf{adjacent element bundling method}} \\
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
-  m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#a-permutation-is-a-combination-followed-by-arrangement}{\textsf{combination to permutation formula}} \\
   \end{array}
   >$
@@ -489,7 +489,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
-  m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 
@@ -536,7 +536,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
-  m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 
@@ -1106,7 +1106,7 @@ $
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{5 incorrect matches: 44 ways}} \\
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{6 incorrect matches: 265 ways}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#formula-for-the-number-of-combinations}{\textsf{combination formula}} \\
-  m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#basic-permutation-formula-order-matters-remove-duplicates-from-swapping-identical-elements}{\textsf{basic permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 
