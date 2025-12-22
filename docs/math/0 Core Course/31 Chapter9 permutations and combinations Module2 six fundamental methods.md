@@ -6,7 +6,7 @@ lang: en-US
 
 # Module 9–02 Six Fundamental Methods
 
-## 1.Method of bundling adjacent items
+## 1.Method of Bundling Adjacent Items
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Adjacency
 - __Bundle adjacent items into a group and treat it as a single item for the permutation__.
@@ -162,17 +162,18 @@ $
   :::
 ---
 
-## 3.Alternating Element Insertion Method
-- For problems where certain elements must be separated (i.e., not adjacent),
-  first arrange the elements __without position restrictions__ in __all possible orders__.
-  Then insert __the specified separated elements__ into the available spaces __between and at both ends of the arranged elements__.
+## 3.Method of Inserting Alternating Items
+- __First arrange the unrestricted items__,
+  __then insert the remaining items into the gaps and at both ends according to the given conditions__.
+
 
 ## 4.Focus 2
-__The alternating element insertion method__   
-- First __arrange the other elements__, then insert the elements __that must not be adjacent__ into __the available gaps__.
+__The alternating item insertion method__   
+- __First arrange the unrestricted items__,
+  __then insert the non-adjacent items into the gaps__.
 
 
-### $\fbox{14}\:$Seven people are standing in a line for a photo. if $\small A, B$, and $\small C$ must not be adjacent to each other, how many different arrangements are possible $\small \mathpunct{?}$.
+### $\fbox{14}\:$Seven people stand in a row. If $\small A, B$, and $\small C$ must not be adjacent to each other, how many different arrangements are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -185,19 +186,14 @@ $
 $  
 :::
 #### Solution
-- Show known conditions  
-  - note that arranging non-adjacent elements first could lead to adjacency   
-
+- Show known conditions (arranging the non-adjacent items first may violate the condition)  
   ![Question six fundamental methods figure Q-14 solve-1.svg](../../public/math/Core%20Course/Question%20six%20fundamental%20methods%20figure%20Q-14%20solve-1.svg)  
   ::: wrap  
   $
   \begin{array}{ll}
-  \textsf{insert }A, B\textsf{, and }C \textsf{ into the available spaces} \\
-  \begin{cases}
   [D, E, F, G]=4! \\
-  C_{[?,?,?,?,?]}^{A, B, C}=C_5^3 \\
+  C_{[?,?,?,?,?]}^{[A, B, C]}=C_5^3 \\
   [A, B, C]=3! \\
-  \end{cases} \\
   4!\times C_5^3\times3!=\frac{5\times4\times3}{3\times2\times1}\times144=1440 \\
   \end{array}
   $  
@@ -213,7 +209,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
   \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
   \end{array}
@@ -222,7 +218,7 @@ $
   :::
 ---
 
-### $\fbox{15}\:$A performance has $\small 3$ dances, $\small 2$ dramas, and $\small 2$ solos. The dance performances cannot appear consecutively. How many different sequences of performances are possible $\small \mathpunct{?}$.
+### $\fbox{15}\:$In a performance, there are $\small 3$ dances, $\small 2$ dramas, and $\small 2$ songs. If the dance performances must not appear consecutively, how many different performance orders are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -240,12 +236,9 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  \textsf{insert }3\textsf{ dances into the available spaces}\\
-  \begin{cases}
   [\textsf{drama}, \textsf{drama}, \textsf{solo}, \textsf{solo}]=4! \\
-  C_{[?,?,?,?,?]}^{\textsf{dance}, \textsf{dance}, \textsf{dance}}=C_5^3 \\
+  C_{[?,?,?,?,?]}^{[\textsf{dance}, \textsf{dance}, \textsf{dance}]}=C_5^3 \\
   [\textsf{dance}, \textsf{dance}, \textsf{dance}]=3! \\
-  \end{cases} \\
   4!\times C_5^3\times3!=\frac{5\times4\times3}{3\times2\times1}\times144=1440 \\
   \end{array}
   $  
@@ -261,7 +254,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
   \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
   \end{array}
@@ -271,7 +264,7 @@ $
 ---
 
 
-### $\fbox{16}\:$The corridor has a row of $\small 8$ light bulbs. To save electricity without affecting the lighting, $\small 3$ bulbs must be turned off at the same time, but no adjacent bulbs can be turned off. How many ways are there to turn off the lights $\small \mathpunct{?}$.
+### $\fbox{16}\:$There are $\small 8$ lights in a row. Three lights are turned off at the same time, and no two adjacent lights may be turned off together. How many different ways are there to turn off the lights $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -284,18 +277,14 @@ $
 $  
 :::
 #### Solution
-- Analyze the given conditions to solve the light-turning-off model problem     
+- Show known conditions       
   ![Question six fundamental methods figure Q-16 solve-1.svg](../../public/math/Core%20Course/Question%20six%20fundamental%20methods%20figure%20Q-16%20solve-1.svg)  
   ::: wrap  
   $
   \begin{array}{ll}
-  8 \textsf{ lights}
-  \begin{cases}
-  \textsf{on}:5 \\
-  \textsf{off (not adjacent)}:3 \\
-  \end{cases} \\
-  \textsf{the lights (on or off) do not require sorting because they are the same} \\
-  C_{[?,?,?,?,?,?]}^{\textsf{off}, \textsf{off}, \textsf{off}}=C_6^3 \\
+  [\textsf{on}\mapsto5, \textsf{off (not adjacent)}\mapsto3] \\
+  \textsf{identical lights do not need to be arranged} \\
+  C_{[?,?,?,?,?,?]}^{[\textsf{off}, \textsf{off}, \textsf{off}]}=C_6^3 \\
   C_6^3=\frac{6\times5\times4}{3\times2\times1}=20 \\
   \end{array}
   $  
@@ -311,7 +300,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
@@ -320,14 +309,13 @@ $
 ---
 
 ## 5.Focus 3
-__The adjacent and non-adjacent cases appear together__   
-- When both adjacent and non-adjacent cases appear,
-  consider __the adjacent elements first__ — that is,
-  __group them together first__, then handle __the non-adjacent elements__.
+__The adjacent and non-adjacent items coexist__  
+- First, __bundle the adjacent items__,
+  __and then handle the non-adjacent items__.
 
 
 
-### $\fbox{17}\:$Seven people stand in a line. If $\small A$ and $\small B$ are adjacent, but neither of them is adjacent to $\small C$, how many different arrangements are there $\small \mathpunct{?}$.
+### $\fbox{17}\:$Seven people stand in a row. If $\small A$ and $\small B$ are adjacent and neither of them is adjacent to $\small C$, how many different arrangements are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -345,13 +333,10 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  \textsf{insert the package }[A, B]\textsf{ and }C\textsf{ into the available spaces} \\
-  \begin{cases}
   [A, B]=2! \\
   [D, E, F, G]=4! \\
-  C_{[?,?,?,?,?]}^{[A, B], C}=C_5^2 \\
+  C_{[?,?,?,?,?]}^{[[A, B], C]}=C_5^2 \\
   [[A, B], C]=2! \\
-  \end{cases} \\
   2!\times4!\times C_5^2\times2!= \frac{5\times4}{2\times1}\times96=960 \\
   \end{array}
   $  
@@ -368,7 +353,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-method-of-bundling-adjacent-items}{\textsf{adjacent-item bundling method}} \\
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
   \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
   \end{array}
@@ -378,7 +363,7 @@ $
 ---
 
 
-### $\fbox{18}\:$Six people — three men and three women — stand in a line. If two of the women must stand next to each other, how many different arrangements are possible $\small \mathpunct{?}$.
+### $\fbox{18}\:$Six people ($\small 3$ men and $\small 3$ women) stand in a row. If two of the women are adjacent, how many different arrangements are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -396,18 +381,12 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  \textsf{insert the package }[\textsf{female}, \textsf{female}]\textsf{ and }\textsf{female}\textsf{ into the available spaces} \\
-  \begin{cases}
   [\textsf{male}, \textsf{male}, \textsf{male}]=3! \\
-  \underbrace{\boxed{
-  \begin{array}{ll}
-  C_{[\textsf{female}, \textsf{female}, \textsf{female}]}^{\textsf{female}, \textsf{female}}=C_3^2 \\
+  \textsf{unknown two female items, use permutation formula} \\
+  C_{[\textsf{female}, \textsf{female}, \textsf{female}]}^{[\textsf{female}, \textsf{female}]}=C_3^2 \\
   [\textsf{female}, \textsf{female}] = 2! \\
-  \end{array}
-  }}_{\textsf{unknown female elements, need arrangement}} \\
-  C_{[?,?,?,?]}^{[\textsf{female}, \textsf{female}], \textsf{female}}=C_4^2 \\
+  C_{[?,?,?,?]}^{[[\textsf{female}, \textsf{female}], \textsf{female}]}=C_4^2 \\
   [[\textsf{female}, \textsf{female}], \textsf{female}]=2! \\
-  \end{cases} \\
   3!\times C_3^2\times2!\times C_4^2\times2!=\frac{3\times2}{2\times1}\times\frac{4\times3}{2\times1}\times24=432 \\
   \end{array}
   $  
@@ -424,7 +403,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-method-of-bundling-adjacent-items}{\textsf{adjacent-item bundling method}} \\
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
   \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   P_n^m=C_n^m\times m! & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
   \end{array}
@@ -434,20 +413,13 @@ $
 ---
 
 ## 6.Focus 4
-__The case where both types are non-adjacent__  
-- When the two types of elements __must not be adjacent__, first __arrange one type__,
-  then __insert the other into the gaps__
-  — making sure __all the available positions in between__ are __filled__.
-- Alternating arrangement  
-  $
-  \begin{cases}
-  [A, B, A, B] \\
-  [B, A, B, A] \\
-  \end{cases}
-  $
+__The neither of the two categories are adjacent items__  
+- First, __arrange one category__,
+  __and then insert the other category into the gaps__,
+  __filling all the intermediate gaps__.
 
 
-### $\fbox{19}\:$Six people — three men and three women — stand in a line. If the women are not adjacent to each other and the men are not adjacent to each other, how many different arrangements are possible $\small \mathpunct{?}$.
+### $\fbox{19}\:$Six people ($\small 3$ men and $\small 3$ women) stand in a row. If no two women are adjacent and no two men are adjacent, how many different arrangements are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -460,21 +432,19 @@ $
 $  
 :::
 #### Solution
-- It must be ensured that the available space in the middle (purple) contains elements    
+- Show known conditions (not filling all the intermediate gaps would violate the condition)  
   ![Question six fundamental methods figure Q-19 solve-1.svg](../../public/math/Core%20Course/Question%20six%20fundamental%20methods%20figure%20Q-19%20solve-1.svg)  
   ::: wrap  
   $
   \begin{array}{ll}
-  \textsf{insert the }3\textsf{ females into the available spaces} \\
-  \begin{cases}
   [\textsf{male}, \textsf{male}, \textsf{male}]=3! \\
   [\textsf{female}, \textsf{female}, \textsf{female}]=3! \\
-  \underbrace{
-  \begin{cases}
-  [\textsf{female},\textsf{male},\textsf{female},\textsf{male}] \\
-  [\textsf{male},\textsf{female},\textsf{male},\textsf{female}] \\
-  \end{cases}}_{2\textsf{ alternating arrangements}} = 2 \\
-  \end{cases} \\
+  \left.
+  \begin{array}{cc}
+  [\textsf{female},\textsf{male},\textsf{female},\textsf{male},\textsf{female},\textsf{male}] \\
+  [\textsf{male},\textsf{female},\textsf{male},\textsf{female},\textsf{male},\textsf{female}] \\
+  \end{array}
+  \right\}2 \\
   3!\times3!\times2=72 \\
   \end{array}
   $  
@@ -490,7 +460,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
   \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
@@ -498,8 +468,7 @@ $
   :::
 ---
 
-
-### $\fbox{20}\:$Seven people — four men and three women — stand in a line. If the women are not adjacent to each other and the men are not adjacent to each other, how many different arrangements are possible $\small \mathpunct{?}$.
+### $\fbox{20}\:$Seven people ($\small 4$ men and $\small 3$ women) stand in a row. If no two women are adjacent and no two men are adjacent, how many different arrangements are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -512,16 +481,13 @@ $
 $  
 :::
 #### Solution
-- For two groups with different quantities, __first arrange the larger group__, then insert the smaller group into __the available purple spaces in between__      
+- Show known conditions (arranging the smaller group first would violate the condition)  
   ![Question six fundamental methods figure Q-20 solve-1.svg](../../public/math/Core%20Course/Question%20six%20fundamental%20methods%20figure%20Q-20%20solve-1.svg)  
   ::: wrap  
   $
   \begin{array}{ll}
-  \textsf{insert the }3\textsf{ females into the available spaces} \\
-  \begin{cases}
   [\textsf{male}, \textsf{male}, \textsf{male}, \textsf{male}]=4! \\
   [\textsf{female}, \textsf{female}, \textsf{female}]=3! \\
-  \end{cases} \\
   4!\times3!=144 \\
   \end{array}
   $  
@@ -537,18 +503,18 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-alternating-element-insertion-method}{\textsf{alternating element insertion method}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
   \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 
   :::
-- Alternating arrangement formulas   
+- Alternating permutation formula   
   ::: wrap  
   >$
   \begin{array}{ll}
-  n!\times n!\times2 & n\textsf{ males and }n\textsf{ females alternating arrangement} \\
-  (n+1)!\times n! & (n+1)\textsf{ males and }n\textsf{ females alternating arrangement} \\
+  n!\times n!\times2 & n\textsf{ male }n\textsf{ female alternating} \\
+  (n+1)!\times n! & (n+1)\textsf{ male }n\textsf{ female alternating}  \\
   \end{array}
   >$
 
