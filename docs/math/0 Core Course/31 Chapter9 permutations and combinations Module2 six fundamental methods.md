@@ -556,7 +556,7 @@ __The stars and bars method__
     __the number of combinations is $\boldsymbol{C_{n+m-1}^{m-1}}$__.
   
 
-### $\fbox{21}\:$There are $\small 10$ athlete spots to be distributed among $\small 7$ classes, with each class receiving at least one. How many different distribution schemes are possible $\small \mathpunct{?}$.
+### $\fbox{21}\:$Distribute $\small 10$ candies to $\small 7$ people, with each person receiving at least one candy. How many different distributions are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -598,7 +598,7 @@ $
 ---
 
 
-### $\fbox{22}\:$There are $\small 18$ athlete spots to be distributed among $\small 7$ classes, with each class receiving at least $\small 2$ spots. How many different distribution schemes are possible $\small \mathpunct{?}$.
+### $\fbox{22}\:$Distribute $\small 18$ candies to $\small 7$ people, with each person receiving at least two candies. How many different distributions are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -614,10 +614,8 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\textsf{first, assign one to each class} \\
-18-7=11 \\
-\textsf{then, assign one more to each class} \\
-C_{11-1}^{7-1}=C_{10}^{6}=C_{10}^{4} \\
+18-7=11 & \textsf{first round} \\
+C_{11-1}^{7-1}=C_{10}^{6}=C_{10}^{4} & \textsf{second round} \\
 C_{10}^{4}=\frac{10\times\bcancel{9}\times\bcancel{8}\times7}{\bcancel{4}\times\bcancel{3}\times\bcancel{2}\times1}=\frac{10\times3\times7}{1}=210 \\
 \end{array}
 $  
@@ -634,8 +632,8 @@ $
   >$
   \begin{array}{ll}
   C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars method}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   C_n^m=C_n^{n-m} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#properties-of-combinations}{\textsf{property of combinations}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -643,7 +641,7 @@ $
 ---
 
 
-### $\fbox{23}\:$How many solutions in positive integers are there to the equation $\small x_1+x_2+x_3+x_4=12 \,\mathpunct{?}$.
+### $\fbox{23}\:$Find the number of solutions in positive integers for $\small x_1+x_2+x_3+x_4=12$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -656,12 +654,12 @@ $
 $  
 :::
 #### Solution 
-- Treat $x_1,x_2,x_3,x_4$ as dividing 12 balls into 4 groups     
+- Show known conditions  
   ![Question six fundamental methods figure Q-22 solve-1.svg](../../public/math/Core%20Course/Question%20six%20fundamental%20methods%20figure%20Q-22%20solve-1.svg)  
   ::: wrap  
   $
   \begin{array}{ll}
-  \textsf{let }x_1=1,x_2=3,x_3=4,x_4=4 \\
+  \textsf{let }x_1=1 \quad x_2=3 \quad x_3=4 \quad x_4=4 \\
   C_{12-1}^{4-1}=C_{11}^{3}=\frac{11\times\bcancel{10}\times\bcancel{9}}{\bcancel{3}\times\bcancel{2}\times1}=\frac{11\times5\times3}{1}=165 \\
   \end{array}
   $  
@@ -683,15 +681,15 @@ $
   >$
 
   :::
-- Additionally, if the problem is about non-negative integers (i.e., __object can be empty__) 
+- Additionally, if the problem is find the number of solutions in non-negative integers for $x_1+x_2+x_3+x_4=12$  
   ::: wrap  
   > ![Question six fundamental methods figure Q-22 solve-1.svg](../../public/math/Core%20Course/Question%20six%20fundamental%20methods%20figure%20Q-22%20solve-1.svg)  
   >$
   \begin{array}{ll}
   \underbrace{x_1}_{\ge0}+\underbrace{x_2}_{\ge0}+\underbrace{x_3}_{\ge0}+\underbrace{x_4}_{\ge0}=12 \\
-  \underbrace{\textsf{each object must receive at least one }}_{\ge 1} \\
+  \textsf{each object receives at least one item} \\
   (x_1+1)+(x_2+1)+(x_3+1)+(x_4+1)=12+4 \\
-  y_1+y_2+y_3+y_4=16 & \textsf{convert to positive integer solutions} \\
+  \underbrace{y_1}_{\ge1}+\underbrace{y_2}_{\ge1}+\underbrace{y_3}_{\ge1}+\underbrace{y_4}_{\ge1}=16 \\
   C_{16-1}^{4-1}=C_{15}^{3} \Longleftrightarrow C_{n+m-1}^{m-1}=C_{12+4-1}^{4-1} \\
   \end{array}
   >$
@@ -700,7 +698,7 @@ $
 ---
 
 
-### $\fbox{24}\:$Distribute $\small 10$ identical candies to $\small 4$ children. If each child receives at least one candy, there are $\small n$ ways to distribute them. If some children are allowed to receive none, there are $\small m$ ways. What is $\small m−n \,\mathpunct{?}$.
+### $\fbox{24}\:$There are $\small 10$ candies to be distributed among $\small 4$ people. If each person receives at least one candy, there are $\small n$ ways; if some people are allowed to receive none, there are $\small m$ ways. Find $\small m−n$.
 ::: wrap  
 $
 \begin{array}{lllll}
