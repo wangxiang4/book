@@ -523,42 +523,38 @@ $
 
 ## 7.Divider Method with Identical Items (Stars and Bars)
 
-### $\textcolor{#1E3A5F}{\fbox{1}}\:$Conditions for application  
-- Elements are __identical__.
-- Objects are __different__.
-- __Each object is assigned at least one__.
+### $\textcolor{#1E3A5F}{\fbox{1}}\:$Conditions  
+- __The items are identical__
+- __The objects are distinct__
+- __Each object receives at least one item__
 
-### $\textcolor{#1E3A5F}{\fbox{2}}\:$Principle of the method
-- Since __the items are identical__,
-  __each object__ is __distinguished__ only by __the quantity assigned to it__.
-  Therefore, by adjusting __the distribution quantity__ using __dividers__,
-  __the number of ways to place the dividers__ represents __the number of possible distributions__.
+### $\textcolor{#1E3A5F}{\fbox{2}}\:$Principle
+- __The items are identical__,
+  and __each object is distinguished by the number of items it receives__.
 
 
 ### $\textcolor{#1E3A5F}{\fbox{3}}\:$Formula
-- For $n$ identical elements and $m$ distinct distribution objects,
-  if __the distribution objects are non-empty__ (i.e., __each object must receive at least one__),
-  there are $\boldsymbol{C_{n-1}^{m-1}}$ ways.
-  - $C_{n-1}^{m-1}=C_{\textsf{number of dividers}}^{\textsf{number of gaps}}$
-- Explanation: Arrange __the $\boldsymbol{n}$ identical elements in a row__, which creates $n−1$ gaps between them.
-  By __inserting $\boldsymbol{m−1}$ dividers__, the elements can be divided into $m$ parts.
-  Thus, the formula is $C_{n-1}^{m-1}$.
-  If the distribution objects can be empty,
-  treat __the elements as $\boldsymbol{m+n}$ items__ and apply the divider method.
-  In this case, there are $C_{n+m-1}^{m-1}$ ways.   
-  ![Divider method formula explanation.svg](../../public/math/Core%20Course/Divider%20method%20formula%20explanation.svg)   
-- In the divider method, dividers cannot be placed before the first element or after the last element,
-  nor can two dividers be placed in the same gap.
+- __There are $\boldsymbol{n}$ identical items and $\boldsymbol{m}$ distinct objects__.
+  __Each object receives at least one item__.
+  - $\boldsymbol{C_{\textsf{gaps}}^{\textsf{dividers}}}=C_{n-1}^{m-1}$
+  - __If the objects are empty__, $\boldsymbol{\textsf{total items}=m+n}$  
+    $\boldsymbol{C_{n+m-1}^{m-1}}$
+- __A row of $\boldsymbol{n}$ identical items has $\boldsymbol{n−1}$ gaps between them__.
+  __By inserting $\boldsymbol{m−1}$ dividers__,
+  __the row can be divided into $\boldsymbol{n}$ parts__.  
+  ![Divider method formula explanation.svg](../../public/math/Core%20Course/Divider%20method%20formula%20explanation.svg)
+- __In the divider method__,
+  __dividers cannot be placed at the ends__,
+  __and no two dividers can be placed together__.
 
 ## 8.Focus 5
-__The identical elements divider method__  
-- Conditions for using the divider method:
-  ① __The $n$ elements must be identical__.
-  ② __The $m$ recipients (or groups) must be distinct__.
-  If __no group is allowed to be empty__ (i.e., each group must receive at least one element),
-  then there are $\boldsymbol{C_{n-1}^{m-1}}$ ways.
-  If __empty groups are allowed__, then there are $\boldsymbol{C_{n+m-1}^{m-1}}$ ways.
-
+__The stars and bars method__  
+- __There are $\boldsymbol{n}$ identical items and $\boldsymbol{m}$ distinct objects__.
+  __Each object receives at least one item__.  
+  - $\boldsymbol{C_{\textsf{gaps}}^{\textsf{dividers}}}=C_{n-1}^{m-1}$
+  - __If the objects are empty__,
+    __the number of combinations is $\boldsymbol{C_{n+m-1}^{m-1}}$__.
+  
 
 ### $\fbox{21}\:$There are $\small 10$ athlete spots to be distributed among $\small 7$ classes, with each class receiving at least one. How many different distribution schemes are possible $\small \mathpunct{?}$.
 ::: wrap  
@@ -593,7 +589,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars formula}} \\
+  C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars method}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
@@ -637,7 +633,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars formula}} \\
+  C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars method}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   C_n^m=C_n^{n-m} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#properties-of-combinations}{\textsf{property of combinations}} \\
   \end{array}
@@ -681,7 +677,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars formula}} \\
+  C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars method}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
@@ -738,8 +734,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars formula}} \\
-  C_{n+m-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{unrestricted stars and bars formula}} \\
+  C_{n-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars method}} \\
+  C_{n+m-1}^{m-1} & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{unrestricted stars and bars method}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
