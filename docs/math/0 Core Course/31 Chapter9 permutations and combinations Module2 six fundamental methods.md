@@ -528,7 +528,7 @@ $
 - __The objects are distinct__
 - __Each object receives at least one item__
 
-### $\textcolor{#1E3A5F}{\fbox{2}}\:$Principle
+### $\textcolor{#1E3A5F}{\fbox{2}}\:$Description
 - __The items are identical__,
   and __each object is distinguished by the number of items it receives__.
 
@@ -741,38 +741,35 @@ $
   :::
 ---
 
-## 9.Exponentiation Method with Repeated Elements
+## 9.Power Method with Repeated Items
 
-### $\textcolor{#1E3A5F}{\fbox{1}}\:$Conditions for application
-- Elements are __distinct__.  
-- Objects are __distinct__.  
-- Repetition is allowed (__common elements can be reused__).
+### $\textcolor{#1E3A5F}{\fbox{1}}\:$Conditions
+- __The items are distinct__
+- __The objects are distinct__
+- __The objects can be used repeatedly__
 
-### $\textcolor{#1E3A5F}{\fbox{2}}\:$Introduction to the method
-- The characteristic of __permutation problems with repetition allowed__ is __that elements are the objects of study__,
-  and __their positions are not constrained__.
-  Each element can be __placed one by one__.
-  In general,
-  the number of ways to __arrange $\boldsymbol{n}$ different elements__ into __$\boldsymbol{m}$ different positions__ is $\boldsymbol{m^n}$.
 
-### $\textcolor{#1E3A5F}{\fbox{3}}\:$Application of the method
-1. There are $\boldsymbol{m^n}$ ways for __$\boldsymbol{n}$ people__ to go into __$\boldsymbol{m}$ different rooms__.
-2. There are $\boldsymbol{m^n}$ ways to put __$\boldsymbol{n}$ different balls__ into __$\boldsymbol{m}$ different boxes__.
-3. There are $\boldsymbol{m^n}$ ways to place __$\boldsymbol{n}$ different letters__ into __$\boldsymbol{m}$ different mailboxes__.
+### $\textcolor{#1E3A5F}{\fbox{2}}\:$Description
+- __Placing $\boldsymbol{n}$ distinct items into $\boldsymbol{m}$ distinct objects yields $\boldsymbol{m^n}$ ways__.
 
-- __Derivation of the $m^n$ exponentiation method__  
-  ::: wrap
-  $
-  \begin{array}{ll}
-  n\textsf{ people} \quad m\textsf{ rooms}: \\
-  \underbrace{C_m^1}_{1\textsf{st person}}\times\underbrace{C_m^1}_{2\textsf{nd person}}\times\underbrace{C_m^1}_{3\textsf{rd person}}\times\cdots\times\underbrace{C_m^1}_{n^\textsf{th}\textsf{ person}}=m^n \\
-  \end{array}
-  $  
-  :::
-  - Essence: multiply identical choices, resulting in exponentiation.   
-  - $m^n = \textsf{container}^\textsf{items}$, $m$: shared, common, and reusable.   
-  - $m$: __number of available options__ (supply).
-  - $n$: __number of choosers__ (demand).
+
+### $\textcolor{#1E3A5F}{\fbox{3}}\:$Usage
+- $\boldsymbol{\textsf{objects}^\textsf{items}=m^n}$
+  - $\boldsymbol{m=\textsf{common objects}}$
+  - __Method derivation__  
+    ::: wrap
+    $
+    \begin{array}{ll}
+    n\textsf{ people} \to m\textsf{ rooms} \\
+    \underbrace{C_m^1}_{1\textsf{st person}}\times\underbrace{C_m^1}_{2\textsf{nd person}}\times\underbrace{C_m^1}_{3\textsf{rd person}}\times\cdots\times\underbrace{C_m^1}_{n^\textsf{th}\textsf{ person}}=m^n \\
+    \textsf{repeated multiplication of the same combination yields a power}
+    \end{array}
+    $  
+    :::
+- __$\boldsymbol{n}$ people going to $\boldsymbol{m}$ different rooms yields $\boldsymbol{m^n}$ ways__.
+- __$\boldsymbol{n}$ distinct balls placed into $\boldsymbol{m}$ distinct boxes yields $\boldsymbol{m^n}$ ways__.
+- __$\boldsymbol{n}$ distinct letters put into $\boldsymbol{m}$ distinct mailboxes yields $\boldsymbol{m^n}$ ways__.
+
 
 ## 10.Focus 6
 __The repeated-element exponentiation method__  
