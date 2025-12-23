@@ -4,66 +4,57 @@ lang: en-US
 ---
 
 
-# Module 10–01 Classical Probability Model
+# Module 10–01 Classical Probability
 
 ## 1.Random Experiment
-- If an experiment satisfies the following conditions:  
-  __(1)__ The experiment can be __repeated__ under the same conditions;  
-  __(2)__ The experiment __has many possible outcomes__;  
-  __(3)__ The result of the experiment __cannot be determined in advance__, only __the set of all possible outcomes is known__.  
-- Such an experiment is called a random experiment, abbreviated as $E$.
+- __The experiment can be repeated under the same conditions__.
+- __The experiment has many possible outcomes__.
+- __The outcome of the experiment cannot be determined in advance__;
+  __only all possible outcomes can be determined__.
+- If __the conditions are satisfied__, __the random event is denoted by $\boldsymbol{E}$__.
+
 
 ## 2.Random Event
-- An event __that may or may not occur__ under certain conditions is called __a random event__. It is commonly denoted as $\boldsymbol{A, B, C},\cdots$.
-- Event = experiment + specified outcome  
-  - $=$ specified outcome: occurrence (success).  
-  - $\ne$ specified outcome: non-occurrence (failure).  
-    - $\lt \lor \gt$ specified outcome: non-occurrence (failure).
+- __An event that may or may not occur under given conditions is called a random event__, __denoted by $\boldsymbol{A, B, C},\cdots$__.
+- $\boldsymbol{\textsf{event}=\textsf{experiment}+\textsf{specified outcomes}}$  
+  - $\boldsymbol{=\textsf{specified outcome}}$: __occurrence (success)__
+  - $\boldsymbol{\ne\textsf{specified outcome}}$: __non-occurrence (failure)__
+  - $\boldsymbol{\lt\lor\gt\textsf{specified outcome}}$: __non-occurrence (failure)__
 
 ## 3.Basic Event, Certain Event, Impossible Event
-- __A single-point set composed of one sample point__ is called __a basic event__,
-  also known as __a sample point__.
-  __The sample space contains all sample points__.
-- ###### An event that always occurs in every trial is called __a certain event__.
-- ###### An event that never occurs in any trial is called __an impossible event__. denoted as $\varnothing$.
-- Note: every possible outcome (event $A$) that may occur in a single trial is called __a basic event__.
-  These three types of events __occur under certain conditions__,
-  and when __the conditions change__,
-  __the nature of the event may also change__.
-
+- __Basic event__: __a single sample point in the sample space__.
+  __Each possible outcome in a single experiment is called a basic event__.
+  In a dice experiment $\boldsymbol{E=\left\{1,2,3,4,5,6\right\}}$, there are six basic events
+- ###### __Certain event__: __an event that occurs in every trial__
+- ###### __Impossible event__: __an event that never occurs in any trial__, __denoted by $\boldsymbol{\varnothing}$__
 
 ## 4.Definition of Probability
-- __The measure of the likelihood__ of a random event $A$ occurring is called __the probability of event $\boldsymbol{A}$__,
-  denoted as $\boldsymbol{P(A)}$.
+- __The likelihood of a random event $\boldsymbol{A}$ occurring is called the probability of event $\boldsymbol{A}$__, __denoted by $\boldsymbol{P(A)}$__.
 
 
 ## 5.Properties of Probability
-- ###### Let $A_1,A_2,\cdots,A_n$ be a finite set of __mutually exclusive events__, then $\boldsymbol{P(\bigcup_{i=1}^n A_i)=\sum_{i=1}^{n}P(A_i)}$.
-- ###### Let $\overline{A}$ be the complement of event $A$, then $\boldsymbol{P(\overline{A})=1-P(A)}$.
+- __If $\boldsymbol{A_1,A_2,\cdots,A_n}$ are mutually exclusive__,
+  __their union is given by $\boldsymbol{P(\bigcup_{i=1}^{n}A_i)=\sum_{i=1}^{n}P(A_i)}$__.
+- __If $\boldsymbol{\overline{A}}$ is the complement of $\boldsymbol{A}$__,
+  __the probability of $\boldsymbol{\overline{A}}$ is denoted by $\boldsymbol{P(\overline{A})=1-P(A)}$__.
 
+## 6.Classical Probability Experiment
+- __The sample space consists of a finite number of outcomes (basic events)__.
+- __Each basic event has an equal chance of occurring ($\boldsymbol{P(A)+P(\overline{A})=1}$)__.
+- If __the conditions are satisfied__,
+  __the random event $\boldsymbol{E}$ is called a classical probability experiment__.
 
-## 6.Classical Probability Model
-- A random experiment $E$ has the following two characteristics:   
-  __(1)__ The elements of the sample space (i.e., basic events) are __finite in number__ (__countable__);   
-  __(2)__ $\boldsymbol{P(A)+P(\overline{A})=1}$ Each basic event has __an equal probability of occurring__ (__fair__).    
-    
-- Such an experiment is called a classical probability experiment.  
-
-## 7.Calculation Formula
+## 7.Formula
 ::: wrap  
-- In __the classical probability model__, the probability of event $A$ is defined as    
-  $P(A)=\frac{k=\textsf{number of basic events contained in event }A}{n=\textsf{total number of basic events in the sample space}}$
+- $P(A)=\frac{k}{n}=\frac{\textsf{number of basic events in event }A}{\textsf{total number of basic events in sample space}}$
 :::  
 
-## 8.Understanding
-- For classical probability,
-  it is necessary to use permutations and combinations to calculate __the number of cases for both the numerator and the denominator__,
-  and then __express the probability as a ratio__.
-  __The denominator__ in a classical probability model corresponds to __the total number of possible outcomes__,
-  which is __relatively easy to calculate__,
-  while __the numerator__,
-  representing __the favorable outcomes__,
-  is often __more challenging to determine__.
+## 8.Explanation
+- In classical probability,
+  __one needs to use permutations and combinations to calculate the number of cases for both the numerator and the denominator__.
+  __The denominator__, __representing the total number of cases__, __is relatively simple__,
+  __while calculating the numerator is more complex__.
+
 
 ## 9.Focus 1
 __The basic concepts__
@@ -106,7 +97,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#an-event-that-always-occurs-in-every-trial-is-called-a-certain-event}{\textsf{certain event}} \\
+  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#certain-event-an-event-that-occurs-in-every-trial}{\textsf{certain event}} \\
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_2-random-event}{\textsf{random event}} \\
   \end{array}
   >$
@@ -150,7 +141,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#an-event-that-never-occurs-in-any-trial-is-called-an-impossible-event-denoted-as}{\textsf{impossible event}} \\
+  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#impossible-event-an-event-that-never-occurs-in-any-trial-denoted-by}{\textsf{impossible event}} \\
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_2-random-event}{\textsf{random event}} \\
   \end{array}
   >$
@@ -208,10 +199,10 @@ $
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#single-sampling-the-order-of-the-selected-elements-doesn-t-matter}{\textsf{single sampling}} \\
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#sequential-sampling-by-default-one-element-is-taken-each-time}{\textsf{sequential sampling}} \\
-  P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-calculation-formula}{\textsf{classical probability model formula}} \\
+  P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-formula}{\textsf{classical probability formula}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
-  P(A)+P(\overline{A})=1 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_6-classical-probability-model}{\textsf{classical probability model characteristics}} \\
-  P(\overline{A})=1-P(A) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#let-be-the-complement-of-event-then}{\textsf{complementary probability}} \\
+  P(A)+P(\overline{A})=1 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_6-classical-probability-experiment}{\textsf{classical probability experiment}} \\
+  P(\overline{A})=1-P(A) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-properties-of-probability}{\textsf{complementary probability}} \\
   \end{array}
   >$
 
@@ -262,8 +253,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P(\bigcup_{i=1}^n A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#let-be-a-finite-set-of-mutually-exclusive-events-then}{\textsf{union of disjoint events}} \\
-  P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-calculation-formula}{\textsf{classical probability model formula}} \\
+  P(\bigcup_{i=1}^n A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-properties-of-probability}{\textsf{union of mutually exclusive events}} \\
+  P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-formula}{\textsf{classical probability formula}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
@@ -318,7 +309,7 @@ $
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_11-sampling-with-numbered-samples}{\textsf{sampling with numbers enumeration method}} \\
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#sequential-sampling-by-default-one-element-is-taken-each-time}{\textsf{sequential sampling}} \\
-  P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-calculation-formula}{\textsf{classical probability model formula}} \\
+  P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-formula}{\textsf{classical probability formula}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
@@ -384,7 +375,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_11-sampling-with-numbered-samples}{\textsf{sampling with numbers enumeration method}} \\
-  P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-calculation-formula}{\textsf{classical probability model formula}} \\
+  P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-formula}{\textsf{classical probability formula}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
@@ -750,7 +741,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P(\bigcup_{i=1}^n A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#let-be-a-finite-set-of-mutually-exclusive-events-then}{\textsf{union of disjoint events}} \\
+  P(\bigcup_{i=1}^n A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-properties-of-probability}{\textsf{union of mutually exclusive events}} \\
   \end{array}
   >$
 
@@ -848,7 +839,7 @@ $
   >$
   \begin{array}{ll}
   P(A_1A_2\times A_n)=P(A_1)\times P(A_2)\times\cdots\times P(A_n) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#if-events-are-mutually-independent-then-the-probability-that-all-events-occur-is-the-product-of-their-individual-probabilities}{\textsf{all succeed probability}} \\
-  P(\bigcup_{i=1}^n A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#let-be-a-finite-set-of-mutually-exclusive-events-then}{\textsf{union of disjoint events}} \\
+  P(\bigcup_{i=1}^n A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-properties-of-probability}{\textsf{union of mutually exclusive events}} \\
   \end{array}
   >$
 
