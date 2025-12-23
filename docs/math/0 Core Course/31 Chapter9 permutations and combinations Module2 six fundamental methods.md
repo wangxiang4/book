@@ -1073,25 +1073,24 @@ $
 
 ## 13.Exhaustive Listing Method
 
-### $\textcolor{#1E3A5F}{\fbox{1}}\:$When to use
-- When __elements interfere with each other__ or __cannot be directly selected__,
-  use __exhaustive listing__ to solve __the problem based on the requirements of the question__.
+### $\textcolor{#1E3A5F}{\fbox{1}}\:$Usage
+- __When items interfere with each other or cannot be chosen directly__,
+  __list them according to the conditions__.
+- __When listing__,
+  __a reference standard must be established__;
+  __otherwise, errors of overcounting or undercounting may occur__.
 
-### $\textcolor{#1E3A5F}{\fbox{2}}\:$Note
-- When listing, it is important to __establish a clear reference standard__;
-  otherwise, it is easy to __overcount__ or __undercount__ the possibilities.
 
 
 ## 14.Focus 8
 __The exhaustive listing method__  
-- When the constraints on the elements make __it impossible to use combinations directly__,
-  all possible cases must be listed __according to the given conditions__.
-  If __direct (positive) listing involves too many cases__,
-  the problem can be solved by __listing the complementary (negative) cases instead__.
+- When __the conditions make combinations impossible to choose directly__,
+  __list them according to the conditions__.
+  __If direct listing is complex__,
+  __use complementary listing__.
 
 
-
-### $\fbox{31}\:$There are $\small 9$ cards, each labeled with a natural number from $\small 1$ to $\small 9$. How many different ways are there to choose $\small 3$ cards such that the sum of the numbers on them is $\small 9 \,\mathpunct{?}$.
+### $\fbox{31}\:$Nine cards are numbered $\small 1$ to $\small 9$. Three cards are drawn such that their numbers sum to $\small 9$. How many different drawn are there $\mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -1104,17 +1103,17 @@ $
 $  
 :::
 #### Solution
-- Start by establishing a reference standard the simple case $1$ to solve     
+- Establish $1$ as the reference standard  
   ::: wrap  
   $
   \begin{array}{ll}
   \underbrace{1}_{\Delta}\quad2\quad3\quad4\quad5\quad6\quad7\quad8\quad9 \\
-  \textsf{contains number }1
+  1
   \begin{cases}
   1+2+6=9 \\
   1+3+5=9 \\
   \end{cases} \\
-  \textsf{contains number }2
+  2
   \begin{cases}
   2+3+4=9 \\
   \end{cases} \\
@@ -1140,7 +1139,7 @@ $
 ---
 
 
-### $\fbox{32}\:$Using a balance scale and one each of $\small 1$ gram, $\small 3$ grams, and $\small 9$ grams weights (without using any other items as weights), how many different weights can be measured when the weights can only be placed on the same pan $\small \mathpunct{?}$.
+### $\fbox{32}\:$A balance scale has weights of $\small 1\textsf{g}$, $\small 3\textsf{g}$, and $\small 9\textsf{g}$, If the weights can be placed on only one side, how many different weights are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -1153,25 +1152,25 @@ $
 $  
 :::
 #### Solution
-- Show known conditions    
+- Show known conditions  
   ![Question six fundamental methods figure Q-32 solve-1.svg](../../public/math/Core%20Course/Question%20six%20fundamental%20methods%20figure%20Q-32%20solve-1.svg)  
   ::: wrap  
   $
   \begin{array}{ll}
-  1\;\textsf{gram} \quad 3\;\textsf{grams} \quad 9\;\textsf{grams} \\
-  \textsf{choose }1\textsf{ item to combine}
+  1\textsf{g} \quad 3\textsf{g} \quad 9\textsf{g} \\
+  \textsf{one weight}
   \begin{cases}
   1 \\
   3 \\
   9 \\
   \end{cases} \\
-  \textsf{choose }2\textsf{ items to combine}
+  \textsf{two weights}
   \begin{cases}
   1+3 \\
   1+9 \\
   3+9 \\
   \end{cases} \\
-  \textsf{choose }3\textsf{ items to combine}
+  \textsf{three weights}
   \begin{cases}
   1+3+9
   \end{cases} \\
@@ -1197,7 +1196,7 @@ $
 ---
 
 
-### $\fbox{33}\:$Mike has $\small 1$ five-dollar bill, $\small 4$ two-dollar bills, and $\small 8$ one-dollar bills. Now, he wants to buy an 8-dollar novel. How many different ways can he pay $\small \mathpunct{?}$.
+### $\fbox{33}\:$Mike has one five-dollar bill, four ten-dollar bills, and eight one-dollar bills. He wants to buy a book costing $\small 8$ dollars. How many different pays are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -1213,20 +1212,18 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\textsf{exact change only} \\
-5 \quad [2, 2, 2, 2] \quad [1, 1, 1, 1, 1, 1, 1, 1] \\
-\textsf{choose }3\textsf{ items to combine — sum=8}
+5 \quad [10, 10, 10, 10] \quad [1, 1, 1, 1, 1, 1, 1, 1] \\
+3\textsf{ types}
 \begin{cases}
 5+2+1 \\
 \end{cases} \\
-\textsf{choose }2\textsf{ items to combine — sum=8}
-\begin{cases}
+2\textsf{ types}\begin{cases}
 5+1+1+1 \\
 2+2+2+1+1 \\
 2+2+1+1+1+1 \\
 2+1+1+1+1+1+1 \\
 \end{cases} \\
-\textsf{choose }1\textsf{ item to combine — sum=8}
+1\textsf{ type}
 \begin{cases}
 2+2+2+2 \\
 1+1+1+1+1+1+1+1 \\
@@ -1253,7 +1250,7 @@ $
 ---
 
 
-### $\fbox{34}\:$Using 10-cent, 20-cent, and 50-cent coins (with no limit on the number of each coin), how many different ways can $\small 1$ dollar be made $\small \mathpunct{?}$.
+### $\fbox{34}\:$Using $\small 0.1, 0.2$, and $\small 0.5$, find the number of combinations that sum to $\small 1$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -1269,17 +1266,13 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\textsf{number of each type of coin is unlimited} \\
-\textsf{10-cent} = 0.1 \textsf{ USD} \\
-\textsf{20-cent} = 0.2 \textsf{ USD} \\
-\textsf{50-cent} = 0.5 \textsf{ USD} \\
-\textsf{choose }1\textsf{ item to combine — sum=1}
+1\textsf{ type}
 \begin{cases}
 0.1\times10 \\
 0.2\times5 \\
 0.5\times2 \\
 \end{cases} \\
-\textsf{choose }2\textsf{ items to combine — sum=1}
+2\textsf{ types}
 \begin{cases}
 0.1\times2+0.2\times4 \\
 0.1\times4+0.2\times3 \\
@@ -1287,7 +1280,7 @@ $
 0.1\times6+0.2\times2 \\
 0.1\times8+0.2 \\
 \end{cases} \\
-\textsf{choose }3\textsf{ items to combine — sum=1}
+3\textsf{ types}
 \begin{cases}
 0.5+0.2\times2+0.1 \\
 0.5+0.2+0.1\times3 \\
