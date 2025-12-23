@@ -741,7 +741,7 @@ $
   :::
 ---
 
-## 9.Power Method with Repeated Items
+## 9.Power Method with Repeated Objects
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Conditions
 - __The items are distinct__
@@ -772,11 +772,11 @@ $
 
 
 ## 10.Focus 6
-__The repeated-element exponentiation method__  
-- Learn how to apply the formula and understand its usage. __Be careful not to mix up the base and the exponent__.
+__The repeated-object power method__  
+- When __using the repeated-object power method__,
+  __do not interchange the base and the exponent__.
 
-
-### $\fbox{25}\:$Five people are signing up for three different training courses, and each person signs up for only one course. How many different ways can they sign up $\small \mathpunct{?}$.
+### $\fbox{25}\:$Five people register for three different training programs, with each person choosing exactly one program. How many possible registrations are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -792,7 +792,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-m^n=3^5=243 & \textsf{project}^\textsf{people} \\
+m^n=3^5=243 & \textsf{projects}^\textsf{people} \\
 \end{array}
 $  
 :::  
@@ -807,16 +807,16 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  m^n & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#application-of-the-method}{\textsf{repeated-element exponentiation method}} \\
+  m^n & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#usage}{\textsf{repeated-object power method}} \\
   \end{array}
   >$
 
   :::
-- Additionally, if the problem is that each person signs up for at least two courses   
+- Additionally, if the problem is that each person must register for at least two programs  
   ::: wrap  
   >$
   \begin{array}{ll}
-  C_3^2+C_3^3=3+1=4 & \textsf{ways for one of them to sign up} \\
+  C_3^2+C_3^3=3+1=4 & \textsf{each person's ways to register} \\
   4\times4\times4\times4\times4=4^5 \\
   \end{array}
   >$
@@ -825,7 +825,7 @@ $
 ---
 
 
-### $\fbox{26}\:$Five people sign up for three different competitions. Each competition has only one winner. How many different ways are there to assign the winners $\small \mathpunct{?}$.
+### $\fbox{26}\:$Five people participate in three different competitions. Each competition can have only one winner. How many winning outcomes are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -841,7 +841,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-m^n=C_5^1\times C_5^1\times C_5^1=5^3=125 & \textsf{person}^\textsf{competitions} \\
+m^n=C_5^1\times C_5^1\times C_5^1=5^3=125 & \textsf{people}^\textsf{competitions} \\
 \end{array}
 $  
 :::  
@@ -856,7 +856,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  m^n & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#application-of-the-method}{\textsf{repeated-element exponentiation method}} \\
+  m^n & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#usage}{\textsf{repeated-object power method}} \\
   \end{array}
   >$
 
@@ -864,7 +864,7 @@ $
 ---
 
 
-### $\fbox{27}\:$How many different ways are there to assign $\small 6$ interns to $\small 7$ workshops for their internships $\small \mathpunct{?}$.
+### $\fbox{27}\:$Six people are assigned to seven groups. How many different assignments are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -880,7 +880,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-m^n=7^6 & \textsf{workshop}^\textsf{people}\\
+m^n=7^6 & \textsf{groups}^\textsf{people}\\
 \end{array}
 $  
 :::  
@@ -895,7 +895,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  m^n & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#application-of-the-method}{\textsf{repeated-element exponentiation method}} \\
+  m^n & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#usage}{\textsf{repeated-object power method}} \\
   \end{array}
   >$
 
@@ -906,35 +906,34 @@ $
 
 ## 11.Correct Matching and Incorrect Matching
 
-### $\textcolor{#1E3A5F}{\fbox{1}}\:$Conditions of application
-- Elements are __different__.  
-- Objects are __different__.  
-- There is __a correspondence__ between elements and objects.
+### $\textcolor{#1E3A5F}{\fbox{1}}\:$Conditions
+- __The items are distinct__
+- __The objects are distinct__
+- __Items correspond to objects__
 
-### $\textcolor{#1E3A5F}{\fbox{2}}\:$Introduction to the method
-- Regardless of the number of elements, as long as they are __correctly matched__, there is __only one way__ to do it.
-- For $n$ elements, if __$(n-1)$ elements are correctly matched__, it means __all the elements are correctly matched__.
-- For incorrect matching arrangements, the number of methods is as follows:  
-  - __$\boldsymbol{2}$ incorrect matches: $\boldsymbol{1}$ way__.
-  - __$\boldsymbol{3}$ incorrect matches: $\boldsymbol{2}$ ways__.
-  - __$\boldsymbol{4}$ incorrect matches: $\boldsymbol{9}$ ways__.
-  - __$\boldsymbol{5}$ incorrect matches: $\boldsymbol{44}$ ways__.  
-  - $6$ incorrect matches: $265$ ways.
 
-  ![Incorrect matches of 2 and 3 elements.svg](../../public/math/Core%20Course/Incorrect%20matches%20of%202%20and%203%20elements.svg)  
+### $\textcolor{#1E3A5F}{\fbox{2}}\:$Description
+- __correct matches: $\boldsymbol{1}$ way__
+- __$\boldsymbol{2}$ incorrect matches: $\boldsymbol{1}$ way__
+- __$\boldsymbol{3}$ incorrect matches: $\boldsymbol{2}$ ways__
+- __$\boldsymbol{4}$ incorrect matches: $\boldsymbol{9}$ ways__
+- __$\boldsymbol{5}$ incorrect matches: $\boldsymbol{44}$ ways__
+- __$\boldsymbol{6}$ incorrect matches: $\boldsymbol{265}$ ways__
+
+![Incorrect matches of 2 and 3 elements.svg](../../public/math/Core%20Course/Incorrect%20matches%20of%202%20and%203%20elements.svg)
+
 
 
 ## 12.Focus 7
 __The correct matching and incorrect matching__  
-- When elements are __correctly matched__, there is __only one way to arrange them__.
-  When they are __incorrectly matched__, __the results can be memorized__:
-  $2$ incorrect matches: $1$ way,
-  $3$ incorrect matches: $2$ ways,
-  __$\boldsymbol{4}$ incorrect matches: $\boldsymbol{9}$ ways__,
-  $5$ incorrect matches: $44$ ways.
+- __correct matches: $\boldsymbol{1}$ way__
+- __$\boldsymbol{2}$ incorrect matches: $\boldsymbol{1}$ way__
+- __$\boldsymbol{3}$ incorrect matches: $\boldsymbol{2}$ ways__
+- __$\boldsymbol{4}$ incorrect matches: $\boldsymbol{9}$ ways__
+- __$\boldsymbol{5}$ incorrect matches: $\boldsymbol{44}$ ways__
 
 
-### $\fbox{28}\:$There are $\small 5$ balls numbered $\small 1, 2, 3, 4, 5$ and $\small 5$ boxes also numbered $\small 1, 2, 3, 4, 5$. Each ball is to be placed into a box, with exactly one ball placed in the box that has the same number as the ball. Each box must contain exactly one ball. How many such arrangements are there in total $\small \mathpunct{?}$.
+### $\fbox{28}\:$Five balls labeled $\small 1, 2, 3, 4, 5$ and five boxes labeled $\small 1, 2, 3, 4, 5$. Each box receives one ball, If exactly one ball is placed in the box with the same number, how many possible ways are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -967,7 +966,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{4 incorrect matches: 9 ways}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{4\textsf{ incorrect matches: }9\textsf{ ways}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
@@ -976,7 +975,7 @@ $
 ---
 
 
-### $\fbox{29}\:$There are $\small 6$ teachers, each teaching one of $\small 6$ classes. During the exam, two teachers proctor the classes they themselves teach. How many such proctoring arrangements are there $\small \mathpunct{?}$.
+### $\fbox{29}\:$Six people and six groups, with one person per group. If exactly two people are in the group with the same number, how many possible ways are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -1009,7 +1008,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{4 incorrect matches: 9 ways}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{4\textsf{ incorrect matches: }9\textsf{ ways}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
@@ -1018,7 +1017,7 @@ $
 ---
 
 
-### $\fbox{30}\:$There are $\small 6$ teachers, each teaching one of $\small 6$ classes. During the exam, at least two teachers proctor the classes they themselves teach. How many such proctoring arrangements are there $\small \mathpunct{?}$.
+### $\fbox{30}\:$Six people and six groups, with one person per group. If at least two people are in the group with the same number, how many possible ways are there $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -1031,17 +1030,16 @@ $
 $  
 :::
 #### Solution
-- Show known conditions  
+- Show known conditions (at least two $\Longleftrightarrow \ge2$)  
   ![Question six fundamental methods figure Q-30 solve-1.svg](../../public/math/Core%20Course/Question%20six%20fundamental%20methods%20figure%20Q-30%20solve-1.svg)  
   ::: wrap  
   $
   \begin{array}{ll}
-  \textsf{at least two teachers} \Longleftrightarrow \ge2 \\
-  \textcolor{#228B22}{\scriptsize\fbox{1}}\:\ge2 & \textsf{direct counting} \\
+  \textcolor{#228B22}{\scriptsize\fbox{1}}\:\textsf{solve by using the direct counting (}\ge2\textsf{)} \\
   C_6^2\times9 + C_6^3\times2 + C_6^4\times1 + C_6^6 \\
   \frac{6\times5}{2\times1}\times9 + \frac{\bcancel{6}\times5\times4}{\bcancel{3}\times\bcancel{2}\times1}\times2 + \frac{\bcancel{6}\times5\times\bcancel{4}\times3}{\bcancel{4}\times\bcancel{3}\times\bcancel{2}\times1}\times1 + 1 \\
   15\times9 + 20\times2 + 15\times1 +1 = 191 \\
-  \textcolor{#228B22}{\scriptsize\fbox{1}}\:\lt2 & \textsf{complementary counting} \\
+  \textcolor{#228B22}{\scriptsize\fbox{2}}\:\textsf{solve by using the complementary counting (}\lt2\textsf{)} \\
   6!-C_6^1\times44-265 \\
   720-(6\times44)-265=191 \\
   \end{array}
@@ -1058,12 +1056,12 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{all correct matches: 1 ways}} \\
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{2 incorrect matches: 1 ways}} \\
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{3 incorrect matches: 2 ways}} \\
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{4 incorrect matches: 9 ways}} \\
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{5 incorrect matches: 44 ways}} \\
-  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#introduction-to-the-method-1}{\textsf{6 incorrect matches: 265 ways}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{\textsf{correct matches: }1\textsf{ ways}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{2\textsf{ incorrect matches: }1\textsf{ ways}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{3\textsf{ incorrect matches: }2\textsf{ ways}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{4\textsf{ incorrect matches: }9\textsf{ ways}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{5\textsf{ incorrect matches: }44\textsf{ ways}} \\
+  & \href{/math/0%20Core%20Course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{6\textsf{ incorrect matches: }265\textsf{ ways}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
   \end{array}
