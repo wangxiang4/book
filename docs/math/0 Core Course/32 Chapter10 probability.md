@@ -59,7 +59,7 @@ lang: en-US
 ## 9.Focus 1
 __The basic concepts__
 - Analyze based on __the definition of events__,
-  especially since __the certain event__ and __the impossible event__ are __two special cases__.
+  especially __the certain event and the impossible event are two special cases__.
 
 
 ### $\fbox{1}\:$Which of the following events is a certain event $\small \mathpunct{?}$.
@@ -68,7 +68,7 @@ $
 \begin{array}{lllll}
 \textsf{(A)} \: \textsf{turning on the tv, and it is broadcasting an advertisement} & \\
 \textsf{(B)} \: \textsf{opening the math book, and landing exactly on page }50 & \\
-\textsf{(C)} \: \textsf{tossing a fair coin, and it is landing heads up} & \\
+\textsf{(C)} \: \textsf{tossing a coin, and it is landing heads up} & \\
 \textsf{(D)} \: \textsf{a day has }24\textsf{ hours} & \\
 \textsf{(E)} \: \textsf{winning the lottery} & \\
 \end{array}
@@ -109,9 +109,9 @@ $
 ::: wrap  
 $
 \begin{array}{lllll}
-\textsf{(A)} \: \textsf{tossing a fair coin twice, and getting at least one tails} & \\
+\textsf{(A)} \: \textsf{tossing a coin twice, and getting at least one tails} & \\
 \textsf{(B)} \: \textsf{it will snow in cupertino this winter} & \\
-\textsf{(C)} \: \textsf{tossing two fair dice, and the sum of the numbers on top being }1 & \\
+\textsf{(C)} \: \textsf{tossing two dice, and the sum of the numbers on top being }1 & \\
 \textsf{(D)} \: \textsf{a spinner is divided into }6\textsf{ sections, arranged as red, white, white, red, red, white.} \\
                 \hspace{0.8cm}\textsf{the pointer stops on the red section} & \\
 \textsf{(E)} \: \textsf{a flight from sonoma to cupertino will be delayed} & \\
@@ -150,21 +150,21 @@ $
 ---
 
 ## 10.Sampling Methods
-- ###### __Sequential sampling__ (by default, one element is taken each time)  
-  - With replacement: __the sample remains unchanged__.  
-  - Without replacement: __the sample decreases progressively__.  
-- ###### Single sampling: __the order of the selected elements does not matter__.  
+- __Sequential sampling (by default, one item is taken each time)__  
+  - __With replacement__: __the sample remains unchanged__  
+  - __Without replacement__: __the sample decreases progressively__ 
+- __Single sampling__: __the order of the chosen items does not matter__
 
 
 ## 11.Sampling with Numbered Samples
-- When __numbered operations are involved__, it is often analyzed __using the enumeration method__.   
+- __When numbering operations are involved__,
+  __use the listing method for analysis__.
 
 
 ## 12.Focus 2
 __The sampling methods__  
-- The sampling methods are divided into __sequential sampling__
-  (with replacement, without replacement) and __single sampling__.
-  In __sequential sampling, the order matters__, while in __single sampling, the order does not__.
+- The sampling methods are divided into __sequential sampling (with replacement, without replacement)__ and __single sampling__.
+  __In sequential sampling__, __the order matters__, __while in single sampling__, __the order does not__.
   __The probability of sequential sampling without replacement is equal to the probability of single sampling__.
 
 
@@ -197,23 +197,22 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#single-sampling-the-order-of-the-selected-elements-doesn-t-matter}{\textsf{single sampling}} \\
-  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#sequential-sampling-by-default-one-element-is-taken-each-time}{\textsf{sequential sampling}} \\
+  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_10-sampling-methods}{\textsf{single sampling method}} \\
+  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_10-sampling-methods}{\textsf{sequential sampling method}} \\
   P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-formula}{\textsf{classical probability formula}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
-  P(A)+P(\overline{A})=1 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_6-classical-probability-experiment}{\textsf{classical probability experiment}} \\
   P(\overline{A})=1-P(A) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-properties-of-probability}{\textsf{complementary probability}} \\
+  P(A)+P(\overline{A})=1 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_6-classical-probability-experiment}{\textsf{classical probability experiment}} \\
   \end{array}
   >$
 
   :::
-- Note: for probability problems, it is assumed that the samples are distinct by default.    
+- __In probability, samples are different by default__
 ---
 
 ## 13.Focus 3
 __The ball drawing score__  
-- Discuss __the situation of the drawn samples__ based on __the score__ and then write __the probability expression__.
-
+- __Analyze the sampling cases based on the scores__.
 
 ### $\fbox{4}\:$A bag contains $\small 6$ red balls and $\small 4$ black balls. Four balls are randomly drawn from the bag. If drawing a red ball scores $\small 2$ points and drawing a black ball scores $\small 1$ point, what is the probability that the total score is no more than $\small 6$ points $\small \mathpunct{?}$.
 ::: wrap  
@@ -231,12 +230,10 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\le6\Longleftrightarrow\textsf{no more than 6 points} \\
-\begin{cases}
-4\textsf{ black balls}: 4\textsf{ points} \\
-3\textsf{ black} + 1\textsf{ red ball}: 5\textsf{ points} \\
-2\textsf{ black} + 2\textsf{ red balls}: 6\textsf{ points} \\
-\end{cases} \\
+\textsf{no more than }6\Longleftrightarrow\le6 \\
+4\textsf{ black balls}=4\textsf{ points} \\
+3\textsf{ black}+1\textsf{ red ball}=5\textsf{ points} \\
+2\textsf{ black}+2\textsf{ red balls}=6\textsf{ points} \\
 P=\frac{C_4^4+C_4^3C_6^1+C_4^2C_6^2}{C_{10}^{4}} \\
 \frac{1+\frac{4\times\bcancel{3}\times\bcancel{2}}{\bcancel{3}\times\bcancel{2}\times1}\times6+\frac{\bcancel{4}\times3}{\bcancel{2}\times1}\times\frac{\bcancel{6}\times5}{\bcancel{2}\times1}}{\frac{10\times\bcancel{9}\times\bcancel{8}\times7}{\bcancel{4}\times\bcancel{3}\times\bcancel{2}\times1}}=\frac{1+4\times6+\frac{2\times3}{1}\times\frac{3\times5}{1}}{\frac{10\times3\times7}{1}}=\frac{115}{210}=\frac{23}{42} \\
 \end{array}
@@ -264,12 +261,11 @@ $
 
 ## 14.Focus 4
 __The sampling with numbers__   
-- When dealing with __numbered sampling__,
-  it often involves operations with __numbers__,
-  which can be analyzed using __enumeration methods__.
+- When __the samples are numbered and involve operations on the numbers__,
+  __use the listing method for analysis__.
 
 
-### $\fbox{5}\:$A bag contains eight balls, each with a distinct number: $1,2,3,4,5,6,7,8$. One ball is drawn from the bag each time with replacement, and two draws are made. What is the probability that the sum of the numbers on the two drawn balls is at least $\small 15\,\mathpunct{?}$.
+### $\fbox{5}\:$A bag contains eight balls labeled $\small 1,2,3,4,5,6,7,8$, One ball is drawn at a time with replacement, and the drawing is performed twice. Find the probability that the sum of the two numbers drawn is not less than $\small 15$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -285,13 +281,10 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\ge15\Longleftrightarrow\textsf{at least 15} \\
 ?+?\ge15 & \textsf{with replacement} \\
-\begin{cases}
 7+8=15 \\
 8+7=15 \\
 8+8=16 \\
-\end{cases} \\
 P=\frac{3}{C_8^1C_8^1}=\frac{3}{8\times8}=\frac{3}{64} \\
 \end{array}
 $  
@@ -307,8 +300,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_11-sampling-with-numbered-samples}{\textsf{sampling with numbers enumeration method}} \\
-  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#sequential-sampling-by-default-one-element-is-taken-each-time}{\textsf{sequential sampling}} \\
+  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_11-sampling-with-numbered-samples}{\textsf{sampling with numbers listing method}} \\
+  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_10-sampling-methods}{\textsf{sequential sampling method}} \\
   P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-formula}{\textsf{classical probability formula}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
@@ -320,15 +313,12 @@ $
   >$
   \begin{array}{ll}
   ?+?\ge15 & \textsf{without replacement} \\
-  \begin{cases}
   7+8=15 \\
   8+7=15 \\
-  \end{cases} \\
   P=\frac{2}{C_8^1C_7^1}=\frac{2}{8\times7}=\frac{2}{56}=\frac{1}{28} \\
   ?+?\ge15 & \textsf{single sampling} \\
-  \begin{cases}
-  7+8=15 \lor 8+7=15 \\
-  \end{cases} \\
+  7+8=15 \\
+  8+7=15 \\
   P=\frac{1}{C_8^2}=\frac{1}{\frac{\bcancel{8}\times7}{\bcancel{2}\times1}}=\frac{1}{4\times7}=\frac{1}{28} \\
   \end{array}
   >$
@@ -337,7 +327,7 @@ $
 ---
 
 
-### $\fbox{6}\:$From $\small 10$ balls numbered $\small 1,2,\cdots,10$, all the same size, $\small 4$ balls are drawn at random. What is the probability that the largest number among the $\small 4$ balls is $\small 6\,\mathpunct{?}$.
+### $\fbox{6}\:$Ten balls are labeled from $\small 1$ to $\small 10$. Four balls are drawn. Find the probability that the largest number among the four drawn balls is $\small 6$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -358,7 +348,7 @@ $
 6 \\
 1\sim5 \\
 \end{cases} \\
-4\textsf{ balls taken} - 1\textsf{ ball numbered 6} = 3\textsf{ balls} \\
+4\textsf{ balls} - 1\textsf{ ball numbered 6} = 3\textsf{ balls} \\
 P=\frac{C_5^3}{C_{10}^4}=\frac{\frac{5\times\bcancel{4}\times\bcancel{3}}{\bcancel{3}\times\bcancel{2}\times1}}{\frac{10\times\bcancel{9}\times\bcancel{8}\times7}{\bcancel{4}\times\bcancel{3}\times\bcancel{2}\times1}}\frac{\bcancel{5}\times\bcancel{2}}{\bcancel{10}\times3\times7}=\frac{1}{21} \\
 \end{array}
 $  
@@ -374,7 +364,7 @@ $
   ::: wrap  
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_11-sampling-with-numbered-samples}{\textsf{sampling with numbers enumeration method}} \\
+  & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_11-sampling-with-numbered-samples}{\textsf{sampling with numbers listing method}} \\
   P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-formula}{\textsf{classical probability formula}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
