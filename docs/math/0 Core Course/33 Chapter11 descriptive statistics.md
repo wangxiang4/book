@@ -7,21 +7,21 @@ lang: en-US
 
 ## 1.Mean
 - Let $n$ numbers be $x_1,x_2,\cdots,x_n$.
-  The quantity $\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}$ is called __the mean of these $\boldsymbol{n}$ numbers__.  
-  - $\boldsymbol{\overline{×}}=\frac{\textsf{sum}}{\textsf{count}}$
-  - $\textsf{sum}=\boldsymbol{\overline{×}}\cdot\textsf{count}$
+  __The quantity $\boldsymbol{\overline{x}=\frac{x_1+x_2+\cdots+x_n}{n}}$ is called the mean of these $\boldsymbol{n}$ numbers__.  
+  $\boldsymbol{\overline{×}=\frac{\textsf{sum}}{\textsf{count}}}$  
+  $\textsf{sum}=\boldsymbol{\overline{×}}\cdot\textsf{count}$  
 
 ## 2.Mode
 - In a set of data,
-  the value __that appears most frequently__ is called __the mode of the data set__.  
+  __the value that appears most frequently is called the mode of the data set__.  
 
 ## 3.Median
-- Arrange a set of data in __ascending order__,
-  and __the value in the middle position__ (or __the average of the two middle values__) is called __the median of the data set__.
+- __Arrange a set of data in ascending order__,
+  __and the value in the middle position (or the average of the two middle values) is called the median of the data set__.
 
 ## 4.Focus 1
 __The basic concepts__  
-- Analyze and make judgments based on __the concepts of mean, mode, and median__.
+- Analyze and determine based on __the concepts of mean, mode, and median__.
 
 ### $\fbox{1}\:$How many of the following statements are incorrect $\small \mathpunct{?}$.
 ::: wrap  
@@ -74,18 +74,18 @@ $
 __The calculation of the average value for a set of numbers__  
 - Based on __the definition of the average__,
   first __find the sum__,
-  then divide by __the count to get the average__.
-  __To simplify__ the calculation,
-  the number $m$ can be subtracted from each number,
-  the average of the remaining numbers can be found,
-  and then $m$ can be added back.
+  then __divide by the count to get the average__.
+  __To simplify the calculation__,
+  __the number $\boldsymbol{m}$ can be subtracted from each number__,
+  __the average of the remaining numbers can be found__,
+  __and then $\boldsymbol{m}$ can be added back__.
 
 
 ### $\fbox{2}\:$In a singing competition, the scores given by $\small 8$ judges are shown in the table below:  
 
-| Judge | $1$   | $2$   | $3$   | $4$   | $5$   | $6$   | $7$   | $8$   |  
-|-------|-------|-------|-------|-------|-------|-------|-------|-------|  
-| Score | $9.3$ | $9.5$ | $9.4$ | $9.6$ | $9.5$ | $9.6$ | $9.5$ | $9.7$ |  
+| Judge     | $1$   | $2$   | $3$   | $4$   | $5$   | $6$   | $7$   | $8$   |  
+|-----------|-------|-------|-------|-------|-------|-------|-------|-------|  
+| __Score__ | $9.3$ | $9.5$ | $9.4$ | $9.6$ | $9.5$ | $9.6$ | $9.5$ | $9.7$ |  
 
 #### (1) What is the mode of the $\small 8$ judges' scores $\small \mathpunct{?}$.
 ::: wrap  
@@ -111,7 +111,7 @@ $
 \end{array}
 $  
 :::
-#### (3) According to the competition rules, after removing the highest and lowest scores, the final score is the average of the remaining $\small 6$ judges' scores. What is the contestant's final score $\small \mathpunct{?}$ (answer rounded to two decimal places).
+#### (3) According to the competition rules, after removing the highest and lowest scores, the final score is the average of the remaining $\small 6$ judges' scores. What is the contestant's final score $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -127,14 +127,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-\textcolor{#228B22}{\textsf{(1)}}\;
-\begin{cases}
-9.3\rightarrow1 \\
-9.4\rightarrow1 \\
-9.5\rightarrow3 \\
-9.6\rightarrow2 \\
-9.7\rightarrow1 \\
-\end{cases} \\
+\textcolor{#228B22}{\textsf{(1)}}\; [9.3\mapsto1, 9.4\mapsto1, 9.5\mapsto3, 9.6\mapsto2, 9.7\mapsto1 ] \\
 \textcolor{#228B22}{\textsf{(2)}}\; [9.3,9.4,9.5,\boxed{9.5,9.5},9.6,9.6,9.7] & \textsf{asc} \\
 \hspace{0.7cm} \frac{9.5+9.5}{2}=9.5 \\
 \textcolor{#228B22}{\textsf{(3)}}\; [\bcancel{9.3},9.4,9.5,9.5,9.5,9.6,9.6,\bcancel{9.7}] \\
@@ -168,12 +161,12 @@ $
 ---
 
 ## 6.Focus 3
-__The weighted average calculation__  
+__The weighted average__  
 - If the average values of different parts and their respective quantities are known,
-  __the overall average__ can be calculated __using the weighted average formula__.
+  __the overall average can be calculated using the weighted average formula__.
 
   
-### $\fbox{3}\:$Let the prices of sugars $a,b$, and $c$ be $\small 18$ dollars/kg, $\small 24$ dollars/kg, $\small 36$ dollars/kg, respectively. If the mixing ratio is $\small 3:2:1$, what is the reasonable price of the mixed sugar per kilogram $\small \mathpunct{?}$.
+### $\fbox{3}\:$The prices of sugars $a,b$, and $c$ be $\small 18$ dollars/kg, $\small 24$ dollars/kg, $\small 36$ dollars/kg, respectively. If the mixing ratio is $\small 3:2:1$, what is the reasonable price of the mixed sugar per kilogram $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -214,7 +207,7 @@ $
   :::
 ---
 
-### $\fbox{4}\:$In a game competition, Class $\small A$ has $\small 20$ participants with an average score of $\small 80$, and Class $\small B$ has $\small 30$ participants with an average score of $\small 70$. What is the overall average score of all participants from both classes $\small \mathpunct{?}$.
+### $\fbox{4}\:$In a cake-baking competition, Team $\small A$ has $\small 20$ members with an average score of $\small 80$, and Team $\small B$ has $\small 30$ members with an average score of $\small 70$. What is the average score of the two teams $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -257,10 +250,10 @@ $
 
 ## 7.Focus 4
 __The comparison of averages__  
-- The average values can be __calculated separately__ and __compared__,
-  or the comparison can be made by analyzing __the weight of high and low scores__.
-- Increasing high scores or decreasing low scores: the average increases.
-- Decreasing high scores or increasing low scores: the average decreases.
+- The average values can be __calculated separately and compared__,
+  __or the comparison can be made by analyzing the weight of high and low scores__.
+- __Increasing high scores or decreasing low scores__: __the average increases__
+- __Decreasing high scores or increasing low scores__: __the average decreases__
 
 
 ### $\fbox{5}\:$The students from Classes $\small A, B$, and $\small C$ participate in an evaluation, and the number of students and their scores are shown in the table below:  
@@ -278,7 +271,7 @@ $
 $  
 :::
 #### Solution
-- $\textcolor{#228B22}{\fbox{1}}\:$Solve by analyzing and comparing the proportion of people       
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve by comparing the proportion of people       
   ::: wrap  
   $
   \begin{array}{ll}
@@ -286,29 +279,33 @@ $
   B=15+15+10+20=60 \\
   C=10+10+15+15=50 \\
   \hspace{1.5cm} A \hspace{1.4cm} B \hspace{1.4cm} C\\
-  6:[\frac{10}{40}=\frac{1}{4},\frac{15}{60}=\frac{1}{4},\frac{10}{50}=\frac{1}{5}] \\
-  7:[\frac{10}{40}=\frac{1}{4},\frac{15}{60}=\frac{1}{4},\frac{10}{50}=\frac{1}{5}] \\
-  8:[\frac{10}{40}=\frac{1}{4},\frac{10}{60}=\frac{1}{6},\frac{15}{50}=\frac{3}{10}] \\
-  9:[\frac{10}{40}=\frac{1}{4},\frac{20}{60}=\frac{1}{3},\frac{15}{50}=\frac{3}{10}] \\
-  A\textsf{ compared to } B: \\
-  \begin{cases}
-  6:\frac{1}{4}=\frac{1}{4} \\
-  7:\frac{1}{4}=\frac{1}{4} \\
-  8:\frac{1}{4}\gt\frac{1}{6} \\
-  9:\frac{1}{4}\lt\frac{1}{3} \\
-  \end{cases} \Longrightarrow B \gt A \\
-  B\textsf{ compared to } C: \\
-  \begin{cases}
-  6:\frac{1}{4}\gt\frac{1}{5} \\
-  7:\frac{1}{4}\gt\frac{1}{5} \\
-  8:\frac{1}{6}\lt\frac{3}{10} \\
-  9:\frac{1}{3}\approx\frac{3}{10} \\
-  \end{cases}  \Longrightarrow C \gt B \\
-  (B \gt A) \land (C \gt B) \Longrightarrow C,B,A
+  6\textsf{: }[\frac{10}{40}=\frac{1}{4},\frac{15}{60}=\frac{1}{4},\frac{10}{50}=\frac{1}{5}] \\
+  7\textsf{: }[\frac{10}{40}=\frac{1}{4},\frac{15}{60}=\frac{1}{4},\frac{10}{50}=\frac{1}{5}] \\
+  8\textsf{: }[\frac{10}{40}=\frac{1}{4},\frac{10}{60}=\frac{1}{6},\frac{15}{50}=\frac{3}{10}] \\
+  9\textsf{: }[\frac{10}{40}=\frac{1}{4},\frac{20}{60}=\frac{1}{3},\frac{15}{50}=\frac{3}{10}] \\
+  A\textsf{ compared to } B \\
+  \left.
+  \begin{array}{ll}
+  6\textsf{: }\frac{1}{4}=\frac{1}{4} \\
+  7\textsf{: }\frac{1}{4}=\frac{1}{4} \\
+  8\textsf{: }\frac{1}{4}\gt\frac{1}{6} \\
+  9\textsf{: }\frac{1}{4}\lt\frac{1}{3} \\
+  \end{array}
+  \right\} \Longrightarrow B \gt A \\
+  B\textsf{ compared to } C \\
+  \left.
+  \begin{array}{ll}
+  6\textsf{: }\frac{1}{4}\gt\frac{1}{5} \\
+  7\textsf{: }\frac{1}{4}\gt\frac{1}{5} \\
+  8\textsf{: }\frac{1}{6}\lt\frac{3}{10} \\
+  9\textsf{: }\frac{1}{3}\approx\frac{3}{10} \\
+  \end{array}
+  \right\} \Longrightarrow C \gt B \\
+  \left\{B \gt A\right\}\cap\left\{C \gt B\right\}=C \gt B \gt A \\
   \end{array}
   $  
   :::   
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by applying the weighted average formula  
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by using the weighted average formula  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -316,17 +313,15 @@ $
   B=15+15+10+20=60 \\
   C=10+10+15+15=50 \\
   \hspace{1.5cm} A \hspace{1.4cm} B \hspace{1.4cm} C \\
-  6:[\frac{10}{40}=\frac{1}{4},\frac{15}{60}=\frac{1}{4},\frac{10}{50}=\frac{1}{5}] \\
-  7:[\frac{10}{40}=\frac{1}{4},\frac{15}{60}=\frac{1}{4},\frac{10}{50}=\frac{1}{5}] \\
-  8:[\frac{10}{40}=\frac{1}{4},\frac{10}{60}=\frac{1}{6},\frac{15}{50}=\frac{3}{10}] \\
-  9:[\frac{10}{40}=\frac{1}{4},\frac{20}{60}=\frac{1}{3},\frac{15}{50}=\frac{3}{10}] \\
+  6\textsf{: }[\frac{10}{40}=\frac{1}{4},\frac{15}{60}=\frac{1}{4},\frac{10}{50}=\frac{1}{5}] \\
+  7\textsf{: }[\frac{10}{40}=\frac{1}{4},\frac{15}{60}=\frac{1}{4},\frac{10}{50}=\frac{1}{5}] \\
+  8\textsf{: }[\frac{10}{40}=\frac{1}{4},\frac{10}{60}=\frac{1}{6},\frac{15}{50}=\frac{3}{10}] \\
+  9\textsf{: }[\frac{10}{40}=\frac{1}{4},\frac{20}{60}=\frac{1}{3},\frac{15}{50}=\frac{3}{10}] \\
   \textsf{let }m=7 \\
-  \begin{cases}
-  6-m=-1 \\
-  7-m=0 \\
-  8-m=1 \\
-  9-m=2 \\
-  \end{cases} \\
+  6\textsf{: }6-m=-1 \\
+  7\textsf{: }7-m=0 \\
+  8\textsf{: }8-m=1 \\
+  9\textsf{: }9-m=2 \\
   \overline{x}_A=\frac{-1\cdot\frac{1}{4}+0\cdot\frac{1}{4}+1\cdot\frac{1}{4}+2\cdot\frac{1}{4}}{1} \\
   \frac{-1+0+1+2}{4}+7=0.5+7=7.5 \\
   \overline{x}_B=\frac{-1\cdot\frac{1}{4}+0\cdot\frac{1}{4}+1\cdot\frac{1}{6}+2\cdot\frac{1}{3}}{1} \\
@@ -335,7 +330,7 @@ $
   \overline{x}_C=\frac{-1\cdot\frac{1}{5}+0\cdot\frac{1}{5}+1\cdot\frac{3}{10}+2\cdot\frac{3}{10}}{1} \\
   \frac{-1+0}{5}+\frac{3}{10}+\frac{6}{10}+7 \\
   \frac{-2}{10}+\frac{3}{10}+\frac{6}{10}+7=0.7+7=7.7 \\
-  7.7\gt7.58\gt7.5 \Longrightarrow C,B,A
+  7.7\gt7.58\gt7.5 \Longrightarrow C \gt B \gt A \\
   \end{array}
   $  
   :::  

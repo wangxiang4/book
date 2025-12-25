@@ -607,7 +607,7 @@ __The finding wages__
 - First identify two variables:
   __① each worker's efficiency__;
   __② the daily wage each receives__.
-  Additionally, __estimation can also be used to make judgments__.
+  Additionally, __estimation can also be used to determine the results__.
 
 ### $\fbox{61}\:$A project is completed in $\small 6$ days by Teams $\small A$ and $\small B$ together, costing $\small 8.7\textsf{K USD}$. Teams $\small B$ and $\small C$ together complete it in $\small 10$ days, costing $\small 9.5\textsf{K USD}$. Teams $\small A$ and $\small C$ together complete it in $\small 7.5$ days, costing $\small 8.25\textsf{K USD}$. If a single team is hired to complete the project alone, and it must be finished within $\small 15$ days, which team will require the least payment $\small \mathpunct{?}$.
 ::: wrap  
