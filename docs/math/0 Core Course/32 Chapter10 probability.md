@@ -250,7 +250,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P(\bigcup_{i=1}^n A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-properties-of-probability}{\textsf{union of mutually exclusive events}} \\
+  P(\bigcup_{i=1}^{n}A_i)=\sum_{i=1}^{n}P(A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-properties-of-probability}{\textsf{union probability of mutually exclusive events}} \\
   P(A) = \frac{k}{n} & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_7-formula}{\textsf{classical probability formula}} \\
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/0%20Core%20Course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
   \end{array}
@@ -393,46 +393,30 @@ $
 
 # Module 10–02 Independent Events
 
-## 1.Concept of Independent Events
-- If the occurrence of either of two events __does not affect the probability of the other__,
-  then __these two events are said to be independent__.  
+## 1.Definition
+- $P(\bigcap_{i=1}^{n}A_i)=\prod_{i=1}^{n}P(A_i)$
+- __If the occurrence of one event does not affect the probability of the other event__,
+  __the two events are called mutually independent__.
 
-## 2.Mathematical Definition
-- If $\boldsymbol{P(AB)=P(A)P(B)}$, then events $A$ and $B$ are __said to be independent__.
 
-## 3.Understanding
-- The probability of independent events __occurring simultaneously__ is __the product of the probabilities of each event occurring__.  
-  ::: wrap    
-  $
-  \begin{array}{ll}
-  A: 0.8 \quad B: 0.9 \\
-  0.8\times0.9=0.72 & \textsf{both }A\textsf{ and }B\textsf{ succeed} \\
-  \end{array}
-  $
-  :::   
+## 2.Usage
+- __The probability that mutually independent events $\boldsymbol{A_1, A_2, \cdots, A_n}$ occur simultaneously__  
+  $P(\bigcap_{i=1}^{n}A_i)=\prod_{i=1}^{n}P(A_i)$
+- __The probability that mutually independent events $\boldsymbol{A_1, A_2, \cdots, A_n}$ all do not occur__  
+  $P(\bigcap_{i=1}^{n}\overline{A_i})=\prod_{i=1}^{n}P(\overline{A_i})$
+- __The probability that at least one of the mutually independent events $\boldsymbol{A_1, A_2, \cdots, A_n}$ occurs__  
+  $P(\bigcup_{i=1}^{n}A_i)=1-\prod_{i=1}^{n}P(\overline{A_i})$
 
-## 4.Common Conclusions  
-::: wrap  
-- ###### If events $A_1,A_2,\cdots,A_n$ are __mutually independent__, then __the probability that all $\boldsymbol{n}$ events occur__ is the product of their individual probabilities: $P(A_1A_2 \cdots A_n)=P(A_1)\times P(A_2)\times\cdots\times P(A_n)$.
-- If events $A_1,A_2,\cdots,A_n$ are __mutually independent__,
-  then __the probability that none of them occur__ is the product of their individual non-occurrence probabilities:
-  $P(\overline{A_1}\:\overline{A_2} \cdots \overline{A_n})=P(\overline{A_1})\times P(\overline{A_2})\times\cdots\times P(\overline{A_n})$.
-- If events $A_1,A_2,\cdots,A_n$ are __mutually independent__,
-  then __the probability that at least one of them occurs__ can be found __using the complement rule__.
-  It equals __$\boldsymbol{1}$ minus the product of the probabilities that none of them occur__:
-  $P(A_1+A_2+\cdots+A_n)=1-P(\overline{A_1})\times P(\overline{A_2})\times\cdots\times P(\overline{A_n})$.
-:::  
 
 ## 5.Focus 1
-__The template for two independent events__  
-- The probabilities of success for $A$ and $B$ are $P_1$ and $P_2$, respectively:   
-  __(1)__ The probability __that both $\boldsymbol{A}$ and $\boldsymbol{B}$ succeed__: $P_1\times P_2$;  
-  __(2)__ The probability __that neither $\boldsymbol{A}$ nor $\boldsymbol{B}$ succeeds__: $(1-P_1)\times(1-P_2)$;  
-  ###### __(3)__ The probability __that at least one of $\boldsymbol{A}$ or $\boldsymbol{B}$ succeeds__: $1-(1-P_1)\times(1-P_2)$;   
-  ###### __(4)__ The probability __that exactly one of $\boldsymbol{A}$ or $\boldsymbol{B}$ succeeds__: $P_1\times (1-P_2)+(1-P_1)\times P_2$.  
+__The templates for two independent events__  
+- The probability that $A$ and $B$ occur simultaneously is $\boldsymbol{P_1\times P_2}$
+- The probability that $A$ and $B$ both do not occur is $\boldsymbol{(1-P_1)\times(1-P_2)}$
+- The probability that at least one of $A$ or $B$ occurs is $\boldsymbol{1-(1-P_1)\times(1-P_2)}$
+- The probability that exactly one of $A$ or $B$ occurs is $\boldsymbol{P_1\times(1-P_2)+P_2\times(1-P_1)}$
 
 
-### $\fbox{7}\:\small A$ and $\small B$ participate in a basketball shooting game. Given that the probabilities of $\small A$ and $\small B$ making a shot are $\small 0.6$ and $\small 0.75$ respectively, if $\small A$ and $\small B$ each take one shot, what is the probability that exactly one of them makes the shot $\small \mathpunct{?}$.
+### $\fbox{7}\:$Players $\small A$ and $\small B$ each take one shot. The probabilities of making the shot are $\small 0.6$ for $\small A$ and $\small 0.75$ for $\small B$. Find the probability that at least one of them makes the shot.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -464,7 +448,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P_1\times(1-P_2)+(1-P_1)\times P_2 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_4-the-probability-that-exactly-one-of-or-succeeds}{\textsf{exactly-one succeed probability}} \\
+  P_1\times(1-P_2)+P_2\times(1-P_1) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-focus-1}{\textsf{union probability of mutually exclusive events}} \\
   \end{array}
   >$
 
@@ -472,17 +456,15 @@ $
 ---
 
 ## 6.Focus 2
-__The template for three independent events__  
-::: wrap   
-- The probabilities of success for $A,B$, and $C$ are $P_1,P_2$, and $P_3$, respectively:  
-  __(1)__ The probability __that all three succeed__: $P_1\times P_2\times P_3$;  
-  __(2)__ The probability __that none succeed__: $(1-P_1)\times(1-P_2)\times(1-P_3)$;  
-  ###### __(3)__ The probability __that at least one succeeds__: $1-(1-P_1)\times(1-P_2)\times(1-P_3)$;  
-  __(4)__ The probability __that exactly two succeed__: $P_1\times P_2\times(1-P_3)+P_1\times(1-P_2)\times P_3+(1-P_1)\times P_2\times P_3$;  
-  ###### __(5)__ The probability __that at most two succeed__: $1-P_1\times P_2\times P_3$.  
-:::   
+__The templates for three independent events__  
+- The probability that $A, B$, and $C$ occur simultaneously is $\boldsymbol{P_1\times P_2\times P_3}$
+- The probability that $A, B$, and $C$ all do not occur is $\boldsymbol{(1-P_1)\times(1-P_2)\times(1-P_3)}$
+- The probability that at least one of $A, B$, or $C$ occurs is $\boldsymbol{1-(1-P_1)\times(1-P_2)\times(1-P_3)}$
+- The probability that exactly two of $A, B$, and $C$ occur is $\boldsymbol{P_1\times P_2\times(1-P_3)+P_1\times P_3\times(1-P_2)+P_2\times P_3\times(1-P_1)}$
+- The probability that at most two of $A, B$, and $C$ occur is $\boldsymbol{1-P_1\times P_2\times P_3}$
 
-### $\fbox{8}\:$In a set-point shooting contest involving $A,B$, and $C$, the shooting accuracies are $0.9,0.8$, and $0.7$, respectively. Each person shoots once. What is the probability that at most two of them make the shot $\small \mathpunct{?}$.
+
+### $\fbox{8}\:$Players $\small A, B$, and $\small C$ each take one shot. The probabilities of making the shot are $\small 0.9$ for $\small A$, $\small 0.8$ for $\small B$, and $\small 0.7$ for $\small C$, Find the probability that at most two of them make the shot.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -513,21 +495,15 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  1-P_1\times P_2\times P_3 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-the-probability-that-at-most-two-succeed}{\textsf{complementary probability}} \\
+  1-P_1\times P_2\times P_3 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_6-focus-2}{\textsf{probability of at most two independent event}} \\
   \end{array}
   >$
 
   :::
 ---
 
-## 7.Focus 3
-__The implicit "at least one" template__  
-- In problems involving __code-breaking__, __fire alarms__, __hitting enemy aircraft__, or __winning a prize__,
-  the statement may not explicitly say __at least one__, but it is __implied__.
-  In such cases, the problem should be solved __using the complement approach__.
-
-### $\fbox{9}\:$A department assigns $\small A$ and $\small B$ to decrypt a code. Whether each can decrypt the code is independent. The probabilities that $\small A$ and $\small B$ can independently decrypt the code are $\small \frac{1}{3}$ and $\small \frac{1}{4}$, respectively.
-#### (1) What is the probability that exactly one of them decrypts the code $\small \mathpunct{?}$.  
+### $\fbox{9}\:\small A$ and $\small B$ attempt to crack a password. Their attempts are independent. The probabilities that $\small A$ and $\small B$ crack the password are $\small \frac{1}{3}$ and $\small \frac{1}{4}$, respectively.
+#### (1) Find the probability that exactly one of them cracks the password.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -538,8 +514,8 @@ $
 \textsf{(E)} \: \frac{7}{12} & \\
 \end{array}
 $  
-:::  
-#### (2) What is the probability that they decrypt the code $\small \mathpunct{?}$.  
+:::
+#### (2) Find the probability that at least one of them cracks the password.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -550,14 +526,14 @@ $
 \textsf{(E)} \: \frac{2}{3} & \\
 \end{array}
 $  
-:::  
+:::
 #### Solution
 ::: wrap  
 $
 \begin{array}{ll}
 \textcolor{#228B22}{\textsf{(1)}}\;P_1=\frac{1}{3}\times(1-\frac{1}{4})+(1-\frac{1}{3})\times\frac{1}{4} \\
 \hspace{0.7cm} \frac{1}{3}\times\frac{3}{4}+\frac{2}{3}\times\frac{1}{4}=\frac{3}{12}+\frac{2}{12}=\frac{5}{12} \\
-\textcolor{#228B22}{\textsf{(2)}}\;P_2=1-(1-\frac{1}{3})\times(1-\frac{1}{4}) & \textsf{at least one success} \\
+\textcolor{#228B22}{\textsf{(2)}}\;P_2=1-(1-\frac{1}{3})\times(1-\frac{1}{4}) \\
 \hspace{0.7cm} 1-\frac{2}{3}\times\frac{3}{4}=1-\frac{6}{12}=\frac{6}{12}=\frac{1}{2} \\
 \end{array}
 $  
@@ -574,15 +550,15 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P_1\times(1-P_2)+(1-P_1)\times P_2 & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_4-the-probability-that-exactly-one-of-or-succeeds}{\textsf{exactly-one succeed probability}} \\
-  1-(1-P_1)\times(1-P_2) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_3-the-probability-that-at-least-one-of-or-succeeds}{\textsf{complementary probability}} \\
+  P_1\times(1-P_2)+P_2\times(1-P_1) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-focus-1}{\textsf{union probability of mutually exclusive events}} \\
+  1-(1-P_1)\times(1-P_2) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-focus-1}{\textsf{probability of at least one independent event}} \\
   \end{array}
   >$
 
   :::
 ---
 
-### $\fbox{10}\:$An archives building is equipped with three smoke detectors, whose probabilities of triggering an alarm when there is smoke or fire are $0.9,0.8$, and $0.7$, respectively. If smoke or fire occurs, what is the probability that an alarm will be triggered $\small \mathpunct{?}$.
+### $\fbox{10}\:$Three smoke detectors have alarm probabilities of $\small 0.9, 0.8$, and $\small 0.7$, respectively. Given that smoke occurs, find the probability that at least one alarm is triggered.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -598,7 +574,7 @@ $
 ::: wrap  
 $
 \begin{array}{ll}
-P=1-(1-0.9)\times(1-0.8)\times(1-0.7) & \textsf{at least one success} \\
+P=1-(1-0.9)\times(1-0.8)\times(1-0.7) \\
 1-0.1\times0.2\times0.3=1-0.006=0.994 \\
 \end{array}
 $  
@@ -614,7 +590,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  1-(1-P_1)\times(1-P_2)\times(1-P_3) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_3-the-probability-that-at-least-one-succeeds}{\textsf{complementary probability}} \\
+  1-(1-P_1)\times(1-P_2)\times(1-P_3) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_6-focus-2}{\textsf{probability of at least one independent event}} \\
   \end{array}
   >$
 
@@ -622,8 +598,8 @@ $
 ---
 
 
-### $\fbox{11}\:$There are two anti-aircraft guns, each with a probability of $\small 0.6$ of hitting an airplane.
-#### (1) What is the probability that the airplane will be hit if both guns fire one shell simultaneously $\small \mathpunct{?}$.
+### $\fbox{11}\:$Two anti-aircraft guns, each with a hit probability of $\small 0.6$.
+#### (1) Find the probability that at least one anti-aircraft gun hits the target.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -635,7 +611,7 @@ $
 \end{array}
 $
 :::  
-#### (2) If an enemy aircraft intrudes, and at least a $\small 99\%$ probability of hitting it is required, what is the minimum number of anti-aircraft guns needed $\small \,\mathpunct{?}\,(2^{10}=1024)$.
+#### (2) An enemy aircraft intrudes. If a $\small 99\%$ probability of hitting it is required, find the minimum number of anti-aircraft guns needed $\small (2^{10}=1024)$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -653,9 +629,8 @@ $
 \begin{array}{ll}
 \textcolor{#228B22}{\textsf{(1)}}\;P_1=1-(1-0.6)\times(1-0.6) \\
 \hspace{0.7cm} 1-0.4\times0.4=1-0.16=0.84 \\
-\textcolor{#228B22}{\textsf{(2)}}\;P_2=1-(1-0.6)^n \ge 0.99 & \textsf{let }n\textsf{ number of aa guns required} \\
+\textcolor{#228B22}{\textsf{(2)}}\;P_2=1-(1-0.6)^n \ge 0.99 \\
 \hspace{0.7cm} 1-0.4^n \ge 0.99 \\
-\hspace{0.7cm} -0.4^n \ge 0.99-1 \\
 \hspace{0.7cm} -0.4^n \ge -0.01 \\
 \hspace{0.7cm} 0.4^n \le 0.01 \\
 \hspace{0.7cm} 2^{10}=4^5=1024 \\
@@ -675,7 +650,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  1-(1-P_1)\times(1-P_2) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_3-the-probability-that-at-least-one-of-or-succeeds}{\textsf{complementary probability}} \\
+  1-(1-P_1)\times(1-P_2) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-focus-1}{\textsf{probability of at least one independent event}} \\
   \end{array}
   >$
 
@@ -685,8 +660,8 @@ $
 ## 8.Focus 4
 __The competition template__  
 - For __competition problems__,
-  first draw __the result diagram__ for __each round of the competition__,
-  then write __the corresponding probabilities__.
+  __first draw the result diagram for each round of the competition__,
+  __and then analyze the probabilities__.
 
 
 ### $\fbox{12}\:$In a guessing game with $\small 5$ rounds, if a player passes $\small 2$ consecutive rounds, they are considered to have successfully completed the challenge. The probability of Mike passing each round is $\small \frac{1}{2}$. What is the probability that he successfully completes the challenge $\small \mathpunct{?}$.
@@ -731,7 +706,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P(\bigcup_{i=1}^n A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-properties-of-probability}{\textsf{union of mutually exclusive events}} \\
+  P(\bigcup_{i=1}^{n}A_i)=\sum_{i=1}^{n}P(A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-properties-of-probability}{\textsf{union probability of mutually exclusive events}} \\
   \end{array}
   >$
 
@@ -777,7 +752,7 @@ $
 $
 :::
 #### Solution
-- $\textcolor{#228B22}{\fbox{1}}\:$Solve problem __(1)__ by drawing a competition tree diagram   
+- $\textcolor{#228B22}{\fbox{1}}\:$Solve problem __(1)__ by drawing a competition tree diagram  
   ![Question independent events figure Q-13 solve-1.svg](../../public/math/Core%20Course/Question%20independent%20events%20figure%20Q-13%20solve-1.svg)  
   ::: wrap   
   $
@@ -788,7 +763,7 @@ $
   \end{array}
   $  
   :::
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve problem __(2)__ by drawing a competition tree diagram  
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve problem __(2)__ by drawing competition tree diagrams  
   ![Question independent events figure Q-13 solve-2.svg](../../public/math/Core%20Course/Question%20independent%20events%20figure%20Q-13%20solve-2.svg)  
   ::: wrap  
   $
@@ -800,7 +775,7 @@ $
   \end{array}
   $  
   :::   
-- $\textcolor{#228B22}{\fbox{3}}\:$Solve problem __(3)__ by drawing a competition tree diagram  
+- $\textcolor{#228B22}{\fbox{3}}\:$Solve problem __(3)__ by drawing competition tree diagrams  
   ![Question independent events figure Q-13 solve-3.svg](../../public/math/Core%20Course/Question%20independent%20events%20figure%20Q-13%20solve-3.svg)  
   ::: wrap   
   $
@@ -828,32 +803,39 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P(A_1A_2\times A_n)=P(A_1)\times P(A_2)\times\cdots\times P(A_n) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#if-events-are-mutually-independent-then-the-probability-that-all-events-occur-is-the-product-of-their-individual-probabilities}{\textsf{all succeed probability}} \\
-  P(\bigcup_{i=1}^n A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-properties-of-probability}{\textsf{union of mutually exclusive events}} \\
+  P(\bigcap_{i=1}^{n}A_i)=\prod_{i=1}^{n}P(A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_2-usage}{\textsf{simultaneous probability of independent events}} \\
+  P(\bigcup_{i=1}^{n}A_i)=\sum_{i=1}^{n}P(A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_5-properties-of-probability}{\textsf{union probability of mutually exclusive events}} \\
   \end{array}
   >$
 
   :::
-- Competition format (three main types of questions)     
+- Competition format templates  
   ::: wrap  
-  > 1. Fixed number of rounds, fixed players (easy).
-  > 2. Fixed number of rounds, __variable players__ (medium).
-  > 3. __Variable number of rounds__, fixed players (hard).
+  > - __Fixed number of rounds__, __fixed players (easy)__
+  > - __Fixed number of rounds__, __variable players (medium)__
+  > - __Variable number of rounds__, __fixed players (hard)__
 
   :::  
 ---
 
 ## 9.Focus 5
-__The circuit template__    
-- For a series circuit, the probability that the system functions normally is equal to the product of the probabilities that each circuit functions normally.   
-  - Normal (all working): $P_1\times P_2\times P_3$  
-  ![Circuit series system probability.svg](../../public/math/Core%20Course/Circuit%20series%20system%20probability.svg)  
-- For a parallel circuit, the probability that the system functions normally is equal to 1 minus the product of the probabilities that each circuit does not function normally.  
-  - At least one normal (working): $1-(1-P_1)(1-P_2)(1-P_3)$  
+__The circuit template__  
+- __Series circuit__:
+  __The probability that the system operates successfully__ equals
+  __the product of the probabilities that each component operates successfully__.  
+  All components operate successfully: $\boldsymbol{P_1\times P_2\times P_3}$   
+  ![Circuit series system probability.svg](../../public/math/Core%20Course/Circuit%20series%20system%20probability.svg)
+
+::: wrap
+- __Parallel circuit__:
+  __The probability that the system operates successfully__ equals
+  $\boldsymbol{1-\textsf{the product of the probabilities that each component fails to operate}}$.  
+  At least one component operates successfully: $\boldsymbol{1-(1-P_1)(1-P_2)(1-P_3)}$  
   ![Circuit parallel system probability.svg](../../public/math/Core%20Course/Circuit%20parallel%20system%20probability.svg)  
+:::
 
 
-### $\fbox{14}\:$Figure 10–1, the letters represent the types of components, and components with the same letter but different subscripts belong to the same type. Given that the probabilities of components $\small A, B, C$, and $\small D$ functioning normally are $\small p,q,r$, and $s$ respectively, and the components work independently, what is the probability that the system functions normally $\small \mathpunct{?}$.
+### $\fbox{14}\:$Figure 10–1, the letters represent types of components; identical letters indicate the same type of component. Given that the probabilities of successful operation for component types $\small A, B, C$, and $\small D$ are $\small p,q,r$, and $s$, respectively, and that all components operate independently, find the probability that the system operates successfully.
 ![Question independent events figure 10-1.svg](../../public/math/Core%20Course/Question%20independent%20events%20figure%2010-1.svg)  
 ::: wrap  
 $
@@ -887,8 +869,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P(A_1A_2\cdots A_n)=P(A_1)\times P(A_2)\times\cdots\times P(A_n) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#if-events-are-mutually-independent-then-the-probability-that-all-events-occur-is-the-product-of-their-individual-probabilities}{\textsf{all succeed probability}} \\
-  1-(1-P_1)\times(1-P_2)\times(1-P_3) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_3-the-probability-that-at-least-one-succeeds}{\textsf{complementary probability}} \\
+  P(\bigcap_{i=1}^{n}A_i)=\prod_{i=1}^{n}P(A_i) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_2-usage}{\textsf{simultaneous probability of independent events}} \\
+  1-(1-P_1)\times(1-P_2)\times(1-P_3) & \href{/math/0%20Core%20Course/32%20Chapter10%20probability.html#_6-focus-2}{\textsf{probability of at least one independent event}} \\
   \end{array}
   >$
 
