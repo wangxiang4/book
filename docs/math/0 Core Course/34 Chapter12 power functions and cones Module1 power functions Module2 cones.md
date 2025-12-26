@@ -1,5 +1,5 @@
 ---
-title: Chapter12 Power Functions – Cones
+title: Chapter12 Power Functions and Cones – Module1 Power Functions, Module2 Cones
 lang: en-US
 ---
 
@@ -17,7 +17,7 @@ lang: en-US
   - __Third quadrant__: has a graph when $\boldsymbol{\alpha}$ is odd (symmetric about the origin)
   - $\boldsymbol{\alpha>1}$: rises rapidly
   - $\boldsymbol{0\lt\alpha\lt1}$: rises slowly
-  - $\boldsymbol{\alpha<1}$: decreases inversely  
+  - $\boldsymbol{\alpha<1}$: decreases inversely   
   ![Power function three cases of α in first quadrant.svg](../../public/math/Core%20Course/Power%20function%20three%20cases%20of%20%CE%B1%20in%20first%20quadrant.svg)  
   <iframe src="https://www.desmos.com/calculator/j7x2gvljoh?embed" width="500" height="380" style="border: 1px solid #ccc" />
 - Definitions of __exponential and power functions__  

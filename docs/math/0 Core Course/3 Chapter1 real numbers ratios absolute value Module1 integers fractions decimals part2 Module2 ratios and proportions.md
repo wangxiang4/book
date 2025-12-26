@@ -1,5 +1,5 @@
 ---
-title: Chapter1 Real Numbers, Ratios, and Absolute Value – Module2 Ratios and Proportions
+title: Chapter1 Real Numbers, Ratios, and Absolute Value – Module1 Integers, Fractions, and Decimals (Part2), Module2 Ratios and Proportions
 lang: en-US
 ---
 

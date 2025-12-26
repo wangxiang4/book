@@ -1,5 +1,5 @@
 ---
-title: Chapter11 Descriptive Statistics
+title: Chapter11 Descriptive Statistics Module1 Average Value
 lang: en-US
 ---
 

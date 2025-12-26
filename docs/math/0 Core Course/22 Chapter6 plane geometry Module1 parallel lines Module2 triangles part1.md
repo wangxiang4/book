@@ -1,5 +1,5 @@
 ---
-title: Chapter6 Plane Geometry – Module1 Parallel Lines, Module2 Triangles Upper
+title: Chapter6 Plane Geometry – Module1 Parallel Lines, Module2 Triangles (Part1)
 lang: en-US
 ---
 

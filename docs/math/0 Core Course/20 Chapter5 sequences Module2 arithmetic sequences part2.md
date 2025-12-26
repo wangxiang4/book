@@ -1,5 +1,5 @@
 ---
-title: Chapter5 Sequences – Module2 Arithmetic Sequences Lower
+title: Chapter5 Sequences – Module2 Arithmetic Sequences (Part2)
 lang: en-US
 ---
 

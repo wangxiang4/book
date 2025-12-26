@@ -1,5 +1,5 @@
 ---
-title: Chapter6 Plane Geometry – Module2 Triangles Middle
+title: Chapter6 Plane Geometry – Module2 Triangles (Part2)
 lang: en-US
 ---
 

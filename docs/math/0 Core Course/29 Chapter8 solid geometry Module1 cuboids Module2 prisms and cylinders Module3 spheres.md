@@ -1,11 +1,11 @@
 ---
-title: Chapter8 Solid Geometry
+title: Chapter8 Solid Geometry – Module1 Cuboids, Module2 Prisms and Cylinders, Module3 Spheres
 lang: en-US
 ---
 
-# Module 8–01 Cuboid
+# Module 8–01 Cuboids
 
-## 1.Cuboid  
+## 1.Cuboids  
 ![Cuboid figure 8-1.svg](../../public/math/Core%20Course/Cuboid%20figure%208-1.svg)  
 - ###### __Let the three adjacent edges have lengths $\boldsymbol{a}$, $b$, and $\boldsymbol{c}$__  
   - __volume__: $V=abc$
@@ -19,7 +19,7 @@ lang: en-US
   - __$\boldsymbol{4}$ space diagonals__ 
 
 
-## 2.Cube
+## 2.Cubes
 - ###### __Let the edge length be $\boldsymbol{a}$__
   - __volume__: $V=a^3$
   - __total surface area__: $F=6a^2$
@@ -27,8 +27,8 @@ lang: en-US
   - __sum of edge lengths__: $l=12a$
 
 ## 3.Focus 1
-__The cuboid__   
-- Use __the formulas for the space diagonal, surface area, and volume of a cuboid__.
+__The cuboids__   
+- Use __the formulas for the space diagonal, surface area, and volume of cuboids__.
 
 
 ### $\fbox{1}\:$The ratio of the length to the width of a cuboid is $\small 2:1$, and the ratio of the width to the height is $\small 3:2$. If the total length of all the edges of the cuboid is $\small 220\textsf{cm}$, what is its volume $\small \mathpunct{?}$.
@@ -192,8 +192,8 @@ $
 ---
 
 ## 4.Focus 2
-__The cube__  
-- Use __the formulas for the space diagonal, surface area, and volume of a cube__.
+__The cubes__  
+- Use __the formulas for the space diagonal, surface area, and volume of cubes__.
 
 
 ### $\fbox{4}\:$Given that the space diagonal of a cube is $\small 3$, what is its total surface area $\small \mathpunct{?}$.
@@ -445,7 +445,7 @@ $
   :::
 ---
 
-# Module 8–01 Sphere
+# Module 8–03 Spheres
 
 ## 1.Volume and Surface Area
 - __Let the radius of the sphere be $\boldsymbol{r}$__
@@ -477,8 +477,8 @@ $
 - __The key is to analyze the solid using its axial section__.
 
 ## 4.Focus 1
-__The basic formulas of a sphere__   
-- Use __the formulas for the volume and surface area of a sphere__. 
+__The spheres__   
+- Use __the formulas for the volume and surface area of spheres__. 
 - ###### __The surface area is proportional to the square of the radius, and the volume is proportional to the cube of the radius__.
   - $\frac{S_1}{S_2}=(\frac{r_1}{r_2})^2$. 
   - $\frac{V_1}{V_2}=(\frac{r_1}{r_2})^3$.

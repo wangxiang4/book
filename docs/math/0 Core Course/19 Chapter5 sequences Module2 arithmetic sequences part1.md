@@ -1,10 +1,10 @@
 ---
-title: Chapter5 Sequences – Module2 Arithmetic Sequences Upper
+title: Chapter5 Sequences – Module2 Arithmetic Sequences (Part1)
 lang: en-US
 ---
 
 
-# Module 5-01 Arithmetic Sequences
+# Module 5-02 Arithmetic Sequences
 
 ## 1.Definition
 - in the sequence $\boldsymbol{\left\{ a_n \right\}}$,

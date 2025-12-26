@@ -1,5 +1,5 @@
 ---
-title: Chapter5 Sequences – Module1 Definition of Sequences
+title: Chapter5 Sequences – Module1 Sequences
 lang: en-US
 ---
 

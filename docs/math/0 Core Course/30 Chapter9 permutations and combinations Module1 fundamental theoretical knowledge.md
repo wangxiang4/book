@@ -399,7 +399,7 @@ $
   - $C_6^3=20$
 
 
-## 10.Focus 4
+## 9.Focus 4
 __The calculations of permutations and combinations__  
 - Using __the definitions and formulas of permutations and combinations__.
 
@@ -513,7 +513,7 @@ $
   :::
 ---
 
-## 11.Focus 5
+## 10.Focus 5
 __The applications of permutations and combinations__   
 - Using __the definitions and formulas of permutations and combinations__.
 

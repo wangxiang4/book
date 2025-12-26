@@ -1,5 +1,5 @@
 ---
-title: Chapter3 Polynomials, Rational Expressions, and Functions – Module2 Rational Expressions, Module 3 Quadratic Functions
+title: Chapter3 Polynomials, Rational Expressions, and Functions – Module2 Rational Expressions, Module3 Quadratic Functions
 lang: en-US
 ---
 

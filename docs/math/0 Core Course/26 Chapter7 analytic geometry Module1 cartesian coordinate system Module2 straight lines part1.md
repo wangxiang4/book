@@ -1,5 +1,5 @@
 ---
-title: Chapter7 Analytic Geometry – Module1 Cartesian Coordinate System, Module2 Straight Lines Upper
+title: Chapter7 Analytic Geometry – Module1 Cartesian Coordinate System, Module2 Straight Lines (Part1)
 lang: en-US
 ---
 

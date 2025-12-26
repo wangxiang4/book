@@ -1,5 +1,5 @@
 ---
-title: Chapter10 Probability
+title: Chapter10 Probability – Module1 Classical Probability, Module2 Independent Events
 lang: en-US
 ---
 

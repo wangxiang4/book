@@ -1,5 +1,5 @@
 ---
-title: Chapter4 Equations Inequalities – Module2 Inequalities
+title: Chapter4 Equations and Inequalities – Module3 Linear Inequalities, Module4 Quadratic Inequalities
 lang: en-US
 ---
 
