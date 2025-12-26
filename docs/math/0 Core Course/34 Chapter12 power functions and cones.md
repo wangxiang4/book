@@ -871,8 +871,8 @@ $
    ::: wrap  
    $
    \begin{array}{ll}
-   120^\circ=\frac{120\pi}{180}=\frac{2\pi}{3} & \textsf{deg} \rightarrow \textsf{rad} \\
-   \frac{2\pi}{3}=\frac{2\cdot180}{3}=\frac{360}{3}=120^\circ & \textsf{rad} \rightarrow \textsf{deg}\\
+   120^\circ=\frac{120\pi}{180}=\frac{2\pi}{3} & \href{https://www.mathsisfun.com/geometry/radians.html}{\textsf{deg} \rightarrow \textsf{rad}} \\
+   \frac{2\pi}{3}=\frac{2\cdot180}{3}=\frac{360}{3}=120^\circ & \href{https://www.mathsisfun.com/geometry/radians.html}{\textsf{rad} \rightarrow \textsf{deg}} \\
    \theta=\frac{2\pi r}{l}=\frac{2\pi}{3} \\
    6\pi r=2\pi l \\
    l=3r \\
@@ -1018,7 +1018,7 @@ $
   :::
 ---
 
-### $\fbox{2}\:$A sector with a central angle of $\small 90^\circ$ is rolled up to form the lateral surface of a cone. What is the relationship between the cone's lateral surface area $\small S_{\textsf{lateral}}$ and its base area $\small S_{\textsf{base}} \,\mathpunct{?}$.
+### $\fbox{2}\:$A sector with a central angle of $\small 90^\circ$ is rolled up to form the lateral surface of a cone. Find the relationship between the cone's lateral surface area $\small S_{\textsf{lateral}}$ and its base area $\small S_{\textsf{base}}$.
 ::: wrap  
 $
 \begin{array}{lllll}
