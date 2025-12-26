@@ -65,7 +65,7 @@ $
 __The coexisting increases and decreases in rate of change__  
 - Analyze using __the rate of change formulas__.
 
-### $\fbox{12}\:$(Sufficiency judgment) The company's per capita cost this year is $\small 60\%$ of last year's.
+### $\fbox{12}\:$(Data Sufficiency) The company's per capita cost this year is $\small 60\%$ of last year's.
 $\textsf{(1)}$ The company's total cost this year __decreased by $\boldsymbol{25\%}$__, and the number of employees __increased by $\boldsymbol{25\%}$__  
 $\textsf{(2)}$ The company's total cost this year __decreased by $\boldsymbol{28\%}$__, and the number of employees __increased by $\boldsymbol{20\%}$__  
 $

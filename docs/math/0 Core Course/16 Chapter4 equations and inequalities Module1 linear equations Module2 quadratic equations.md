@@ -807,7 +807,7 @@ __The signs of roots of an equation__
     :::  
 
 
-### $\fbox{13}\:$(Sufficiency judgment) The equation $\small 4x^2+(a-2)x+a-5=0$ has two distinct negative real roots.
+### $\fbox{13}\:$(Data Sufficiency) The equation $\small 4x^2+(a-2)x+a-5=0$ has two distinct negative real roots.
 ::: wrap  
 $
 \begin{array}{lllll}

@@ -1,9 +1,9 @@
 ---
-title: Sufficiency Judgment Guidance
+title: Data Sufficiency
 lang: en-US
 ---
 
-## 1.Definition of Sufficiency Judgment
+## 1.Definition
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -86,7 +86,7 @@ $
 :::
 #### Solution
 - Show known conditions  
-  ![Question sufficiency judgment figure Q-3 solve-1.svg](../../public/math/Core%20Course/Question%20sufficiency%20judgment%20figure%20Q-3%20solve-1.svg)  
+  ![Question data sufficiency figure Q-3 solve-1.svg](../../public/math/Core%20Course/Question%20data%20sufficiency%20figure%20Q-3%20solve-1.svg)  
 #### Conclusion
 - Derived Solution  
   ::: wrap
@@ -273,7 +273,7 @@ $
 :::
 #### Solution
 - Show known conditions  
-  ![Question sufficiency judgment figure Q-11 solve-1.svg](../../public/math/Core%20Course/Question%20sufficiency%20judgment%20figure%20Q-11%20solve-1.svg)  
+  ![Question data sufficiency figure Q-11 solve-1.svg](../../public/math/Core%20Course/Question%20data%20sufficiency%20figure%20Q-11%20solve-1.svg)  
 #### Conclusion
 - Derived Solution  
   ::: wrap
@@ -421,7 +421,7 @@ $
   \end{array}
   $  
   :::  
-  ![Question sufficiency judgment figure Q-15 solve-1.svg](../../public/math/Core%20Course/Question%20sufficiency%20judgment%20figure%20Q-15%20solve-1.svg)  
+  ![Question data sufficiency figure Q-15 solve-1.svg](../../public/math/Core%20Course/Question%20data%20sufficiency%20figure%20Q-15%20solve-1.svg)  
 #### Conclusion
 - Derived Solution  
   ::: wrap

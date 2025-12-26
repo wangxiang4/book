@@ -121,7 +121,7 @@ __Two lines are perpendicular__
   Paying attention to __the cases where the slope is $\boldsymbol{0}$ or undefined__.
 
 
-### $\fbox{13}\:$(Sufficiency judgment) The lines $\small (m +2)x+3my+1=0$ and $\small (m-2)x+(m+2)y-3=0$ are perpendicular to each other.
+### $\fbox{13}\:$(Data Sufficiency) The lines $\small (m +2)x+3my+1=0$ and $\small (m-2)x+(m+2)y-3=0$ are perpendicular to each other.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -369,7 +369,7 @@ __Two lines intersect__
 - __The system of equations formed by two lines__ can be used to find __the coordinates of their intersection point__.
 
 
-### $\fbox{17}\:$(Sufficiency judgment) The lines $\small (m+1)x+3y+1=0$ and $\small 2x+my−3=0$ intersect.
+### $\fbox{17}\:$(Data Sufficiency) The lines $\small (m+1)x+3y+1=0$ and $\small 2x+my−3=0$ intersect.
 ::: wrap  
 $
 \begin{array}{lllll}

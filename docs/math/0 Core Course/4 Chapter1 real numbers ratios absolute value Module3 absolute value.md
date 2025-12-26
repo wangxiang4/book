@@ -119,7 +119,7 @@ __The absolute value and number line__
   __the distance between points on the number line__ for analysis.
 
 
-### $\fbox{21}\:$(Sufficiency judgment) $\small \left|b-a\right|+\left|c-b\right|-\left|c\right|=a$.
+### $\fbox{21}\:$(Data Sufficiency) $\small \left|b-a\right|+\left|c-b\right|-\left|c\right|=a$.
 $\textsf{(1)}$ the positions of the real numbers $\boldsymbol{a,b,c}$ on the number line are:  
 ![Question absolute value figure Q-21 condition-1.svg](../../public/math/Core%20Course/Question%20absolute%20value%20figure%20Q-21%20condition-1.svg)  
 $\textsf{(2)}$ the positions of the real numbers $\boldsymbol{a,b,c}$ on the number line are:  
@@ -232,7 +232,7 @@ __The equivalence__
   $
 
 
-### $\fbox{22}\:$(Sufficiency judgment) $\small \sqrt{a^2b}=-a\sqrt{b}$.
+### $\fbox{22}\:$(Data Sufficiency) $\small \sqrt{a^2b}=-a\sqrt{b}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -299,7 +299,7 @@ $
 ---
 
 ::: wrap  
-### $\fbox{23}\:$(Sufficiency judgment) $\small \left|1-x\right|-\sqrt{x^2-8x+16}=2x-5$.
+### $\fbox{23}\:$(Data Sufficiency) $\small \left|1-x\right|-\sqrt{x^2-8x+16}=2x-5$.
 :::  
 ::: wrap  
 $

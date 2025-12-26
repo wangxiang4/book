@@ -789,7 +789,7 @@ __The line passes through quadrants__
   ![Line cross quadrants.svg](../../public/math/Core%20Course/Line%20cross%20quadrants.svg)    
 
 
-### $\fbox{11}\:$(Sufficiency judgment) The line $\small ax+bx+c=0$ does not pass through the third quadrant.
+### $\fbox{11}\:$(Data Sufficiency) The line $\small ax+bx+c=0$ does not pass through the third quadrant.
 ::: wrap   
 $
 \begin{array}{lllll}

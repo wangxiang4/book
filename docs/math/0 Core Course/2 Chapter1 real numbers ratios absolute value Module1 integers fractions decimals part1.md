@@ -69,7 +69,7 @@ $
   :::
 ---
 
-### $\fbox{2}\:$(Sufficiency judgment) $\small m$ is an integer.
+### $\fbox{2}\:$(Data Sufficiency) $\small m$ is an integer.
 ::: wrap  
 $
 \begin{array}{lllll}
