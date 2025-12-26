@@ -56,7 +56,7 @@ lang: en-US
        - When the numerator $\boldsymbol{m}$ is even,
          the function is __symmetric about the y-axis__,
          i.e. __$\boldsymbol{f(-x)=f(x)}$, an even function__.
-       - Can be rewritten as __an even power form__  
+       - Transform into an even-power form  
          ::: wrap  
          $
          \begin{array}{ll}  
@@ -75,7 +75,7 @@ lang: en-US
        - When the denominator $\boldsymbol{n}$ is even,
          the graph has __no symmetry__;
          it is __a neither odd nor even function__.
-       - ###### Can be rewritten as __an even root form__.  
+       - ###### Transform into an even-root form  
          ::: wrap  
          $
          \begin{array}{ll}  
@@ -95,8 +95,7 @@ lang: en-US
        <iframe src="https://www.desmos.com/calculator/givdh77tix?embed" width="460" height="300" style="border: 1px solid #ccc" />
      - Properties
        - $\alpha<1$: __decreases inversely__;
-         the graph is __a curve__ where, __as $\boldsymbol{x}$ increases__,
-         the function value $\boldsymbol{y}$ gradually __decreases and approaches $\boldsymbol{0}$__.
+         the graph is __a curve__ where the function value $\boldsymbol{y}$ gradually __decreases and approaches $\boldsymbol{0}$ as $\boldsymbol{x}$ increases__.
   2. $m$ is even, $n$ is odd
      - Function graph  
        <iframe src="https://www.desmos.com/calculator/l3elhvrzx7?embed" width="460" height="300" style="border: 1px solid #ccc" />
@@ -105,14 +104,14 @@ lang: en-US
        <iframe src="https://www.desmos.com/calculator/n01tjrdix9?embed" width="460" height="300" style="border: 1px solid #ccc" />
 
 - Parity rules of power functions
-  - When both __the numerator $\boldsymbol{m}$__ and __the denominator $\boldsymbol{n}$__ are odd,
+  - When __both the numerator $\boldsymbol{m}$ and the denominator $\boldsymbol{n}$__ are odd,
     __the function is odd__;  
     when __the numerator $\boldsymbol{m}$__ is even,
     __the function is even__.
   - When __the denominator $\boldsymbol{n}$__ is even,
     __the function is neither odd nor even__.  
-    Its domain must __satisfy $\boldsymbol{\ge0}$__,
-    since [__an even root requires $\boldsymbol{x\ge0}$__](/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#can-be-rewritten-as-an-even-root-form)
+    Its domain __must satisfy $\boldsymbol{\ge0}$__,
+    since [__an even root requires $\boldsymbol{x\ge0}$__](/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#transform-into-an-even-root-form)
 
 ## 3.Focus 1
 __The Power functions__  
@@ -167,7 +166,7 @@ $
   :::
 ---
 
-### $\fbox{2}\:$Given the power function $\small y=(m^2-3m+3)x^{m^2-m-2}$, if its graph does not pass through the origin, how many possible values does $\small m$ have $\small \mathpunct{?}$.
+### $\fbox{2}\:$Given the power function $\small y=(m^2-3m+3)x^{m^2-m-2}$, if its graph does not pass through the origin, find how many possible values $\small m$ can take.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -206,7 +205,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{table of power function properties}} \\
   y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
   \end{array}
@@ -258,7 +257,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{table of power function properties}} \\
   y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   \end{array}
   >$
@@ -308,7 +307,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{table of power function properties}} \\
   a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
   \end{array}
   >$
@@ -409,7 +408,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{table of power function properties}} \\
   a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
   \end{array}
   >$
@@ -465,7 +464,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{table of power function properties}} \\
   y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
   \end{array}
@@ -513,7 +512,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{table of power function properties}} \\
   y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
   \end{array}
@@ -560,7 +559,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{table of power function properties}} \\
   y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   \end{array}
   >$
@@ -568,7 +567,7 @@ $
   :::
 ---
 
-### $\fbox{10}\:$Given $\small (5-2m)^\frac{1}{2} < (m-1)^\frac{1}{2}$, how many prime numbers are included in the range of $\small m \,\mathpunct{?}$.
+### $\fbox{10}\:$Given that $\small (5-2m)^\frac{1}{2} < (m-1)^\frac{1}{2}$, find the prime numbers within the range of $\small m$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -609,7 +608,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{table of power function properties}} \\
   a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
   \end{array}
   >$
@@ -664,7 +663,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{table of power function properties}} \\
   y=x^\alpha & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
   \end{array}
@@ -673,7 +672,7 @@ $
   :::
 ---
 
-### $\fbox{12}\:$Given the power function $\small y=x^{m-2}$ ($\small m\in\mathbb{N}$), its graph does not intersect either the x-axis or the y-axis, and it is symmetric about the y-axis. How many possible values can $\small m$ take $\small \mathpunct{?}$.
+### $\fbox{12}\:$Given the power function $\small y=x^{m-2}$ ($\small m\in\mathbb{N}$), its graph does not intersect either the x-axis or the y-axis, and it is symmetric about the y-axis. Find how many possible values $\small m$ can take.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -716,7 +715,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{table of power function properties}} \\
   \end{array}
   >$
 
@@ -769,7 +768,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{power function properties table}} \\
+  & \href{/math/0%20Core%20Course/34%20Chapter12%20power%20functions%20and%20cones.html#_2-overview-of-power-function-properties-table}{\textsf{table of power function properties}} \\
   a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
   (a^m)^n=a^{m\cdot n} & \textsf{power of a power rule} \\
   a^{-n}=\frac{1}{a^n} & \textsf{negative exponent rule} \\
