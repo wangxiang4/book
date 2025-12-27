@@ -8,20 +8,20 @@ lang: en-US
 ## 1.Definition of Inequalities
 - An inequality is formed by __connecting two (or more) expressions with an inequality sign__.
   The values of the unknown that satisfy the inequality are called __the solutions of the inequality__.
-  The inequality signs include __$\boldsymbol{\gt,\lt,\le,\ge}$, and $\boldsymbol{\ne}$__.
+  The inequality signs include $\boldsymbol{\gt,\lt,\le,\ge}$, and $\boldsymbol{\ne}$.
 
 ## 2.Classification of Inequalities
 - According to __the nature of their solutions__, inequalities can be classified into __the following three types__:
-  1. __Absolute inequalities__: inequalities whose solution set is $\mathbb{R}$.
+  1. __Absolute inequalities__: inequalities whose solution set is $\mathbb{R}$
      - $x^2+2>0$
-  2. __Conditional inequalities__: inequalities whose solution set is __a non-empty proper subset of the real numbers__.
+  2. __Conditional inequalities__: inequalities whose solution set is __a non-empty proper subset of the real numbers__
      - $x^2-2>0$
-  3. __Contradictory inequalities__: inequalities whose solution set is __the empty set__.
+  3. __Contradictory inequalities__: inequalities whose solution set is __the empty set__
      - $x^2+2<0$
 
 
-## 3.Basic Properties of Inequalities (Note the direction of inference; some cannot be reversed)
-- Transitivity:  
+## 3.Basic Properties of Inequalities (Note Direction of Inference; Some Cannot Be Reversed)
+- Transitivity  
   $
   \left\{
   \begin{array}{ll}
@@ -30,7 +30,7 @@ lang: en-US
   \end{array}
   \right. \boldsymbol{\Longrightarrow a > c}
   $
-- Addition (same direction):  
+- Addition (same direction)  
   $
   \left\{
   \begin{array}{ll}
@@ -39,7 +39,7 @@ lang: en-US
   \end{array}
   \right. \boldsymbol{\Longrightarrow a+c > b+d}
   $
-- Multiplication (both positive, same direction):  
+- Multiplication (both positive, same direction)  
   $
   \left\{
   \begin{array}{ll}
@@ -49,14 +49,14 @@ lang: en-US
   \right. \boldsymbol{\Longrightarrow ac > bd}
   $
 ::: wrap  
-- Reciprocal property (same sign):  
+- Reciprocal property (same sign)  
   $
   \boldsymbol{a>b>0 \Longleftrightarrow \frac{1}{b}>\frac{1}{a}>0}\textsf{; }
   \boldsymbol{a<b<0 \Longleftrightarrow \frac{1}{b}<\frac{1}{a}<0}
   $
 :::  
 ::: wrap  
-- Exponentiation and root (both positive):  
+- Exponentiation and root (both positive)  
   $
   \boldsymbol{a>b>0 \Longrightarrow a^n>b^n>0,
   \sqrt[n]{a}>\sqrt[n]{b}>0 \textsf{ (}n \in \mathbb{Z_+}\textsf{)}}
@@ -146,7 +146,7 @@ $
 ## 5.Focus 2
 __The linear inequalities (systems)__  
 - Solve each inequality individually,
-  and then find __the solution set of the system__ by considering __the intersection of the individual solution sets__.
+  and then find __the solution set of the system by considering the intersection of the individual solution sets__.
 
 
 ### $\fbox{16}\:$For the system of inequalities $\scriptsize \begin{cases} x-1 \le a^2 \\ x-4 \ge 2a \end{cases}$ to have a solution, find the integers in the range of the real number $\small a$.

@@ -159,7 +159,7 @@ $
 - Its general form is $\boldsymbol{ax^2+bx+c=0} \textsf{ (}a\ne0\textsf{)}$.
 
 
-## 2.Cases of the Roots
+## 2.Cases of Roots
 - Let $\boldsymbol{\Delta=b^2-4ac}$. The solutions of the equation fall into __three cases__:
   1. When $\boldsymbol{\Delta>0}$, the equation has __two distinct real roots__, given by $x_{1,2}=\frac{-b\pm\sqrt{\Delta}}{2a}$.
   2. When $\boldsymbol{\Delta=0}$, the equation has __two equal real roots__, $x_{1,2}=-\frac{b}{2a}$.
@@ -170,7 +170,7 @@ $
 ## 3.Steps for Solving Quadratic Equations
 - __Step 1__: first, try factorization using __the cross-multiplication method__.
   After factorization, __the roots of the equation can be obtained__.
-  - Condition for cross-multiplication: $\boldsymbol{\Delta=\textsf{perfect square}}$.  
+  - Condition for cross-multiplication: $\boldsymbol{\Delta=\textsf{perfect square}}$  
     ::: wrap  
     $
     \begin{array}{ll}
@@ -323,7 +323,7 @@ $
 
 ## 8.Focus 3
 __The vieta's theorem__  
-- Use __the relevant formulas and forms of vieta's theorem__ for analysis.
+- Use __the formulas and forms of vieta's theorem__ for analysis.
   Since vieta's theorem applies to both __real and complex roots__,
   when __solving for real roots__,
   remember to check __the discriminant after applying vieta's theorem__.
