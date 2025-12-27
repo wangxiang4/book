@@ -26,9 +26,9 @@ lang: en-US
 ::: wrap
 - $a_n=a_1+(n-1)d=a_k+(n-k)d=nd+a_1-d$
 :::
-- ###### Note: if __two terms are known__, __the common difference__ can be found by $\boldsymbol{d=\frac{a_n-a_m}{n-m}}$.
-- Special case: $\boldsymbol{d=0}$, $a_n$ is __a constant__.
-- ###### $\boldsymbol{a_n=nd+a_1-d}$ can be regarded as __a linear function $\href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#slope-intercept-form}{\boldsymbol{y=kx+b}}$__.  
+- ###### Note: if __two terms are known__, __the common difference__ can be found by $\boldsymbol{d=\frac{a_n-a_m}{n-m}}$
+- Special case: $\boldsymbol{d=0}$, $a_n$ is __a constant__
+- ###### $\boldsymbol{a_n=nd+a_1-d}$ can be regarded as __a linear function $\href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#slope-intercept-form}{\boldsymbol{y=kx+b}}$__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -95,20 +95,20 @@ lang: en-US
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Applications
 
-| Formula          | Conditions for Use                                            | Example Usage |
-|------------------|---------------------------------------------------------------|---------------|
-| $a_n=a_1+(n-1)d$ | Requires $a_1$                                                | $a_5=a_1+4d$  |
-| $a_n=a_k+(n-k)d$ | Works with any $a_k$; when $k=1$, it becomes $a_n=a_1+(n-1)d$ | $a_5=a_3+2d$  |
-| $a_n=nd+a_1-d$   | Requires $a_1$                                                | $a_n=3n-2$    |
+| Formula          | Condition                                                     | Usage        |
+|------------------|---------------------------------------------------------------|--------------|
+| $a_n=a_1+(n-1)d$ | Requires $a_1$                                                | $a_5=a_1+4d$ |
+| $a_n=a_k+(n-k)d$ | Works with any $a_k$; when $k=1$, it becomes $a_n=a_1+(n-1)d$ | $a_5=a_3+2d$ |
+| $a_n=nd+a_1-d$   | Requires $a_1$                                                | $a_n=3n-2$   |
 
 
 ## 3.Sum of the First $n$ Terms
 ::: wrap  
 - $S_n=\frac{a_1+a_n}{2}n=na_1+\frac{n(n-1)}{2}d=\frac{d}{2}n^2+(a_1-\frac{d}{2})n$  
 :::
-- ###### Note: if the sums of the first $n$ and $m$ terms are known, then the common difference $d$ of the arithmetic sequence can be found using $\boldsymbol{\frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d}$.
-- ###### Special case: $\boldsymbol{d=0}$, $S_n=na_1$ is __a linear function__.
-- ###### $S_n=\frac{d}{2}n^2+(a_1-\frac{d}{2})n$ can be regarded as __a quadratic function $\href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\boldsymbol{y=ax^2+bx+c}}$__.  
+- ###### Note: if the sums of the first $n$ and $m$ terms are known, then the common difference $d$ of the arithmetic sequence can be found using $\boldsymbol{\frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d}$
+- ###### Special case: $\boldsymbol{d=0}$, $S_n=na_1$ is __a linear function__
+- ###### $S_n=\frac{d}{2}n^2+(a_1-\frac{d}{2})n$ can be regarded as __a quadratic function $\href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\boldsymbol{y=ax^2+bx+c}}$__  
   ::: wrap  
   $
   \begin{array}{ll}

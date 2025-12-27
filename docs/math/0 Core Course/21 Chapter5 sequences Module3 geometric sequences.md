@@ -12,15 +12,15 @@ lang: en-US
 
   | Sequence               | Multiple($q$) | Rule($q$)                           |
   |------------------------|---------------|-------------------------------------|
-  | $2,-6,18,-54,\cdots$   | __-3__        | $q<0:$ __terms alternate in sign__  |
-  | $2,6,18,54,\cdots$     | __3__         | $q>0:$ __terms have the same sign__ |
-  | $-2,-6,-18,-54,\cdots$ | __3__         | $q>0:$ __terms have the same sign__ |
+  | $2,-6,18,-54,\cdots$   | __-3__        | $q<0$: __terms alternate in sign__  |
+  | $2,6,18,54,\cdots$     | __3__         | $q>0$: __terms have the same sign__ |
+  | $-2,-6,-18,-54,\cdots$ | __3__         | $q>0$: __terms have the same sign__ |
   
 
 
 ## 2.General Term
 - $a_n=a_1q^{n-1}=a_{k}q^{n-k}=\frac{a_1}{q}q^n$
-- ###### Note: if __two terms are known__, __the common ratio__ can be found by $\boldsymbol{\frac{a_n}{a_m}=q^{n-m}}$.
+- ###### Note: if __two terms are known__, __the common ratio__ can be found by $\boldsymbol{\frac{a_n}{a_m}=q^{n-m}}$
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Derivations
 - __Derivation of $\boldsymbol{a_n=a_1q^{n-1}}$__  
@@ -68,7 +68,7 @@ lang: en-US
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Applications
 
-| Formula                | Conditions for Use                                            | Example Usage     |
+| Formula                | Condition                                                     |  Usage            |
 |------------------------|---------------------------------------------------------------|-------------------|
 | $a_n=a_1q^{n-1}$       | Requires $a_1$                                                | $a_5=a_1q^4$      |
 | $a_n=a_kq^{n-k}$       | Works with any $a_k$; when $k=1$, it becomes $a_n=a_1q^{n-1}$ | $a_5=a_3q^2$      |
@@ -235,9 +235,9 @@ $
 - Properties of the exponential function  
   ::: wrap
   > $\boldsymbol{f(x)=a^x}$  
-  > $a>0$: range is $(0, \infty)$.   
-  > $a=0$: defined only for $x>0$; $0$ with a negative exponent is undefined.  
-  > $a<0$: result may be positive or negative.
+  > $a>0$: range is $(0, \infty)$   
+  > $a=0$: defined only for $x>0$; $0$ with a negative exponent is undefined  
+  > $a<0$: result may be positive or negative
 
   :::
 ---
@@ -515,7 +515,7 @@ __The summation of a geometric sequence__
   \end{cases}
   $ to solve.  
 :::
-- Note: there are __two cases__, $\boldsymbol{q=1}$ and $\boldsymbol{q \ne 1}$.  
+- Note: there are __two cases__, $\boldsymbol{q=1}$ and $\boldsymbol{q \ne 1}$  
 ::: wrap
 - ###### Properties of $S_n$
   - When $\boldsymbol{q=1}$: $S_n=na_1$ __(a linear function)__

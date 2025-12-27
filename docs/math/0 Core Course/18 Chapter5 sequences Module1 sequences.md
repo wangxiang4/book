@@ -8,7 +8,7 @@ lang: en-US
 ## 1.Definition
 - A sequence is __a list of numbers__ arranged in __a certain order__.
   - $\left\{ a_n \right\}=\left\{1,3,5,7,9,\cdots \right\}$
-- General form: $\boldsymbol{a_1,a_2,a_3,\cdots,a_n,\cdots}$, abbreviated as $\boldsymbol{\left\{ a_n \right\}}$.
+- General form: $\boldsymbol{a_1,a_2,a_3,\cdots,a_n,\cdots}$, denoted by $\boldsymbol{\left\{ a_n \right\}}$
 - Note: a sequence can be __regarded as a function__ whose domain is __the set of positive integers__ (or __one of its finite subsets__).
   Analyzing and solving sequence problems from __the perspective of functions__ is __a fundamental approach__.
   __Recurrence (recursive relations)__ is __a distinctive representation of sequences__,
@@ -22,7 +22,7 @@ lang: en-US
 
 
 ## 2.General Term
-- $a_n=f(n)$: a functional relationship between __the $\boldsymbol{n}$-th term $\boldsymbol{a_n}$__ and __the index $\boldsymbol{n}$__.  
+- $a_n=f(n)$: a functional relationship between __the $\boldsymbol{n}$-th term $\boldsymbol{a_n}$__ and __the index $\boldsymbol{n}$__  
   $
   \begin{array}{ll}
   a_n=3n-1=f(n) \\
