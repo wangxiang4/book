@@ -29,11 +29,11 @@ lang: en-US
 
 ## 6.Focus 3
 __The calculating area using the base–height relationship__  
-- When two triangles have __the same height__, __the ratio of their areas equals the ratio of their bases__.    
+- When two triangles __have the same height__, __the ratio of their areas equals the ratio of their bases__.    
   ![Ratio of areas of two triangles with same height.svg](../../public/math/Core%20Course/Ratio%20of%20areas%20of%20two%20triangles%20with%20same%20height.svg)      
-- When two triangles have __the same base__, __the ratio of their areas equals the ratio of their heights__.   
+- When two triangles __have the same base__, __the ratio of their areas equals the ratio of their heights__.   
   ![Ratio of areas of two triangles with same base.svg](../../public/math/Core%20Course/Ratio%20of%20areas%20of%20two%20triangles%20with%20same%20base.svg)      
-- When two triangles have __the same base and the same height__, __their areas are equal__.  
+- When two triangles __have the same base and the same height__, __their areas are equal__.  
   ::: wrap  
   $
   \begin{array}{ll}

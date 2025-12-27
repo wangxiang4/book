@@ -60,7 +60,7 @@ __Examples__
 ## 10.Focus 4
 __The two lines are parallel__  
 - Analyze parallelism based on __equal slopes__,
-  paying attention to __the cases where the slope is $\boldsymbol{0}$ or undefined__.  
+  note __the cases where the slope is $\boldsymbol{0}$ or undefined__.  
 
 
 
@@ -118,7 +118,7 @@ __Two lines are perpendicular__
 - When __the product of the slopes of two lines is $\boldsymbol{-1}$__,
   or when __their slopes are negative reciprocals of each other__,
   the __two lines are perpendicular__.
-  Paying attention to __the cases where the slope is $\boldsymbol{0}$ or undefined__.
+  Note __the cases where the slope is $\boldsymbol{0}$ or undefined__.
 
 
 ### $\fbox{13}\:$(Data Sufficiency) The lines $\small (m +2)x+3my+1=0$ and $\small (m-2)x+(m+2)y-3=0$ are perpendicular to each other.

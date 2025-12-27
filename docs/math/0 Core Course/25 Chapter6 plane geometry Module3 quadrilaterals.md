@@ -353,7 +353,7 @@ $
 ## 8.Focus 2
 __The rectangle__
 - In a rectangle, __the opposite sides are perpendicular to each other__, and __the diagonals bisect each other__.
-- Note: A rectangle can be __divided into several triangles using straight lines__.
+- Note: a rectangle can be __divided into several triangles using straight lines__.
 
 
 ### $\fbox{31}\:$Figure 6–28, the two sides of rectangle $\small ABCD$ are $\small 8$ and $\small 6$ respectively, and the area of quadrilateral $\small OEFG$ is $\small 4$, find the area of the shaded part.

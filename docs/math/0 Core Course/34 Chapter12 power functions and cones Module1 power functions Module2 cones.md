@@ -722,8 +722,8 @@ $
   :::
 - Intercepts of the power function $y=x^\alpha$  
   ::: wrap
-  > - When $\boldsymbol{\alpha>0}$: it intersects both the x-axis and y-axis at $(0, 0)$.
-  > - When $\boldsymbol{\alpha\le0}$: it does not intersect either the x-axis or the y-axis.
+  > - When $\boldsymbol{\alpha>0}$: it intersects both the x-axis and y-axis at $(0, 0)$
+  > - When $\boldsymbol{\alpha\le0}$: it does not intersect either the x-axis or the y-axis
 
   :::
 ---
@@ -780,7 +780,7 @@ $
 
 # Module 12-02 Cones
 
-## 1.Cone
+## 1.Cones
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Formulas for a cone
 - Geometric diagram of a cone (development view): __the height is $\boldsymbol{h}$__,
   __the base radius is $\boldsymbol{r}$__,
@@ -899,7 +899,7 @@ $
 - Note: when __a plane parallel to the base__ cuts a cone, it forms __a smaller cone__ and __a frustum__.
   ![Cone cross-section forms frustum and smaller cone.svg](../../public/math/Core%20Course/Cone%20cross-section%20forms%20frustum%20and%20smaller%20cone.svg)  
 
-## 2.Pyramid
+## 2.Pyramids
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Triangular pyramid
 - A pyramid with __a triangular base__.
 - A regular triangular pyramid is a pyramid whose base is __an equilateral triangle__ and

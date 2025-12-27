@@ -15,7 +15,7 @@ lang: en-US
 ## 2.Midpoint Coordinates of Two Points
 - __The midpoint of points $\boldsymbol{P_1(x_1,y_1)}$ and $\boldsymbol{P_2(x_2,y_2)}$ is $\boldsymbol{\left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right)}$__,
   which is essentially __the average of the two points__.
-- Special case: __the midpoint of points $\boldsymbol{P_1(x_1,y_1)}$ and $\boldsymbol{O(0,0)}$ is $\boldsymbol{\left(\frac{x_1}{2},\frac{y_1}{2}\right)}$__.
+- Special case: __the midpoint of points $\boldsymbol{P_1(x_1,y_1)}$ and $\boldsymbol{O(0,0)}$ is $\boldsymbol{\left(\frac{x_1}{2},\frac{y_1}{2}\right)}$__
 - __Formula derivation__  
   ![Midpoint coordinates formula derivation.svg](../../public/math/Core%20Course/Midpoint%20coordinates%20formula%20derivation.svg)       
   ::: wrap  
@@ -32,7 +32,7 @@ lang: en-US
 
 ## 3.Distance Formula Between Two Points
 - __The distance between points $\boldsymbol{A(x_1,y_1)}$ and $\boldsymbol{B(x_2,y_2)}$ is $\boldsymbol{d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}}$__.
-- Special case: __the distance between points $\boldsymbol{A(x_1,y_1)}$ and $\boldsymbol{O(0,0)}$ is $\boldsymbol{d=\sqrt{x^2+y^2}}$__.  
+- Special case: __the distance between points $\boldsymbol{A(x_1,y_1)}$ and $\boldsymbol{O(0,0)}$ is $\boldsymbol{d=\sqrt{x^2+y^2}}$__  
 - __Formula derivation__  
   ![Distance formula between two points derivation.svg](../../public/math/Core%20Course/Distance%20formula%20between%20two%20points%20derivation.svg)  
   ::: wrap  
@@ -225,9 +225,9 @@ $
   denoted as $\boldsymbol{\alpha}$, where $\boldsymbol{\alpha \in [0, \pi)}$.  
   ![Angle of inclination with x-axis figure 7-1.svg](../../public/math/Core%20Course/Angle%20of%20inclination%20with%20x-axis%20figure%207-1.svg)      
 - Note: when __the line is horizontal__, __the inclination angle is $\boldsymbol{0^\circ}$__.
-  When __the line is vertical__, __the inclination angle is $\boldsymbol{90^\circ}$__.  
-  - __clockwise rotation decreases $\boldsymbol{\alpha}$__.
-  - __counterclockwise rotation increases $\boldsymbol{\alpha}$__.  
+  When __the line is vertical__, __the inclination angle is $\boldsymbol{90^\circ}$__  
+  - __clockwise rotation decreases $\boldsymbol{\alpha}$__
+  - __counterclockwise rotation increases $\boldsymbol{\alpha}$__  
     <ThemeAwareImage
       dark-src="/math/Core%20Course/Angle%20of%20inclination%20with%20x-axis%20figure%207-1%20black%20solve-1.gif"
       light-src="/math/Core%20Course/Angle%20of%20inclination%20with%20x-axis%20figure%207-1%20white%20solve-1.gif"
@@ -333,8 +333,8 @@ $
   :::  
 - [variation of the slope-intercept line](https://phet.colorado.edu/sims/html/graphing-slope-intercept/latest/graphing-slope-intercept_all.html) $\boldsymbol{y=kx+b}$  
   ::: wrap  
-  > - __Counterclockwise rotation: $\boldsymbol{k\uparrow}$__.  
-  > - __Clockwise rotation: $\boldsymbol{k\downarrow}$__.  
+  > - __Counterclockwise rotation: $\boldsymbol{k\uparrow}$__  
+  > - __Clockwise rotation: $\boldsymbol{k\downarrow}$__  
   > - The size of $\boldsymbol{|k|}$ indicates __the steepness of the line__.
   >   - The larger $\boldsymbol{|k|}$ is, __the steeper the line becomes__.
   >   - The smaller $\boldsymbol{|k|}$ is, __the flatter the line becomes__.
@@ -395,7 +395,7 @@ $
 ## 6. Equation of a Line
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Slope-intercept form
-- Given __the slope $\boldsymbol{k}$__ and __the $\overbrace{\textsf{y-intercept }\boldsymbol{b}}^{\textsf{y-axis intersection}}$__,
+- Given __the slope $\boldsymbol{k}$__ and __the $\overbrace{\textsf{y-intercept }b}^{\textsf{y-axis intersection}}$__,
   the equation of the line is $\boldsymbol{y=kx+b}$.
 - ###### __Special cases__  
   - $b=0: y=kx$  
@@ -407,8 +407,10 @@ $
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Point-slope form
 - Given __the slope $\boldsymbol{k}$__ and __a point $\boldsymbol{(x_0, y_0)}$__,
-  the equation of the line is __$\boldsymbol{y=y_0+k(x-x_0)}$ or $\boldsymbol{\frac{y-y_0}{x-x_0}=k}$__.  
-- __Special case__: $(x_0, y_0) \rightarrow (0,b) \Longrightarrow \textsf{point-slope form}=\textsf{slope-intercept form}$.  
+  the equation of the line is $\boldsymbol{y=y_0+k(x-x_0)}$ or $\boldsymbol{\frac{y-y_0}{x-x_0}=k}$.  
+::: wrap  
+- __Special case__: $(x_0, y_0) \rightarrow (0,b) \Longrightarrow \textsf{point-slope form}=\textsf{slope-intercept form}$  
+:::  
 - [point-slope demo](https://phet.colorado.edu/sims/html/graphing-lines/latest/graphing-lines_all.html)  
 - __Equation derivation__  
   ![Point-slope equation derivation.svg](../../public/math/Core%20Course/Point-slope%20equation%20derivation.svg)   
@@ -425,7 +427,7 @@ $
 
 ### $\textcolor{#1E3A5F}{\fbox{3}}\:$Intercept form
 - Given __the x-intercept and y-intercept__, the equation of the line is $\boldsymbol{\frac{x}{a}+\frac{y}{b}=1}$,
-  where __$\boldsymbol{a}$ and $\boldsymbol{b}$ are the x-intercept and y-intercept__, respectively, and $\boldsymbol{a,b \ne 0}$.
+  where __$\boldsymbol{a}$ and $\boldsymbol{b}$ are the x-intercept and y-intercept__, respectively, and $\boldsymbol{a,b \ne 0}$.  
   ![Intercept form.svg](../../public/math/Core%20Course/Intercept%20form.svg)  
 
 

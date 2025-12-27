@@ -15,11 +15,14 @@ lang: en-US
 
 
 ## 2.Random Event
-- __An event that may or may not occur under given conditions is called a random event__, __denoted by $\boldsymbol{A, B, C},\cdots$__.
+- __An event that may or may not occur under given conditions is called a random event__, __denoted by $\boldsymbol{A, B, C},\cdots$__
+::: wrap  
 - $\boldsymbol{\textsf{event}=\textsf{experiment}+\textsf{specified outcomes}}$  
   - $\boldsymbol{=\textsf{specified outcome}}$: __occurrence (success)__
   - $\boldsymbol{\ne\textsf{specified outcome}}$: __non-occurrence (failure)__
   - $\boldsymbol{\lt\lor\gt\textsf{specified outcome}}$: __non-occurrence (failure)__
+:::  
+
 
 ## 3.Basic Event, Certain Event, Impossible Event
 - __Basic event__: __a single sample point in the sample space__.
@@ -457,11 +460,13 @@ $
 
 ## 6.Focus 2
 __The templates for three independent events__  
+::: wrap  
 - The probability that $A, B$, and $C$ occur simultaneously is $\boldsymbol{P_1\times P_2\times P_3}$
 - The probability that $A, B$, and $C$ all do not occur is $\boldsymbol{(1-P_1)\times(1-P_2)\times(1-P_3)}$
 - The probability that at least one of $A, B$, or $C$ occurs is $\boldsymbol{1-(1-P_1)\times(1-P_2)\times(1-P_3)}$
 - The probability that exactly two of $A, B$, and $C$ occur is $\boldsymbol{P_1\times P_2\times(1-P_3)+P_1\times P_3\times(1-P_2)+P_2\times P_3\times(1-P_1)}$
 - The probability that at most two of $A, B$, and $C$ occur is $\boldsymbol{1-P_1\times P_2\times P_3}$
+:::  
 
 
 ### $\fbox{8}\:$Players $\small A, B$, and $\small C$ each take one shot. The probabilities of making the shot are $\small 0.9$ for $\small A$, $\small 0.8$ for $\small B$, and $\small 0.7$ for $\small C$, Find the probability that at most two of them make the shot.

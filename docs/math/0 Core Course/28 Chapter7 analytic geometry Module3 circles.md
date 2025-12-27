@@ -24,11 +24,13 @@ lang: en-US
   :::
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$General form  
-$\boldsymbol{x^2+y^2+ax+by+c=0}$  
+- $\boldsymbol{x^2+y^2+ax+by+c=0}$  
+::: wrap  
 - ###### __Completing the square, the standard form of the circle is $\boldsymbol{(x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4}}$__.
   - __The center is $\boldsymbol{(-\frac{a}{2},-\frac{b}{2})}$__.
   - __The radius is $\boldsymbol{r=\frac{a^2+b^2-4c}{2}}$__.
-::: wrap
+:::  
+::: wrap  
 - __Special cases__
   - $a=0\textsf{: }x^2+y^2+by+c=0$  
     __center on the y-axis__

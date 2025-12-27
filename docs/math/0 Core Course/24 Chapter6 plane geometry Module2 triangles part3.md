@@ -283,7 +283,7 @@ $
 $  
 :::
 #### Solution
-- Find __the corresponding equal sides and equal acute angles__ of two congruent right triangles.  
+- Solve by finding the corresponding equal sides and equal acute angles of two congruent right triangles  
   ![Question triangles figure 6-19 solve-1.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-19%20solve-1.svg)    
   ::: wrap  
   $
@@ -360,7 +360,7 @@ $
   \end{array}
   $  
   :::  
-- $\textcolor{#228B22}{\fbox{2}}\:$Solve by analyzing that the ratio of their areas equals the square of the similarity ratio.   
+- $\textcolor{#228B22}{\fbox{2}}\:$Solve by analyzing that the ratio of their areas equals the square of the similarity ratio    
   ::: wrap  
   $
   \begin{array}{ll}
@@ -506,7 +506,7 @@ $
 ---
 
 
-### $\fbox{27}\:$Figure 6–22, in $\small \triangle ABC$, points $\small D, E$, and $\small F$ lie on sides $\small AB, AC$, and $\small BC$, respectively, and $\small DE \parallel BC, EF \parallel AB$. Given that $\small AD:DB=2:3$, and $\small BC=20$, what is the length of $\small CF \,\mathpunct{?}$. 
+### $\fbox{27}\:$Figure 6–22, in $\small \triangle ABC$, points $\small D, E$, and $\small F$ lie on sides $\small AB, AC$, and $\small BC$, respectively, and $\small DE \parallel BC, EF \parallel AB$. Given that $\small AD:DB=2:3$, and $\small BC=20$, find the length of $\small CF$. 
 ![Question triangles figure 6-22.svg](../../public/math/Core%20Course/Question%20triangles%20figure%206-22.svg)  
 ::: wrap  
 $

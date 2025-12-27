@@ -340,16 +340,17 @@ $
 ### $\textcolor{#1E3A5F}{\fbox{3}}\:$Permutation formula
 ::: wrap  
 - $\boldsymbol{P_n^m=n(n-1)(n-2)\cdots(n-m+1)=\frac{n!}{(n-m)!}=C_n^m\times m!}$   
-- $\boldsymbol{n}$: __total items__
-- $\boldsymbol{m}$: __number of items chosen (order matters)__
-:::  
-- __example__      
+  - $\boldsymbol{n}$: __total items__
+  - $\boldsymbol{m}$: __number of items chosen (order matters)__
+- __example__  
   $
   \begin{array}{ll}
   P_n^m=n(n-1)(n-2)\cdots(n-m+1) \\
   P_6^3=\underbrace{6\times5\times4}_{3 \textsf{ numbers}}=120 \\
   \end{array}
-  $
+  $  
+:::  
+
 
 
 ## 8.Combinations
@@ -365,18 +366,17 @@ $
 ### $\textcolor{#1E3A5F}{\fbox{3}}\:$Combination formula
 ::: wrap
 - $\boldsymbol{C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1}=\frac{n!}{m!(n-m)!}=\boldsymbol{\frac{P_n^m}{m!}}}$
-- $\boldsymbol{n}$: __total items__
-- $\boldsymbol{m}$: __number of items chosen (order does not matter)__
-  :::
-- __example__      
+  - $\boldsymbol{n}$: __total items__
+  - $\boldsymbol{m}$: __number of items chosen (order does not matter)__
+- __example__  
   $
   \begin{array}{ll}
   C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} \\
   C_7^3=\frac{7\times6\times5}{3\times2\times1}=\frac{210}{6}=35 \\
   C_7^4=\frac{7\times6\times5\times4}{4\times3\times2\times1}=\frac{840}{24}=35 \\
   \end{array}
-  $
-
+  $  
+:::  
 
 ### $\textcolor{#1E3A5F}{\fbox{4}}\:$Properties of combinations
 - $\boldsymbol{C_n^m=C_n^{n-m}}$
