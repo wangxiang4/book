@@ -6,7 +6,7 @@ lang: en-US
 # Module 1-03 Absolute Value
 
 ## 1.Definition
-- The absolute value of a positive number is __the number itself__;
+- The absolute value of a positive number is __the number itself__;  
   the absolute value of a negative number is __its opposite__;  
   the absolute value of zero is __zero__.  
   $
@@ -186,7 +186,7 @@ $
   $
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Equivalence
-- __Square root–absolute value identity__:  
+- __Square root–absolute value identity__  
   $
   \sqrt{a^2}=\left|a\right|=
   \begin{cases}
@@ -194,7 +194,7 @@ $
   -a & a\lt0 \\
   \end{cases}
   $
-- __Absolute value–square identity__:  
+- __Absolute value–square identity__  
   $|a|^2=|a^2|=a^2$
 
 ### $\textcolor{#1E3A5F}{\fbox{3}}\:$Non-negativity
@@ -507,7 +507,7 @@ $
   :::
 ---
 
-### $\fbox{27}\:$How many possible values can $\small \frac{\left|a\right|}{a}+\frac{\left|b\right|}{b}+\frac{\left|c\right|}{c}+\frac{\left|abc\right|}{abc}$ take $\small \mathpunct{?}$.
+### $\fbox{27}\:$Find the number of possible values of $\small \frac{\left|a\right|}{a}+\frac{\left|b\right|}{b}+\frac{\left|c\right|}{c}+\frac{\left|abc\right|}{abc}$.
 ::: wrap  
 $
 \begin{array}{lllll}

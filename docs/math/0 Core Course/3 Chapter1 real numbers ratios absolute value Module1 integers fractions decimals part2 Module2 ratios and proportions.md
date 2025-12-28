@@ -105,7 +105,7 @@ $
 
 ## 21.Focus 7
 __The repeating decimals__  
-- Use __the method for converting pure repeating decimals and mixed repeating decimals into fractions__.
+- Use __the methods for converting pure repeating decimals and mixed repeating decimals into fractions__.
 
 ### $\fbox{11}\:$The pure repeating decimal $0.\dot{a}b\dot{c}$, when written as a simplified fraction, has a numerator and denominator whose sum is $\small 58$. Find $\small a+b+c$.
 ::: wrap  
@@ -215,8 +215,7 @@ __The concept of direct and inverse proportion__
   they are __inversely proportional__.
   Additionally,
   if __$\boldsymbol{y}$ is directly proportional to $\boldsymbol{x}$__,
-  then __$\boldsymbol{y}$ is inversely proportional to $\boldsymbol{\frac{1}{x}}$__
-  — this illustrates __the mutual conversion between direct and inverse proportion__.
+  then __$\boldsymbol{y}$ is inversely proportional to $\boldsymbol{\frac{1}{x}}$__ (transformations between direct and inverse proportion).
 
 
 ### $\fbox{13}\:$How many of the following statements are correct $\small \mathpunct{?}$.

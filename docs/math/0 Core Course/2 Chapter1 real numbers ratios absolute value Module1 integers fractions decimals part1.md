@@ -338,7 +338,7 @@ $
 __The identifying prime and composite numbers__  
 - Determine whether a number is prime or composite based on __their definitions__.
   Memorize __the common prime numbers within $\boldsymbol{20}$__:
-  $2, 3, 5, 7, 11, 13, 17, 19$.
+  $2, 3, 5, 7, 11, 13, 17, 19$
 
 ### $\fbox{6}\:$If $\small 210$ is expressed as the product of several prime numbers, what is the sum of these prime numbers $\small \mathpunct{?}$.
 ::: wrap  
