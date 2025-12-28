@@ -11,7 +11,7 @@ lang: en-US
 - Polynomial multiplication can be done using __the distributive law__,
   meaning __each term of one polynomial__ must be __multiplied by each term of the other__,
   and then __like terms are combined__.
-  __For example__: $(a+b)(c+d)=ac+ad+bc+bd$.
+  __For example__: $(a+b)(c+d)=ac+ad+bc+bd$
 :::  
 
 ## 10.Focus 7
@@ -316,7 +316,7 @@ $
   when the divisor is __a linear expression__,
   the remainder is __a constant__.
   Thus, the remainder theorem states:
-  __the remainder of a polynomial $\boldsymbol{f(x)}$ divided by $\boldsymbol{ax-b}$ is $\boldsymbol{f(\frac{b}{a})}$__.
+  __the remainder of a polynomial $\boldsymbol{f(x)}$ divided by $\boldsymbol{ax-b}$ is $\boldsymbol{f(\frac{b}{a})}$__
 - __Theorem derivation__  
   ::: wrap  
   $
@@ -336,8 +336,8 @@ $
   \end{array}
   $
   :::
-- Note: this can be understood as __the remainder being the function value at that point__.
-  The __factor theorem__ can be seen as __a special case of the remainder theorem__.
+- Note: __the remainder is the function value at that point__.
+  __The factor theorem__ can be regarded as __a special case of the remainder theorem__.
 
 
 ## 17.Double-Cross Multiplication Method  
@@ -345,13 +345,13 @@ $
 - When dealing with __a quadratic six-term in two variables__ of the form $\boldsymbol{ax^2+bxy+cy^2+dx+ey+f}$,
   one can use __the double-cross multiplication method__ to factor it.
   The steps are:
-  1. Use __the cross multiplication method__ to factor $\boldsymbol{ax^2+bxy+cy^2}$,
-     obtaining __a cross-multiplication diagram (with two columns)__.
-  2. Decompose __the constant term $\boldsymbol{f}$__ into __two factors__ and place them in __the third column__.
-     The requirement is that __the sum of the cross-products of the second and third columns__
-     equals __the $\boldsymbol{ey}$ term__ in the original expression,
-     and __the sum of the cross-products of the first and third columns__
-     equals __the $\boldsymbol{dx}$ term__ in the original expression.
+  - __Step 1__: use __the cross multiplication method__ to factor $\boldsymbol{ax^2+bxy+cy^2}$,
+    obtaining __a cross-multiplication diagram (with two columns)__.
+  - __Step 2__: decompose __the constant term $\boldsymbol{f}$__ into __two factors__ and place them in __the third column__.
+    The requirement is that __the sum of the cross-products of the second and third columns__
+    equals __the $\boldsymbol{ey}$ term__ in the original expression,
+    and __the sum of the cross-products of the first and third columns__
+    equals __the $\boldsymbol{dx}$ term__ in the original expression.
 :::  
 - __Usage__  
   ![Double-cross multiplication.svg](../../public/math/Core%20Course/Double-cross%20multiplication.svg)  
@@ -372,8 +372,7 @@ $
 ## 18.Focus 11
 __The divisibility and factors__  
 - When divisibility occurs, __the factor theorem__ can be used to solve the problem.
-  The factor theorem can be cleverly understood as:
-  __when the factor equals zero, the original expression also equals zero__.
+  When __the factor in the factor theorem equals zero__, __the original expression also equals zero__.
 
 
 ### $\fbox{22}\:$If the polynomial $\small f(x)=x^3+a^2x^2+x-3a$ is divisible by $\small x-1$, find the real number $\small a$.
@@ -520,7 +519,7 @@ __The cross-multiplication factorization method__
   __the coefficient of the quadratic term and the constant term__ are __the product of two numbers__;
   __the coefficient of the linear term__ is __the sum of the products of a factor of the quadratic coefficient and a factor of the constant term__.
   After factorization,
-  $abx^2+(bp+aq)x+pq=(ax+p)(bx+q)$.  
+  $abx^2+(bp+aq)x+pq=(ax+p)(bx+q)$  
   ![Cross multiplication factorization.svg](../../public/math/Core%20Course/Cross%20multiplication%20factorization.svg)  
   $
   \begin{array}{ll}
@@ -735,7 +734,7 @@ __The remainder__
 ::: wrap  
 - __Remainder theorem__: the remainder when __a polynomial $\boldsymbol{f(x)}$__ is divided by $\boldsymbol{x-a}$ is $\boldsymbol{f(a)}$.  
   __Derivation__: the remainder when __a polynomial $\boldsymbol{f(x)}$__ is divided by $\boldsymbol{ax-b}$ is $\boldsymbol{f(\frac{b}{a})}$.  
-  Additionally, $\textsf{dividend}=\textsf{divisor}\cdot\textsf{quotient}+\textsf{remainder}$.
+  Additionally, $\textsf{dividend}=\textsf{divisor}\cdot\textsf{quotient}+\textsf{remainder}$
 :::
 
 ### $\fbox{28}\:$Let $\small f(x)$ be a polynomial with integer coefficients. When $\small f(x)$ is divided by $\small x-1$, the remainder is $\small 9$; when $\small f(x)$ is divided by $\small x-2$, the remainder is $\small 16$. Find the remainder when $\small f(x)$ is divided by $\small (x-1)(x-2)$.

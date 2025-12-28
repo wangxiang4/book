@@ -5,8 +5,8 @@ lang: en-US
 
 # Module 3-02 Rational Expressions and Operations
 
-## 1.Concept of Rational Expressions
-- Definition: let $A$ and $B$ be __two polynomials__.
+## 1.Definition of Rational Expressions
+- Let $\boldsymbol{A}$ and $\boldsymbol{B}$ be __two polynomials__.
   The division $\boldsymbol{A \div B}$ can be written in __the form $\boldsymbol{\frac{A}{B}}$__.
   If __the divisor $\boldsymbol{B}$ contains a variable__, then __the expression $\boldsymbol{\frac{A}{B}}$ is called a rational expression__.
 - $\boldsymbol{\frac{2}{3x+1}}$ can be __called a rational expression__.
@@ -310,16 +310,16 @@ $
 ## 2.Properties
 - Opening direction: determined by $a$. When $\boldsymbol{a>0}$, the parabola __opens upward__; when $\boldsymbol{a<0}$, it __opens downward__.  
   ![Quadratic function opening directions.svg](../../public/math/Core%20Course/Quadratic%20function%20opening%20directions.svg)
-- ###### Axis of symmetry: $\boldsymbol{x=-\frac{b}{2a}}$.
+- ###### Axis of symmetry: $\boldsymbol{x=-\frac{b}{2a}}$
   - Note: when $\boldsymbol{b=0}$, the graph of the quadratic function is __symmetric about the y-axis__.
   - $y=ax^2+c$  
     <iframe src="https://www.desmos.com/calculator/3kswxnnjis?embed" width="455" height="310" style="border: 1px solid #ccc; margin: 10px 0" />
-- Vertex coordinates: $\boldsymbol{(-\frac{b}{2a},\frac{4ac-b^2}{4a})}$.
-- [y-intercept](/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#slope-intercept-form): $\boldsymbol{y=c}$.
+- Vertex coordinates: $\boldsymbol{(-\frac{b}{2a},\frac{4ac-b^2}{4a})}$
+- [y-intercept](/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#slope-intercept-form): $\boldsymbol{y=c}$
   - Note: when $\boldsymbol{c=0}$, the graph of the quadratic function __passes through the origin__.
   - $y=ax^2+bx$  
     <iframe src="https://www.desmos.com/calculator/yypmtw3hv4?embed" width="455" height="310" style="border: 1px solid #ccc; margin: 10px 0" />
-- Extrema:  
+- __Extrema__  
   - When $\boldsymbol{a>0}$, the function has __a minimum value__ of $\boldsymbol{\frac{4ac-b^2}{4a}}$, but __no maximum__.
   - When $\boldsymbol{a<0}$, the function has __a maximum value__ of $\boldsymbol{\frac{4ac-b^2}{4a}}$, but __no minimum__.
 - [quadratic function demo](https://phet.colorado.edu/sims/html/graphing-quadratics/latest/graphing-quadratics_all.html)

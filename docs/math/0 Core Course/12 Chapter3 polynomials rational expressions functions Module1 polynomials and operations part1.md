@@ -52,11 +52,9 @@ lang: en-US
 
 ## 2.Focus 1
 __The difference of squares formula__  
-- For the difference of squares formula,
-  it is important to master its two applications:
-  one is __rationalization when square roots appear__,
-  and the other is __simplification of the multiplication of long strings of numbers__.
-- Example of rationalizing a square root  
+- __Rationalize when square roots appear__.
+- __Simplify the multiplication of long strings of numbers__.
+- Rationalization of square roots  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -153,14 +151,13 @@ $
 ## 3.Focus 2
 __The perfect square formulas for two terms__  
 ::: wrap  
-- For the perfect square formulas involving two terms, one must learn to __flexibly transform and apply them__:  
+- For perfect square formulas with two terms, they can be __flexibly transformed and applied__:  
   $a^2+b^2=(a\pm b)^2\mp2ab$,  
   $(a+b)^2+(a-b)^2=2a^2+2b^2$,  
   $ab=\frac{(a+b)^2-(a^2+b^2)}{2}=\frac{(a^2+b^2)-(a-b)^2}{2}=\frac{(a+b)^2-(a-b)^2}{4}$,  
-  $(a+b)^2-(a-b)^2=4ab$.  
-  Additionally, __special applications should be noted when reciprocals appear__.
+  $(a+b)^2-(a-b)^2=4ab$  
 :::  
-- ###### Special applications involving reciprocals: $\boldsymbol{x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2}$.
+- ###### Special application involving reciprocals: $\boldsymbol{x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2}$
 
 
 ### $\fbox{3}\:$Given that $\small (x+2y)^2=40$ and $\small xy=2$, find $(x-2y)^2$.
@@ -280,7 +277,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#special-applications-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
+  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#special-application-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
   (a+b)^2-(a-b)^2=4ab & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
   a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
   |a|=\sqrt{a^2} & \href{/math/0%20Core%20Course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#_1-definition}{\textsf{absolute value definition}} \\
@@ -378,7 +375,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#special-applications-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
+  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#special-application-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
   (a+b)^2-(a-b)^2=4ab & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
   a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
   |a|=\sqrt{a^2} & \href{/math/0%20Core%20Course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#_1-definition}{\textsf{absolute value definition}} \\
@@ -434,7 +431,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#special-applications-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
+  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#special-application-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
   \end{array}
   >$
 
@@ -508,13 +505,13 @@ $
 ## 4.Focus 3
 __The perfect square formulas for three terms__  
 ::: wrap  
-- For the perfect square formulas involving three terms, one must learn to __flexibly transform and apply them__:  
+- For perfect square formulas with three terms, they can be __flexibly transformed and applied__:  
   $a^2+b^2+c^2=(a+b+c)^2-2(ab+bc+ac)$,  
-  $2(ab+bc+ac)=(a+b+c)^2-(a^2+b^2+c^2)$.  
-  Additionally, __note a special application involving reciprocals__:
+  $2(ab+bc+ac)=(a+b+c)^2-(a^2+b^2+c^2)$  
+- __Special application involving reciprocals__:
   when $\boldsymbol{\frac{1}{a}+\frac{1}{b}+\frac{1}{c}=0}$,
-  it follows that $\boldsymbol{ab+bc+ac=0}$,
-  and hence $\boldsymbol{a^2+b^2+c^2=(a+b+c)^2}$.
+  then $\boldsymbol{ab+bc+ac=0}$,
+  which implies $\boldsymbol{a^2+b^2+c^2=(a+b+c)^2}$
 :::  
 
 
