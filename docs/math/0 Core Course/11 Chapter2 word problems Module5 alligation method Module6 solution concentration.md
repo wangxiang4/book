@@ -8,14 +8,13 @@ lang: en-US
 ## 1.Applicable Situations
 - When __a whole is divided into two parts__,
   __the alligation (cross-multiplication) method__ can be used.
-- When __a whole is divided into two parts__ according to __a certain standard__,
-  __the lever principle leads to the alligation method__,
-  which can then be used to __quickly find the ratio of the two parts__.
+- __The lever principle leads to the alligation method__,
+  which can __quickly find the ratio of the two parts__.
   Additionally,
   the alligation method is __not limited to average-value problems__;
   as long as __a larger quantity__, __a smaller quantity__,
   and __their mixed intermediate quantity__ are involved,
-  the method can generally be used to find __the ratio between the large and small quantities__ — for example, __in solution-mixing problems__.
+  the method can be used to find __the ratio between the large and small quantities__ — for example, __in solution-mixing problems__.
 - ###### __Lever principle__  
   ![Lever principle diagram.svg](../../public/math/Core%20Course/Lever%20principle%20diagram.svg)  
   ::: wrap  
@@ -471,7 +470,7 @@ __The solvent replacement with equal volume__
 - The concentration __remains unchanged__ after __removing some of the solution__,
   but __decreases__ after __adding the same volume of water__.
 
-### $\fbox{68}\:$A container is filled with alcohol at a concentration of $\small 90\%$. After pouring out $1\textsf{L}$ and refilling the container with water, it is stirred evenly. Then another $1\textsf{L}$ is poured out and the container is refilled with water again. At this point. the alcohol concentration is $\small 40\%$. Find the volume of the container.
+### $\fbox{68}\:$A container is filled with alcohol at a concentration of $\small 90\%$. After pouring out $\small 1\textsf{L}$ and refilling the container with water, it is stirred evenly. Then another $\small 1\textsf{L}$ is poured out and the container is refilled with water again. At this point. the alcohol concentration is $\small 40\%$. Find the volume of the container.
 ::: wrap  
 $
 \begin{array}{lllll}

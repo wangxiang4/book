@@ -68,6 +68,7 @@ __The coexisting increases and decreases in rate of change__
 ### $\fbox{12}\:$(Data Sufficiency) The company's per capita cost this year is $\small 60\%$ of last year's.
 $\textsf{(1)}$ The company's total cost this year __decreased by $\boldsymbol{25\%}$__, and the number of employees __increased by $\boldsymbol{25\%}$__  
 $\textsf{(2)}$ The company's total cost this year __decreased by $\boldsymbol{28\%}$__, and the number of employees __increased by $\boldsymbol{20\%}$__  
+::: wrap  
 $
 \begin{array}{lllll}
 \textsf{(A)} \: \textsf{(1)} &
@@ -143,10 +144,10 @@ __The continuous rate of change__
 - Formula for continuous rate of change:
   if __the original value is $\boldsymbol{a}$__ and __the rate of change is $\boldsymbol{p}$__,
   then __after $\boldsymbol{k}$ consecutive changes__,
-  the value becomes $\boldsymbol{a(1+p)^k}$.
+  the value becomes $\boldsymbol{a(1+p)^k}$
 - Note: when __the change occurs continuously by month__,
   it only occurs at __the end of each month__,
-  so it should be __adjusted to $\boldsymbol{k-1}$__.
+  so it should be __adjusted to $\boldsymbol{k-1}$__
   - __Month $\boldsymbol{k}$__: $a(1+p)^{k-1}$
   - __Whole year__: $a+a(1+p)+\cdots+a(1+p)^{11}$  
     ::: wrap  
@@ -406,7 +407,7 @@ $
 
 ## 4.Focus 3
 __The price change (discounts and promotions)__  
-- __The transformations of the formulas__:  
+- __The transformations of the formulas__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -420,7 +421,7 @@ __The price change (discounts and promotions)__
   $
   :::  
 
-### $\fbox{18}\:$A store increases the price of each piece of clothing by $\small 50\%$ above the cost price, then offers a $\small 30\%$ discount. Each sale yields a profit of $\small 625\textsf{ USD}$. Given that the cost price of each item is $\small 2\textsf{K USD}$, how much higher is the selling price than the cost price $\small \mathpunct{?}$.
+### $\fbox{18}\:$A store increases the price of each piece of clothing by $\small 50\%$ above the cost price, then offers a $\small 30\%$ discount. Each sale yields a profit of $\small 625\textsf{ USD}$. Given that the cost price of each piece is $\small 2\textsf{K USD}$, how much higher is the selling price than the cost price $\small \mathpunct{?}$.
 ::: wrap  
 $
 \begin{array}{lllll}
@@ -646,7 +647,7 @@ $
 
 ## 5.Focus 4
 __The coexistence of profit and loss__  
-- Analyze using the formula: $\boldsymbol{\textsf{net profit}=\textsf{gain}–\textsf{loss}}$.
+- Analyze using the formula: $\boldsymbol{\textsf{net profit}=\textsf{gain}–\textsf{loss}}$
 
 ### $\fbox{23}\:$A store sold two gift sets, each at a selling price of $\small 210\textsf{ USD}$. Based on their cost prices, one set was sold at a $\small 25\%$ profit, and the other at a $\small 25\%$ loss. As a result, the store:
 ::: wrap  

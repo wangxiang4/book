@@ -7,7 +7,7 @@
 {
   "name": "electron-big-book",
   "packageManager": "pnpm@9.15.4",
-  "description": "Free and open-source books for learners studying the core fundamental skills of Philosophy and Java",
+  "description": "The core fundamental skills of Philosophy and Java",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "NODE_ENV=production && vitepress build docs",

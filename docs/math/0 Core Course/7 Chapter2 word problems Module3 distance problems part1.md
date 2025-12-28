@@ -403,7 +403,7 @@ __The straight-line variable speed__
   :::
 
 
-### $\fbox{31}\:$A car departs from Station $\small A$ and travels at a constant speed. $\small 1$ hour later, it breaks down, causing its speed to decrease by $\small 40\%$. As a result, it arrives at its destination, Station $\small B$, $\small 3$ hours later than planned. If the car could have traveled $\small 50\textsf{km}$ farther before breaking down, it would have arrived at Station $\small B$ $\small 1$ hour and $\small 20$ minutes earlier than the $\small 3$ hour delay. Find the distance between Stations $\small A$ and $\small B$.
+### $\fbox{31}\:$A car departs from Station $\small A$ and travels at a constant speed. $\small 1$ hour later, it breaks down, causing its speed to decrease by $\small 40\%$. As a result, it arrives at its destination, Station $\small B$, $\small 3$ hours later than planned. If the car could have traveled $\small 50\textsf{km}$ farther before breaking down, it would have arrived at $\small 1$ hour and $\small 20$ minutes earlier than the $\small 3$ hour delay. Find the distance between Stations $\small A$ and $\small B$.
 ::: wrap  
 $
 \begin{array}{lllll}
