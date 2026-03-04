@@ -1,7 +1,7 @@
 {
-  "name": "electron-big-book",
+  "name": "book",
   "packageManager": "pnpm@8.15.9",
-  "description": "The core fundamental skills of Philosophy and Java",
+  "description": "The core fundamental skills of Philosophy",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "NODE_ENV=production && vitepress build docs",

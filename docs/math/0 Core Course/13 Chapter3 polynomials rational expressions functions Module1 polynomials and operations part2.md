@@ -45,7 +45,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a^2+b^2+c^2\pm ab \pm ac \pm bc=\frac{1}{2}[(a\pm b)^2+(b\pm c)^2+(a\pm c)^2] & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{completing the square formula}} \\
+  a^2+b^2+c^2\pm ab \pm ac \pm bc=\frac{1}{2}[(a\pm b)^2+(b\pm c)^2+(a\pm c)^2] & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{completing the square formula}} \\
   \end{array}
   >$
 
@@ -100,7 +100,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \end{array}
   >$
 
@@ -162,8 +162,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a^2-b^2=(a+b)(a-b) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
-  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
+  a^2-b^2=(a+b)(a-b) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
+  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
   (a^m)^n=a^{m\cdot n} & \textsf{power of a power rule} \\
   \end{array}
   >$
@@ -204,7 +204,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
+  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
   (a^m)^n=a^{m\cdot n} & \textsf{power of a power rule} \\
   \end{array}
   >$
@@ -274,8 +274,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
-  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \end{array}
   >$
 
@@ -336,7 +336,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (a\pm b)^3=a^3\pm3a^2b+3ab^2\pm b^3 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{cube of a sum/difference formula}} \\
+  (a\pm b)^3=a^3\pm3a^2b+3ab^2\pm b^3 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{cube of a sum/difference formula}} \\
   \end{array}
   >$
 
@@ -424,10 +424,10 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (a\pm b)^3=a^3\pm3a^2b+3ab^2\pm b^3 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{cube of a sum/difference formula}} \\
-  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
-  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
-  a^2+b^2+c^2\pm ab \pm ac \pm bc=\frac{1}{2}[(a\pm b)^2+(b\pm c)^2+(a\pm c)^2] & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{completing the square formula}} \\
+  (a\pm b)^3=a^3\pm3a^2b+3ab^2\pm b^3 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{cube of a sum/difference formula}} \\
+  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  a^2+b^2+c^2\pm ab \pm ac \pm bc=\frac{1}{2}[(a\pm b)^2+(b\pm c)^2+(a\pm c)^2] & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{completing the square formula}} \\
   \end{array}
   >$
 

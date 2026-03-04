@@ -341,7 +341,7 @@ $
   >$
   \begin{array}{ll}
   \left|-a\right|=\left|a\right| & \href{/math/0%20Core%20Course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#symmetry}{\textsf{symmetric property of absolute value}} \\
-  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \sqrt{a^2}=\left|a\right|=
   \begin{cases}
   a & a\ge0 \\
@@ -396,7 +396,7 @@ $
   >$
   \begin{array}{ll}
   \left|a\right|\ge0 & \href{/math/0%20Core%20Course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#non-negativity}{\textsf{non-negativity property of absolute value}} \\
-  a^2-b^2=(a+b)(a-b) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
+  a^2-b^2=(a+b)(a-b) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
   \end{array}
   >$
 

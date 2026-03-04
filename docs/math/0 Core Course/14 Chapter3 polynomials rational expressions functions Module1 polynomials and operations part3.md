@@ -141,7 +141,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \end{array}
   >$
 
@@ -410,7 +410,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  f(x)=(x-a)(\cdots) \longrightarrow \frac{f(x)}{(x-a)}=(\cdots) & \href{/math/0%20Core%20Course/14%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20lower.html#_15-factor-theorem-divisibility}{\textsf{factor theorem for divisibility}} \\
+  f(x)=(x-a)(\cdots) \longrightarrow \frac{f(x)}{(x-a)}=(\cdots) & \href{/math/0%20Core%20Course/14%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part3.html#_15-factor-theorem-divisibility}{\textsf{factor theorem for divisibility}} \\
   \end{array}
   >$
 
@@ -459,7 +459,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  f(x)=(x-a)(\cdots) \longrightarrow \frac{f(x)}{(x-a)}=(\cdots) & \href{/math/0%20Core%20Course/14%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20lower.html#_15-factor-theorem-divisibility}{\textsf{factor theorem for divisibility}} \\
+  f(x)=(x-a)(\cdots) \longrightarrow \frac{f(x)}{(x-a)}=(\cdots) & \href{/math/0%20Core%20Course/14%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part3.html#_15-factor-theorem-divisibility}{\textsf{factor theorem for divisibility}} \\
   \end{array}
   >$
 
@@ -571,7 +571,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  abx^2+(bp+aq)x+pq=(ax+p)(bx+q) & \href{/math/0%20Core%20Course/14%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20lower.html#_19-focus-12}{\textsf{cross-multiplication factorization method}} \\
+  abx^2+(bp+aq)x+pq=(ax+p)(bx+q) & \href{/math/0%20Core%20Course/14%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part3.html#_19-focus-12}{\textsf{cross-multiplication factorization method}} \\
   \end{array}
   >$
 
@@ -667,7 +667,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (a_1x+c_1y+f_1)(a_2x+c_2y+f_2) & \href{/math/0%20Core%20Course/14%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20lower.html#_17-double-cross-multiplication-method}{\textsf{double-cross multiplication factorization method}} \\
+  (a_1x+c_1y+f_1)(a_2x+c_2y+f_2) & \href{/math/0%20Core%20Course/14%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part3.html#_17-double-cross-multiplication-method}{\textsf{double-cross multiplication factorization method}} \\
   \end{array}
   >$
 
@@ -720,9 +720,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a^2-b^2=(a+b)(a-b) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
+  a^2-b^2=(a+b)(a-b) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
   (a^m)^n=a^{m\cdot n} & \textsf{power of a power rule} \\
-  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
+  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
   \end{array}
   >$
 
@@ -795,7 +795,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  f(x)=(ax-b)\cdot\textsf{quotient}+\textsf{remainder} & \href{/math/0%20Core%20Course/14%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20lower.html#_16-remainder-theorem-non-divisibility}{\textsf{remainder theorem for non-divisibility}} \\
+  f(x)=(ax-b)\cdot\textsf{quotient}+\textsf{remainder} & \href{/math/0%20Core%20Course/14%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part3.html#_16-remainder-theorem-non-divisibility}{\textsf{remainder theorem for non-divisibility}} \\
   \end{array}
   >$
 

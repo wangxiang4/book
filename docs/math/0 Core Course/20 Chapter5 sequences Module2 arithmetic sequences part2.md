@@ -82,10 +82,10 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S_n=na_1+\frac{n(n-1)}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
-  \frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#note-if-the-sums-of-the-first-and-terms-are-known-then-the-common-difference-of-the-arithmetic-sequence-can-be-found-using}{\textsf{arithmetic series sum common difference formula}} \\
-  S_n=na_{\frac{n+1}{2}} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{arithmetic series sum formula with a fractional index}} \\
-  a_{n+1}-a_n=d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_1-definition}{\textsf{common difference definition}} \\
+  S_n=na_1+\frac{n(n-1)}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
+  \frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#note-if-the-sums-of-the-first-and-terms-are-known-then-the-common-difference-of-the-arithmetic-sequence-can-be-found-using}{\textsf{arithmetic series sum common difference formula}} \\
+  S_n=na_{\frac{n+1}{2}} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part2.html#_8-focus-4}{\textsf{arithmetic series sum formula with a fractional index}} \\
+  a_{n+1}-a_n=d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_1-definition}{\textsf{common difference definition}} \\
   \end{array}
   >$
 
@@ -151,13 +151,13 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
-  S_n=na_1+\frac{n(n-1)}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
+  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
+  S_n=na_1+\frac{n(n-1)}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
   \begin{cases}
   a_m+a_n=2a_{\frac{m+n}{2}} \\
   S_n=na_{\frac{n+1}{2}} \\
-  \end{cases} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{property of arithmetic sequence terms with a fractional index}} \\
-  d=\frac{a_n-a_m}{n-m} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{common difference formula}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part2.html#_8-focus-4}{\textsf{property of arithmetic sequence terms with a fractional index}} \\
+  d=\frac{a_n-a_m}{n-m} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{common difference formula}} \\
   \end{array}
   >$
 
@@ -199,11 +199,11 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
+  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
-  \end{cases} & \href{/math/0%20Core%20Course/16%20Chapter4%20equations%20inequalities%20Module1%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/16%20Chapter4%20equations%20and%20inequalities%20Module1%20linear%20equations%20Module2%20quadratic%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
   \end{array}
   >$
 
@@ -248,7 +248,7 @@ $
   $
   \begin{array}{ll}
   a_2=a_3=a_{10}=a_{11}=\frac{48}{4}=12 \Longrightarrow a_1=12 \\
-  S_{12}=12\cdot12=144 & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#special-case-is-a-linear-function}{S_n=na_1} \\
+  S_{12}=12\cdot12=144 & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#special-case-is-a-linear-function}{S_n=na_1} \\
   \end{array}
   $   
   :::
@@ -266,9 +266,9 @@ $
   \begin{cases}
   a_m+a_n=2a_{\frac{m+n}{2}} \\
   S_n=na_{\frac{n+1}{2}} \\
-  \end{cases} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{property of arithmetic sequence terms with a fractional index}} \\
-  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
-  S_n=\frac{a_1+a_n}{2}n & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part2.html#_8-focus-4}{\textsf{property of arithmetic sequence terms with a fractional index}} \\
+  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
+  S_n=\frac{a_1+a_n}{2}n & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
   \end{array}
   >$
 
@@ -331,9 +331,9 @@ $
   \begin{cases}
   a_m+a_n=2a_{\frac{m+n}{2}} \\
   S_n=na_{\frac{n+1}{2}} \\
-  \end{cases} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{property of arithmetic sequence terms with a fractional index}} \\
-  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
-  S_n=\frac{a_1+a_n}{2}n & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part2.html#_8-focus-4}{\textsf{property of arithmetic sequence terms with a fractional index}} \\
+  a_m+a_n=a_k+a_t & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
+  S_n=\frac{a_1+a_n}{2}n & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
   \end{array}
   >$
 
@@ -447,15 +447,15 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S_n=na_1+\frac{n(n-1)}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
-  \frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#note-if-the-sums-of-the-first-and-terms-are-known-then-the-common-difference-of-the-arithmetic-sequence-can-be-found-using}{\textsf{arithmetic series sum common difference formula}} \\
-  S_n=na_{\frac{n+1}{2}} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20lower.html#_8-focus-4}{\textsf{arithmetic series sum formula with a fractional index}} \\
-  d=\frac{a_n-a_m}{n-m} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{common difference formula}} \\
+  S_n=na_1+\frac{n(n-1)}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
+  \frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#note-if-the-sums-of-the-first-and-terms-are-known-then-the-common-difference-of-the-arithmetic-sequence-can-be-found-using}{\textsf{arithmetic series sum common difference formula}} \\
+  S_n=na_{\frac{n+1}{2}} & \href{/math/0%20Core%20Course/20%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part2.html#_8-focus-4}{\textsf{arithmetic series sum formula with a fractional index}} \\
+  d=\frac{a_n-a_m}{n-m} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{common difference formula}} \\
   \begin{cases}
   \frac{S_n}{n}, \frac{S_{2n}}{2n}, \frac{S_{3n}}{3n}, \cdots \\
   S_n, S_{2n}-S_n, S_{3n}-S_{2n},\cdots \\
-  \end{cases} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-is-the-sum-of-the-first-terms-of-an-arithmetic-sequence-then-also-form-an-arithmetic-sequence-with-common-difference}{\textsf{arithmetic series sum property}} \\
-  a+c=2b & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#_5-focus-1}{\textsf{arithmetic mean}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#if-is-the-sum-of-the-first-terms-of-an-arithmetic-sequence-then-also-form-an-arithmetic-sequence-with-common-difference}{\textsf{arithmetic series sum property}} \\
+  a+c=2b & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_5-focus-1}{\textsf{arithmetic mean}} \\
   \end{array}
   >$
 
@@ -514,8 +514,8 @@ $
   \begin{cases}
   \frac{S_n}{n}, \frac{S_{2n}}{2n}, \frac{S_{3n}}{3n}, \cdots \\
   S_n, S_{2n}-S_n, S_{3n}-S_{2n},\cdots \\
-  \end{cases} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#if-is-the-sum-of-the-first-terms-of-an-arithmetic-sequence-then-also-form-an-arithmetic-sequence-with-common-difference}{\textsf{arithmetic series sum property}} \\
-  \frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20upper.html#note-if-the-sums-of-the-first-and-terms-are-known-then-the-common-difference-of-the-arithmetic-sequence-can-be-found-using}{\textsf{arithmetic series sum common difference formula}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#if-is-the-sum-of-the-first-terms-of-an-arithmetic-sequence-then-also-form-an-arithmetic-sequence-with-common-difference}{\textsf{arithmetic series sum property}} \\
+  \frac{S_n}{n}-\frac{S_m}{m}=\frac{n-m}{2}d & \href{/math/0%20Core%20Course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#note-if-the-sums-of-the-first-and-terms-are-known-then-the-common-difference-of-the-arithmetic-sequence-can-be-found-using}{\textsf{arithmetic series sum common difference formula}} \\
   \end{array}
   >$
 

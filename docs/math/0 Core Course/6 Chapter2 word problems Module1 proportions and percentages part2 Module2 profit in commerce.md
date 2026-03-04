@@ -53,8 +53,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_{\textsf{after}}=a_{\textsf{before}}(1+p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
-  A=B\cdot p\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  a_{\textsf{after}}=a_{\textsf{before}}(1+p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  A=B\cdot p\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
   \end{array}
   >$
 
@@ -131,8 +131,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
-  \frac{A-B}{B}=p\% \Longleftrightarrow A=B(1+p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \frac{A-B}{B}=p\% \Longleftrightarrow A=B(1+p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
   \end{array}
   >$
 
@@ -192,7 +192,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a(1+p)^{k-1} & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_11-focus-10}{\textsf{continuous rate of change formula}} \\
+  a(1+p)^{k-1} & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_11-focus-10}{\textsf{continuous rate of change formula}} \\
   \end{array}
   >$
 
@@ -237,8 +237,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
-  a(1+p)^{k-1} & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_11-focus-10}{\textsf{continuous rate of change formula}} \\
+  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  a(1+p)^{k-1} & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_11-focus-10}{\textsf{continuous rate of change formula}} \\
   \end{array}
   >$
 
@@ -297,8 +297,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
-  A=B\cdot p\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  A=B\cdot p\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
   \end{array}
   >$
 
@@ -341,8 +341,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
-  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
   \end{array}
   >$
 
@@ -396,9 +396,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \textsf{profit}=\textsf{profit rate}\cdot\textsf{cost price} & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
-  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
-  A=B\cdot p\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \textsf{profit}=\textsf{profit rate}\cdot\textsf{cost price} & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  A=B\cdot p\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
   \end{array}
   >$
 
@@ -458,8 +458,8 @@ $
   >$
   \begin{array}{ll}
   \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) \\
-  \Longrightarrow \textsf{selling price}-\textsf{cost price}=\textsf{cost price}\cdot\textsf{profit} & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_4-focus-3}{\textsf{profit formula}} \\
-  A=B\cdot p\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \Longrightarrow \textsf{selling price}-\textsf{cost price}=\textsf{cost price}\cdot\textsf{profit} & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_4-focus-3}{\textsf{profit formula}} \\
+  A=B\cdot p\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
   \end{array}
   >$
 
@@ -500,8 +500,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
-  A=B\cdot p\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  A=B\cdot p\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
   \end{array}
   >$
 
@@ -540,8 +540,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \textsf{profit rate}=\frac{\textsf{profit}}{\textsf{cost price}}\cdot100\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
-  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \textsf{profit rate}=\frac{\textsf{profit}}{\textsf{cost price}}\cdot100\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
   \end{array}
   >$
 
@@ -587,8 +587,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  A=B\cdot p\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
-  \textsf{profit}=\textsf{selling price}-\textsf{cost price} & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  A=B\cdot p\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \textsf{profit}=\textsf{selling price}-\textsf{cost price} & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
   \end{array}
   >$
 
@@ -637,8 +637,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
-  \textsf{profit rate}=\frac{\textsf{profit}}{\textsf{cost price}}\cdot100\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \textsf{selling price}=\textsf{cost price}\cdot(1+\textsf{profit rate}) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \textsf{profit rate}=\frac{\textsf{profit}}{\textsf{cost price}}\cdot100\% & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
   \end{array}
   >$
 
@@ -682,8 +682,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \textsf{cost price}=\frac{\textsf{selling price}}{1+\textsf{profit rate}} & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
-  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \textsf{cost price}=\frac{\textsf{selling price}}{1+\textsf{profit rate}} & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_1-profit-and-profit-rate-formulas}{\textsf{profit formula}} \\
+  \frac{B-A}{B}=p\% \Longleftrightarrow A=B(1-p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
   \end{array}
   >$
 
@@ -735,7 +735,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a(1-p\%)(1+\frac{p\%}{1-p\%})=a & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_6-focus-5}{\textsf{discount–markup inverse relationship}} \\
+  a(1-p\%)(1+\frac{p\%}{1-p\%})=a & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_6-focus-5}{\textsf{discount–markup inverse relationship}} \\
   \end{array}
   >$
 

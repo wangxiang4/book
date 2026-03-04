@@ -47,9 +47,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
-  v_\textsf{down}=v_\textsf{boat}+v_\textsf{current} & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_6-boat-traveling-in-water}{\textsf{downstream speed formula}} \\
-  v_\textsf{up}=v_\textsf{boat}-v_\textsf{current} & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_6-boat-traveling-in-water}{\textsf{upstream speed formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v_\textsf{down}=v_\textsf{boat}+v_\textsf{current} & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_6-boat-traveling-in-water}{\textsf{downstream speed formula}} \\
+  v_\textsf{up}=v_\textsf{boat}-v_\textsf{current} & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_6-boat-traveling-in-water}{\textsf{upstream speed formula}} \\
   \end{array}
   >$
 
@@ -96,10 +96,10 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
-  v_\textsf{up}=v_\textsf{boat}-v_\textsf{current} & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_6-boat-traveling-in-water}{\textsf{upstream speed formula}} \\
-  v_\textsf{down}=v_\textsf{boat}+v_\textsf{current} & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_6-boat-traveling-in-water}{\textsf{downstream speed formula}} \\
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v_\textsf{up}=v_\textsf{boat}-v_\textsf{current} & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_6-boat-traveling-in-water}{\textsf{upstream speed formula}} \\
+  v_\textsf{down}=v_\textsf{boat}+v_\textsf{current} & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_6-boat-traveling-in-water}{\textsf{downstream speed formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   >$
 
@@ -159,8 +159,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_8-focus-6}{\textsf{current speed cancellation}} \\
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_8-focus-6}{\textsf{current speed cancellation}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   >$
 
@@ -202,7 +202,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_8-focus-6}{\textsf{current speed cancellation}} \\
+  & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_8-focus-6}{\textsf{current speed cancellation}} \\
   \end{array}
   >$
 
@@ -252,9 +252,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
-  v=v_1+v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
-  v=v_1-v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_9-relative-speed}{\textsf{same-direction relative speed formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v=v_1+v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
+  v=v_1-v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_9-relative-speed}{\textsf{same-direction relative speed formula}} \\
   \end{array}
   >$
 
@@ -310,8 +310,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
-  v=v_1-v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_9-relative-speed}{\textsf{same-direction relative speed formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v=v_1-v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_9-relative-speed}{\textsf{same-direction relative speed formula}} \\
   \end{array}
   >$
 
@@ -357,8 +357,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
-  v=v_1+v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v=v_1+v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
   \end{array}
   >$
 

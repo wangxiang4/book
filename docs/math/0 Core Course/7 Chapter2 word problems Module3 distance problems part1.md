@@ -8,13 +8,13 @@ lang: en-US
 ## 1.Straight-Line Distance
 ### $\textcolor{#1E3A5F}{\fbox{1}}\:$Basic formula
 - $s=vt \Longrightarrow \boldsymbol{\frac{s_1}{s_2}=\frac{t_1}{t_2}}$  
-  $s$ is in [direct proportion](/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion) to $t$,
+  $s$ is in [direct proportion](/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion) to $t$,
   where $v$ is __the constant of proportionality__.
 - $v=\frac{s}{t} \Longrightarrow \boldsymbol{\frac{v_1}{v_2}=\frac{t_2}{t_1}}$  
-  $v$ is in [inverse proportion](/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_2-inverse-proportion) to $t$,
+  $v$ is in [inverse proportion](/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#_2-inverse-proportion) to $t$,
   where $s$ is __the constant of proportionality__.
 - $t=\frac{s}{v} \Longrightarrow \boldsymbol{\frac{s_1}{s_2}=\frac{v_1}{v_2}}$  
-  $s$ is in [direct proportion](/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion) to $v$,
+  $s$ is in [direct proportion](/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion) to $v$,
   where $t$ is __the constant of proportionality__.
 
 ### $\textcolor{#1E3A5F}{\fbox{2}}\:$Head-on meeting formula
@@ -91,8 +91,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}=\frac{s_1-s_2}{v_1-v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#pursuit-formula}{\textsf{straight-line pursuit formula}} \\
-  s_{\textsf{meeting}}=s_1+s_2=v_1t+v_2t=(v_1+v_2)t & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#head-on-meeting-formula}{\textsf{straight-line head-on meeting formula}} \\
+  t=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}=\frac{s_1-s_2}{v_1-v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#pursuit-formula}{\textsf{straight-line pursuit formula}} \\
+  s_{\textsf{meeting}}=s_1+s_2=v_1t+v_2t=(v_1+v_2)t & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#head-on-meeting-formula}{\textsf{straight-line head-on meeting formula}} \\
   \end{array}
   >$
 
@@ -135,7 +135,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   >$
 
@@ -216,8 +216,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}=\frac{s_1-s_2}{v_1-v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#pursuit-formula}{\textsf{straight-line pursuit formula}} \\
-  v=\frac{s}{t}\Longrightarrow\frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}=\frac{s_1-s_2}{v_1-v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#pursuit-formula}{\textsf{straight-line pursuit formula}} \\
+  v=\frac{s}{t}\Longrightarrow\frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   >$
 
@@ -276,7 +276,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \frac{b}{a}=\frac{d}{c} \longrightarrow \frac{b+a}{a}=\frac{d+c}{c} \Longleftrightarrow \frac{b}{a+b}=\frac{d}{c+d} & \textsf{internal section formula} \\
   \end{array}
   >$
@@ -334,7 +334,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}=\frac{s_1-s_2}{v_1-v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#pursuit-formula}{\textsf{straight-line pursuit formula}} \\
+  t=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}=\frac{s_1-s_2}{v_1-v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#pursuit-formula}{\textsf{straight-line pursuit formula}} \\
   \end{array}
   >$
 
@@ -375,7 +375,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}=\frac{s_1-s_2}{v_1-v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#pursuit-formula}{\textsf{straight-line pursuit formula}} \\
+  t=\frac{\textsf{difference of distances}}{\textsf{difference of speeds}}=\frac{s_1-s_2}{v_1-v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#pursuit-formula}{\textsf{straight-line pursuit formula}} \\
   \end{array}
   >$
 
@@ -507,10 +507,10 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{basic ratio of variable speed}} \\
-  v=\frac{s}{t} \Longrightarrow \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
-  s\Delta v=v_1v_2\Delta t & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{time difference of variable speed}} \\
+  \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#straight-line-variable-speed-formulas}{\textsf{basic ratio of variable speed}} \\
+  v=\frac{s}{t} \Longrightarrow \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  s\Delta v=v_1v_2\Delta t & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#straight-line-variable-speed-formulas}{\textsf{time difference of variable speed}} \\
   \end{array}
   >$
 
@@ -606,9 +606,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{basic ratio of variable speed}} \\
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
-  s\Delta v=v_1v_2\Delta t & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{time difference of variable speed}} \\
+  \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#straight-line-variable-speed-formulas}{\textsf{basic ratio of variable speed}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  s\Delta v=v_1v_2\Delta t & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#straight-line-variable-speed-formulas}{\textsf{time difference of variable speed}} \\
   \end{array}
   >$
 

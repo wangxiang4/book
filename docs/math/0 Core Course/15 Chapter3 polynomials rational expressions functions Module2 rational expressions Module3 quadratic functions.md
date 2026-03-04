@@ -108,7 +108,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_2-properties-of-rational-expressions}{\textsf{properties of rational expressions}} \\
-  abx^2+(bp+aq)x+pq=(ax+p)(bx+q) & \href{/math/0%20Core%20Course/14%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20lower.html#_19-focus-12}{\textsf{cross-multiplication factorization method}} \\
+  abx^2+(bp+aq)x+pq=(ax+p)(bx+q) & \href{/math/0%20Core%20Course/14%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part3.html#_19-focus-12}{\textsf{cross-multiplication factorization method}} \\
   \end{array}
   >$
 
@@ -298,7 +298,7 @@ $
 ## 1.Three Forms of a Quadratic Function
 1. Standard form: $\boldsymbol{y=ax^2+bx+c}$.
 ::: wrap  
-2. Vertex form ([completing the square](/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas)): $\boldsymbol{y=a(x+\frac{b}{2a})^2+\frac{4ac-b^2}{4a}}$.  
+2. Vertex form ([completing the square](/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas)): $\boldsymbol{y=a(x+\frac{b}{2a})^2+\frac{4ac-b^2}{4a}}$.  
    $y=x^2+4x+10=(x+2)^2+6$
 :::  
 3. Root form: $\boldsymbol{y=a(x-x_1)(x-x_2)}$.  
@@ -315,7 +315,7 @@ $
   - $y=ax^2+c$  
     <iframe src="https://www.desmos.com/calculator/3kswxnnjis?embed" width="455" height="310" style="border: 1px solid #ccc; margin: 10px 0" />
 - Vertex coordinates: $\boldsymbol{(-\frac{b}{2a},\frac{4ac-b^2}{4a})}$
-- [y-intercept](/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#slope-intercept-form): $\boldsymbol{y=c}$
+- [y-intercept](/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#slope-intercept-form): $\boldsymbol{y=c}$
   - Note: when $\boldsymbol{c=0}$, the graph of the quadratic function __passes through the origin__.
   - $y=ax^2+bx$  
     <iframe src="https://www.desmos.com/calculator/yypmtw3hv4?embed" width="455" height="310" style="border: 1px solid #ccc; margin: 10px 0" />
@@ -425,7 +425,7 @@ $
   y=ax^2+bx+c & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{quadratic function standard form}} \\
   y=a(x+\frac{b}{2a})^2+\frac{4ac-b^2}{4a} & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{quadratic function vertex form}} \\
   y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{quadratic function root form}} \\
-  (a+b)^2=a^2+2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  (a+b)^2=a^2+2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \end{array}
   >$
 
@@ -479,7 +479,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
+  \left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
   y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{quadratic function root form}} \\
   \end{array}
   >$
@@ -531,7 +531,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
+  \left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
   y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{quadratic function root form}} \\
   \end{array}
   >$
@@ -576,7 +576,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
+  \left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right) & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
   y=a(x-x_1)(x-x_2) & \href{/math/0%20Core%20Course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#_1-three-forms-of-a-quadratic-function}{\textsf{quadratic function root form}} \\
   \end{array}
   >$

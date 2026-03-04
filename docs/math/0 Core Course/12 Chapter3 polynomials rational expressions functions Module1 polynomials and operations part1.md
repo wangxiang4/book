@@ -99,7 +99,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a^2-b^2=(a+b)(a-b) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
+  a^2-b^2=(a+b)(a-b) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
   \end{array}
   >$
 
@@ -140,7 +140,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a^2-b^2=(a+b)(a-b) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
+  a^2-b^2=(a+b)(a-b) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
   (a^m)^n=a^{m\cdot n} & \textsf{power of a power rule} \\
   \end{array}
   >$
@@ -194,7 +194,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (a+b)^2-(a-b)^2=4ab & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
+  (a+b)^2-(a-b)^2=4ab & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
   \end{array}
   >$
 
@@ -277,9 +277,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#special-application-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
-  (a+b)^2-(a-b)^2=4ab & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
-  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
+  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#special-application-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
+  (a+b)^2-(a-b)^2=4ab & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
+  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
   |a|=\sqrt{a^2} & \href{/math/0%20Core%20Course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#_1-definition}{\textsf{absolute value definition}} \\
   \end{array}
   >$
@@ -375,9 +375,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#special-application-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
-  (a+b)^2-(a-b)^2=4ab & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
-  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
+  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#special-application-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
+  (a+b)^2-(a-b)^2=4ab & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
+  a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
   |a|=\sqrt{a^2} & \href{/math/0%20Core%20Course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#_1-definition}{\textsf{absolute value definition}} \\
   \end{array}
   >$
@@ -431,7 +431,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#special-application-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
+  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#special-application-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
   \end{array}
   >$
 
@@ -484,7 +484,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{n-th root property} \\
   \end{array}
   >$
@@ -561,9 +561,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (a+b+c)^2=a^2+b^2+c^2+2ab+2ac+2bc & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula for three terms}} \\
-  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
-  (a+b)^2+(a-b)^2=2a^2+2b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
+  (a+b+c)^2=a^2+b^2+c^2+2ab+2ac+2bc & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula for three terms}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  (a+b)^2+(a-b)^2=2a^2+2b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
   \end{array}
   >$
 
@@ -606,7 +606,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a^2+b^2+c^2=(a+b+c)^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_4-focus-3}{\textsf{reciprocal form of three-term perfect square formula}} \\
+  a^2+b^2+c^2=(a+b+c)^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_4-focus-3}{\textsf{reciprocal form of three-term perfect square formula}} \\
   \end{array}
   >$
 
@@ -652,8 +652,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
-  a^2+b^2+c^2=(a+b+c)^2-2(ab+bc+ac) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_4-focus-3}{\textsf{perfect square formula for three terms}} \\
+  (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  a^2+b^2+c^2=(a+b+c)^2-2(ab+bc+ac) & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_4-focus-3}{\textsf{perfect square formula for three terms}} \\
   \end{array}
   >$
 

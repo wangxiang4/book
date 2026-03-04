@@ -61,8 +61,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_2-natural-numbers}{\textsf{natural numbers}} \\
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_1-integers}{\textsf{integers}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_2-natural-numbers}{\textsf{natural numbers}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_1-integers}{\textsf{integers}} \\
   \end{array}
   >$
 
@@ -114,7 +114,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_1-integers}{\textsf{integers}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_1-integers}{\textsf{integers}} \\
   x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{n-th root property} \\
   \end{array}
   >$
@@ -187,7 +187,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_6-parity-combination-properties}{\textsf{parity combination properties}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_6-parity-combination-properties}{\textsf{parity combination properties}} \\
   \end{array}
   >$
 
@@ -247,7 +247,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_6-parity-combination-properties}{\textsf{parity combination properties}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_6-parity-combination-properties}{\textsf{parity combination properties}} \\
   \end{array}
   >$
 
@@ -297,7 +297,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_6-parity-combination-properties}{\textsf{parity combination properties}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_6-parity-combination-properties}{\textsf{parity combination properties}} \\
   \end{array}
   >$
 
@@ -372,8 +372,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_10-composite-numbers}{\textsf{composite numbers}} \\
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_9-prime-numbers}{\textsf{prime numbers}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_10-composite-numbers}{\textsf{composite numbers}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_9-prime-numbers}{\textsf{prime numbers}} \\
   \end{array}
   >$
 
@@ -420,8 +420,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_9-prime-numbers}{\textsf{prime numbers}} \\
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_10-composite-numbers}{\textsf{composite numbers}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_9-prime-numbers}{\textsf{prime numbers}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_10-composite-numbers}{\textsf{composite numbers}} \\
   \end{array}
   >$
 
@@ -470,8 +470,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_9-prime-numbers}{\textsf{prime numbers}} \\
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_10-composite-numbers}{\textsf{composite numbers}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_9-prime-numbers}{\textsf{prime numbers}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_10-composite-numbers}{\textsf{composite numbers}} \\
   \end{array}
   >$
 
@@ -518,9 +518,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_10-composite-numbers}{\textsf{composite numbers}} \\
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_9-prime-numbers}{\textsf{prime numbers}} \\
-  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals.html#_11-important-properties}{\textsf{properties of prime and composite numbers}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_10-composite-numbers}{\textsf{composite numbers}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_9-prime-numbers}{\textsf{prime numbers}} \\
+  & \href{/math/0%20Core%20Course/2%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part1.html#_11-important-properties}{\textsf{properties of prime and composite numbers}} \\
   \end{array}
   >$
 

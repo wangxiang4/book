@@ -45,7 +45,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \textsf{partial quantity}=\textsf{total quantity}\cdot\textsf{corresponding ratio} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages.html#_1-focus-1}{\textsf{proportion formula}} \\
+  \textsf{partial quantity}=\textsf{total quantity}\cdot\textsf{corresponding ratio} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part1.html#_1-focus-1}{\textsf{proportion formula}} \\
   \end{array}
   >$
 
@@ -91,7 +91,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \textsf{total quantity}=\frac{\textsf{partial quantity}}{\textsf{corresponding ratio}} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages.html#_2-focus-2}{\textsf{proportion formula}} \\
+  \textsf{total quantity}=\frac{\textsf{partial quantity}}{\textsf{corresponding ratio}} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part1.html#_2-focus-2}{\textsf{proportion formula}} \\
   \end{array}
   >$
 
@@ -134,7 +134,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \textsf{total quantity}=\frac{\textsf{partial quantity}}{\textsf{corresponding ratio}} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages.html#_2-focus-2}{\textsf{proportion formula}} \\
+  \textsf{total quantity}=\frac{\textsf{partial quantity}}{\textsf{corresponding ratio}} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part1.html#_2-focus-2}{\textsf{proportion formula}} \\
   \end{array}
   >$
 

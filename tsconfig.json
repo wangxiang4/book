@@ -2,8 +2,6 @@
  * TypeScript compilation config for vite
  * vite inside use esbuild pair TypeScript build js
  * configuration official docs: https://www.typescriptlang.org/docs/handbook/compiler-options.html
- * @author: wangxiang4
- * @create: 2024/3/4
  */
 {
   "compilerOptions": {

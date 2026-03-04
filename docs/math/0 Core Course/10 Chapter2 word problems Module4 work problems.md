@@ -10,7 +10,7 @@ lang: en-US
 - $\textsf{work efficiency}=\frac{\textsf{amount of work}}{\textsf{work time}}$  
   $
   \begin{array}{ll}
-  v=\frac{s}{t} \Longrightarrow \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v=\frac{s}{t} \Longrightarrow \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   $
 :::  
@@ -18,7 +18,7 @@ lang: en-US
 - $\textsf{amount of work}=\textsf{work efficiency}\cdot\textsf{work time}$  
   $
   \begin{array}{ll}
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}}
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}}
   \end{array}
   $
 :::  
@@ -26,7 +26,7 @@ lang: en-US
 - $\textsf{work time}=\frac{\textsf{amount of work}}{\textsf{work efficiency}}$  
   $
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   $
 :::  
@@ -268,7 +268,7 @@ $
   \begin{array}{ll}
   t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
   v=\frac{s}{t} \Longrightarrow \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
-  \textsf{partial quantity}=\textsf{total quantity}\cdot\textsf{corresponding ratio} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages.html#_1-focus-1}{\textsf{proportion formula}} \\
+  \textsf{partial quantity}=\textsf{total quantity}\cdot\textsf{corresponding ratio} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part1.html#_1-focus-1}{\textsf{proportion formula}} \\
   \end{array}
   >$
 
@@ -434,7 +434,7 @@ $
   >$
   \begin{array}{ll}
   s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
-  \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{basic ratio of variable efficiency}} \\
+  \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#straight-line-variable-speed-formulas}{\textsf{basic ratio of variable efficiency}} \\
   \end{array}
   >$
 
@@ -485,7 +485,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  s\Delta v=v_1v_2\Delta t & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#straight-line-variable-speed-formulas}{\textsf{time difference of variable efficiency}} \\
+  s\Delta v=v_1v_2\Delta t & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#straight-line-variable-speed-formulas}{\textsf{time difference of variable efficiency}} \\
   t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/10%20Chapter2%20word%20problems%20Module4%20work%20problems.html#_1-basic-formula}{\textsf{work basic formula}} \\
   \end{array}
   >$

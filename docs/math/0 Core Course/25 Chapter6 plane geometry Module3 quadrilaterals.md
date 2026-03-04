@@ -72,12 +72,12 @@ lang: en-US
     S=\frac{1}{2}ah
     \begin{cases}
     \frac{S_1}{S_2}=\frac{a_1}{a_2} & h\textsf{ are equal} \\
-    \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_6-focus-3}{\textsf{triangle area formula property}} \\
+    \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#_6-focus-3}{\textsf{triangle area formula property}} \\
     \frac{S_1}{S_2}=\frac{OD}{OB}=\frac{S_4}{S_ 3} \\
     \end{array}
     $
     :::   
-- ② According to [the internal section formula](/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#formulas-used) $\frac{S_1}{S_2}=\frac{S_4}{S_3}=\frac{OD}{OB}=\frac{S_1+S_4}{S_2+S_3}$.
+- ② According to [the internal section formula](/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#formulas-used) $\frac{S_1}{S_2}=\frac{S_4}{S_3}=\frac{OD}{OB}=\frac{S_1+S_4}{S_2+S_3}$.
    Similarly, $\frac{S_1+S_2}{S_4+S_3}=\frac{AO}{OC}$.   
    ![Any quadrilateral area ratio theorem figure 6–23 solve-2.svg](../../public/math/Core%20Course/Any%20quadrilateral%20area%20ratio%20theorem%20figure%206%E2%80%9323%20solve-2.svg)  
 
@@ -91,7 +91,7 @@ lang: en-US
     ::: wrap  
     $
     \begin{array}{ll}
-    \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
+    \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
     \frac{a}{b}=\frac{OD}{OB}=\frac{OA}{OC} \\
     \end{array}
     $
@@ -104,7 +104,7 @@ lang: en-US
     ::: wrap  
     $
     \begin{array}{ll}
-    \frac{S_1}{S_2}=k^2 & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratio-of-their-areas-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
+    \frac{S_1}{S_2}=k^2 & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#for-similar-triangles-similar-figures-the-ratio-of-their-areas-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
     \frac{S_1}{S_3}=\frac{a_2}{b_2} \\
     \end{array}
     $
@@ -119,7 +119,7 @@ lang: en-US
     S=\frac{1}{2}ah
     \begin{cases}
     S_1=S_2 & a,h\textsf{ are equal} \\
-    \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_6-focus-3}{\textsf{triangle area formula property}} \\
+    \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#_6-focus-3}{\textsf{triangle area formula property}} \\
     S_2+S_3=S_4+S_3 \implies S_2=S_4 \\
     \end{array}
     $
@@ -166,7 +166,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  EG=\sqrt{a^2+a^2}=\sqrt{2a^2}=a\sqrt{2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+  EG=\sqrt{a^2+a^2}=\sqrt{2a^2}=a\sqrt{2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   AB=EG=1 \\
   AB=\sqrt{2}\cdot EF=1 \\
   EF=\frac{1}{\sqrt{2}}=\frac{1}{\sqrt{2}}\cdot \frac{\sqrt{2}}{\sqrt{2}}=\frac{\sqrt{2}}{2} \\
@@ -195,7 +195,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   S=a^2 & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_4-square}{\textsf{square area formula}} \\
   \end{array}
   >$
@@ -213,10 +213,10 @@ $
   H=\textsf{midpoint of }AD \\
   EH=\textsf{midline} \\
   \triangle AEH \textsf{ and } \triangle ABD \textsf{ share vertex }A\textsf{, and its base and height are half of those of }\triangle ABD \\
-  \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{S=\frac{1}{2}ah} \\
+  \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-altitude-to-side}{S=\frac{1}{2}ah} \\
   S_{\triangle ABD}=\frac{1}{2}\cdot(1\cdot a)\cdot(1\cdot h) \\
   S_{\triangle AEH}=\frac{1}{2}\cdot(\frac{1}{2}\cdot a)\cdot(\frac{1}{2}\cdot h) \\
-  \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#for-similar-triangles-similar-figures-the-ratio-of-their-areas-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
+  \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#for-similar-triangles-similar-figures-the-ratio-of-their-areas-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
   \frac{S_{\triangle AEH}}{S_{\triangle ABD}}=\frac{\frac{1}{8}\cdot a\cdot h}{\frac{1}{2}\cdot a\cdot h}=\frac{\frac{1}{8}}{\frac{1}{2}}=\frac{1}{4}  \\
   \end{array}
   >$
@@ -291,8 +291,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
-  (3,4,5) & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+  (3,4,5) & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
   \end{array}
   >$
 
@@ -338,11 +338,11 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
   \begin{cases}
   \textsf{find one side and acute angles }0^\circ \sim 90^\circ \\
   \textsf{find two sides (pythagorean theorem already holds)} \\
-  \end{cases} & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20lower.html#identification}{\textsf{right triangles congruence}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#identification}{\textsf{right triangles congruence}} \\
   S=a^2 & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_4-square}{\textsf{square area formula}} \\
   \end{array}
   >$
@@ -451,7 +451,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S=\frac{1}{2}ah & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
+  S=\frac{1}{2}ah & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
   \end{array}
   >$
 
@@ -495,8 +495,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
-  (a-b)^2=a^2-2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20upper.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+  (a-b)^2=a^2-2ab+b^2 & \href{/math/0%20Core%20Course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   S=ab & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_2-rectangle}{\textsf{rectangle area formula}} \\
   2ab=(a+b)^2-(a^2+b^2) & \textsf{rectangle area identity} \\
   \end{array}
@@ -600,7 +600,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (5,12,13)& \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  (5,12,13)& \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
   S=\frac{l_1\cdot l_2}{2} & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_3-rhombus}{\textsf{rhombus area formula}} \\
   \end{array}
   >$
@@ -648,7 +648,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (3,4,5)& \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  (3,4,5)& \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
   \end{array}
   >$
 
@@ -757,7 +757,7 @@ $
   \angle2=\angle4 &\textsf{alternate interior angles}\\
   \angle1+\angle4=180^\circ & \textsf{same-side interior angles}\\
   \end{array}
-  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_1-angles-formed-by-a-line-intersecting-parallel-lines}{\textsf{line and parallel lines intersection angles}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_1-angles-formed-by-a-line-intersecting-parallel-lines}{\textsf{line and parallel lines intersection angles}} \\
   S=\frac{a+b}{2}h & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_5-trapezoid}{\textsf{trapezoid area formula}} \\
   \end{array}
   >$
@@ -928,7 +928,7 @@ __The polygon__
   $
   \begin{array}{ll}
   \textsf{divided into }6\textsf{ equilateral triangles} \\
-  S=\frac{\sqrt{3}}{4}a^2 & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#the-area-of-an-equilateral-triangle-is-where-is-the-side-length}{\textsf{equilateral triangle area formula}} \\
+  S=\frac{\sqrt{3}}{4}a^2 & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#the-area-of-an-equilateral-triangle-is-where-is-the-side-length}{\textsf{equilateral triangle area formula}} \\
   S=\frac{\sqrt{3}}{4}a^2\cdot6=\frac{3\sqrt{3}}{2}a^2 \\
   \end{array}
   $  

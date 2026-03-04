@@ -5,9 +5,9 @@
 // Reason:https://github.com/vuejs/vitepress/blob/42d2e32f40872a7369fb5c5a838d1760fdd80ea6/src/client/app/composables/preFetch.ts#L78
 // Fixed:https://github.com/vuejs/vitepress/commit/010b3e5ad99f5e61fd01e27d0c3144896a8f3d86#diff-caf1aa54e64c62c1b926a294d523f321adf4dd0c7c83e07d8118bc12d6883491L80-R77
 {
-  "name": "electron-big-book",
+  "name": "book",
   "packageManager": "pnpm@9.15.4",
-  "description": "The core fundamental skills of Philosophy and Java",
+  "description": "The core fundamental skills of Philosophy",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "NODE_ENV=production && vitepress build docs",

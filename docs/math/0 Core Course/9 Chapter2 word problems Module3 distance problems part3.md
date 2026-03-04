@@ -53,9 +53,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
-  v=v_1-v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_9-relative-speed}{\textsf{same-direction relative speed formula}} \\
-  v=v_1+v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v=v_1-v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_9-relative-speed}{\textsf{same-direction relative speed formula}} \\
+  v=v_1+v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
   \end{array}
   >$
 
@@ -157,8 +157,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{l_{\textsf{train}}+l_{\textsf{bridge}}}{v} & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#_13-train%E2%80%93bridge-crossing-time-formula}{\textsf{train–bridge crossing time formula}} \\
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{l_{\textsf{train}}+l_{\textsf{bridge}}}{v} & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#_13-train%E2%80%93bridge-crossing-time-formula}{\textsf{train–bridge crossing time formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   >$
 
@@ -179,7 +179,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \boldsymbol{\frac{v_{a}}{v_{b}}=\frac{s_{a}}{s_{b}}=\frac{s_{b}+n\cdot s}{s_{b}}=1+\frac{n\cdot s}{s_{b}}} \\
   \end{array}
   $  
@@ -205,7 +205,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
   \boldsymbol{\frac{v_{a}}{v_{b}}=\frac{s_{a}}{s_{b}}=\frac{n\cdot s-s_{b}}{s_{b}}=\frac{n\cdot s}{s_{b}}-1} \\
   \end{array}
   $  
@@ -275,9 +275,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{n\cdot s}{v_{a}-v_{b}} & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#meeting-time}{\textsf{same-direction meeting time formula}} \\
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
-  \frac{v_{a}}{v_{b}}=\frac{s_{a}}{s_{b}}=\frac{s_{b}+n\cdot s}{s_{b}}=1+\frac{n\cdot s}{s_{b}} & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#same-direction-same-starting-point}{\textsf{same-direction meeting distance formula}} \\
+  t=\frac{n\cdot s}{v_{a}-v_{b}} & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#meeting-time}{\textsf{same-direction meeting time formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  \frac{v_{a}}{v_{b}}=\frac{s_{a}}{s_{b}}=\frac{s_{b}+n\cdot s}{s_{b}}=1+\frac{n\cdot s}{s_{b}} & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#same-direction-same-starting-point}{\textsf{same-direction meeting distance formula}} \\
   \end{array}
   >$
 
@@ -326,8 +326,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (k−1)_\textsf{th} & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#_15-circular-distance}{\textsf{new same starting point}} \\
-  t=\frac{n\cdot s}{v_{a}-v_{b}} & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#meeting-time}{\textsf{same-direction meeting time formula}} \\
+  (k−1)_\textsf{th} & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#_15-circular-distance}{\textsf{new same starting point}} \\
+  t=\frac{n\cdot s}{v_{a}-v_{b}} & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#meeting-time}{\textsf{same-direction meeting time formula}} \\
   \end{array}
   >$
 
@@ -380,7 +380,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{v_a}{v_b}=\frac{s_a}{s_b}=\frac{n_a}{n_b} & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#_17-focus-12}{\textsf{starting-point meeting ratio formula}} \\
+  \frac{v_a}{v_b}=\frac{s_a}{s_b}=\frac{n_a}{n_b} & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#_17-focus-12}{\textsf{starting-point meeting ratio formula}} \\
   \end{array}
   >$
 
@@ -419,7 +419,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  k=\frac{y}{x} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#the-slope-between-points-and-is}{\textsf{slope of line passing through origin}} \\
+  k=\frac{y}{x} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-between-points-and-is}{\textsf{slope of line passing through origin}} \\
   v=\frac{s}{t} \Longleftrightarrow k=\frac{y}{x} & \boldsymbol{v=k} \\
   \end{array}
   $
@@ -498,8 +498,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion}{t=\frac{s}{v}\textsf{ uniform motion graph}} \\
-  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#variable-motion}{t=\frac{s}{v}\textsf{ variable motion graph}} \\
+  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#uniform-motion}{t=\frac{s}{v}\textsf{ uniform motion graph}} \\
+  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#variable-motion}{t=\frac{s}{v}\textsf{ variable motion graph}} \\
   \end{array}
   >$
 
@@ -554,9 +554,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion-1}{v=\frac{s}{t}\textsf{ uniform motion graph}} \\
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20upper.html#basic-formula}{\textsf{straight-line basic formula}} \\
-  v=v_1+v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20middle.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
+  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#uniform-motion-1}{v=\frac{s}{t}\textsf{ uniform motion graph}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/0%20Core%20Course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v=v_1+v_2 & \href{/math/0%20Core%20Course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
   \end{array}
   >$
 
@@ -587,9 +587,9 @@ $\textsf{(E):} \: \nexists$
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion-1}{v=\frac{s}{t}\textsf{ uniform motion graph}} \\
-  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion-2}{s=vt\textsf{ uniform motion graph}} \\
-  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#variable-motion-2}{s=vt\textsf{ variable motion graph}} \\
+  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#uniform-motion-1}{v=\frac{s}{t}\textsf{ uniform motion graph}} \\
+  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#uniform-motion-2}{s=vt\textsf{ uniform motion graph}} \\
+  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#variable-motion-2}{s=vt\textsf{ variable motion graph}} \\
   \end{array}
   >$
 
@@ -638,9 +638,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#variable-motion-1}{v=\frac{s}{t}\textsf{ variable motion graph}} \\
-  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion-1}{v=\frac{s}{t}\textsf{ uniform motion graph}} \\
-  k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20upper.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
+  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#variable-motion-1}{v=\frac{s}{t}\textsf{ variable motion graph}} \\
+  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#uniform-motion-1}{v=\frac{s}{t}\textsf{ uniform motion graph}} \\
+  k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/0%20Core%20Course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
   \end{array}
   >$
 
@@ -706,7 +706,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#variable-motion-2}{s=vt\textsf{ variable motion graph}} \\
+  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#variable-motion-2}{s=vt\textsf{ variable motion graph}} \\
   \end{array}
   >$
 
@@ -747,8 +747,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#variable-motion-2}{s=vt\textsf{ variable motion graph}} \\
-  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20lower.html#uniform-motion-2}{s=vt\textsf{ uniform motion graph}} \\
+  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#variable-motion-2}{s=vt\textsf{ variable motion graph}} \\
+  & \href{/math/0%20Core%20Course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#uniform-motion-2}{s=vt\textsf{ uniform motion graph}} \\
   S=\frac{a+b}{2}h & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_5-trapezoid}{\textsf{trapezoid area formula}} \\
   \end{array}
   >$

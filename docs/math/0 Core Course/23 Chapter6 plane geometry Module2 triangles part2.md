@@ -108,7 +108,7 @@ $
   \frac{S_1}{S_2}=\frac{a_1}{a_2} & h\textsf{ are equal} \\
   \frac{S_1}{S_2}=\frac{h_1}{h_2} & a\textsf{ are equal} \\
   S_1=S_2 & a,h\textsf{ are equal} \\
-  \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_6-focus-3}{\textsf{triangle area formula properties}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#_6-focus-3}{\textsf{triangle area formula properties}} \\
   \end{array}
   >$
 
@@ -173,7 +173,7 @@ $
   \frac{S_1}{S_2}=\frac{a_1}{a_2} & h\textsf{ are equal} \\
   \frac{S_1}{S_2}=\frac{h_1}{h_2} & a\textsf{ are equal} \\
   S_1=S_2 & a,h\textsf{ are equal} \\
-  \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_6-focus-3}{\textsf{triangle area formula properties}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#_6-focus-3}{\textsf{triangle area formula properties}} \\
   \end{array}
   >$
 
@@ -222,7 +222,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S=\frac{1}{2}ab\textsf{sin}C & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-included-angle-between-sides-and}{\textsf{triangle area formula (included angle)}} \\
+  S=\frac{1}{2}ab\textsf{sin}C & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-included-angle-between-sides-and}{\textsf{triangle area formula (included angle)}} \\
   \end{array}
   >$
 
@@ -262,7 +262,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S=\frac{1}{2}ab\textsf{sin}C & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-included-angle-between-sides-and}{\textsf{triangle area formula (included angle)}} \\
+  S=\frac{1}{2}ab\textsf{sin}C & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-included-angle-between-sides-and}{\textsf{triangle area formula (included angle)}} \\
   \end{array}
   >$
 
@@ -310,7 +310,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S=\sqrt{p(p-a)(p-b)(p-c)} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where}{\textsf{heron's formula}} \\
+  S=\sqrt{p(p-a)(p-b)(p-c)} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where}{\textsf{heron's formula}} \\
   \end{array}
   >$
 
@@ -352,7 +352,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  S=\frac{1}{2}ab\textsf{sin}C & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-included-angle-between-sides-and}{\textsf{triangle area formula (included angle)}} \\
+  S=\frac{1}{2}ab\textsf{sin}C & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-included-angle-between-sides-and}{\textsf{triangle area formula (included angle)}} \\
   \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{\cancel{\frac{1}{2}}AD\cdot AE\cdot \cancel{\textsf{sin}A}}{\cancel{\frac{1}{2}}AB\cdot AC\cdot \cancel{\textsf{sin}A}}=\frac{AD\cdot AE}{AB\cdot AC} \\
   \end{array}
   $  
@@ -409,7 +409,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{AD\cdot AE}{AB\cdot AC} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_10-area-ratio-theorem-for-common-angle-triangles}{\textsf{common-angle triangles – area ratio theorem}} \\
+  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{AD\cdot AE}{AB\cdot AC} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#_10-area-ratio-theorem-for-common-angle-triangles}{\textsf{common-angle triangles – area ratio theorem}} \\
   \end{array}
   >$
 
@@ -458,7 +458,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{AD\cdot AE}{AB\cdot AC} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_10-area-ratio-theorem-for-common-angle-triangles}{\textsf{common-angle triangles – area ratio theorem}} \\
+  \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{AD\cdot AE}{AB\cdot AC} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#_10-area-ratio-theorem-for-common-angle-triangles}{\textsf{common-angle triangles – area ratio theorem}} \\
   \end{array}
   >$
 
@@ -483,7 +483,7 @@ $
   S=\frac{1}{2}ah
   \begin{cases}
   \frac{S_1}{S_2}=\frac{a_1}{a_2} & h\textsf{ are equal} \\
-  \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_6-focus-3}{\textsf{triangle area formula property}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#_6-focus-3}{\textsf{triangle area formula property}} \\
   S_{\triangle ABD}:S_{\triangle ACD} = BD:CD & \triangle ABD \textsf{ and } \triangle ACD \textsf{ have same height} \\
   S_{\triangle BOD}:S_{\triangle COD} = BD:CD & \triangle BOD \textsf{ and } \triangle COD \textsf{ have same height} \\
   \frac{S_{\triangle ABD}}{S_{\triangle ACD}}= \frac{S_{\triangle BOD}}{S_{\triangle COD}}=\frac{BD}{CD} \\
@@ -542,7 +542,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{S_{\triangle AOB}}{S_{\triangle AOC}}=\frac{BD}{CD} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#_12-area-ratio-theorem-for-concurrent-cevians}{\textsf{concurrent cevians – area ratio theorem}} \\
+  \frac{S_{\triangle AOB}}{S_{\triangle AOC}}=\frac{BD}{CD} & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#_12-area-ratio-theorem-for-concurrent-cevians}{\textsf{concurrent cevians – area ratio theorem}} \\
   \end{array}
   >$
 

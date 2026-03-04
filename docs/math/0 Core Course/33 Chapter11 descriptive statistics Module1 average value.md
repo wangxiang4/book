@@ -61,9 +61,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics.html#_2-mode}{\textsf{mode}} \\
-  & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics.html#_3-median}{\textsf{median}} \\
-  \overline{x}=\frac{x_1+x_2+\cdots+x_n}{n} & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics.html#_1-mean}{\textsf{arithmetic mean formula}} \\
+  & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics%20Module1%20average%20value.html#_2-mode}{\textsf{mode}} \\
+  & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics%20Module1%20average%20value.html#_3-median}{\textsf{median}} \\
+  \overline{x}=\frac{x_1+x_2+\cdots+x_n}{n} & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics%20Module1%20average%20value.html#_1-mean}{\textsf{arithmetic mean formula}} \\
   \end{array}
   >$
 
@@ -151,9 +151,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics.html#_2-mode}{\textsf{mode}} \\
-  & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics.html#_3-median}{\textsf{median}} \\
-  \overline{x}=\frac{x_1+x_2+\cdots+x_n}{n} & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics.html#_1-mean}{\textsf{arithmetic mean formula}} \\
+  & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics%20Module1%20average%20value.html#_2-mode}{\textsf{mode}} \\
+  & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics%20Module1%20average%20value.html#_3-median}{\textsf{median}} \\
+  \overline{x}=\frac{x_1+x_2+\cdots+x_n}{n} & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics%20Module1%20average%20value.html#_1-mean}{\textsf{arithmetic mean formula}} \\
   \end{array}
   >$
 
@@ -345,7 +345,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-   & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics.html#_7-focus-4}{\textsf{comparison of averages}} \\
+   & \href{/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics%20Module1%20average%20value.html#_7-focus-4}{\textsf{comparison of averages}} \\
   \overline{x}=\frac{\sum_{i=1}^{n}w_ix_i}{\sum_{i=1}^{n}w_i} & \textsf{weighted average formula} \\
   \end{array}
   >$

@@ -39,7 +39,7 @@ lang: en-US
     - __set up an equation__
   - Given $\textcolor{#FF7FAF}{\boldsymbol{①}}\:$ and $\textcolor{#0DCAF2}{\boldsymbol{③}}\:$, find $\textcolor{#9370DB}{\boldsymbol{②}}\:$
     - __set up an equation__
-    - [__weighted average__](/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics.html#_6-focus-3)
+    - [__weighted average__](/math/0%20Core%20Course/33%20Chapter11%20descriptive%20statistics%20Module1%20average%20value.html#_6-focus-3)
 
 - First list __the values of $\boldsymbol{A}$ and $\boldsymbol{B}$ vertically__,
   __subtract each from the overall value $\boldsymbol{c}$__,
@@ -88,7 +88,7 @@ $
   >$
   \begin{array}{ll}
   A:B=(b−c):(c−a) & \href{/math/0%20Core%20Course/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentration.html#_2-usage}{\textsf{alligation method}} \\
-  \textsf{partial quantity}=\textsf{total quantity}\cdot\textsf{corresponding ratio} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages.html#_1-focus-1}{\textsf{proportion formula}} \\
+  \textsf{partial quantity}=\textsf{total quantity}\cdot\textsf{corresponding ratio} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part1.html#_1-focus-1}{\textsf{proportion formula}} \\
   \end{array}
   >$
 
@@ -133,7 +133,7 @@ $
   >$
   \begin{array}{ll}
   A:B=(b−c):(c−a) & \href{/math/0%20Core%20Course/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentration.html#_2-usage}{\textsf{alligation method}} \\
-  \textsf{total quantity}=\frac{\textsf{partial quantity}}{\textsf{corresponding ratio}} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages.html#_2-focus-2}{\textsf{proportion formula}} \\
+  \textsf{total quantity}=\frac{\textsf{partial quantity}}{\textsf{corresponding ratio}} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part1.html#_2-focus-2}{\textsf{proportion formula}} \\
   \end{array}
   >$
 
@@ -214,7 +214,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{A-B}{B}=p\% \Longleftrightarrow A=B(1+p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \frac{A-B}{B}=p\% \Longleftrightarrow A=B(1+p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
   A:B=(b−c):(c−a) & \href{/math/0%20Core%20Course/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentration.html#_2-usage}{\textsf{alligation method}} \\
   \frac{F_1}{F_2}=\frac{l_2}{l_1} & \href{/math/0%20Core%20Course/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentration.html#lever-principle}{\textsf{force–arm ratio formula}} \\
   \end{array}
@@ -283,7 +283,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{A-B}{B}=p\% \Longleftrightarrow A=B(1+p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
+  \frac{A-B}{B}=p\% \Longleftrightarrow A=B(1+p\%) & \href{/math/0%20Core%20Course/6%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part2%20Module2%20profit%20in%20commerce.html#_8-rate-of-change-formulas}{\textsf{rate of change formula}} \\
   A:B=(b−c):(c−a) & \href{/math/0%20Core%20Course/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentration.html#_2-usage}{\textsf{alligation method}} \\
   \frac{F_1}{F_2}=\frac{l_2}{l_1} & \href{/math/0%20Core%20Course/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentration.html#lever-principle}{\textsf{force–arm ratio formula}} \\
   \textcolor{#9370DB}{\boldsymbol{②}}\:=\textsf{small}+(\textsf{large}-\textsf{small})\cdot\textsf{large ratio} & \href{/math/0%20Core%20Course/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentration.html#derivation-of-the-weighted-average-formula-for-an-intermediate-quantity}{\textsf{intermediate weighted-average formula}} \\
@@ -441,7 +441,7 @@ $
   >$
   \begin{array}{ll}
   A:B=(b−c):(c−a) & \href{/math/0%20Core%20Course/11%20Chapter2%20word%20problems%20Module5%20alligation%20method%20Module6%20solution%20concentration.html#_2-usage}{\textsf{alligation method}} \\
-  \textsf{partial quantity}=\textsf{total quantity}\cdot\textsf{corresponding ratio} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages.html#_1-focus-1}{\textsf{proportion formula}} \\
+  \textsf{partial quantity}=\textsf{total quantity}\cdot\textsf{corresponding ratio} & \href{/math/0%20Core%20Course/5%20Chapter2%20word%20problems%20Module1%20proportions%20and%20percentages%20part1.html#_1-focus-1}{\textsf{proportion formula}} \\
   \end{array}
   >$
 

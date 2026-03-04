@@ -96,7 +96,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-   & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_16-fractions}{\textsf{fractions}} \\
+   & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#_16-fractions}{\textsf{fractions}} \\
   \end{array}
   >$
 
@@ -141,7 +141,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-   & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#pure-repeating-decimal-to-fraction-conversion}{\textsf{pure repeating decimal}\rightarrow\textsf{fraction}} \\
+   & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#pure-repeating-decimal-to-fraction-conversion}{\textsf{pure repeating decimal}\rightarrow\textsf{fraction}} \\
   \end{array}
   >$
 
@@ -180,7 +180,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#mixed-repeating-decimal-to-fraction-conversion}{\textsf{mixed repeating decimal}\rightarrow\textsf{fraction}} \\
+  & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#mixed-repeating-decimal-to-fraction-conversion}{\textsf{mixed repeating decimal}\rightarrow\textsf{fraction}} \\
   \end{array}
   >$
 
@@ -266,8 +266,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  y=kx & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion}{\textsf{directly proportional function}} \\
-  y=\frac{k}{x} & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion}{\textsf{inverse proportional function}} \\
+  y=kx & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion}{\textsf{directly proportional function}} \\
+  y=\frac{k}{x} & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion}{\textsf{inverse proportional function}} \\
   \end{array}
   >$
 
@@ -324,8 +324,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  y=kx & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion}{\textsf{directly proportional function}} \\
-  y=\frac{k}{x} & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion}{\textsf{inverse proportional function}} \\
+  y=kx & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion}{\textsf{directly proportional function}} \\
+  y=\frac{k}{x} & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#_1-direct-proportion}{\textsf{inverse proportional function}} \\
   \end{array}
   >$
 
@@ -398,8 +398,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{proportion definition}} \\
-  a:b=c:d \Longrightarrow ad=bc & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{fundamental properties of proportion}} \\
+  & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{proportion definition}} \\
+  a:b=c:d \Longrightarrow ad=bc & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{fundamental properties of proportion}} \\
   \end{array}
   >$
 
@@ -445,8 +445,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{proportion definition}} \\
-  a:b=c:d \Longrightarrow ad=bc & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{fundamental properties of proportion}} \\
+  & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{proportion definition}} \\
+  a:b=c:d \Longrightarrow ad=bc & \href{/math/0%20Core%20Course/3%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module1%20integers%20fractions%20decimals%20part2%20Module2%20ratios%20and%20proportions.html#_5-proportion}{\textsf{fundamental properties of proportion}} \\
   \end{array}
   >$
 

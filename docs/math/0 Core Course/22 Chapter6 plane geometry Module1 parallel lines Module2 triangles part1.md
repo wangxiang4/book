@@ -70,7 +70,7 @@ $
   \angle2=\angle4 &\textsf{alternate interior angles}\\
   \angle1+\angle4=180^\circ & \textsf{same-side interior angles}\\
   \end{array}
-  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_1-angles-formed-by-a-line-intersecting-parallel-lines}{\textsf{line and parallel lines intersection angles}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_1-angles-formed-by-a-line-intersecting-parallel-lines}{\textsf{line and parallel lines intersection angles}} \\
   \end{array}
   >$
 
@@ -135,7 +135,7 @@ $
   \angle2=\angle4 &\textsf{alternate interior angles}\\
   \angle1+\angle4=180^\circ & \textsf{same-side interior angles}\\
   \end{array}
-  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_1-angles-formed-by-a-line-intersecting-parallel-lines}{\textsf{line and parallel lines intersection angles}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_1-angles-formed-by-a-line-intersecting-parallel-lines}{\textsf{line and parallel lines intersection angles}} \\
   \end{array}
   >$
 
@@ -189,7 +189,7 @@ $
   \angle2=\angle4 &\textsf{alternate interior angles}\\
   \angle1+\angle4=180^\circ & \textsf{same-side interior angles}\\
   \end{array}
-  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_1-angles-formed-by-a-line-intersecting-parallel-lines}{\textsf{line and parallel lines intersection angles}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_1-angles-formed-by-a-line-intersecting-parallel-lines}{\textsf{line and parallel lines intersection angles}} \\
   \angle A + \angle B + \angle C = 180^\circ & \textsf{triangle angle sum} \\
   \end{array}
   >$
@@ -237,7 +237,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{a}{c}=\frac{b}{d} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-proportional-line-segments-cut-by-parallel-lines}{\textsf{left–right ratio formula}} \\
+  \frac{a}{c}=\frac{b}{d} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_2-proportional-line-segments-cut-by-parallel-lines}{\textsf{left–right ratio formula}} \\
   \end{array}
   >$
 
@@ -283,7 +283,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{a}{b}=\frac{c}{d} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-proportional-line-segments-cut-by-parallel-lines}{\textsf{top–bottom ratio formula}}
+  \frac{a}{b}=\frac{c}{d} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_2-proportional-line-segments-cut-by-parallel-lines}{\textsf{top–bottom ratio formula}}
   \end{array}
   >$
 
@@ -375,7 +375,7 @@ $
   \angle2=\angle4 &\textsf{alternate interior angles}\\
   \angle1+\angle4=180^\circ & \textsf{same-side interior angles}\\
   \end{array}
-  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_1-angles-formed-by-a-line-intersecting-parallel-lines}{\textsf{line and parallel lines intersection angles}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_1-angles-formed-by-a-line-intersecting-parallel-lines}{\textsf{line and parallel lines intersection angles}} \\
   \angle A + \angle B + \angle C = 180^\circ & \textsf{triangle angle sum} \\
   \end{array}
   >$
@@ -433,7 +433,7 @@ $
   AB=AC & \href{https://www.mathsisfun.com/definitions/isosceles-triangle.html}{\textsf{isosceles triangle}} \\
   \angle C= 90^\circ & \href{https://www.mathsisfun.com/right_angle_triangle.html}{\textsf{right triangle}} \\
   90^\circ=\frac{\pi}{2} & \href{https://www.mathsisfun.com/geometry/radians.html}{\textsf{degree-to-radian conversion}} \\
-  \angle A + \angle B = \textsf{exterior}\angle & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_1-sum-of-interior-angles-for-a-triangle}{\textsf{triangle exterior angle}} \\ 
+  \angle A + \angle B = \textsf{exterior}\angle & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_1-sum-of-interior-angles-for-a-triangle}{\textsf{triangle exterior angle}} \\ 
   \end{array}
   >$
 
@@ -540,7 +540,7 @@ $
   \begin{cases}
   a+b>c & c\textsf{ as longest side} \\
   |a-b| \lt c & c\textsf{ as shortest side} \\
-  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-triangle-side-relationships}{\textsf{triangle side relationships}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_2-triangle-side-relationships}{\textsf{triangle side relationships}} \\
   \end{array}
   >$
 
@@ -589,7 +589,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  |a-b| \lt c & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-triangle-side-relationships}{c\textsf{ as shortest side}} \\
+  |a-b| \lt c & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_2-triangle-side-relationships}{c\textsf{ as shortest side}} \\
   \end{array}
   >$
 
@@ -626,7 +626,7 @@ a+b>c, a+c>b, b+c>a \\
 \begin{cases}
 a>\frac{3}{2} \\
 a<5 \\
-13>-1 & \forall\textsf{ holds} \\
+13>-1 & \textsf{ holds} \\
 \end{cases} \\
 \begin{cases}
 a>\frac{3}{2} \\
@@ -648,7 +648,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a+b>c, a+c>b, b+c>a & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-triangle-side-relationships}{\textsf{triangle side relationships}} \\
+  a+b>c, a+c>b, b+c>a & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_2-triangle-side-relationships}{\textsf{triangle side relationships}} \\
   \end{array}
   >$
 
@@ -706,7 +706,7 @@ $
   \begin{cases}
   a+b>c & c\textsf{ as longest side} \\
   |a-b| \lt c & c\textsf{ as shortest side} \\
-  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20upper.html#_2-triangle-side-relationships}{\textsf{triangle side relationships}} \\
+  \end{cases} & \href{/math/0%20Core%20Course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_2-triangle-side-relationships}{\textsf{triangle side relationships}} \\
   \frac{|AB-AC|}{2} < AD < \frac{AB+AC}{2} & \textsf{triangle median inequality} \\
   \end{array}
   >$

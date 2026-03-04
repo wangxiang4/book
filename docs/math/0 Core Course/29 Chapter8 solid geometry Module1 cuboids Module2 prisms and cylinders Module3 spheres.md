@@ -72,8 +72,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  l=4(a+b+c) & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid edge sum formula}} \\
-  V=abc & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid volume formula}} \\
+  l=4(a+b+c) & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid edge sum formula}} \\
+  V=abc & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid volume formula}} \\
   \end{array}
   >$
 
@@ -116,7 +116,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  F=2(ab + bc +ac) & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid total surface area formula}} \\
+  F=2(ab + bc +ac) & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid total surface area formula}} \\
   \end{array}
   >$
 
@@ -183,8 +183,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  F=2(ab + bc +ac) & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid total surface area formula}} \\
-  V=abc & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid volume formula}} \\
+  F=2(ab + bc +ac) & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid total surface area formula}} \\
+  V=abc & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid volume formula}} \\
   \end{array}
   >$
 
@@ -229,8 +229,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  d=\sqrt{3}a & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-edge-length-be}{\textsf{cube body diagonal formula}} \\
-  F=6a^2 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-edge-length-be}{\textsf{cube total surface area formula}} \\
+  d=\sqrt{3}a & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#let-the-edge-length-be}{\textsf{cube body diagonal formula}} \\
+  F=6a^2 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#let-the-edge-length-be}{\textsf{cube total surface area formula}} \\
   \end{array}
   >$
 
@@ -300,7 +300,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_2-formulas-for-cylinders}{\textsf{cylinder volume formula}} \\
+  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_2-formulas-for-cylinders}{\textsf{cylinder volume formula}} \\
   \end{array}
   >$
 
@@ -393,10 +393,10 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (3,4,5) & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
-  S=\textsf{base perimeter}\cdot\textsf{height} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-general-formulas}{\textsf{lateral area formula for prisms and cylinders}} \\
-  S=\frac{1}{2}ah & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
-  F=S_{\textsf{lateral}}+2S_{\textsf{base}} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-general-formulas}{\textsf{total surface area formula for prisms and cylinders}} \\
+  (3,4,5) & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  S=\textsf{base perimeter}\cdot\textsf{height} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_1-general-formulas}{\textsf{lateral area formula for prisms and cylinders}} \\
+  S=\frac{1}{2}ah & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
+  F=S_{\textsf{lateral}}+2S_{\textsf{base}} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_1-general-formulas}{\textsf{total surface area formula for prisms and cylinders}} \\
   \end{array}
   >$
 
@@ -438,7 +438,7 @@ $
   >$
   \begin{array}{ll}
   S=a^2 & \href{/math/0%20Core%20Course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_4-square}{\textsf{square area formula}} \\
-  V=\textsf{base area}\cdot\textsf{height} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-general-formulas}{\textsf{volume formula for prisms and cylinders}} \\
+  V=\textsf{base area}\cdot\textsf{height} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_1-general-formulas}{\textsf{volume formula for prisms and cylinders}} \\
   \end{array}
   >$
 
@@ -521,8 +521,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{S_1}{S_2}=(\frac{r_1}{r_2})^2 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#the-surface-area-is-proportional-to-the-square-of-the-radius-and-the-volume-is-proportional-to-the-cube-of-the-radius}{\textsf{sphere surface area ratio formula}} \\
-  \frac{V_1}{V_2}=(\frac{r_1}{r_2})^3 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#the-surface-area-is-proportional-to-the-square-of-the-radius-and-the-volume-is-proportional-to-the-cube-of-the-radius}{\textsf{sphere volume ratio formula}} \\
+  \frac{S_1}{S_2}=(\frac{r_1}{r_2})^2 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#the-surface-area-is-proportional-to-the-square-of-the-radius-and-the-volume-is-proportional-to-the-cube-of-the-radius}{\textsf{sphere surface area ratio formula}} \\
+  \frac{V_1}{V_2}=(\frac{r_1}{r_2})^3 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#the-surface-area-is-proportional-to-the-square-of-the-radius-and-the-volume-is-proportional-to-the-cube-of-the-radius}{\textsf{sphere volume ratio formula}} \\
   \end{array}
   >$
 
@@ -568,9 +568,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  l=2R & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_3-circumscribed-sphere-and-inscribed-sphere}{\textsf{circumscribed sphere diameter (cuboid)}} \\
-  d=\sqrt{a^2+b^2+c^2} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid body diagonal formula}} \\
-  S=4\pi r^2 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-volume-and-surface-area}{\textsf{sphere surface area formula}} \\ 
+  l=2R & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_3-circumscribed-sphere-and-inscribed-sphere}{\textsf{circumscribed sphere diameter (cuboid)}} \\
+  d=\sqrt{a^2+b^2+c^2} & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid body diagonal formula}} \\
+  S=4\pi r^2 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_1-volume-and-surface-area}{\textsf{sphere surface area formula}} \\ 
   \end{array}
   >$
 
@@ -614,9 +614,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  h=2r & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#equilateral-cylinder-the-axial-section-is-a-square}{\textsf{axial section height (equilateral cylinder)}} \\
-  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_2-formulas-for-cylinders}{\textsf{cylinder volume formula}} \\
-  V=\frac{4}{3}\pi r^3 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-volume-and-surface-area}{\textsf{sphere volume formula}} \\
+  h=2r & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#equilateral-cylinder-the-axial-section-is-a-square}{\textsf{axial section height (equilateral cylinder)}} \\
+  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_2-formulas-for-cylinders}{\textsf{cylinder volume formula}} \\
+  V=\frac{4}{3}\pi r^3 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_1-volume-and-surface-area}{\textsf{sphere volume formula}} \\
   \end{array}
   >$
 
@@ -664,9 +664,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  1:\sqrt{3}:2 & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
-  V=\frac{4}{3}\pi r^3 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_1-volume-and-surface-area}{\textsf{sphere volume formula}} \\
-  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry.html#_2-formulas-for-cylinders}{\textsf{cylinder volume formula}} \\
+  1:\sqrt{3}:2 & \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
+  V=\frac{4}{3}\pi r^3 & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_1-volume-and-surface-area}{\textsf{sphere volume formula}} \\
+  V=\pi r^2h & \href{/math/0%20Core%20Course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_2-formulas-for-cylinders}{\textsf{cylinder volume formula}} \\
   \end{array}
   >$
 
@@ -719,7 +719,7 @@ $
   >$
   \begin{array}{ll}
   S=\pi r^2 & \textsf{circle area formula} \\
-  (3,4,5)& \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20middle.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  (3,4,5)& \href{/math/0%20Core%20Course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
   \end{array}
   >$
 
