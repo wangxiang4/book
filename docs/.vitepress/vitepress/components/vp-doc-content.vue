@@ -12,6 +12,8 @@ const { page } = useData()
       <Content class="doc-content" />
       <VPPageNav />
     </div>
-    <VPTableOfContent v-if="page.headers.length > 0" />
+    <ClientOnly>
+      <VPTableOfContent v-if="page.headers.length > 0" />
+    </ClientOnly>
   </div>
 </template>
