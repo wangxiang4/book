@@ -26,14 +26,14 @@
       "activeMatch": "/resources/"
     },
     {
-      "text": "Jvm",
-      "link": "/java/1 Jvm/1 Jvm memory areas",
-      "activeMatch": "/java/1 Jvm/"
+      "text": "Java Concurrent Programming",
+      "link": "/java/1 Java Concurrent Programming/1 线程本质与线程模型",
+      "activeMatch": "/java/1 Java Concurrent Programming/"
     },
     {
-      "text": "Java Concurrent Programming",
-      "link": "/java/2 Java Concurrent Programming/1 Java thread model",
-      "activeMatch": "/java/2 Java Concurrent Programming/"
+      "text": "Spring",
+      "link": "/java/2 Spring/1 xml解析",
+      "activeMatch": "/java/2 Spring/"
     }
   ]
 }

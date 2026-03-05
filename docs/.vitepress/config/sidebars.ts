@@ -3,7 +3,7 @@ import math from '../i18n/pages/math.json'
 import english from '../i18n/pages/english.json'
 import writing from '../i18n/pages/writing.json'
 import resources from '../i18n/pages/resources.json'
-import jvm from '../i18n/pages/java/jvm.json'
+import spring from '../i18n/pages/java/spring.json'
 import javaConcurrentProgramming from '../i18n/pages/java/java-concurrent-programming.json'
 
 function getMathSideBar() {
@@ -51,22 +51,20 @@ function getResourcesSideBar() {
   )
 }
 
-
-function getJvmSideBar() {
-  return Object.fromEntries(
-    Object.entries(jvm).map(([lang, val]) => [
-      lang,
-      Object.values(val).map((item) => mapPrefix(item, lang, '/java/1 Jvm')),
-    ])
-  )
-}
-
-
 function getJavaConcurrentProgrammingSideBar() {
   return Object.fromEntries(
     Object.entries(javaConcurrentProgramming).map(([lang, val]) => [
       lang,
-      Object.values(val).map((item) => mapPrefix(item, lang, '/java/2 Java Concurrent Programming')),
+      Object.values(val).map((item) => mapPrefix(item, lang, '/java/1 Java Concurrent Programming')),
+    ])
+  )
+}
+
+function getSpringSideBar() {
+  return Object.fromEntries(
+    Object.entries(spring).map(([lang, val]) => [
+      lang,
+      Object.values(val).map((item) => mapPrefix(item, lang, '/java/2 Spring')),
     ])
   )
 }
@@ -80,8 +78,8 @@ const getSidebars = () => {
     '/english/': getEnglishSideBar(),
     '/writing/': getWritingSideBar(),
     '/resources/': getResourcesSideBar(),
-    '/java/1 Jvm/': getJvmSideBar(),
-    '/java/2 Java Concurrent Programming/': getJavaConcurrentProgrammingSideBar(),
+    '/java/1 Java Concurrent Programming/': getJavaConcurrentProgrammingSideBar(),
+    '/java/2 Spring/': getSpringSideBar(),
   }
 }
 

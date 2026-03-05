@@ -3,6 +3,8 @@ title: Data Sufficiency
 lang: en-US
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7h8rZaRLC-o?si=DneGR6IyBRQLszfl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 1.Definition
 ::: wrap  
 $
@@ -440,8 +442,5 @@ $
   :::
 ---
 
-| Platform    | Lesson                                                                                       | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=7h8rZaRLC-o&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Core courseware](../../public/math/Core%20Course/pdf/Core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcn32?playlist=x9h6d2)                           | [Core courseware answers](../../public/math/Core%20Course/pdf/Core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s94ib-2-guidance-lower.html)                                    |                                                                                                |
+- Materials
+  - [Courseware](../../public/math/Core%20Course/pdf/Courseware.pdf)
