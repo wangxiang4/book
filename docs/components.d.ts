@@ -13,7 +13,6 @@ declare module '@vue/runtime-core' {
     ThemeAwareImage: typeof import('./.vitepress/vitepress/components/globals/theme-aware-image.vue')['default']
     ToggleButton: typeof import('./.vitepress/vitepress/components/icons/toggle-button.vue')['default']
     ToggleSidebarBtn: typeof import('./.vitepress/vitepress/components/subnav/toggle-sidebar-btn.vue')['default']
-    VersionTag: typeof import('./.vitepress/vitepress/components/dev/version-tag.vue')['default']
     VpApp: typeof import('./.vitepress/vitepress/components/vp-app.vue')['default']
     VpContent: typeof import('./.vitepress/vitepress/components/vp-content.vue')['default']
     VpDocContent: typeof import('./.vitepress/vitepress/components/vp-doc-content.vue')['default']

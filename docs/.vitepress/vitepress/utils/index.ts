@@ -8,8 +8,6 @@ export function normalize(path) {
   return decodeURI(path).replace(hashRE, '').replace(extRE, '');
 }
 
-export * from './colors'
-
 export function isActive(route, path) {
   if (path === undefined) {
     return false;
@@ -28,10 +26,6 @@ export function removeExtention(path) {
 }
 
 export const isArray = Array.isArray
-
-export function utoa(data: string): string {
-  return btoa(unescape(encodeURIComponent(data)))
-}
 
 export const throttleAndDebounce = (fn: () => any, delay: number) => {
   let timeout: ReturnType<typeof setTimeout>

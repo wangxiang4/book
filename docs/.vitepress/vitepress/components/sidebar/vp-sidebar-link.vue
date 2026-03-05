@@ -12,7 +12,7 @@ const emitEvent = defineEmits(['close'])
 
 const route = useRoute()
 
-// todo tempe teat
+// todo tempe treat
 const router = useRouter()
 function handleLink(link: string) {
   router.go(link)
@@ -25,13 +25,11 @@ function handleLink(link: string) {
     :class="{
       link: true,
       active: isActive(route, item.link),
-      'flex items-center': item.promotion,
     }"
     :data-path="item.link"
     @click="handleLink(item.link)"
   >
     <p class="link-text">{{ item.text }}</p>
-    <VersionTag v-if="item.promotion" class="ml-2 whitespace-normal h-auto min-h-[20px] pb-0.4" :version="item.promotion" />
   </button>
 </template>
 

@@ -26,10 +26,4 @@ const { lang } = useData(), locale = computed(() => subNavLocale[lang.value])
   width: 1.25rem;
   height: 1.25rem;
 }
-
-/* @media screen and (max-width: 1044px) {
-  .sidebar-button {
-    display: block;
-  }
-} */
 </style>
