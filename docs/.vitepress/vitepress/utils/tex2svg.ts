@@ -1,6 +1,5 @@
 import { liteAdaptor } from 'mathjax-full/js/adaptors/liteAdaptor'
 import { RegisterHTMLHandler } from 'mathjax-full/js/handlers/html'
-import { AssistiveMmlHandler } from 'mathjax-full/js/a11y/assistive-mml'
 import { mathjax } from 'mathjax-full/js/mathjax'
 import juice from "juice/client"
 import { TeX } from 'mathjax-full/js/input/tex'
@@ -32,8 +31,7 @@ export function renderTeX(content: string, options?: OptionList = {}) {
   }
 
   const adaptor = liteAdaptor()
-  const handler = RegisterHTMLHandler(adaptor)
-  AssistiveMmlHandler(handler)
+  RegisterHTMLHandler(adaptor)
   const mathDocument = mathjax.document(content, documentOptions)
   let html = adaptor.outerHTML(mathDocument.convert(content, convertOptions))
   const stylesheet = adaptor.outerHTML(documentOptions.OutputJax.styleSheet(mathDocument) as LiteElement)

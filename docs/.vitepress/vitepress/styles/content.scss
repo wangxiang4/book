@@ -1,7 +1,6 @@
 @use './mixins' as *;
 @use './vars' as *;
 @use './content/doc-content';
-@use './content/hero-content';
 
 .page-content {
   @include up-from('lg') {

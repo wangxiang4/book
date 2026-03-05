@@ -3,30 +3,22 @@
     {
       "text": "Math",
       "link": "/math/0 Core Course/1 Data sufficiency",
-      "activeMatch": "/math/",
-      "home-card-type": "math",
-      "description": "Mathematics is the human tool for describing, understanding and revealing the laws of nature in an abstract and logical way, and the language for expressing these laws."
+      "activeMatch": "/math/"
     },
     {
       "text": "Logic",
       "link": "/logic/0 Course/1 Concepts",
-      "activeMatch": "/logic/",
-      "home-card-type": "logic",
-      "description": "Logic is the foundation of philosophical exploration, used in core branches of philosophy such as logic, epistemology, and metaphysics."
+      "activeMatch": "/logic/"
     },
     {
       "text": "Writing",
       "link": "/writing/0 Core Course/1 Argument effectiveness syllabus",
-      "activeMatch": "/writing/",
-      "home-card-type": "writing",
-      "description": "Writing can use critical thinking to clearly and persuasively convey complex philosophical ideas. while quickly enhancing reading skills to identify logical errors in articles."
+      "activeMatch": "/writing/"
     },
     {
       "text": "English",
       "link": "/english/0 Course/1 Vocabulary medium frequency",
-      "activeMatch": "/english/",
-      "home-card-type": "english",
-      "description": "English is the core language of modern philosophy, with almost all philosophical works preserved in English."
+      "activeMatch": "/english/"
     },
     {
       "text": "Resources",

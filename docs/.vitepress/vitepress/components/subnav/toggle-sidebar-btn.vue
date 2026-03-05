@@ -3,8 +3,7 @@ import { computed } from 'vue'
 import subNavLocale from '../../../i18n/component/sub-nav.json'
 import ToggleButton from '../icons/toggle-button.vue'
 import { useData } from 'vitepress'
-const { lang } = useData()
-const locale = computed(() => subNavLocale[lang.value])
+const { lang } = useData(), locale = computed(() => subNavLocale[lang.value])
 </script>
 
 <template>

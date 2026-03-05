@@ -6,16 +6,9 @@ import '@vue/runtime-core'
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     Dark: typeof import('./.vitepress/vitepress/components/icons/dark.vue')['default']
-    DotSvg: typeof import('./.vitepress/vitepress/components/home/svg/dot-svg.vue')['default']
-    ElectronBookSvg: typeof import('./.vitepress/vitepress/components/home/svg/electron-book-svg.vue')['default']
-    EnglishSvg: typeof import('./.vitepress/vitepress/components/home/svg/english-svg.vue')['default']
-    Home: typeof import('./.vitepress/vitepress/components/globals/home.vue')['default']
-    HomeCards: typeof import('./.vitepress/vitepress/components/home/home-cards.vue')['default']
     IRiExternalLinkLine: typeof import('~icons/ri/external-link-line')['default']
     IRiMenuLine: typeof import('~icons/ri/menu-line')['default']
     Light: typeof import('./.vitepress/vitepress/components/icons/light.vue')['default']
-    LogicSvg: typeof import('./.vitepress/vitepress/components/home/svg/logic-svg.vue')['default']
-    MathSvg: typeof import('./.vitepress/vitepress/components/home/svg/math-svg.vue')['default']
     PowerFunctionTable: typeof import('./.vitepress/vitepress/components/globals/power-function-table.vue')['default']
     ThemeAwareImage: typeof import('./.vitepress/vitepress/components/globals/theme-aware-image.vue')['default']
     ToggleButton: typeof import('./.vitepress/vitepress/components/icons/toggle-button.vue')['default']
@@ -25,7 +18,6 @@ declare module '@vue/runtime-core' {
     VpContent: typeof import('./.vitepress/vitepress/components/vp-content.vue')['default']
     VpDocContent: typeof import('./.vitepress/vitepress/components/vp-doc-content.vue')['default']
     VpHamburger: typeof import('./.vitepress/vitepress/components/navbar/vp-hamburger.vue')['default']
-    VpHeroContent: typeof import('./.vitepress/vitepress/components/vp-hero-content.vue')['default']
     VpLink: typeof import('./.vitepress/vitepress/components/common/vp-link.vue')['default']
     VpMenu: typeof import('./.vitepress/vitepress/components/navbar/vp-menu.vue')['default']
     VpMenuExtension: typeof import('./.vitepress/vitepress/components/navbar/vp-menu-extension.vue')['default']
@@ -36,7 +28,6 @@ declare module '@vue/runtime-core' {
     VpNotFound: typeof import('./.vitepress/vitepress/components/vp-not-found.vue')['default']
     VpOverlay: typeof import('./.vitepress/vitepress/components/vp-overlay.vue')['default']
     VpPageNav: typeof import('./.vitepress/vitepress/components/doc-content/vp-page-nav.vue')['default']
-    VpSearch: typeof import('./.vitepress/vitepress/components/navbar/vp-search.vue')['default']
     VpSidebar: typeof import('./.vitepress/vitepress/components/vp-sidebar.vue')['default']
     VpSidebarLink: typeof import('./.vitepress/vitepress/components/sidebar/vp-sidebar-link.vue')['default']
     VpSocialLink: typeof import('./.vitepress/vitepress/components/navbar/vp-social-link.vue')['default']
@@ -44,7 +35,6 @@ declare module '@vue/runtime-core' {
     VpSubnav: typeof import('./.vitepress/vitepress/components/vp-subnav.vue')['default']
     VpTableOfContent: typeof import('./.vitepress/vitepress/components/doc-content/vp-table-of-content.vue')['default']
     VpThemeToggler: typeof import('./.vitepress/vitepress/components/navbar/vp-theme-toggler.vue')['default']
-    WritingSvg: typeof import('./.vitepress/vitepress/components/home/svg/writing-svg.vue')['default']
   }
 }
 

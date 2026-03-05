@@ -5,14 +5,14 @@ import { imagePlugin } from './plugins/image'
 import { linkPlugin } from './plugins/link'
 import tableWrapper from './plugins/table-wrapper'
 import mathjax from './plugins/mathjax'
-import { linkInsideHeader } from './plugins/permalink'
+import { ariaHidden } from './plugins/permalink';
 import createWrapperContainer from './plugins/wrapper'
 import mdContainer from 'markdown-it-container'
 
 export default {
   base: "/",
-  title: 'Philosophy and Java',
-  description: 'The core fundamental skills of Philosophy and Java',
+  title: 'Philosophy',
+  description: 'The core fundamental skills of Philosophy',
   head: [
     [
       'link',
@@ -32,13 +32,7 @@ export default {
   ],
   themeConfig: {
     sidebars,
-    nav,
-    // Use https://docsearch.algolia.com/apply Approved(search api key)
-    agolia: {
-      apiKey: 'c9e8d97d6fd796bc5077c60203476968',
-      indexName: 'book-electroplumb',
-      appId: '7UG5GPPW6T',
-    }
+    nav
   },
   lang: 'en-US',
   markdown: {
@@ -47,7 +41,7 @@ export default {
       md.use(mathjax)
       md.use(mdContainer, 'wrap', createWrapperContainer(md))
       imagePlugin(md, {
-        lazyLoading:true,
+        lazyLoading: true,
         asyncDecoding: true
       })
       linkPlugin(md, {
@@ -56,11 +50,8 @@ export default {
       })
     },
     anchor: {
-      permalink: linkInsideHeader({
-        symbol: `
-          <span class="visually-hidden">Jump to heading</span>
-          <span aria-hidden="true">🔗</span>
-        `,
+      permalink: ariaHidden({
+        symbol: `<span>🔗</span>`,
         placement: 'before',
       }),
     }
@@ -76,7 +67,6 @@ export default {
 
 const customElements = [
   'mjx-container',
-  'mjx-assistive-mml',
   'math',
   'maction',
   'maligngroup',

@@ -3,12 +3,12 @@ import { useSidebar } from '../composables/sidebar'
 import { useBackTop } from '../composables/back-top'
 import ToggleSidebarBtn from './subnav/toggle-sidebar-btn.vue'
 import { useData } from 'vitepress';
-import homeLocale from "../../i18n/pages/home.json"
+import subNavLocale from "../../i18n/component/sub-nav.json"
 defineEmits(['open-menu'])
 
 const { hasSidebar } = useSidebar()
 const { shouldShow, scrollToTop } = useBackTop()
-const { lang } = useData(), locale = homeLocale[lang.value]
+const { lang } = useData(), locale = subNavLocale[lang.value]
 </script>
 
 <template>

@@ -20,7 +20,7 @@
     "noImplicitThis" : false,
     "noImplicitAny": false,
     "skipLibCheck": true,
-    "types": ["@docsearch/js", "node", "unplugin-icons/types/vue"],
+    "types": ["node", "unplugin-icons/types/vue"],
     "typeRoots": ["./node_modules/@types/"],
     "removeComments": true,
     "paths": {
