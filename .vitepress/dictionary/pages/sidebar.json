@@ -15,9 +15,9 @@
     "activeMatch": "writing"
   },
   {
-    "text": "English",
-    "link": "/english/1 Concepts",
-    "activeMatch": "english"
+    "text": "En",
+    "link": "/en/1 综合真题 – 完型",
+    "activeMatch": "en"
   },
   {
     "text": "Resources",
@@ -26,13 +26,13 @@
   },
   {
     "text": "Concurrent",
-    "link": "/java/concurrent/1 线程本质与线程模型",
-    "activeMatch": "java/concurrent"
+    "link": "/concurrent/1 线程本质与线程模型",
+    "activeMatch": "concurrent"
   },
   {
     "text": "Spring",
-    "link": "/java/spring/1 xml解析",
-    "activeMatch": "java/spring"
+    "link": "/spring/1 xml解析",
+    "activeMatch": "spring"
   }
 ]
 

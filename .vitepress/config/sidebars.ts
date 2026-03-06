@@ -1,10 +1,10 @@
 import logic from '../dictionary/pages/logic.json'
 import math from '../dictionary/pages/math.json'
-import english from '../dictionary/pages/english.json'
+import en from '../dictionary/pages/en.json'
 import writing from '../dictionary/pages/writing.json'
 import resources from '../dictionary/pages/resources.json'
-import concurrent from '../dictionary/pages/java/concurrent.json'
-import spring from '../dictionary/pages/java/spring.json'
+import concurrent from '../dictionary/pages/concurrent.json'
+import spring from '../dictionary/pages/spring.json'
 
 
 function getMathSideBar() {
@@ -15,8 +15,8 @@ function getLogicSidebar() {
   return Object.values(logic).map((item) => mapPrefix(item, "/logic"))
 }
 
-function getEnglishSideBar() {
-  return Object.values(english).map((item) => mapPrefix(item, '/english'))
+function getEnSideBar() {
+  return Object.values(en).map((item) => mapPrefix(item, '/en'))
 }
 
 function getWritingSideBar() {
@@ -28,22 +28,22 @@ function getResourcesSideBar() {
 }
 
 function getConcurrentSideBar() {
-  return Object.values(concurrent).map((item) => mapPrefix(item, '/java/concurrent'))
+  return Object.values(concurrent).map((item) => mapPrefix(item, '/concurrent'))
 }
 
 function getSpringSideBar() {
-  return Object.values(spring).map((item) => mapPrefix(item, '/java/spring'))
+  return Object.values(spring).map((item) => mapPrefix(item, '/spring'))
 }
 
 const getSidebars = () => {
   return {
     'logic': getLogicSidebar(),
     'math': getMathSideBar(),
-    'english': getEnglishSideBar(),
+    'en': getEnSideBar(),
     'writing': getWritingSideBar(),
     'resources': getResourcesSideBar(),
-    'java/concurrent': getConcurrentSideBar(),
-    'java/spring': getSpringSideBar(),
+    'concurrent': getConcurrentSideBar(),
+    'spring': getSpringSideBar(),
   }
 }
 
