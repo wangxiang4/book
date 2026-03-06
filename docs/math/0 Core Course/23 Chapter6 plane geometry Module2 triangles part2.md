@@ -1,6 +1,5 @@
 ---
 title: Chapter6 Plane Geometry – Module2 Triangles (Part2)
-lang: en-US
 ---
 
 ## 5.Basic Area Formulas

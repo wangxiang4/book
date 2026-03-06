@@ -1,6 +1,5 @@
 ---
 title: Basic Vocabulary 5
-lang: en-US
 ---
 
 | Platform    | Lesson    | Materials |

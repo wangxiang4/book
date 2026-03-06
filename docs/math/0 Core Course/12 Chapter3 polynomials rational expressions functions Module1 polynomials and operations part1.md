@@ -1,6 +1,5 @@
 ---
 title: Chapter3 Polynomials, Rational Expressions, and Functions – Module1 Polynomials and Operations (Part1)
-lang: en-US
 ---
 
 # Module 3-01 Polynomials and Operations

@@ -1,6 +1,5 @@
 ---
 title: Guidance
-lang: en-US
 ---
 
 | Platform    | Lesson    | Materials |

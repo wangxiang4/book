@@ -2,8 +2,8 @@ import { computed } from 'vue'
 import { useData } from 'vitepress'
 
 export const useNav = () => {
-  const { theme, lang } = useData()
+  const { theme } = useData()
   return computed(() => {
-    return theme.value.nav[lang.value]
+    return theme.value.nav
   })
 }

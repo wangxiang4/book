@@ -14,7 +14,6 @@ defineProps<{
       'is-menu-link': true,
     }"
     :href="item.link"
-    :no-icon="true"
   >
     {{ item.text }}
   </VPLink>

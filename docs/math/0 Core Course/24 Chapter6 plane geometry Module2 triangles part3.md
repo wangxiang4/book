@@ -1,6 +1,5 @@
 ---
 title: Chapter6 Plane Geometry – Module2 Triangles (Part3)
-lang: en-US
 ---
 
 ## 14.Right Triangle

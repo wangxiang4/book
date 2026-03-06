@@ -34,7 +34,6 @@ export default {
     sidebars,
     nav
   },
-  lang: 'en-US',
   markdown: {
     config: (md) => {
       md.use(tableWrapper)

@@ -1,6 +1,5 @@
 ---
 title: Chapter7 Analytic Geometry – Module3 Circles
-lang: en-US
 ---
 
 # Module 7–03 Circles

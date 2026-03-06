@@ -1,9 +1,6 @@
 <script lang="ts" setup>
-import { computed } from 'vue'
-import subNavLocale from '../../../i18n/component/sub-nav.json'
+import dict from '../../../dictionary/component/sub-nav.json'
 import ToggleButton from '../icons/toggle-button.vue'
-import { useData } from 'vitepress'
-const { lang } = useData(), locale = computed(() => subNavLocale[lang.value])
 </script>
 
 <template>
@@ -11,7 +8,7 @@ const { lang } = useData(), locale = computed(() => subNavLocale[lang.value])
     <ElIcon :size="20" class="mr-2">
       <ToggleButton />
     </ElIcon>
-    <span class="leading-6">{{ locale['text'] }}</span>
+    <span class="leading-6">{{ dict['text'] }}</span>
   </div>
 </template>
 

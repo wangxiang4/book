@@ -1,6 +1,5 @@
 ---
 title: Concepts
-lang: en-US
 ---
 
 | Platform    | Lesson    | Materials |

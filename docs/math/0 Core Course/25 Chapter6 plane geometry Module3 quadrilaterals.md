@@ -1,6 +1,5 @@
 ---
 title: Chapter6 Plane Geometry – Module3 Quadrilaterals
-lang: en-US
 ---
 
 # Module 6-03 Quadrilaterals

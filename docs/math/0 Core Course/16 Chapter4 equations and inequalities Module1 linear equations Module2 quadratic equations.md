@@ -1,7 +1,5 @@
 ---
 title: Chapter4 Equations and Inequalities – Module1 Linear Equations, Module2 Quadratic Equations
-
-lang: en-US
 ---
 
 # Module 4-01 Linear Equations (Systems)

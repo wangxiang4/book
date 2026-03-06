@@ -1,6 +1,5 @@
 ---
 title: Chapter9 Permutations and Combinations – Module1 Fundamental Theoretical Knowledge
-lang: en-US
 ---
 
 # Module 9–01 Fundamental Theoretical Knowledge

@@ -1,85 +1,49 @@
-import logic from '../i18n/pages/logic.json'
-import math from '../i18n/pages/math.json'
-import english from '../i18n/pages/english.json'
-import writing from '../i18n/pages/writing.json'
-import resources from '../i18n/pages/resources.json'
-import spring from '../i18n/pages/java/spring.json'
-import javaConcurrentProgramming from '../i18n/pages/java/java-concurrent-programming.json'
+import logic from '../dictionary/pages/logic.json'
+import math from '../dictionary/pages/math.json'
+import english from '../dictionary/pages/english.json'
+import writing from '../dictionary/pages/writing.json'
+import resources from '../dictionary/pages/resources.json'
+import javaConcurrentProgramming from '../dictionary/pages/java/java-concurrent-programming.json'
+import spring from '../dictionary/pages/java/spring.json'
+
 
 function getMathSideBar() {
-  return Object.fromEntries(
-    Object.entries(math).map(([lang, val]) => [
-      lang,
-      Object.values(val).map((item) => mapPrefix(item, lang, '/math')),
-    ])
-  )
+  return Object.values(math).map((item) => mapPrefix(item, '/math'))
 }
 
 function getLogicSidebar() {
-  return Object.fromEntries(
-    Object.entries(logic).map(([lang, val]) => [
-      lang,
-      Object.values(val).map((item) => mapPrefix(item, lang, "/logic")),
-    ])
-  )
+  return Object.values(logic).map((item) => mapPrefix(item, "/logic"))
 }
 
 function getEnglishSideBar() {
-  return Object.fromEntries(
-    Object.entries(english).map(([lang, val]) => [
-      lang,
-      Object.values(val).map((item) => mapPrefix(item, lang, '/english')),
-    ])
-  )
+  return Object.values(english).map((item) => mapPrefix(item, '/english'))
 }
 
 function getWritingSideBar() {
-  return Object.fromEntries(
-    Object.entries(writing).map(([lang, val]) => [
-      lang,
-      Object.values(val).map((item) => mapPrefix(item, lang, '/writing')),
-    ])
-  )
+  return Object.values(writing).map((item) => mapPrefix(item, '/writing'))
 }
 
 function getResourcesSideBar() {
-  return Object.fromEntries(
-    Object.entries(resources).map(([lang, val]) => [
-      lang,
-      Object.values(val).map((item) => mapPrefix(item, lang, '/resources')),
-    ])
-  )
+  return Object.values(resources).map((item) => mapPrefix(item, '/resources'))
 }
 
 function getJavaConcurrentProgrammingSideBar() {
-  return Object.fromEntries(
-    Object.entries(javaConcurrentProgramming).map(([lang, val]) => [
-      lang,
-      Object.values(val).map((item) => mapPrefix(item, lang, '/java/1 Java Concurrent Programming')),
-    ])
-  )
+  return Object.values(javaConcurrentProgramming).map((item) => mapPrefix(item, '/java/1 Java Concurrent Programming'))
 }
 
 function getSpringSideBar() {
-  return Object.fromEntries(
-    Object.entries(spring).map(([lang, val]) => [
-      lang,
-      Object.values(val).map((item) => mapPrefix(item, lang, '/java/2 Spring')),
-    ])
-  )
+  return Object.values(spring).map((item) => mapPrefix(item, '/java/2 Spring'))
 }
 
-// return sidebar with language configs.
-// this might create duplicated data, but the overhead is ignorable
 const getSidebars = () => {
   return {
-    '/logic/': getLogicSidebar(),
-    '/math/': getMathSideBar(),
-    '/english/': getEnglishSideBar(),
-    '/writing/': getWritingSideBar(),
-    '/resources/': getResourcesSideBar(),
-    '/java/1 Java Concurrent Programming/': getJavaConcurrentProgrammingSideBar(),
-    '/java/2 Spring/': getSpringSideBar(),
+    'logic': getLogicSidebar(),
+    'math': getMathSideBar(),
+    'english': getEnglishSideBar(),
+    'writing': getWritingSideBar(),
+    'resources': getResourcesSideBar(),
+    'java/1 Java Concurrent Programming': getJavaConcurrentProgrammingSideBar(),
+    'java/2 Spring': getSpringSideBar(),
   }
 }
 
@@ -89,11 +53,11 @@ type Item = {
   link?: string
 }
 
-function mapPrefix(item: Item, lang: string, prefix = '') {
+function mapPrefix(item: Item, prefix = '') {
   if (item.children && item.children.length > 0) {
     return {
       ...item,
-      children: item.children.map((child) => mapPrefix(child, lang, prefix)),
+      children: item.children.map((child) => mapPrefix(child, prefix)),
     }
   }
   return {

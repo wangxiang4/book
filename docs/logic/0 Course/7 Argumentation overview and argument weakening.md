@@ -1,6 +1,5 @@
 ---
 title: Argumentation Overview and Argument Weakening
-lang: en-US
 ---
 
 | Platform    | Lesson    | Materials |

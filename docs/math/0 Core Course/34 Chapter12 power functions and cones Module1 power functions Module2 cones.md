@@ -1,6 +1,5 @@
 ---
 title: Chapter12 Power Functions and Cones – Module1 Power Functions, Module2 Cones
-lang: en-US
 ---
 
 # Module 12-01 Power Functions

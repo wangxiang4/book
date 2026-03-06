@@ -6,7 +6,6 @@ import { ensureStartingSlash, isArray, removeExtention } from '../utils'
 export const useSidebar = () => {
   const route = useRoute()
   const { site, page } = useData()
-  const { lang } = useData()
   if (!page.value) {
     return {
       sidebars: computed(() => []),
@@ -17,8 +16,7 @@ export const useSidebar = () => {
     if (page.value.frontmatter.sidebar === false) return []
     const sidebars = getSidebarConfig(
       site.value.themeConfig.sidebars,
-      route.data.relativePath,
-      lang.value
+      route.data.relativePath
     )
     return sidebars
   })
@@ -53,7 +51,7 @@ type Sidebar =
   | false
   | 'auto'
 
-export function getSidebarConfig(sidebar: Sidebar, path: string, lang: string) {
+export function getSidebarConfig(sidebar: Sidebar, path: string) {
   if (sidebar === false || Array.isArray(sidebar) || sidebar === 'auto') {
     return []
   }
@@ -61,7 +59,7 @@ export function getSidebarConfig(sidebar: Sidebar, path: string, lang: string) {
   for (const dir in sidebar) {
     // make sure the multi-sidebar key starts with slash too
     if (path.startsWith(ensureStartingSlash(`${dir}`))) {
-      return sidebar[dir][lang]
+      return sidebar[dir]
     }
   }
   return []

@@ -1,6 +1,5 @@
 ---
 title: Functional Equations
-lang: en-US
 ---
 
 | Platform    | Lesson    | Materials |

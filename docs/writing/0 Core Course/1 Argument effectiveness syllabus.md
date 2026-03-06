@@ -1,6 +1,5 @@
 ---
 title: Argument Effectiveness Syllabus
-lang: en-US
 ---
 
 | Platform    | Lesson    | Materials |

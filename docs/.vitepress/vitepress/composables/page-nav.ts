@@ -8,7 +8,7 @@ import {
 import { getFlatSideBarLinks, getSidebarConfig } from './sidebar'
 
 export function usePageNav() {
-  const { page, theme, lang } = useData()
+  const { page, theme } = useData()
 
   const path = computed(() => {
     return removeExtension(ensureStartingSlash(page.value.relativePath))
@@ -17,8 +17,7 @@ export function usePageNav() {
   const candidates = computed(() => {
     const config = getSidebarConfig(
       theme.value.sidebars,
-      path.value,
-      lang.value
+      path.value
     )
     return isArray(config) ? getFlatSideBarLinks(config) : []
   })

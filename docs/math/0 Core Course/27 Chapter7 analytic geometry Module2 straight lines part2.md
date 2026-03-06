@@ -1,6 +1,5 @@
 ---
 title: Chapter7 Analytic Geometry – Module2 Straight Lines (Part2)
-lang: en-US
 ---
 
 ## 9.Positional Relationships Between Two Lines

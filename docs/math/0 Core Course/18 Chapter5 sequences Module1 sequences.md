@@ -1,6 +1,5 @@
 ---
 title: Chapter5 Sequences – Module1 Sequences
-lang: en-US
 ---
 
 # Module 5-01 Sequences

@@ -1,6 +1,5 @@
 ---
 title: Chapter5 Sequences – Module3 Geometric Sequences
-lang: en-US
 ---
 
 # Module 5-03 Geometric Sequences

@@ -1,6 +1,5 @@
 ---
 title: Inequalities
-lang: en-US
 ---
 
 | Platform    | Lesson    | Materials |

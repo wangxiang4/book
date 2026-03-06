@@ -1,6 +1,5 @@
 ---
 title: Categorical Judgments
-lang: en-US
 ---
 
 | Platform    | Lesson    | Materials |

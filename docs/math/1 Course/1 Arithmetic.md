@@ -1,6 +1,5 @@
 ---
 title: Arithmetic
-lang: en-US
 ---
 
 | Platform    | Lesson    | Materials |

@@ -1,6 +1,5 @@
 ---
 title: Chapter2 Word Problems – Module1 Proportions and Percentages (Part2), Module2 Profit in Commerce
-lang: en-US
 ---
 
 ## 8.Rate of Change Formulas

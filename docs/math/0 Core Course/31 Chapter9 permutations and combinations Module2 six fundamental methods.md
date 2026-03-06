@@ -1,6 +1,5 @@
 ---
 title: Chapter9 Permutations and Combinations – Module2 Six Fundamental Methods
-lang: en-US
 ---
 
 

@@ -1,6 +1,5 @@
 ---
 title: Chapter2 Word Problems – Module1 Proportions and Percentages (Part1)
-lang: en-US
 ---
 
 # Module 2-01 Proportions and Percentages

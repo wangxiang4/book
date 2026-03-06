@@ -1,6 +1,5 @@
 ---
 title: Chapter2 Word Problems – Module3 Distance Problems (Part1)
-lang: en-US
 ---
 
 # Module 2-03 Distance Problems

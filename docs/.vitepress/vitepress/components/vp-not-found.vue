@@ -1,15 +1,14 @@
 <script setup lang="ts">
-import { useData } from "vitepress"
-import notFoundLocale from "../../i18n/pages/not-found.json"
+import dict from "../../dictionary/pages/not-found.json"
 const goHome = () => {
   window.location.href = `/`
-}, { lang } = useData(), locale = notFoundLocale[lang.value];
+}
 </script>
 
 <template>
-  <ElResult icon="error" :title="locale.title" :sub-title="locale.desc">
+  <ElResult icon="error" :title="dict.title" :sub-title="dict.desc">
     <template #extra>
-      <ElButton @click="goHome">{{ locale['button-title'] }}</ElButton>
+      <ElButton @click="goHome">{{ dict['button-title'] }}</ElButton>
     </template>
   </ElResult>
 </template>

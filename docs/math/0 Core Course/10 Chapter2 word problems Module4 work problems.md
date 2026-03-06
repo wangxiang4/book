@@ -1,6 +1,5 @@
 ---
 title: Chapter2 Word Problems – Module4 Work Problems
-lang: en-US
 ---
 
 # Module 2-04 Work Problems

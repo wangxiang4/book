@@ -1,6 +1,5 @@
 ---
 title: Probability
-lang: en-US
 ---
 
 | Platform    | Lesson    | Materials |

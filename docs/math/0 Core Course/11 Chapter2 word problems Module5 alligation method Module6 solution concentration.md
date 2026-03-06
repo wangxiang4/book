@@ -1,6 +1,5 @@
 ---
 title: Chapter2 Word Problems – Module5 Alligation Method, Module6 Solution Concentration
-lang: en-US
 ---
 
 # Module 2-05 Alligation Method

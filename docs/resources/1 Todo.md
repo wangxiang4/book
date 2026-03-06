@@ -1,6 +1,5 @@
 ---
 title: TODO
-lang: en-US
 ---
 
 | Platform    | Lesson    | Materials |

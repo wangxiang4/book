@@ -1,6 +1,5 @@
 ---
 title: Applied Problems Lower
-lang: en-US
 ---
 
 | Platform    | Lesson    | Materials |

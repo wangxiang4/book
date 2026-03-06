@@ -1,6 +1,5 @@
 ---
 title: Chapter8 Solid Geometry – Module1 Cuboids, Module2 Prisms and Cylinders, Module3 Spheres
-lang: en-US
 ---
 
 # Module 8–01 Cuboids

@@ -1,6 +1,5 @@
 ---
 title: Chapter1 Real Numbers, Ratios, and Absolute Value – Module3 Absolute Value
-lang: en-US
 ---
 
 # Module 1-03 Absolute Value

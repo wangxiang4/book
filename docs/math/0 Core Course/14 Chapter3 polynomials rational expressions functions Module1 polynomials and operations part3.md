@@ -1,6 +1,5 @@
 ---
 title: Chapter3 Polynomials, Rational Expressions, and Functions – Module1 Polynomials and Operations (Part3)
-lang: en-US
 ---
 
 ## 8.Addition and Subtraction of Polynomials

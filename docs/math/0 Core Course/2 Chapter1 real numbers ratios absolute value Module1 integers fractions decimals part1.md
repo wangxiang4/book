@@ -1,6 +1,5 @@
 ---
 title: Chapter1 Real Numbers, Ratios, and Absolute Value – Module1 Integers, Fractions, and Decimals (Part1)
-lang: en-US
 ---
 
 # Module 1-01 Integers, Fractions, and Decimals

@@ -2,13 +2,11 @@
 import { useSidebar } from '../composables/sidebar'
 import { useBackTop } from '../composables/back-top'
 import ToggleSidebarBtn from './subnav/toggle-sidebar-btn.vue'
-import { useData } from 'vitepress';
-import subNavLocale from "../../i18n/component/sub-nav.json"
+import dict from "../../dictionary/component/sub-nav.json"
 defineEmits(['open-menu'])
 
 const { hasSidebar } = useSidebar()
 const { shouldShow, scrollToTop } = useBackTop()
-const { lang } = useData(), locale = subNavLocale[lang.value]
 </script>
 
 <template>
@@ -16,7 +14,7 @@ const { lang } = useData(), locale = subNavLocale[lang.value]
     <ToggleSidebarBtn v-if="hasSidebar" @click="$emit('open-menu')" />
     <Transition name="shifting">
       <ElLink :class="{ 'go-back-top': true, show: shouldShow }" :underline="false" class="height-5" size="small" @click.prevent.stop="scrollToTop">
-        {{ locale['back-top'] }}
+        {{ dict['back-top'] }}
       </ElLink>
     </Transition>
   </div>

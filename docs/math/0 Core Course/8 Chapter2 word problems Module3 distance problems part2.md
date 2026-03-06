@@ -1,6 +1,5 @@
 ---
 title: Chapter2 Word Problems – Module3 Distance Problems (Part2)
-lang: en-US
 ---
 
 ## 6.Boat traveling in water

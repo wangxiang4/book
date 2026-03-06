@@ -12,6 +12,7 @@ export function isActive(route, path) {
   if (path === undefined) {
     return false;
   }
+  debugger
   const routePath = normalize(`/${route.data.relativePath}`);
   const pagePath = normalize(path);
   return routePath === pagePath;
@@ -46,15 +47,12 @@ export const throttleAndDebounce = (fn: () => any, delay: number) => {
   }
 }
 
-// When match === true, meaning `path` is a string for build regex
+
 export const isActiveLink = (
   route: Route,
   pathPattern: string,
-  match?: boolean
 ) => {
-  if (!match) return isActive(route, pathPattern)
   const regex = new RegExp(pathPattern)
-
   return regex.test(normalize(`/${route.data.relativePath}`))
 }
 

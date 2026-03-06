@@ -1,6 +1,5 @@
 <script setup lang="ts">
-import { watch, ref } from 'vue';
-import { normalize} from '../../utils';
+import { isActiveLink } from '../../utils';
 import { useRoute, useRouter} from 'vitepress';
 import { useNav } from '~/composables/nav'
 import { Link } from '~/types';
@@ -9,19 +8,6 @@ const route = useRoute()
 const navs = useNav()
 const router = useRouter()
 const expandMenus: Link[] = navs.value.slice(5)
-
-const currentActiveMatch = ref<string>('');
-
-watch(
-  () => route.path,
-  () => {
-    currentActiveMatch.value = expandMenus.find(item => {
-      const regex = new RegExp(item.activeMatch)
-      return regex.test(normalize(`/${route.data.relativePath}`))
-    })?.activeMatch
-  },
-  { flush: 'post' }
-)
 </script>
 
 <template>
@@ -36,7 +22,7 @@ watch(
             <ElDropdownItem
               v-for="(item, key) in expandMenus"
               :key="key"
-              :class="{ 'menu-item': true, selected: item.activeMatch === currentActiveMatch }"
+              :class="{ 'menu-item': true, active: isActiveLink(route, item.activeMatch) }"
               @click="router.go(item.link)"
             >
               {{ item.text }}
@@ -80,7 +66,7 @@ watch(
     padding: 0 16px;
     line-height: 28px;
 
-    &.selected {
+    &.active {
       --el-text-color-regular: var(--brand-color);
     }
   }
