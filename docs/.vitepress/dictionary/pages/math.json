@@ -144,8 +144,123 @@
     "text": "Course",
     "children": [
       {
-        "text": "Arithmetic",
-        "link": "/course/1 Arithmetic"
+        "text": "基础必修 – 算术",
+        "link": "/course/1 基础必修 – 算术"
+      },
+      {
+        "text": "基础必修 – 整式与分式",
+        "link": "/course/2 基础必修 – 整式与分式"
+      },
+      {
+        "text": "基础必修 – 函数",
+        "link": "/course/3 基础必修 – 函数"
+      },
+      {
+        "text": "基础必修 – 方程与不等式",
+        "link": "/course/4 基础必修 – 方程与不等式"
+      },
+      {
+        "text": "基础必修 – 等差数列",
+        "link": "/course/5 基础必修 – 等差数列"
+      },
+      {
+        "text": "基础必修 – 等比数列",
+        "link": "/course/6 基础必修 – 等比数列"
+      },
+      {
+        "text": "基础必修 – 平面几何与立体几何(Part1)",
+        "link": "/course/7 基础必修 – 平面几何与立体几何Part1"
+      },
+      {
+        "text": "基础必修 – 立体几何(Part2)与解析几何",
+        "link": "/course/8 基础必修 – 立体几何Part2与解析几何"
+      },
+      {
+        "text": "基础必修 – 排列组合",
+        "link": "/course/9 基础必修 – 排列组合"
+      },
+      {
+        "text": "基础必修 – 概率",
+        "link": "/course/10 基础必修 – 概率"
+      },
+      {
+        "text": "基础必修 – 应用题 (Part1)",
+        "link": "/course/11 基础必修 – 应用题 Part1"
+      },
+      {
+        "text": "基础必修 – 应用题 (Part2)",
+        "link": "/course/12 基础必修 – 应用题 Part2"
+      },
+      {
+        "text": "综合真题 – 实数, 绝对值, 平均值",
+        "link": "/course/13 综合真题 – 实数 绝对值 平均值"
+      },
+      {
+        "text": "综合真题 – 整式, 函数, 方程, 不等式",
+        "link": "/course/14 综合真题 – 整式 函数 方程 不等式"
+      },
+      {
+        "text": "综合真题 – 应用题",
+        "link": "/course/15 综合真题 – 应用题"
+      },
+      {
+        "text": "综合真题 – 数列, 平面几何",
+        "link": "/course/16 综合真题 – 数列 平面几何"
+      },
+      {
+        "text": "综合真题 – 立体, 解析几何",
+        "link": "/course/17 综合真题 – 立体 解析几何"
+      },
+      {
+        "text": "综合真题 – 排列组合, 概率",
+        "link": "/course/18 综合真题 – 排列组合 概率"
+      },
+      {
+        "text": "真题巩固 – 2024真题",
+        "link": "/course/19 真题巩固 – 2024真题"
+      },
+      {
+        "text": "真题巩固 – 2025真题",
+        "link": "/course/20 真题巩固 – 2025真题"
+      },{
+        "text": "答疑 (Part1)",
+        "link": "/course/21 答疑 Part1"
+      },
+      {
+        "text": "答疑 (Part2)",
+        "link": "/course/22 答疑 Part2"
+      },
+      {
+        "text": "考前密训 – 特值",
+        "link": "/course/23 考前密训 – 特值"
+      },
+      {
+        "text": "考前密训 – 最值",
+        "link": "/course/24 考前密训 – 最值"
+      },
+      {
+        "text": "高效抢分 (Part1)",
+        "link": "/course/25 高效抢分 Part1"
+      },
+      {
+        "text": "高效抢分 (Part2)",
+        "link": "/course/26 高效抢分 Part2"
+      },
+      {
+        "text": "蒙猜技巧 (Part1)",
+        "link": "/course/27 蒙猜技巧 Part1"
+      },
+      {
+        "text": "蒙猜技巧 (Part2)",
+        "link": "/course/28 蒙猜技巧 Part2"
+      },
+      {
+        "text": "带练 (Part1)",
+        "link": "/course/29 带练 Part1"
+      },
+      {
+        "text": "带练 (Part2)",
+        "link": "/course/30 带练 Part2"
       }
     ]
   }
