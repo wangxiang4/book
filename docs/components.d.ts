@@ -6,7 +6,6 @@ import '@vue/runtime-core'
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     Dark: typeof import('./.vitepress/vitepress/components/icons/dark.vue')['default']
-    IRiExternalLinkLine: typeof import('~icons/ri/external-link-line')['default']
     IRiMenuLine: typeof import('~icons/ri/menu-line')['default']
     Light: typeof import('./.vitepress/vitepress/components/icons/light.vue')['default']
     PowerFunctionTable: typeof import('./.vitepress/vitepress/components/globals/power-function-table.vue')['default']

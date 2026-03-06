@@ -1,22 +1,22 @@
 [
   {
     "text": "Math",
-    "link": "/math/0 Core Course/2 Chapter1 real numbers ratios absolute value Module1 integers fractions decimals part1",
+    "link": "/math/core course/2 Chapter1 real numbers ratios absolute value Module1 integers fractions decimals part1",
     "activeMatch": "math"
   },
   {
     "text": "Logic",
-    "link": "/logic/0 Course/1 Concepts",
+    "link": "/logic/1 Concepts",
     "activeMatch": "logic"
   },
   {
     "text": "Writing",
-    "link": "/writing/0 Core Course/1 Argument effectiveness syllabus",
+    "link": "/writing/1 Concepts",
     "activeMatch": "writing"
   },
   {
     "text": "English",
-    "link": "/english/0 Course/1 Vocabulary medium frequency",
+    "link": "/english/1 Concepts",
     "activeMatch": "english"
   },
   {
@@ -25,14 +25,14 @@
     "activeMatch": "resources"
   },
   {
-    "text": "Java Concurrent Programming",
-    "link": "/java/1 Java Concurrent Programming/1 线程本质与线程模型",
-    "activeMatch": "java/1 Java Concurrent Programming"
+    "text": "Concurrent",
+    "link": "/java/concurrent/1 线程本质与线程模型",
+    "activeMatch": "java/concurrent"
   },
   {
     "text": "Spring",
-    "link": "/java/2 Spring/1 xml解析",
-    "activeMatch": "java/2 Spring"
+    "link": "/java/spring/1 xml解析",
+    "activeMatch": "java/spring"
   }
 ]
 

@@ -3,7 +3,7 @@ import math from '../dictionary/pages/math.json'
 import english from '../dictionary/pages/english.json'
 import writing from '../dictionary/pages/writing.json'
 import resources from '../dictionary/pages/resources.json'
-import javaConcurrentProgramming from '../dictionary/pages/java/java-concurrent-programming.json'
+import concurrent from '../dictionary/pages/java/concurrent.json'
 import spring from '../dictionary/pages/java/spring.json'
 
 
@@ -27,12 +27,12 @@ function getResourcesSideBar() {
   return Object.values(resources).map((item) => mapPrefix(item, '/resources'))
 }
 
-function getJavaConcurrentProgrammingSideBar() {
-  return Object.values(javaConcurrentProgramming).map((item) => mapPrefix(item, '/java/1 Java Concurrent Programming'))
+function getConcurrentSideBar() {
+  return Object.values(concurrent).map((item) => mapPrefix(item, '/java/concurrent'))
 }
 
 function getSpringSideBar() {
-  return Object.values(spring).map((item) => mapPrefix(item, '/java/2 Spring'))
+  return Object.values(spring).map((item) => mapPrefix(item, '/java/spring'))
 }
 
 const getSidebars = () => {
@@ -42,8 +42,8 @@ const getSidebars = () => {
     'english': getEnglishSideBar(),
     'writing': getWritingSideBar(),
     'resources': getResourcesSideBar(),
-    'java/1 Java Concurrent Programming': getJavaConcurrentProgrammingSideBar(),
-    'java/2 Spring': getSpringSideBar(),
+    'java/concurrent': getConcurrentSideBar(),
+    'java/spring': getSpringSideBar(),
   }
 }
 

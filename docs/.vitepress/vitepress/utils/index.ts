@@ -12,7 +12,7 @@ export function isActive(route, path) {
   if (path === undefined) {
     return false;
   }
-  debugger
+
   const routePath = normalize(`/${route.data.relativePath}`);
   const pagePath = normalize(path);
   return routePath === pagePath;
