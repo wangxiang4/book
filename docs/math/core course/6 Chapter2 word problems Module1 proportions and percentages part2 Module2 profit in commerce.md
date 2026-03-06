@@ -2,6 +2,8 @@
 title: Chapter2 Word Problems – Module1 Proportions and Percentages (Part2), Module2 Profit in Commerce
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KeREF8Zw0vQ?si=-7THtLACWRKDjm9K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 8.Rate of Change Formulas
 ::: wrap  
 1. $a_{\textsf{before}} \xrightarrow{\textsf{increased by }p\%} a_{\textsf{after}}=a_{\textsf{before}}(1+p\%)$  
@@ -756,9 +758,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                       | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=KeREF8Zw0vQ&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnai?playlist=x9h6d2)                           | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s954d-7-chapter2-word-problems-module2-product-profits.html)    |                                                                                                |

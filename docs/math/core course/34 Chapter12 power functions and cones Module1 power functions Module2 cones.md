@@ -2,6 +2,8 @@
 title: Chapter12 Power Functions and Cones – Module1 Power Functions, Module2 Cones
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xswEYoH6ybA?si=r2qyPTOJL3o6hAzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Module 12-01 Power Functions
 
 ## 1.Definition
@@ -1550,8 +1552,6 @@ $
   :::
 ---
 
-| Platform    | Lesson                                                                                       | Materials                                                                                                                                                                                                                                                                         | 
-|-------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=xswEYoH6ybA&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)<br/>[Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf)                                                                                                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gx65i?playlist=x9h6d2)                           | [Power functions and cones exercise](../../public/math/core%20course/pdf/34%20Power%20functions%20and%20cones%20exercise.pdf)<br/>[Power functions and cones exercise answers](../../public/math/core%20course/pdf/34%20Power%20functions%20and%20cones%20exercise%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95j1-35-chapter12-power-function-and-cone.html)                |                                                                                                                                                                                                                                                                                   |
+- Materials
+  - [Exercise](../../public/math/core%20course/materials/34%20Exercise.pdf)
+  - [Exercise answers](../../public/math/core%20course/materials/34%20Exercise%20answers.pdf)

@@ -2,6 +2,7 @@
 title: Chapter10 Probability – Module1 Classical Probability, Module2 Independent Events
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Taex9rTMDq8?si=1wHJ1IRZzN2rICsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Module 10–01 Classical Probability
 
@@ -880,10 +881,4 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                       | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=Taex9rTMDq8&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gsuai?playlist=x9h6d2)                           | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95id-33-chapter10-probability-preliminary.html)                |                                                                                                |
 

@@ -2,6 +2,8 @@
 title: Chapter3 Polynomials, Rational Expressions, and Functions – Module2 Rational Expressions, Module3 Quadratic Functions
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZPNYstpg-VU?si=syga2eV9z-MkPFSt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Module 3-02 Rational Expressions and Operations
 
 ## 1.Definition of Rational Expressions
@@ -582,10 +584,4 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                                               | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=ZPNYstpg-VU&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                         | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvrs?playlist=x9h6d2)                                                   | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95ex-chapter3-polynomials-rational-expressions-functions-module2-rational-expres.html) |                                                                                                |
 

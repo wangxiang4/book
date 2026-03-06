@@ -2,6 +2,8 @@
 title: Chapter4 Equations and Inequalities – Module3 Linear Inequalities, Module4 Quadratic Inequalities
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJRcX7dnz00?si=VBYdNitj2tEG9vZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Module 4-03 Linear Inequalities (Systems)
 
 ## 1.Definition of Inequalities
@@ -583,9 +585,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                       | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=oJRcX7dnz00&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvrw?playlist=x9h6d2)                           | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95br-17-chapter4-equations-inequality-module1-inequality.html) |                                                                                                |

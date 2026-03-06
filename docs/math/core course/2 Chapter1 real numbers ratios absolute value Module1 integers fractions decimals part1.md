@@ -2,6 +2,8 @@
 title: Chapter1 Real Numbers, Ratios, and Absolute Value – Module1 Integers, Fractions, and Decimals (Part1)
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iTCfb46rt90?si=60jurKf7qzc-Vsjv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Module 1-01 Integers, Fractions, and Decimals
 
 ## 1.Integers
@@ -525,9 +527,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                                               | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=iTCfb46rt90&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                         | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcn66?playlist=x9h6d2)                                                   | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s94ix-3-chapter1-real-numbers-ratios-absolute-values-module1-integers-fractions-a.html) |                                                                                                |

@@ -2,6 +2,8 @@
 title: Chapter2 Word Problems – Module3 Distance Problems (Part2)
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kQR8VTp_S5c?si=pDXCJRHYag6I2YGt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 6.Boat traveling in water
 - __Downstream speed__: $v_\textsf{down}=v_\textsf{boat}+v_\textsf{current}$
 - __Upstream speed__: $v_\textsf{up}=v_\textsf{boat}-v_\textsf{current}$
@@ -363,9 +365,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                             | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=kQR8VTp_S5c&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)       | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnaq?playlist=x9h6d2)                                 | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s9561-9-chapter2-word-problems-module3-distance-problems-middle.html) |                                                                                                |

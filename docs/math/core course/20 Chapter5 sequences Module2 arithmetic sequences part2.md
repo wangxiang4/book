@@ -2,6 +2,7 @@
 title: Chapter5 Sequences – Module2 Arithmetic Sequences (Part2)
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UIfceZQcoHM?si=QfQsrP1CwNtbwXfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 8.Focus 4
 __The non-standard method for summation__  
@@ -520,10 +521,3 @@ $
 
   :::
 ---
-
-
-| Platform    | Lesson                                                                                            | Materials                                                                                      |
-|-------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=UIfceZQcoHM&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)      | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvs2?playlist=x9h6d2)                                | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95cb-21-chapter5-sequences-module2-arithmetic-sequences-lower.html) |                                                                                                |

@@ -2,6 +2,8 @@
 title: Chapter3 Polynomials, Rational Expressions, and Functions – Module1 Polynomials and Operations (Part3)
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQJPYfmdg_Q?si=2k-jVA24qnUZc5AH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 8.Addition and Subtraction of Polynomials
 - The addition and subtraction of polynomials are relatively simple: __just combine like terms__.
 
@@ -800,9 +802,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                                               | Materials                                                       |
-|-------------|----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=NQJPYfmdg_Q&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                         | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf) |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvru?playlist=x9h6d2)                                                   | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf)                                                                  |
-| Rumble      | [Watch](https://rumble.com/v6s95bl-15-chapter3-polynomials-rational-expressions-functions-module1-polynomials-.html) |                                                                   |

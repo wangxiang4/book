@@ -2,6 +2,8 @@
 title: Chapter7 Analytic Geometry – Module3 Circles
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tzz3WDdaVEI?si=m4F_fnKl4-9TpMiJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Module 7–03 Circles
 
 ## 1.Equation of a Circle
@@ -978,10 +980,4 @@ $
 
   :::
 ---  
-
-| Platform    | Lesson                                                                                       | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=Tzz3WDdaVEI&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gsui2?playlist=x9h6d2)                           | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95hp-29-chapter7-resolve-geometry-module3-circle.html)         |                                                                                                |
 

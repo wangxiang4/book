@@ -2,6 +2,8 @@
 title: Chapter2 Word Problems – Module1 Proportions and Percentages (Part1)
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7iBUrymJb5g?si=3QzevfWoE84iMYnb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Module 2-01 Proportions and Percentages
 
 ## 1.Focus 1
@@ -437,9 +439,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                           | Materials                                                                                      |
-|-------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=7iBUrymJb5g&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)     | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnag?playlist=x9h6d2)                               | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s94zz-6-chapter2-word-problems-module1-ratios-and-percentages.html) |                                                                                                |

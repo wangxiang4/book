@@ -2,6 +2,8 @@
 title: Chapter2 Word Problems – Module3 Distance Problems (Part3)
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NNul-9BOv1E?si=nIyYX7EZFwPPOuSS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 12.Focus 9
 __The departure interval__
 - The pedestrian can be __considered stationary__,
@@ -754,9 +756,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                             | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=NNul-9BOv1E&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)       | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnao?playlist=x9h6d2)                                 | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s9575-10-chapter2-word-problems-module3-distance-problems-lower.html) |                                                                                                |

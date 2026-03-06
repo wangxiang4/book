@@ -2,6 +2,8 @@
 title: Chapter3 Polynomials, Rational Expressions, and Functions – Module1 Polynomials and Operations (Part1)
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b5nQJVdbtbo?si=ftmW97rOrfx0YVXV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Module 3-01 Polynomials and Operations
 
 ## 1.Six Fundamental Formulas
@@ -671,10 +673,4 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                                               | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=b5nQJVdbtbo&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                         | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9glvrq?playlist=x9h6d2)                                                   | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95af-13-chapter3-polynomials-rational-expressions-functions-module1-polynomials-.html) |                                                                                                |
 

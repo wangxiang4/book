@@ -2,6 +2,7 @@
 title: Chapter9 Permutations and Combinations – Module2 Six Fundamental Methods
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AL5zf-Li0KE?si=oFVR-e1rBdhfW0xA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Module 9–02 Six Fundamental Methods
 
@@ -1304,10 +1305,4 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                                       | Materials                                                                                      |
-|-------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=AL5zf-Li0KE&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                 | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gsuma?playlist=x9h6d2)                                           | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95i9-32-chapter9-permutations-and-combinations-module2-six-basic-methods.html) |                                                                                                |
 

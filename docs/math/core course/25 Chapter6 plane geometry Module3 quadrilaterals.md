@@ -2,8 +2,9 @@
 title: Chapter6 Plane Geometry – Module3 Quadrilaterals
 ---
 
-# Module 6-03 Quadrilaterals
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iYKiSxpr2Ls?si=HkKjRD9DcYbj_mxP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+# Module 6-03 Quadrilaterals
 
 ## 1.Parallelogram
 - A parallelogram has __side lengths $\boldsymbol{a}$ and $\boldsymbol{b}$__,
@@ -984,9 +985,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                       | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=iYKiSxpr2Ls&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gsuhs?playlist=x9h6d2)                           | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95h3-26-chapter6-plane-geometry-module3-quadrilaterals.html)   |                                                                                                |

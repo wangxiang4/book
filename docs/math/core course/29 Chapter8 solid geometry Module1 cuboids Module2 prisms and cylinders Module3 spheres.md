@@ -2,6 +2,8 @@
 title: Chapter8 Solid Geometry – Module1 Cuboids, Module2 Prisms and Cylinders, Module3 Spheres
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vuODkDgkk_U?si=S8wv1JnZWRe7GIvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Module 8–01 Cuboids
 
 ## 1.Cuboids  
@@ -724,9 +726,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                       | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=vuODkDgkk_U&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gsuam?playlist=x9h6d2)                           | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95hx-30-chapter8-solid-geometry.html)                          |                                                                                                |

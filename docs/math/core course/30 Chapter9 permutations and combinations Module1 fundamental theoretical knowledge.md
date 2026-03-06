@@ -2,6 +2,8 @@
 title: Chapter9 Permutations and Combinations – Module1 Fundamental Theoretical Knowledge
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BKL0JLJVS5U?si=t4rWaM8w8uyvvWjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Module 9–01 Fundamental Theoretical Knowledge
 
 ## 1.Case Counting Principle (Addition Principle)
@@ -700,9 +702,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                                               | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=BKL0JLJVS5U&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                         | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gsuac?playlist=x9h6d2)                                                   | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95i3-31-chapter9-permutations-and-combinations-module1-basic-theoretical-knowled.html) |                                                                                                |

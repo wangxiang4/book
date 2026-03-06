@@ -2,6 +2,8 @@
 title: Chapter6 Plane Geometry – Module2 Triangles (Part2)
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sf9bIkN-UaE?si=ZPmN3xZoAVFlHPIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 5.Basic Area Formulas
 
 ### $\textcolor{#1E3A5F}{\fbox{1}}\: \small S=\frac{1}{2}ah$, where $\small h$ is the altitude to side $\small a$
@@ -547,9 +549,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                       | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=sf9bIkN-UaE&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gsuaa?playlist=x9h6d2)                           | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95gh-24-chapter6-plane-geometry-module2-triangles-middle.html) |                                                                                                |

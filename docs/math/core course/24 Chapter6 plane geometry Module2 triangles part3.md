@@ -2,6 +2,8 @@
 title: Chapter6 Plane Geometry – Module2 Triangles (Part3)
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N06rtVZbOeo?si=IJ6uelZyaFC7AaPT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 14.Right Triangle
 - It can be determined by __using the Pythagorean theorem $\boldsymbol{a^2+b^2=c^2}$__ or by __having one angle equal to $\boldsymbol{90^\circ}$__.
 
@@ -554,9 +556,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                       | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=N06rtVZbOeo&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s) | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gsua6?playlist=x9h6d2)                           | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95gn-25-chapter6-plane-geometry-module2-triangles-lower.html)  |                                                                                                |

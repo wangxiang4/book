@@ -2,6 +2,8 @@
 title: Chapter7 Analytic Geometry – Module1 Cartesian Coordinate System, Module2 Straight Lines (Part1)
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RgN-VMM4lXA?si=pEf12co8KB_4V1z_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Module 7–01 Cartesian Coordinate System
 
 ## 1.Quadrant Positions of Coordinates
@@ -875,9 +877,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                                               | Materials                                                                                      |
-|-------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=RgN-VMM4lXA&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)                         | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gsuhu?playlist=x9h6d2)                                                   | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95h9-27-chapter7-resolve-geometry-module1-rectangular-coordinate-system-module2-.html) |                                                                                                |

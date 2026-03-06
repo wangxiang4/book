@@ -2,6 +2,8 @@
 title: Chapter2 Word Problems – Module3 Distance Problems (Part1)
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BikwozG_oh4?si=nLQiqOsXhywiV_Ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Module 2-03 Distance Problems
 
 ## 1.Straight-Line Distance
@@ -613,9 +615,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                            | Materials                                                                                      |
-|-------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=BikwozG_oh4&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)      | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gcnak?playlist=x9h6d2)                                | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s954z-8-chapter2-word-problems-module3-distance-problems-upper.html) |                                                                                                |

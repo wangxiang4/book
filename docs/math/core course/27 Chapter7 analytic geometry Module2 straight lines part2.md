@@ -2,6 +2,8 @@
 title: Chapter7 Analytic Geometry – Module2 Straight Lines (Part2)
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rzjADVpR2JQ?si=CjTdvFrJggpAE4Ch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 9.Positional Relationships Between Two Lines
 
 | Line Relationship | Slope-Intercept Form<br/>$\boldsymbol{l_1:\;y=k_1x+b_1}$<br/>$\boldsymbol{l_2:\;y=k_2x+b_2}$ |     General Form<br/>$\boldsymbol{l_1:\;a_1x+b_1y+c_1=0}$<br/>$\boldsymbol{l_2:\;a_2x+b_2y+c_2=0}$     |
@@ -668,9 +670,3 @@ $
 
   :::
 ---
-
-| Platform    | Lesson                                                                                            | Materials                                                                                      |
-|-------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| YouTube     | [Watch](https://www.youtube.com/watch?v=rzjADVpR2JQ&list=PLm0MFkgiW1JgKq1kku2WxmrElFbDl7p_s)      | [Core courseware](../../public/math/core%20course/pdf/core%20courseware.pdf)                   |
-| Dailymotion | [Watch](https://www.dailymotion.com/video/x9gsuak?playlist=x9h6d2)                                | [Core courseware answers](../../public/math/core%20course/pdf/core%20courseware%20answers.pdf) |
-| Rumble      | [Watch](https://rumble.com/v6s95hb-28-chapter7-resolve-geometry-module2-straight-line-lower.html) |                                                                                                |
