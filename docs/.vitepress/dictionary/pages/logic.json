@@ -7,5 +7,14 @@
         "link": "/1 Concepts"
       }
     ]
+  },
+  "Previous": {
+    "text": "Previous",
+    "children": [
+      {
+        "text": "Concepts",
+        "link": "/1 Concepts"
+      }
+    ]
   }
 }
