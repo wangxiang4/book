@@ -1,0 +1,6 @@
+---
+title: Categorical Judgments
+---
+
+- Materials
+  - 

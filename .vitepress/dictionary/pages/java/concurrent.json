@@ -1,6 +1,5 @@
 {
   "concurrent": {
-    "text": "",
     "children": [
       {
         "text": "线程本质与线程模型",

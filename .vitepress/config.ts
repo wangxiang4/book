@@ -12,16 +12,6 @@ import mdContainer from 'markdown-it-container'
 export default {
   base: "/",
   title: 'philosophy',
-  head: [
-    [
-      'link',
-      {
-        rel: 'icon',
-        href: '/images/book.png',
-        type: 'image/svg+xm',
-      }
-    ]
-  ],
   themeConfig: {
     sidebars,
     nav
