@@ -1,11 +1,11 @@
 {
   "name": "book",
   "packageManager": "pnpm@8.15.9",
-  "description": "The core fundamental skills of Philosophy",
+  "description": "philosophy",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "NODE_ENV=production && vitepress build docs",
-    "docs:serve": "NODE_ENV=production vitepress serve docs --port 5001"
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "serve": "vitepress serve --port 5001"
   },
   "author": "wangxiang4",
   "dependencies": {

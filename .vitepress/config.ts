@@ -11,8 +11,7 @@ import mdContainer from 'markdown-it-container'
 
 export default {
   base: "/",
-  title: 'Philosophy',
-  description: 'The core fundamental skills of Philosophy',
+  title: 'philosophy',
   head: [
     [
       'link',
@@ -21,13 +20,6 @@ export default {
         href: '/images/book.png',
         type: 'image/svg+xm',
       }
-    ],
-    [
-      'meta',
-      {
-        name: 'theme-color',
-        content: '#F6F6F6',
-      },
     ]
   ],
   themeConfig: {

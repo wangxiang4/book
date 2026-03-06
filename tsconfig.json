@@ -24,14 +24,14 @@
     "typeRoots": ["./node_modules/@types/"],
     "removeComments": true,
     "paths": {
-      "~/*": ["./docs/.vitepress/vitepress/*"]
+      "~/*": ["./.vitepress/vitepress/*"]
     },
   },
   "include": [
-    "docs/**/*.ts",
-    "docs/**/*.d.ts",
-    "docs/**/*.tsx",
-    "docs/**/*.vue",
+    "**/*.ts",
+    "**/*.d.ts",
+    "**/*.tsx",
+    "**/*.vue",
   ],
   "exclude": ["node_modules", "**/dist", "**/*.js"]
 }
