@@ -20,9 +20,9 @@
     "activeMatch": "en"
   },
   {
-    "text": "Resources",
-    "link": "/resources/1 Todo",
-    "activeMatch": "resources"
+    "text": "Materials",
+    "link": "/materials/1 Practice",
+    "activeMatch": "materials"
   },
   {
     "text": "Concurrent",
@@ -31,7 +31,7 @@
   },
   {
     "text": "Spring",
-    "link": "/spring/1 xml解析",
+    "link": "/spring/1 BeanDefinition与默认标签 自定义标签解析",
     "activeMatch": "spring"
   }
 ]

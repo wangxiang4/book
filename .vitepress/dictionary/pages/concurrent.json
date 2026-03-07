@@ -4,6 +4,72 @@
       {
         "text": "线程本质与线程模型",
         "link": "/1 线程本质与线程模型"
+      },
+      {
+        "text": "锁源语内核态用户态",
+        "link": "/2 锁源语内核态用户态"
+      },
+      {
+        "text": "synchronized对象头",
+        "link": "/3 synchronized对象头"
+      },
+      {
+        "text": "ReentrantLock公平与非公平",
+        "link": "/4 ReentrantLock公平与非公平"
+      },
+      {
+        "text": "synchronized偏向锁膨胀 (Part1)",
+        "link": "/5 synchronized偏向锁膨胀 Part1"
+      },
+      {
+        "text": "synchronized偏向锁膨胀 (Part2)",
+        "link": "/6 synchronized偏向锁膨胀 Part2"
+      },
+      {
+        "text": "synchronized偏向锁膨胀 (Part3)",
+        "link": "/7 synchronized偏向锁膨胀 Part3"
+      },
+      {
+        "text": "synchronized用法",
+        "link": "/8 synchronized用法"
+      },{
+        "text": "ReentrantLock用法",
+        "link": "/9 ReentrantLock用法"
+      },{
+        "text": "ReentrantLock加锁",
+        "link": "/10 ReentrantLock加锁"
+      },
+      {
+        "text": "ReentrantLock解锁",
+        "link": "/11 ReentrantLock解锁"
+      },
+      {
+        "text": "ReentrantReadWriteLock加锁解锁",
+        "link": "/12 ReentrantReadWriteLock加锁解锁"
+      },
+      {
+        "text": "Semaphore加锁解锁",
+        "link": "/13 Semaphore加锁解锁"
+      },
+      {
+        "text": "创建简单线程池",
+        "link": "/14 创建简单线程池"
+      },
+      {
+        "text": "ThreadPoolExecutor用法",
+        "link": "/15 ThreadPoolExecutor用法"
+      },
+      {
+        "text": "ThreadPoolExecutor执行流程",
+        "link": "/16 ThreadPoolExecutor执行流程"
+      },
+      {
+        "text": "Happens-Before关系",
+        "link": "/17 Happens-Before关系"
+      },
+      {
+        "text": "storeload内存屏障",
+        "link": "/18 storeload内存屏障"
       }
     ]
   }

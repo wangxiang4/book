@@ -2,7 +2,7 @@ import logic from '../dictionary/pages/logic.json'
 import math from '../dictionary/pages/math.json'
 import en from '../dictionary/pages/en.json'
 import writing from '../dictionary/pages/writing.json'
-import resources from '../dictionary/pages/resources.json'
+import materials from '../dictionary/pages/materials.json'
 import concurrent from '../dictionary/pages/concurrent.json'
 import spring from '../dictionary/pages/spring.json'
 
@@ -23,8 +23,8 @@ function getWritingSideBar() {
   return Object.values(writing).map((item) => mapPrefix(item, '/writing'))
 }
 
-function getResourcesSideBar() {
-  return Object.values(resources).map((item) => mapPrefix(item, '/resources'))
+function getMaterialsSideBar() {
+  return Object.values(materials).map((item) => mapPrefix(item, '/materials'))
 }
 
 function getConcurrentSideBar() {
@@ -41,7 +41,7 @@ const getSidebars = () => {
     'math': getMathSideBar(),
     'en': getEnSideBar(),
     'writing': getWritingSideBar(),
-    'resources': getResourcesSideBar(),
+    'materials': getMaterialsSideBar(),
     'concurrent': getConcurrentSideBar(),
     'spring': getSpringSideBar(),
   }

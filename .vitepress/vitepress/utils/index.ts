@@ -51,10 +51,8 @@ export const throttleAndDebounce = (fn: () => any, delay: number) => {
 export const isActiveLink = (
   route: Route,
   pathPattern: string,
-) => {
-  const regex = new RegExp(pathPattern)
-  return regex.test(normalize(`/${route.data.relativePath}`))
-}
+) => route.data.relativePath.startsWith(pathPattern)
+
 
 /**
  * Render content by replacing formulas, icons, or custom markers

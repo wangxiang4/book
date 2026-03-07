@@ -30,6 +30,6 @@ watch(
 <template>
   <main :class="{ 'page-content': true, 'has-sidebar': hasSidebar }">
     <VPNotFound v-if="isNotFound" />
-    <VPDocContent />
+    <VPDocContent v-else/>
   </main>
 </template>

@@ -1,0 +1,53 @@
+---
+title: Practice
+---
+
+- Math
+  - [综合真题](../public/materials/practice/math/1%20%E7%BB%BC%E5%90%88%E7%9C%9F%E9%A2%98.pdf)
+  - [综合真题解答](../public/materials/practice/math/2%20%E7%BB%BC%E5%90%88%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+  - [练习题](../public/materials/practice/math/3%20%E7%BB%83%E4%B9%A0%E9%A2%98.pdf)
+  - [练习题解答](../public/materials/practice/math/4%20%E7%BB%83%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+- Logic
+  - [综合真题](../public/materials/practice/logic/1%20%E7%BB%BC%E5%90%88%E7%9C%9F%E9%A2%98.pdf)
+  - [综合真题解答](../public/materials/practice/logic/2%20%E7%BB%BC%E5%90%88%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+  - [练习题 (Part2)](../public/materials/practice/logic/3%20%E7%BB%83%E4%B9%A0%E9%A2%98%20Part2.pdf)
+  - [练习题解答 (Part2)](../public/materials/practice/logic/4%20%E7%BB%83%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94%20Part2.pdf)
+  - [练习题 (Part1)](../public/materials/practice/logic/5%20%E7%BB%83%E4%B9%A0%E9%A2%98%20Part1.pdf)
+  - [练习题解答 (Part1)](../public/materials/practice/logic/6%20%E7%BB%83%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94%20Part1.pdf)
+- Past Exams
+  - [管综答题卡](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC%E7%AD%94%E9%A2%98%E5%8D%A1.pdf)
+  - [英语二答题卡](../public/materials/practice/past%20exams/%E8%8B%B1%E8%AF%AD%E4%BA%8C%E7%AD%94%E9%A2%98%E5%8D%A1.pdf)
+  - 英语二
+    - [考卷 – 2025真题](../public/materials/practice/past%20exams/%E8%8B%B1%E8%AF%AD%E4%BA%8C/1%20%E8%80%83%E5%8D%B7%20%E2%80%93%202025%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2025真题解答](../public/materials/practice/past%20exams/%E8%8B%B1%E8%AF%AD%E4%BA%8C/2%20%E8%80%83%E5%8D%B7%20%E2%80%93%202025%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2010-2024真题](../public/materials/practice/past%20exams/%E8%8B%B1%E8%AF%AD%E4%BA%8C/3%20%E8%80%83%E5%8D%B7%20%E2%80%93%202010-2024%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2010-2024真题解答](../public/materials/practice/past%20exams/%E8%8B%B1%E8%AF%AD%E4%BA%8C/4%20%E8%80%83%E5%8D%B7%20%E2%80%93%202010-2024%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+  - 管综
+    - [考卷 – 2025真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/1%20%E8%80%83%E5%8D%B7%20%E2%80%93%202025%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2025真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/2%20%E8%80%83%E5%8D%B7%20%E2%80%93%202025%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2024真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/3%20%E8%80%83%E5%8D%B7%20%E2%80%93%202024%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2024真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/4%20%E8%80%83%E5%8D%B7%20%E2%80%93%202024%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2023真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/5%20%E8%80%83%E5%8D%B7%20%E2%80%93%202023%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2023真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/6%20%E8%80%83%E5%8D%B7%20%E2%80%93%202023%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2022真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/7%20%E8%80%83%E5%8D%B7%20%E2%80%93%202022%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2022真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/8%20%E8%80%83%E5%8D%B7%20%E2%80%93%202022%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2021真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/9%20%E8%80%83%E5%8D%B7%20%E2%80%93%202021%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2021真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/10%20%E8%80%83%E5%8D%B7%20%E2%80%93%202021%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2020真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/11%20%E8%80%83%E5%8D%B7%20%E2%80%93%202020%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2020真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/12%20%E8%80%83%E5%8D%B7%20%E2%80%93%202020%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2019真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/13%20%E8%80%83%E5%8D%B7%20%E2%80%93%202019%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2019真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/14%20%E8%80%83%E5%8D%B7%20%E2%80%93%202019%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2018真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/15%20%E8%80%83%E5%8D%B7%20%E2%80%93%202018%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2018真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/16%20%E8%80%83%E5%8D%B7%20%E2%80%93%202018%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2017真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/17%20%E8%80%83%E5%8D%B7%20%E2%80%93%202017%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2017真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/18%20%E8%80%83%E5%8D%B7%20%E2%80%93%202017%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2016真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/19%20%E8%80%83%E5%8D%B7%20%E2%80%93%202016%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2016真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/20%20%E8%80%83%E5%8D%B7%20%E2%80%93%202016%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2015真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/21%20%E8%80%83%E5%8D%B7%20%E2%80%93%202015%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2015真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/22%20%E8%80%83%E5%8D%B7%20%E2%80%93%202015%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2014真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/23%20%E8%80%83%E5%8D%B7%20%E2%80%93%202014%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2014真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/24%20%E8%80%83%E5%8D%B7%20%E2%80%93%202014%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2013真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/25%20%E8%80%83%E5%8D%B7%20%E2%80%93%202013%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2013真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/26%20%E8%80%83%E5%8D%B7%20%E2%80%93%202013%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
+    - [考卷 – 2012真题](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/27%20%E8%80%83%E5%8D%B7%20%E2%80%93%202012%E7%9C%9F%E9%A2%98.pdf)
+    - [考卷 – 2012真题解答](../public/materials/practice/past%20exams/%E7%AE%A1%E7%BB%BC/28%20%E8%80%83%E5%8D%B7%20%E2%80%93%202012%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
