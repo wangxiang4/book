@@ -1,33 +1,43 @@
 <script lang="ts" setup>
-import {useRoute, useRouter} from 'vitepress';
+import { computed, ref, watch } from 'vue'
+import { useRoute, useRouter } from 'vitepress';
 import { isActive } from '../../utils'
 
 import type { Link } from '../../types'
 
-defineProps<{
+const props = defineProps<{
   item: Link
 }>()
+const sidebarItem = ref<HTMLElement>()
 
 const emitEvent = defineEmits(['close'])
-
+const router = useRouter()
 const route = useRoute()
 
-// todo tempe treat
-const router = useRouter()
-function handleLink(link: string) {
-  router.go(link)
-  emitEvent('close')
-}
+const activeLink = computed<boolean>(() =>
+  isActive(route, props.item.link)
+)
+
+
+watch([activeLink, sidebarItem], ([active, el]) => {
+  if (active && el) {
+    el.scrollIntoView?.({ block: 'nearest' })
+  }
+})
 </script>
 
 <template>
   <button
+    ref="sidebarItem"
     :class="{
       link: true,
-      active: isActive(route, item.link),
+      active: activeLink,
     }"
     :data-path="item.link"
-    @click="handleLink(item.link)"
+    @click="()=>{
+      router.go(item.link)
+      emitEvent('close')
+    }"
   >
     <p class="link-text">{{ item.text }}</p>
   </button>
@@ -85,6 +95,5 @@ button:focus {
   font-size: 13px;
   font-weight: 500;
   color: var(--text-color-light);
-  transition: color 0.5s;
 }
 </style>

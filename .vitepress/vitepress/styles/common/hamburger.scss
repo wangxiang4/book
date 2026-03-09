@@ -4,10 +4,9 @@
   width: 20px;
   display: flex;
   flex-direction: column;
-  cursor: pointer;
   justify-content: center;
-  height: var(--nav-height);
-  margin: 0 14px;
+  cursor: pointer;
+  height: var(--header-height);
 
   > span {
     background-color: var(--text-color);

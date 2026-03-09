@@ -1,4 +1,3 @@
-// SCSS variables
 // breakpoints
 $breakpoint-max: 1680px !default;
 $breakpoint-xxl: 1440px !default;
@@ -9,9 +8,4 @@ $breakpoint-sm: 480px !default;
 
 // Unique ui requirements
 // For use in situations that do not fall into the standard screen category
-$breakpoint-u-749: 749px !default;
-$breakpoint-u-420: 420px !default;
 $breakpoint-u-825: 825px !default;
-
-// scrollbar width
-$scrollbar-size: 6px;

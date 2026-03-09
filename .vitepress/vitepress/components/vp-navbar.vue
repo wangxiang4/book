@@ -1,19 +1,15 @@
 <script setup lang="ts">
-import { useData } from 'vitepress'
+  import VPNavbarMenu from './navbar/vp-menu.vue'
+  import VPNavbarThemeToggler from './navbar/vp-theme-toggler.vue'
+  import VPNavbarSocialLinks from './navbar/vp-social-links.vue'
+  import VPNavbarHamburger from './navbar/vp-hamburger.vue'
+  import vpNavMenuExtension from './navbar/vp-menu-extension.vue'
 
-import VPNavbarMenu from './navbar/vp-menu.vue'
-import VPNavbarThemeToggler from './navbar/vp-theme-toggler.vue'
-import VPNavbarSocialLinks from './navbar/vp-social-links.vue'
-import VPNavbarHamburger from './navbar/vp-hamburger.vue'
-import vpNavMenuExtension from './navbar/vp-menu-extension.vue'
+  defineProps<{
+    fullScreen: boolean
+  }>()
 
-const { theme } = useData()
-
-defineProps<{
-  fullScreen: boolean
-}>()
-
-defineEmits(['toggle'])
+  defineEmits(['toggle'])
 </script>
 
 <template>
@@ -21,14 +17,12 @@ defineEmits(['toggle'])
     <div class="header-container">
       <div class="content">
         <VPNavbarMenu class="menu" />
+        <VPNavbarHamburger :active="fullScreen" @click="$emit('toggle')" />
+      </div>
+      <div class="content">
         <vpNavMenuExtension class="menu-extension" />
         <VPNavbarThemeToggler class="theme-toggler" />
         <VPNavbarSocialLinks class="social-links" />
-        <VPNavbarHamburger
-            :active="fullScreen"
-            class="hamburger"
-            @click="$emit('toggle')"
-        />
       </div>
     </div>
   </div>

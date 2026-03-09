@@ -1,9 +1,6 @@
 @use './mixins' as *;
 // css variables
 :root {
-  // layouts
-  --vp-screen-max-width: 1376px;
-
   // colors
   --text-color: var(--el-text-color-primary);
   --text-color-light: var(--el-text-color-regular);
@@ -20,33 +17,26 @@
   --font-family-mono: 'JetBrains Mono', source-code-pro, Menlo, Monaco, Consolas,
     'Courier New', monospace;
 
-  // header vars
+  // header
   --header-height: 55px;
-  --nav-height: 55px; // alias of --header-height
 
-  // toc vars
-  --toc-height: calc(var(--header-height) + 32px);
+  // sidebar
+  --vp-sidebar-width-small: 320px;
 
-  @include up-from('xxl') {
-    --vp-screen-max-width: 1362px;
-    --vp-sidebar-width-small: 234px;
+  @include up-from('lg') {
+    --vp-sidebar-width-small: 294px;
   }
 
   @include up-from('max') {
-    --vp-screen-max-width: 1482px;
-    --vp-sidebar-width-small: 290px;
+    --vp-sidebar-width-small: 426px;
   }
 
-  // sidebar
-  --vp-sidebar-width-mobile: 320px;
-  --vp-sidebar-width-small: 266px;
+  // scrollbar
+  --scrollbar-size: 6px;
 
-  --sidebar-width-sm: 16rem;
-  --sidebar-width-xs: 20rem;
-
-  --nav-z-index: 20;
-  --sub-nav-z-index: 10;
-  --sidebar-z-index: 40;
+  --nav-z-index: 12;
+  --sidebar-z-index: 11;
+  --sidebar-z-index-mobile: 31;
   --overlay-z-index: 30;
 
   // link

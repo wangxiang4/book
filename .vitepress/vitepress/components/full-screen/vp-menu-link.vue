@@ -1,39 +1,54 @@
 <script lang="ts" setup>
-import VPLink from '../common/vp-link.vue'
+  import type { Link } from '../../types'
+  import { isActiveLink } from '~/utils';
+  import { useRoute, useRouter } from 'vitepress';
 
-import type { Link } from '../../types'
+  defineProps<{
+    item: Link
+  }>()
 
-defineProps<{
-  item: Link
-}>()
+  const route = useRoute()
+  const router = useRouter()
 </script>
 
 <template>
-  <VPLink
+  <div
     :class="{
-      'is-menu-link': true,
+      'full-screen-menu__item': true,
+      active: isActiveLink(
+        route,
+        item.activeMatch
+      )
     }"
-    :href="item.link"
+    @click="router.go(item.link)"
   >
-    {{ item.text }}
-  </VPLink>
+    <p class="title">{{ item.text }}</p>
+  </div>
 </template>
 
 <style scoped lang="scss">
-.is-menu-link {
-  display: block;
-  font-size: 13px;
+@use '../../styles/mixins' as *;
+
+.full-screen-menu__item {
+  @include with-border;
+  font-size: 14px;
   font-weight: 500;
   line-height: 24px;
+  padding: 12px 0;
   color: var(--text-color);
-  transition: color var(--el-transition-duration);
+
+  .title {
+    padding-left: 14px;
+  }
 
   &.active {
-    border-bottom: 2px solid var(--brand-color);
+    color: var(--brand-color);
+    border-bottom: 1.5px solid var(--brand-color);
   }
 
   &:hover {
     color: var(--brand-color);
+    border-bottom: 1.5px solid var(--brand-color);
   }
 }
 </style>

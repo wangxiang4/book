@@ -29,7 +29,6 @@ body {
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  transition: background-color var(--el-transition-duration-fast);
 }
 
 main {
@@ -179,7 +178,7 @@ li > ol {
   margin: 0;
 }
 
-.doc-content > div .vp-table {
+.page-content > div .vp-table {
   overflow-y: hidden;
   overflow-x: auto;
   margin-bottom: 45px;
@@ -261,6 +260,5 @@ blockquote > p {
 
 .lazyloaded {
   opacity: 1;
-  transition: opacity 300ms,
-              transform .3s cubic-bezier(.2,0,.2,1) !important;
+  transition: opacity 300ms;
 }

@@ -30,8 +30,6 @@ export default defineConfig({
   },
 
   build: {
-    // Turning off the brotliSize display can slightly deduce packaging time
-    brotliSize: false,
     // Set the block size warning limit prompt
     chunkSizeWarningLimit: 8000,
   },

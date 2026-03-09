@@ -31,11 +31,10 @@ const route = useRoute()
 .is-menu-link {
   display: block;
   padding: 0 12px;
-  line-height: calc(var(--nav-height) - 3px);
+  line-height: calc(var(--header-height) - 3px);
   font-size: 14px;
   font-weight: 500;
   color: var(--text-color);
-  transition: color var(--el-transition-duration);
   border-bottom: 2px solid transparent;
 
   &.active {

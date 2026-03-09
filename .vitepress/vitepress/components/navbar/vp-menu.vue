@@ -4,7 +4,7 @@ import VPMenuLink from './vp-menu-link.vue'
 import { Link } from '~/types';
 
 const navs = useNav()
-const mainMenus: Link[] = navs.value.slice(0, 5)
+const mainMenus: Link[] = navs.value.slice(0, 3)
 
 </script>
 

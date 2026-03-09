@@ -8,6 +8,7 @@ import mathjax from './plugins/mathjax'
 import { ariaHidden } from './plugins/permalink';
 import createWrapperContainer from './plugins/wrapper'
 import mdContainer from 'markdown-it-container'
+import headers from './plugins/headers'
 
 export default {
   base: "/",
@@ -20,6 +21,7 @@ export default {
     config: (md) => {
       md.use(tableWrapper)
       md.use(mathjax)
+      md.use(headers)
       md.use(mdContainer, 'wrap', createWrapperContainer(md))
       imagePlugin(md, {
         lazyLoading: true,

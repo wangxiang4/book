@@ -1,8 +1,11 @@
 <script setup lang="ts">
-import dict from "../../dictionary/pages/not-found.json"
-const goHome = () => {
-  window.location.href = `/`
-}
+  import dict from "../../dictionary/pages/not-found.json"
+  import { isClient } from '@vueuse/core'
+
+  const goHome = () => {
+    if (!isClient) return
+    window.location.href = `/`
+  }
 </script>
 
 <template>
@@ -12,10 +15,3 @@ const goHome = () => {
     </template>
   </ElResult>
 </template>
-
-<style lang="scss" scoped>
-.el-result {
-  height: 50vh;
-  width: 100vw;
-}
-</style>

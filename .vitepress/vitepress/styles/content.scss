@@ -1,21 +1,14 @@
 @use './mixins' as *;
 @use './vars' as *;
-@use './content/doc-content';
 
 .page-content {
+  padding: 48px 32px;
   @include up-from('lg') {
-    padding-top: var(--nav-height);
-
     &.has-sidebar {
-      padding-left: calc(var(--sidebar-width-sm) + 10px);
+      padding-left: var(--vp-sidebar-width-small);
+
       @include up-from('xlg') {
-        padding-left: calc(var(--vp-sidebar-width-small) - $scrollbar-size);
-      }
-      @include up-from('xxl') {
-        padding-left: calc(
-          (100% - var(--vp-screen-max-width)) / 2 +
-            var(--vp-sidebar-width-small)
-        );
+        padding-right: var(--vp-sidebar-width-small);
       }
     }
   }

@@ -1,47 +1,33 @@
 @use './mixins' as *;
-
-// import components
-
 @use './nav/menu';
 
-.navbar-wrapper {
-  position: relative;
-  border-bottom: 1px solid var(--border-color);
-  height: var(--header-height);
-  padding: 0 12px 0 16px;
-  background-image: radial-gradient(transparent 1px, var(--bg-color) 1px);
-  background-size: 4px 4px;
-  backdrop-filter: saturate(50%) blur(4px);
-  -webkit-backdrop-filter: saturate(50%) blur(4px);
-  top: 0;
+.navbar {
+  z-index: var(--nav-z-index);
 
-  @include up-from('md') {
-    padding: 0 12px 0 24px;
+  @include up-from('lg') {
+    position: sticky;
+    top: 0;
   }
+}
 
-  @include up-from('xlg') {
-    padding: 0 32px;
+.navbar-wrapper {
+  @include with-border;
+  height: var(--header-height);
+  padding: 0 32px;
+  backdrop-filter: saturate(80%) blur(4px);
+  -webkit-backdrop-filter: saturate(80%) blur(4px);
+
+  @include up-from('max') {
+    padding: 0 96px;
   }
 
   .header-container {
     display: flex;
     justify-content: space-between;
-    margin: 0 auto;
 
     .content {
       display: flex;
-      justify-content: flex-end;
       align-items: center;
-      flex-grow: 1;
-    }
-
-    @include up-from('xxl') {
-      max-width: calc(var(--vp-screen-max-width));
-    }
-
-    @include up-from('max') {
-      // 36 = 2 * 18 for each side.
-      max-width: calc(var(--vp-screen-max-width));
     }
   }
 
@@ -52,14 +38,4 @@
   }
 }
 
-.navbar {
-  top: 0;
-  left: 0;
-  position: relative;
-  z-index: var(--nav-z-index);
 
-  @include up-from('lg') {
-    position: sticky;
-    width: 100%;
-  }
-}

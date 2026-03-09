@@ -1,5 +1,4 @@
 <script setup lang="ts">
-  import nprogress from 'nprogress'
   import { useToggle } from '@vueuse/core'
   import { useSidebar } from '../composables/sidebar'
   import { useToggleWidgets } from '../composables/toggle-widgets'
@@ -12,6 +11,7 @@
   import { onMounted, watch } from 'vue'
   import { initImageZoom } from '~/utils'
   import { useRoute } from 'vitepress'
+  import VPTocSidebar from './vp-toc-sidebar.vue';
 
   const [isSidebarOpen, toggleSidebar] = useToggle(false)
   const { hasSidebar } = useSidebar()
@@ -22,63 +22,16 @@
       toggleSidebar(false)
     }
   })
-
   watch(
     () => route.path,
     () => initImageZoom()
   )
-
-  onMounted(async () => {
-    initImageZoom()
-    window.addEventListener(
-      'click',
-      (e) => {
-
-        // todo tempe teat
-        const buttonLink = (e.target as HTMLElement).closest('button[data-path]')
-        if (buttonLink) {
-          const path = buttonLink?.dataset?.path
-          e.preventDefault()
-          if (!e.ctrlKey &&
-              !e.shiftKey &&
-              !e.altKey &&
-              !e.metaKey &&
-              path !== window.location.pathname) {
-            nprogress.start()
-          }
-        }
-
-        const link = (e.target as HTMLElement).closest('a')
-        if (!link) return
-
-        const { protocol, hostname, pathname, target } = link
-        const currentUrl = window.location
-        const extMatch = pathname?.match(/\.\w+$/)
-        // only intercept inbound links
-        if (
-          !e.ctrlKey &&
-          !e.shiftKey &&
-          !e.altKey &&
-          !e.metaKey &&
-          target !== `_blank` &&
-          protocol === currentUrl.protocol &&
-          hostname === currentUrl.hostname &&
-          !(extMatch && extMatch[0] !== '.html')
-        ) {
-          e.preventDefault()
-          if (pathname !== currentUrl.pathname) {
-            nprogress.start()
-          }
-        }
-      },
-      { capture: true }
-    )
-  })
+  onMounted(() => initImageZoom())
 </script>
 
 <template>
   <div class="App">
-    <VPOverlay class="overlay" :show="isSidebarOpen" @click="toggleSidebar(false)" />
+    <VPOverlay :show="isSidebarOpen" @click="toggleSidebar(false)" />
     <VPNav />
     <VPSubNav v-if="hasSidebar" @open-menu="toggleSidebar(true)" />
     <VPSidebar :open="isSidebarOpen" @close="toggleSidebar(false)">
@@ -86,7 +39,7 @@
         <slot name="sidebar-bottom" />
       </template>
     </VPSidebar>
-    <VPContent :is-sidebar-open="isSidebarOpen"/>
-    <Debug />
+    <VPContent/>
+    <VPTocSidebar />
   </div>
 </template>

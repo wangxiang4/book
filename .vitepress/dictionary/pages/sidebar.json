@@ -20,11 +20,6 @@
     "activeMatch": "en"
   },
   {
-    "text": "Materials",
-    "link": "/materials/1 Practice",
-    "activeMatch": "materials"
-  },
-  {
     "text": "Concurrent",
     "link": "/concurrent/1 线程本质与线程模型",
     "activeMatch": "concurrent"
@@ -33,6 +28,11 @@
     "text": "Spring",
     "link": "/spring/1 BeanDefinition与默认标签 自定义标签解析",
     "activeMatch": "spring"
+  },
+  {
+  "text": "Materials",
+  "link": "/materials/1 Practice",
+  "activeMatch": "materials"
   }
 ]
 

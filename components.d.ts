@@ -32,7 +32,9 @@ declare module '@vue/runtime-core' {
     VpSocialLinks: typeof import('./.vitepress/vitepress/components/navbar/vp-social-links.vue')['default']
     VpSubnav: typeof import('./.vitepress/vitepress/components/vp-subnav.vue')['default']
     VpTableOfContent: typeof import('./.vitepress/vitepress/components/doc-content/vp-table-of-content.vue')['default']
+    VpTableOfContentSidebar: typeof import('./.vitepress/vitepress/components/vp-table-of-content-sidebar.vue')['default']
     VpThemeToggler: typeof import('./.vitepress/vitepress/components/navbar/vp-theme-toggler.vue')['default']
+    VpTocSidebar: typeof import('./.vitepress/vitepress/components/vp-toc-sidebar.vue')['default']
   }
 }
 

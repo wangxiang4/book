@@ -1,32 +1,14 @@
 <script lang="ts" setup>
-import { useSidebar } from '../composables/sidebar'
-import VPSidebarLink from './sidebar/vp-sidebar-link.vue'
-import { onMounted, ref } from 'vue'
+  import { useSidebar } from '../composables/sidebar'
+  import VPSidebarLink from './sidebar/vp-sidebar-link.vue'
 
-defineProps<{ open: boolean }>()
-defineEmits(['close'])
-
-const { sidebars, hasSidebar } = useSidebar()
-const scrollbar = ref()
-
-onMounted(()=> {
-  autoScrollToActiveMenu()
-})
-
-function autoScrollToActiveMenu() {
-  const scrollContainer = document.querySelector(".el-scrollbar__wrap")
-  const activeLink = document.querySelector(".el-scrollbar .link.active")
-  if (scrollContainer && activeLink) {
-    // Calculate the offset of the target element relative to the scroll container
-    const targetPosition = activeLink.offsetTop - scrollContainer.offsetTop - 250
-    scrollbar.value.scrollTo({ top: targetPosition })
-  }
-}
-
+  defineProps<{ open: boolean }>()
+  defineEmits(['close'])
+  const { sidebars, hasSidebar } = useSidebar()
 </script>
 
 <template>
-  <ElScrollbar ref="scrollbar" v-if="hasSidebar" :class="{ sidebar: true, open }">
+  <ElScrollbar v-if="hasSidebar" :class="{ sidebar: true, open }">
     <aside>
       <slot name="top" />
       <div class="sidebar-groups">

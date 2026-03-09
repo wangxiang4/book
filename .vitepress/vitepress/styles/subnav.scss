@@ -5,29 +5,32 @@
   @include with-bg;
   position: sticky;
   top: 0;
-  left: 0;
   width: 100%;
   display: flex;
   padding: 0 32px;
   justify-content: space-between;
-  z-index: var(--sub-nav-z-index);
+  z-index: var(--nav-z-index);
   overflow: hidden;
 
-  @include down-to('md') {
-    padding: 0 24px;
-  }
-
-  .go-back-top {
-    transform: translateY(100%);
-    opacity: 0;
-
-    &.show {
-      transform: translateY(0);
-      opacity: 1;
-    }
-  }
-
   @include up-from('lg') {
-    display: none !important;
+    display: none;
   }
+
+  .shifting-enter-from,
+  .shifting-leave-to {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+
+  .shifting-enter-to,
+  .shifting-leave-from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .shifting-enter-active,
+  .shifting-leave-active {
+    transition: all 0.3s ease;
+  }
+
 }

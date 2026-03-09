@@ -7,7 +7,7 @@ import { Link } from '~/types';
 const route = useRoute()
 const navs = useNav()
 const router = useRouter()
-const expandMenus: Link[] = navs.value.slice(5)
+const expandMenus: Link[] = navs.value.slice(3)
 </script>
 
 <template>
@@ -56,7 +56,6 @@ const expandMenus: Link[] = navs.value.slice(5)
 
   padding: 7px 0;
   min-width: 192px;
-  transition: background-color 0.5s;
 
   .el-popper__arrow {
     display: none;

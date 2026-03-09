@@ -1,12 +1,10 @@
 @use 'sass:map';
-
 @use './vars' as *;
 
 @mixin with-bg {
-  background-color: var(--bg-color);
   color: var(--text-color);
-  transition: border-color var(--el-transition-duration),
-    background-color var(--el-transition-duration-fast);
+  background-color: var(--bg-color);
+  transition: transform 0.5s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
 @mixin with-border {
@@ -20,7 +18,6 @@ $breakpoints: (
   'xlg': #{$breakpoint-xlg},
   'xxl': #{$breakpoint-xxl},
   'max': #{$breakpoint-max},
-  'p-420': #{$breakpoint-u-420},
   'p-825': #{$breakpoint-u-825},
 ) !default;
 

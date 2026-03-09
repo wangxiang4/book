@@ -1,26 +1,14 @@
 <script setup lang="ts">
-  import { watch } from 'vue'
+  import { useLockScreen } from '~/composables/lock-scrollbar';
 
-  const props = defineProps<{
+  defineProps<{
     show: boolean
   }>()
-
-  /**
-   * When opening the side on the mobile,
-   * lock the main scrollbar to prevent the main scrollbar from scrolling when scrolling the side.
-   */
-  watch(() => props.show, (val) => {
-      if (val) {
-        document.body.classList.add('overlay-lock-scroll')
-      } else {
-        document.body.classList.remove('overlay-lock-scroll')
-      }
-    }
-  )
+  const { lock, cleanup } = useLockScreen()
 </script>
 
 <template>
-  <Transition name="el-fade-in">
-    <div v-if="show" />
+  <Transition name="el-fade-in" @enter="lock" @after-leave="cleanup">
+    <div v-if="show" class="overlay"/>
   </Transition>
 </template>
