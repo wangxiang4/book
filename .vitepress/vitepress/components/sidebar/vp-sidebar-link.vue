@@ -82,7 +82,8 @@ button:focus {
 }
 
 .link.active {
-  background-color: var(--link-active-bg-color);
+  background-color: var(--bg-color-link-active);
+
   .link-text {
     font-weight: 600;
     color: var(--brand-color);

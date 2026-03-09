@@ -7,53 +7,25 @@
 }
 
 html {
-  line-height: 1.4;
-  font-size: 16px;
-  text-size-adjust: 100%;
   font-family: var(--font-family);
-  font-weight: 400;
-  -webkit-font-smoothing: antialiased;
 }
 
 body {
   margin: 0;
-  width: 100%;
-  min-width: 320px;
-  min-height: 100vh;
+  min-width: 350px;
   line-height: 1.4;
   font-size: 16px;
   font-weight: 400;
   color: var(--text-color);
   background-color: var(--bg-color);
-  direction: ltr;
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-}
-
-main {
-  display: block;
 }
 
 h1,
 h2,
 h3,
 h4,
-h5,
-h6 {
-  margin: 0;
+h5 {
   line-height: 1.25;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-strong,
-b {
-  font-weight: 600;
 }
 
 h1:hover .header-anchor,
@@ -72,31 +44,19 @@ h6:focus .header-anchor {
 }
 
 h1 {
-  margin-top: 1.5rem;
+  margin-top: 2.5rem;
   margin-bottom: 2rem;
-  font-size: 1.9rem;
-}
-
-@include up-from('sm') {
-  h1 {
-    font-size: 2.2rem;
-  }
+  font-size: 2.2rem;
 }
 
 h2 {
-  margin-top: 2.25rem;
-  margin-bottom: 1.25rem;
-  padding-bottom: 0.3rem;
-  line-height: 1.25;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
   font-size: 1.65rem;
 }
 
-h2 + h3 {
-  margin-top: 1.5rem;
-}
-
 h3 {
-  margin-top: 2rem;
+  margin-top: 1.5rem;
   font-size: 1.35rem;
 }
 
@@ -104,11 +64,20 @@ h4 {
   font-size: 1.15rem;
 }
 
-p,
+h6 {
+  margin: 0;
+}
+
 ol,
 ul {
   margin: 1rem 0;
-  line-height: 1.7;
+  line-height: 1.8;
+  padding-left: 1.25em;
+}
+
+li > ul,
+li > ol {
+  margin: 0;
 }
 
 a {
@@ -151,11 +120,6 @@ a.header-anchor {
   margin-left: -1.2em;
   font-size: 0.85em;
   opacity: 0;
-
-  &:hover,
-  :focus {
-    text-decoration: none;
-  }
 }
 
 audio, canvas, embed, iframe, img, object, video {
@@ -163,32 +127,17 @@ audio, canvas, embed, iframe, img, object, video {
   max-width: 100%;
 }
 
-video {
-  display: block;
-  vertical-align: middle;
-}
-
-ul,
-ol {
-  padding-left: 1.25em;
-}
-
-li > ul,
-li > ol {
-  margin: 0;
-}
-
 .page-content > div .vp-table {
   overflow-y: hidden;
   overflow-x: auto;
-  margin-bottom: 45px;
+  margin-bottom: 1.5rem;
 
   & > table {
-    border-collapse: collapse;
     width: 100%;
-    background-color: var(--bg-color);
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.5em;
+    border-collapse: collapse;
+    background-color: var(--bg-color);
 
     img {
       max-width: none !important;
@@ -219,11 +168,6 @@ blockquote {
   border-left: 0.2rem solid var(--brand-color);
   padding: 0.25rem 0 0.25rem 1rem;
   font-size: 1rem;
-  color: var(--text-color-lighter);
-}
-
-blockquote > p {
-  margin: 0;
 }
 
 #nprogress .bar {
@@ -252,7 +196,7 @@ blockquote > p {
   z-index: 1;
 }
 
-// element lazy loading excessive
+// Lazy-loading elements
 .lazyload,
 .lazyloading {
   opacity: 0;

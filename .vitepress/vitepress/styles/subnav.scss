@@ -2,7 +2,6 @@
 
 .sub-nav {
   @include with-border;
-  @include with-bg;
   position: sticky;
   top: 0;
   width: 100%;
@@ -11,6 +10,7 @@
   justify-content: space-between;
   z-index: var(--nav-z-index);
   overflow: hidden;
+  backdrop-filter: saturate(80%) blur(4px);
 
   @include up-from('lg') {
     display: none;
