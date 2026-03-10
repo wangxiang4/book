@@ -19,14 +19,6 @@
   // sidebar
   --vp-sidebar-width-small: 320px;
 
-  @include up-from('lg') {
-    --vp-sidebar-width-small: 294px;
-  }
-
-  @include up-from('max') {
-    --vp-sidebar-width-small: 426px;
-  }
-
   // layer
   --nav-z-index: 12;
   --sidebar-z-index: 11;
@@ -35,6 +27,14 @@
 
   // scrollbar
   --scrollbar-size: 6px;
+
+  @include up-from('lg') {
+    --vp-sidebar-width-small: 294px;
+  }
+
+  @include up-from('max') {
+    --vp-sidebar-width-small: 426px;
+  }
 }
 
 .dark {

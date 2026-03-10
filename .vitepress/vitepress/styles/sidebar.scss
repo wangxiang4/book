@@ -13,6 +13,23 @@
   overflow-y: auto;
   transform: translate(-100%);
 
+  .sidebar-groups {
+    .sidebar-group__title {
+      font-size: 1rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+      line-height: 24px;
+    }
+
+    .sidebar-group + .sidebar-group {
+      padding-top: 24px;
+    }
+
+    @include up-from('lg') {
+      padding-bottom: 48px;
+    }
+  }
+
   &.open {
     transform: translate(0);
   }
@@ -30,22 +47,5 @@
   @include up-from('max') {
     padding-left: 96px;
     padding-right: 64px;
-  }
-
-  .sidebar-groups {
-    @include up-from('lg') {
-      padding-bottom: 48px;
-    }
-
-    .sidebar-group__title {
-      font-size: 1rem;
-      font-weight: 700;
-      margin-bottom: 8px;
-      line-height: 24px;
-    }
-
-    .sidebar-group + .sidebar-group {
-      padding-top: 24px;
-    }
   }
 }

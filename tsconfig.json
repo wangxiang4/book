@@ -1,37 +1,23 @@
-/**
- * TypeScript compilation config for vite
- * vite inside use esbuild pair TypeScript build js
- * configuration official docs: https://www.typescriptlang.org/docs/handbook/compiler-options.html
- */
+// https://www.typescriptlang.org/docs/handbook/compiler-options.html
 {
   "compilerOptions": {
-    "target": "esnext",
-    "module": "esnext",
-    "moduleResolution": "node",
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
     "isolatedModules": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "strict": true,
-    "allowJs": true,
-    "jsx": "preserve",
-    "lib": ["dom", "esnext"],
     "noImplicitThis" : false,
     "noImplicitAny": false,
+    "strict": true,
     "skipLibCheck": true,
-    "types": ["node", "unplugin-icons/types/vue"],
-    "typeRoots": ["./node_modules/@types/"],
-    "removeComments": true,
+    "lib": ["ESNext", "DOM"],
     "paths": {
       "~/*": ["./.vitepress/vitepress/*"]
     },
   },
-  "include": [
-    "**/*.ts",
-    "**/*.d.ts",
-    "**/*.tsx",
-    "**/*.vue",
-  ],
-  "exclude": ["node_modules", "**/dist", "**/*.js"]
+  "include": ["**/*", ".vitepress/**/*"],
+  "exclude": ["node_modules"]
 }

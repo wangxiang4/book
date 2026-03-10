@@ -1,5 +1,4 @@
-// markdown-it plugin for normalizing an image source
-import type MarkdownIt from 'markdown-it'
+import type { MarkdownRenderer } from 'vitepress';
 
 export interface Options {
   /**
@@ -18,25 +17,19 @@ export interface Options {
 /** Match https external url */
 const EXTERNAL_URL_RE = /^(?:[a-z]+:|\/\/)/i
 
-export const imagePlugin = (md: MarkdownIt, { lazyLoading, asyncDecoding }: Options = {}) => {
-  const imageRule = md.renderer.rules.image!
+export const imagePlugin = (md: MarkdownRenderer, { lazyLoading, asyncDecoding }: Options = {}) => {
   md.renderer.rules.image = (tokens, idx, options, env, self) => {
     const token = tokens[idx]
-    let url = token.attrGet('src')
-    if (!/^\.?\//.test(url)) url = './' + url
-    // Solve idea drag in resource files automatic encoding,
-    // not handling decoding will lead to build unable to find a resource file
-    const decodeURI = decodeURIComponent(url)
-    if (url && !EXTERNAL_URL_RE.test(url)) {
-      token.attrSet('src', decodeURI)
+    let imageUrl = token.attrGet('src')
+
+    if(imageUrl && !EXTERNAL_URL_RE.test(imageUrl)){
+      const cleanUrl = imageUrl.replace(/\/+/g, '/')
+      token.attrSet('src', cleanUrl.replace(/^(?:(?:\.?\.\/)*|\/?)public\//, '/'))
     }
 
     // Lazysizes loading images
     if (lazyLoading) {
-      // Remove the public directory of a resource file,
-      // vite doesn't process path compilation of data-src,exists public will not find a file
-      token.attrSet('data-src', decodeURI.replace(/public\//, '')
-                                         .replace(/\/+/g, '/'))
+      token.attrSet('data-src', token.attrGet('src') ?? '')
       token.attrSet('src', '')
       token.attrSet('class', 'lazyload')
     }
@@ -45,9 +38,7 @@ export const imagePlugin = (md: MarkdownIt, { lazyLoading, asyncDecoding }: Opti
     if (asyncDecoding) {
       token.attrSet('decoding', 'async');
     }
-    return imageRule(tokens, idx, options, env, self)
+
+    return self.renderToken(tokens, idx, options)
   }
-
-
-
 }

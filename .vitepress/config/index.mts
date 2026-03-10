@@ -1,21 +1,25 @@
 import type { UserConfig } from 'vitepress'
-import { sidebars } from './config/sidebars'
-import { nav } from './config/nav'
-import { imagePlugin } from './plugins/image'
-import { linkPlugin } from './plugins/link'
-import tableWrapper from './plugins/table-wrapper'
-import mathjax from './plugins/mathjax'
-import { ariaHidden } from './plugins/permalink';
-import createWrapperContainer from './plugins/wrapper'
+import { sidebars } from './sidebars'
+import { nav } from './nav'
+import { getViteConfig } from './vite'
+import { imagePlugin } from '../plugins/image'
+import { linkPlugin } from '../plugins/link'
+import tableWrapper from '../plugins/table-wrapper'
+import mathjax from '../plugins/mathjax'
+import { ariaHidden } from '../plugins/permalink';
+import createWrapperContainer from '../plugins/wrapper'
 import mdContainer from 'markdown-it-container'
-import headers from './plugins/headers'
+import headers from '../plugins/headers'
 
-export default {
-  base: "/",
-  title: 'philosophy',
+const setupConfig = (configEnv) => ({
+  title: 'Philosophy',
   themeConfig: {
     sidebars,
     nav
+  },
+  vite: getViteConfig(configEnv),
+  sitemap: {
+    hostname: 'https://book.electroplumb.org',
   },
   markdown: {
     config: (md) => {
@@ -39,14 +43,14 @@ export default {
       }),
     }
   },
-  vue: {
-    template: {
-      compilerOptions: {
-        isCustomElement: (tag) => customElements.includes(tag),
+    vue: {
+      template: {
+        compilerOptions: {
+          isCustomElement: (tag) => customElements.includes(tag),
+        },
       },
     },
-  },
-} as UserConfig
+} as UserConfig)
 
 const customElements = [
   'mjx-container',
@@ -136,3 +140,5 @@ const customElements = [
   'annotation',
   'annotation-xml',
 ]
+
+export default setupConfig

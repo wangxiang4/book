@@ -6,15 +6,12 @@ https://github.com/runarberg/markdown-it-math
 It differs in that it takes (a subset of) LaTeX as input and relies on MathJax
 for rendering output.
 */
-import type MarkdownIt from 'markdown-it'
-import type Token from 'markdown-it/lib/token'
-import type StateInline from 'markdown-it/lib/rules_inline/state_inline'
-import type StateBlock from 'markdown-it/lib/rules_block/state_block'
 import { renderTeX } from '../vitepress/utils/tex2svg'
+import type { MarkdownRenderer } from 'vitepress';
 
 // Test if the potential opening or closing delimiter
 // Assumes that there is a "$" at state.src[pos]
-function isValidDelim(state: StateInline, pos: number) {
+function isValidDelim(state, pos) {
   let max = state.posMax,
     can_open = true,
     can_close = true
@@ -41,7 +38,7 @@ function isValidDelim(state: StateInline, pos: number) {
   }
 }
 
-function math_inline(state: StateInline, silent: boolean) {
+function math_inline(state, silent) {
   if (state.src[state.pos] !== "$") {
     return false
   }
@@ -114,12 +111,7 @@ function math_inline(state: StateInline, silent: boolean) {
   return true
 }
 
-function math_block(
-  state: StateBlock,
-  start: number,
-  end: number,
-  silent: boolean
-) {
+function math_block(state, start, end, silent) {
   let next: number, lastPos: number
   let found = false,
     pos = state.bMarks[start] + state.tShift[start],
@@ -179,19 +171,17 @@ function math_block(
   return true
 }
 
-function plugin(md: MarkdownIt) {
+export default (md: MarkdownRenderer): void => {
   // set MathJax as the renderer for markdown-it-simplemath
   md.inline.ruler.after("escape", "math_inline", math_inline)
   md.block.ruler.after("blockquote", "math_block", math_block, {
     alt: ["paragraph", "reference", "blockquote", "list"],
   })
-  md.renderer.rules.math_inline = function (tokens: Token[], idx: number) {
+  md.renderer.rules.math_inline = function (tokens, idx) {
     return renderTeX(tokens[idx].content, { convert: { display: false } })
   }
-  md.renderer.rules.math_block = function (tokens: Token[], idx: number) {
+  md.renderer.rules.math_block = function (tokens, idx) {
     return renderTeX(tokens[idx].content,{ convert: { display: true } })
   }
 }
 
-plugin.default = plugin
-export = plugin

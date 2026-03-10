@@ -3,6 +3,7 @@
 
 .page-content {
   padding: 48px 32px;
+
   @include up-from('lg') {
     &.has-sidebar {
       padding-left: var(--vp-sidebar-width-small);

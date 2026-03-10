@@ -5,18 +5,18 @@
  * @since 4/5/25
  */
 
-import type MarkdownIt from 'markdown-it';
+import type {MarkdownRenderer} from 'vitepress';
 
 interface WrapperOpts {
   marker?: string | undefined
   validate?(params: string): boolean
-  render?: MarkdownIt['renderer']['rules']['container']
+  render?: MarkdownRenderer['renderer']['rules']['container']
 }
 
-function createWrapperContainer(md: MarkdownIt): WrapperOpts {
+function createWrapperContainer(md: MarkdownRenderer): WrapperOpts {
   return {
-    validate(params) {
-      return params.trim().match(/^wrap\s*(.*)$/)
+    validate(params: string): boolean {
+      return !!params.trim().match(/^wrap\s*(.*)$/)
     },
 
     render(tokens, idx) {

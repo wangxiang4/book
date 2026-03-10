@@ -8,7 +8,6 @@ import { SVG } from 'mathjax-full/js/output/svg'
 import globalConfig from '../../config/mathjax'
 
 import type { OptionList } from 'mathjax-full/ts/util/Options'
-import type { LiteElement } from 'mathjax-full/ts/adaptors/lite/Element'
 interface DocumentOptions {
   InputJax: TeX<unknown, unknown, unknown>
   OutputJax: SVG<unknown, unknown, unknown>
@@ -17,23 +16,25 @@ interface ConvertOptions {
   display: boolean
 }
 
-export function renderTeX(content: string, options?: OptionList = {}) {
+export function renderTeX (content: string, options?: OptionList) {
+
+  const config = Object.assign({}, options)
 
   // Default options
   const documentOptions: DocumentOptions = {
-    InputJax: new TeX({ packages: AllPackages,  ...globalConfig?.tex, ...options?.tex }),
-    OutputJax: new SVG({ fontCache: 'none',  ...globalConfig?.svg, ...options?.svg })
+    InputJax: new TeX({ packages: AllPackages,  ...globalConfig.tex, ...(config.tex ?? {}) }),
+    OutputJax: new SVG({ fontCache: 'none',  ...globalConfig.svg, ...(config.svg ?? {}) })
   }
   const convertOptions: ConvertOptions = {
     display: false,
-    ...globalConfig?.convert,
-    ...options?.convert
+    ...globalConfig.convert,
+    ...(config.convert ?? {})
   }
 
   const adaptor = liteAdaptor()
   RegisterHTMLHandler(adaptor)
   const mathDocument = mathjax.document(content, documentOptions)
   let html = adaptor.outerHTML(mathDocument.convert(content, convertOptions))
-  const stylesheet = adaptor.outerHTML(documentOptions.OutputJax.styleSheet(mathDocument) as LiteElement)
+  const stylesheet = adaptor.outerHTML(documentOptions.OutputJax.styleSheet(mathDocument) as any)
   return juice(html+stylesheet)
 }
