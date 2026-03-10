@@ -19,3 +19,9 @@
     </template>
   </ElResult>
 </template>
+
+<style lang="scss" scoped>
+.el-result {
+  height: 50vh;
+}
+</style>

@@ -1,12 +1,14 @@
 <script setup lang="ts">
   import { useToc } from '~/composables/use-toc'
   import { renderMarkup } from '~/utils'
+  import {useSidebar} from '~/composables/sidebar';
 
   const headers = useToc()
+  const { hasSidebar } = useSidebar()
 </script>
 
 <template>
-  <div class="toc-sidebar">
+  <div v-if="hasSidebar" class="toc-sidebar">
     <ElAnchor :offset="70" :bound="120">
       <ElAnchorLink
         v-for="{ link, text, children } in headers"

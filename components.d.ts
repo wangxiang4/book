@@ -12,7 +12,6 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     Dark: typeof import('./.vitepress/vitepress/components/icons/dark.vue')['default']
-    IMaterialSymbolsLightPlayArrowOutlineRounded: typeof import('~icons/material-symbols-light/play-arrow-outline-rounded')['default']
     IMslArrowBack2OutlineRounded: typeof import('~icons/material-symbols-light/arrow-back2-outline-rounded')['default']
     IMslPlayArrowOutlineRounded: typeof import('~icons/material-symbols-light/play-arrow-outline-rounded')['default']
     IRiMenuLine: typeof import('~icons/ri/menu-line')['default']
@@ -25,7 +24,6 @@ declare module 'vue' {
     VpContent: typeof import('./.vitepress/vitepress/components/vp-content.vue')['default']
     VpDocContent: typeof import('./.vitepress/vitepress/components/vp-doc-content.vue')['default']
     VpHamburger: typeof import('./.vitepress/vitepress/components/navbar/vp-hamburger.vue')['default']
-    VpLink: typeof import('./.vitepress/vitepress/components/common/vp-link.vue')['default']
     VpMenu: typeof import('./.vitepress/vitepress/components/navbar/vp-menu.vue')['default']
     VpMenuExtension: typeof import('./.vitepress/vitepress/components/navbar/vp-menu-extension.vue')['default']
     VpMenuLink: typeof import('./.vitepress/vitepress/components/navbar/vp-menu-link.vue')['default']
