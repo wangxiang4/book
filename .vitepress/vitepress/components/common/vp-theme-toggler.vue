@@ -28,7 +28,7 @@
   )
 
   const beforeChange = () => new Promise<boolean>((resolve) =>
-    toggle({ element: switchRef.value?.$el }, resolve))
+    toggle({ element: switchRef.value?.$el }, (ctl) => resolve(true)))
 </script>
 
 <template>

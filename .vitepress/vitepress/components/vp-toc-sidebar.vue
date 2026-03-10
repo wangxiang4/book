@@ -7,7 +7,7 @@
 
 <template>
   <div class="toc-sidebar">
-    <ElAnchor :offset="70">
+    <ElAnchor :offset="70" :bound="120">
       <ElAnchorLink
         v-for="{ link, text, children } in headers"
         :key="link"
