@@ -14,7 +14,7 @@ export default define<Theme>({
     if (!isClient) return
     const nprogress = await import('nprogress')
     router.onBeforeRouteChange = (to) =>
-      to !== base && nprogress.start() as any
+      (to !== base && nprogress.start()) || true as any
     router.onAfterRouteChange = (to) =>
       to !== base &&  nprogress.done() as any
   },
