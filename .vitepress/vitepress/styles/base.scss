@@ -73,6 +73,10 @@ ul {
   margin: 1rem 0;
   line-height: 1.8;
   padding-left: 1.25em;
+
+  iframe, img {
+    display: block;
+  }
 }
 
 li > ul,
@@ -124,7 +128,6 @@ a.header-anchor {
 }
 
 audio, canvas, embed, iframe, img, object, video {
-  margin: auto;
   max-width: 100%;
 }
 
