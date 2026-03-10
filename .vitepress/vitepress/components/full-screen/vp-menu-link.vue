@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-  import type { Link } from '../../types'
+  import type { Link } from '~/types'
   import { isActiveLink } from '~/utils';
   import { useRoute, useRouter } from 'vitepress';
 

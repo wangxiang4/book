@@ -1,7 +1,7 @@
 <script setup lang="ts">
-  import { useLockScreen } from '../composables/lock-scrollbar'
-  import VPFullScreenMenu from './full-screen/vp-menu.vue'
-  import VPFullScreenThemeToggler from './full-screen/vp-theme-toggler.vue'
+  import VpFullScreenMenu from './full-screen/vp-menu.vue'
+  import VpFullScreenThemeToggler from './full-screen/vp-theme-toggler.vue'
+  import { useLockScreen } from '~/composables/lock-scrollbar'
 
   defineProps<{
     fullScreen: boolean
@@ -13,8 +13,8 @@
 <template>
   <Transition name="el-zoom-in-top" @enter="lock" @after-leave="cleanup">
     <div v-if="fullScreen" class="full-screen">
-      <VPFullScreenThemeToggler />
-      <VPFullScreenMenu @close="$emit('close')" />
+      <VpFullScreenThemeToggler />
+      <VpFullScreenMenu @close="$emit('close')" />
     </div>
   </Transition>
 </template>

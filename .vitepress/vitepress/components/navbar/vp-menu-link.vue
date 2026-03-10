@@ -1,18 +1,17 @@
 <script lang="ts" setup>
-import { useRoute } from 'vitepress'
-import VPLink from '../common/vp-link.vue'
-import { isActiveLink } from '../../utils'
+  import { useRoute, useRouter } from 'vitepress'
+  import { isActiveLink } from '~/utils'
 
-import type { Link } from '../../types'
-defineProps<{
-  item: Link
-}>()
+  import type { Link } from '~/types'
+  defineProps<{
+    item: Link
+  }>()
 
-const route = useRoute()
+  const route = useRoute(), router = useRouter()
 </script>
 
 <template>
-  <VPLink
+  <div
     :class="{
       'is-menu-link': true,
       active: isActiveLink(
@@ -20,22 +19,23 @@ const route = useRoute()
         item.activeMatch
       ),
     }"
-    :href="item.link"
+    @click="router.go(item.link)"
   >
     {{ item.text }}
-  </VPLink>
+  </div>
 </template>
 
 <style scoped lang="scss">
 @use '../../styles/mixins' as *;
 .is-menu-link {
   display: block;
-  padding: 0 12px;
+  padding: 0 18px;
   line-height: calc(var(--header-height) - 3px);
   font-size: 14px;
   font-weight: 500;
   color: var(--text-color);
   border-bottom: 2px solid transparent;
+  cursor: pointer;
 
   &.active {
     border-bottom-color: var(--brand-color);
@@ -43,10 +43,6 @@ const route = useRoute()
 
   &:hover {
     color: var(--brand-color);
-  }
-
-  @include down-to('p-825') {
-    padding: 0 10px;
   }
 }
 </style>

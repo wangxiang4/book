@@ -1,6 +1,6 @@
 import { computed } from 'vue'
 import { useData, useRoute } from 'vitepress'
-import { ensureStartingSlash, isArray, removeExtention } from '../utils'
+import { ensureStartingSlash, isArray, removeExtension } from '~/utils'
 
 
 export const useSidebar = () => {
@@ -73,7 +73,7 @@ export function getSidebarConfig(sidebar: Sidebar, path: string) {
 export function getFlatSideBarLinks(sidebar) {
   return sidebar.reduce((links, item) => {
     if (item.link) {
-      links.push({ text: item.text, link: removeExtention(item.link) })
+      links.push({ text: item.text, link: removeExtension(item.link) })
     }
     if (isSideBarGroup(item)) {
       links = [...links, ...getFlatSideBarLinks(item.children)]

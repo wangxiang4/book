@@ -1,6 +1,6 @@
 import { onBeforeUnmount, onMounted, ref } from 'vue'
 import { isClient } from '@vueuse/core'
-import { throttleAndDebounce } from '../utils'
+import { throttleAndDebounce } from '~/utils'
 
 const threshold = 960
 

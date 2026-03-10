@@ -10,7 +10,6 @@
   z-index: var(--sidebar-z-index);
   width: var(--vp-sidebar-width-small);
   padding: 22px 0 0 32px;
-  overflow-y: auto;
   transform: translate(-100%);
 
   .sidebar-groups {
@@ -24,10 +23,6 @@
     .sidebar-group + .sidebar-group {
       padding-top: 24px;
     }
-
-    @include up-from('lg') {
-      padding-bottom: 48px;
-    }
   }
 
   &.open {
@@ -40,12 +35,22 @@
 
   @include up-from('lg') {
     top: var(--header-height);
-    padding: 48px 32px;
     transform: translate(0);
+    padding: 48px 24px 48px 32px;
+
+    // right-scrollbar(48/2) = padding-right in left sidebar / 2
+    .scrollbar {
+      padding-right: 24px;
+    }
   }
 
   @include up-from('max') {
     padding-left: 96px;
-    padding-right: 64px;
+    padding-right: 32px;
+
+    // right-scrollbar(64/2)
+    .scrollbar {
+      padding-right: 32px;
+    }
   }
 }

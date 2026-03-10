@@ -1,9 +1,9 @@
 <script setup lang="ts">
   import { ref, watch } from 'vue'
-  import { isDark, toggleDark } from '../../composables/dark'
+  import { isDark, toggleDark } from '~/composables/dark'
   import DarkIcon from '../icons/dark.vue'
   import LightIcon from '../icons/light.vue'
-  import { useThemeTransition } from '../../composables/toggle-theme-transition'
+  import { useThemeTransition } from '~/composables/toggle-theme-transition'
 
   import type { SwitchInstance } from 'element-plus'
 

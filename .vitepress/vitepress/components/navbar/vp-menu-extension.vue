@@ -1,13 +1,13 @@
 <script setup lang="ts">
-import { isActiveLink } from '../../utils';
-import { useRoute, useRouter} from 'vitepress';
-import { useNav } from '~/composables/nav'
-import { Link } from '~/types';
+  import { isActiveLink } from '~/utils';
+  import { useRoute, useRouter } from 'vitepress';
+  import { useNav } from '~/composables/nav'
+  import { Link } from '~/types';
 
-const route = useRoute()
-const navs = useNav()
-const router = useRouter()
-const expandMenus: Link[] = navs.value.slice(3)
+  const route = useRoute()
+  const navs = useNav()
+  const router = useRouter()
+  const expandMenus: Link[] = navs.value.slice(3)
 </script>
 
 <template>
@@ -22,7 +22,10 @@ const expandMenus: Link[] = navs.value.slice(3)
             <ElDropdownItem
               v-for="(item, key) in expandMenus"
               :key="key"
-              :class="{ 'menu-item': true, active: isActiveLink(route, item.activeMatch) }"
+              :class="{
+                'menu-item': true,
+                active: isActiveLink(route, item.activeMatch)
+              }"
               @click="router.go(item.link)"
             >
               {{ item.text }}
@@ -56,18 +59,23 @@ const expandMenus: Link[] = navs.value.slice(3)
 
   padding: 7px 0;
   min-width: 192px;
+  font-size: 14px;
+  font-weight: 500;
 
-  .el-popper__arrow {
-    display: none;
+  .menu-item:hover {
+    color: var(--brand-color);
+    transition: color 0.25s;
+    background-color: transparent;
   }
 
   .menu-item {
-    padding: 0 16px;
     line-height: 28px;
+    border-radius: 8px;
+  }
 
-    &.active {
-      --el-text-color-regular: var(--brand-color);
-    }
+  .menu-item.active {
+    background-color: var(--bg-color-link-active);
+    --el-text-color-regular: var(--brand-color);
   }
 }
 </style>

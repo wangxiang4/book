@@ -1,13 +1,14 @@
 <script setup lang="ts">
   import { useToc } from '~/composables/use-toc'
   import { renderMarkup } from '~/utils'
+
   const headers = useToc()
 </script>
 
 <template>
   <div class="toc-sidebar">
-    <el-anchor :offset="70">
-      <el-anchor-link
+    <ElAnchor :offset="70">
+      <ElAnchorLink
         v-for="{ link, text, children } in headers"
         :key="link"
         :href="link"
@@ -15,17 +16,17 @@
       >
         <div v-html="renderMarkup(text)" />
         <template v-if="children" #sub-link>
-          <el-anchor-link
+          <ElAnchorLink
             v-for="{ link: childLink, text: childText } in children"
             :key="childLink"
             :href="childLink"
             :title="text"
           >
             <div v-html="renderMarkup(childText)" />
-          </el-anchor-link>
+          </ElAnchorLink>
         </template>
-      </el-anchor-link>
-    </el-anchor>
+      </ElAnchorLink>
+    </ElAnchor>
   </div>
 </template>
 

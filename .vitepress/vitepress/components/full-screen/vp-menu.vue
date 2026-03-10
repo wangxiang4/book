@@ -1,5 +1,5 @@
 <script setup lang="ts">
-  import { useNav } from '../../composables/nav'
+  import { useNav } from '~/composables/nav'
   import VPMenuLink from './vp-menu-link.vue'
   defineEmits(['close'])
   const navs = useNav()

@@ -1,10 +1,7 @@
 import { computed } from 'vue'
 import { useData } from 'vitepress'
-
 import type { PageData } from 'vitepress'
-
 type EnhanceArrayElement<T, P> = T extends Array<infer U> ? (U & P)[] : never
-
 type Headers = EnhanceArrayElement<
   PageData['headers'],
   {
@@ -14,8 +11,6 @@ type Headers = EnhanceArrayElement<
 
 export const useToc = () => {
   const { page } = useData()
-  // 0.22.4 version not support customization headers，default support h2, h3
-  // https://github.com/vuejs/vitepress/blob/v0.22.4/src/node/markdown/plugins/headings.ts
   return computed(() => resolveHeaders(page.value.headers))
 }
 

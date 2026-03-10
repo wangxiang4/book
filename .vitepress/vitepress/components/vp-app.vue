@@ -1,17 +1,11 @@
 <script setup lang="ts">
   import { useToggle } from '@vueuse/core'
-  import { useSidebar } from '../composables/sidebar'
-  import { useToggleWidgets } from '../composables/toggle-widgets'
-  import { breakpoints } from '../constant'
-  import VPNav from './vp-nav.vue'
-  import VPSubNav from './vp-subnav.vue'
-  import VPSidebar from './vp-sidebar.vue'
-  import VPContent from './vp-content.vue'
-  import VPOverlay from './vp-overlay.vue'
+  import { useSidebar } from '~/composables/sidebar'
+  import { useToggleWidgets } from '~/composables/toggle-widgets'
+  import { breakpoints } from '~/constant'
   import { onMounted, watch } from 'vue'
   import { initImageZoom } from '~/utils'
   import { useRoute } from 'vitepress'
-  import VPTocSidebar from './vp-toc-sidebar.vue';
 
   const [isSidebarOpen, toggleSidebar] = useToggle(false)
   const { hasSidebar } = useSidebar()
@@ -31,15 +25,15 @@
 
 <template>
   <div class="App">
-    <VPOverlay :show="isSidebarOpen" @click="toggleSidebar(false)" />
-    <VPNav />
-    <VPSubNav v-if="hasSidebar" @open-menu="toggleSidebar(true)" />
-    <VPSidebar :open="isSidebarOpen" @close="toggleSidebar(false)">
+    <VpOverlay :show="isSidebarOpen" @click="toggleSidebar(false)" />
+    <VpNav />
+    <VpSubnav v-if="hasSidebar" @open-menu="toggleSidebar(true)" />
+    <VpSidebar :open="isSidebarOpen" @close="toggleSidebar(false)">
       <template #bottom>
         <slot name="sidebar-bottom" />
       </template>
-    </VPSidebar>
-    <VPContent/>
-    <VPTocSidebar />
+    </VpSidebar>
+    <VpContent />
+    <VpTocSidebar />
   </div>
 </template>

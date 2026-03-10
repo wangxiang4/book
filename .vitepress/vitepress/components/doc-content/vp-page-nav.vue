@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import { withBase } from 'vitepress'
-import { usePageNav } from '../../composables/page-nav'
-import { deviceBreakpoints } from '~/constant'
+  import { withBase } from 'vitepress'
+  import { usePageNav } from '~/composables/page-nav'
+  import { deviceBreakpoints } from '~/constant'
 
-const { hasLinks, prev, next } = usePageNav()
-const isDesktop = deviceBreakpoints.greater('lg')
+  const { hasLinks, prev, next } = usePageNav()
+  const isDesktop = deviceBreakpoints.greater('lg')
 </script>
 
 <template>
@@ -86,8 +86,7 @@ const isDesktop = deviceBreakpoints.greater('lg')
 
   svg {
     flex-shrink: 0;
-    width: 28px;
-    height: 28px;
+    font-size: 28px;
     color: var(--text-color-light);
     transform: translateY(1px);
   }

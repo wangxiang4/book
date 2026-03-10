@@ -4,11 +4,15 @@
   defineProps<{
     show: boolean
   }>()
+
   const { lock, cleanup } = useLockScreen()
 </script>
 
 <template>
-  <Transition name="el-fade-in" @enter="lock" @after-leave="cleanup">
+  <Transition name="el-fade-in"
+              @enter="lock"
+              @after-leave="cleanup"
+  >
     <div v-if="show" class="overlay"/>
   </Transition>
 </template>

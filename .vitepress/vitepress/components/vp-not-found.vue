@@ -9,7 +9,10 @@
 </script>
 
 <template>
-  <ElResult icon="error" :title="dict.title" :sub-title="dict.desc">
+  <ElResult icon="error"
+            :title="dict.title"
+            :sub-title="dict.desc"
+  >
     <template #extra>
       <ElButton @click="goHome">{{ dict['button-title'] }}</ElButton>
     </template>

@@ -1,6 +1,6 @@
 <script setup lang="ts">
   import CommonThemeToggler from '../common/vp-theme-toggler.vue'
-  import { toggleDark } from '../../composables/dark'
+  import { toggleDark } from '~/composables/dark'
   import { useThemeTransition } from '~/composables/toggle-theme-transition'
 
   const { toggle } = useThemeTransition()

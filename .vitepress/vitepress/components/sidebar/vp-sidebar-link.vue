@@ -1,29 +1,27 @@
 <script lang="ts" setup>
-import { computed, ref, watch } from 'vue'
-import { useRoute, useRouter } from 'vitepress';
-import { isActive } from '../../utils'
+  import type { Link } from '~/types'
+  import { computed, ref, watch } from 'vue'
+  import { useRoute, useRouter } from 'vitepress';
+  import { isActive } from '~/utils'
 
-import type { Link } from '../../types'
+  const props = defineProps<{
+    item: Link
+  }>()
+  defineEmits(['close'])
 
-const props = defineProps<{
-  item: Link
-}>()
-const sidebarItem = ref<HTMLElement>()
+  const sidebarItem = ref<HTMLElement>()
+  const router = useRouter()
+  const route = useRoute()
 
-const emitEvent = defineEmits(['close'])
-const router = useRouter()
-const route = useRoute()
+  const activeLink = computed<boolean>(() =>
+    isActive(route, props.item.link)
+  )
 
-const activeLink = computed<boolean>(() =>
-  isActive(route, props.item.link)
-)
-
-
-watch([activeLink, sidebarItem], ([active, el]) => {
-  if (active && el) {
-    el.scrollIntoView?.({ block: 'nearest' })
-  }
-})
+  watch([activeLink, sidebarItem], ([active, el]) => {
+    if (active && el) {
+      el.scrollIntoView?.({ block: 'nearest' })
+    }
+  })
 </script>
 
 <template>
@@ -36,7 +34,7 @@ watch([activeLink, sidebarItem], ([active, el]) => {
     :data-path="item.link"
     @click="()=>{
       router.go(item.link)
-      emitEvent('close')
+      $emit('close')
     }"
   >
     <p class="link-text">{{ item.text }}</p>
@@ -57,18 +55,8 @@ button {
   text-align: inherit;
 }
 
-button:focus {
-  outline: none;
-}
-
-.link:not(.flex) {
-  display: block;
-}
-
 .link {
   padding: 10px 16px;
-  line-height: 1.5;
-  font-size: 0.9rem;
   border-radius: 8px;
 
   .link-text {

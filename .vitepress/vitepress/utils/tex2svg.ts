@@ -1,7 +1,7 @@
 import { liteAdaptor } from 'mathjax-full/js/adaptors/liteAdaptor'
 import { RegisterHTMLHandler } from 'mathjax-full/js/handlers/html'
 import { mathjax } from 'mathjax-full/js/mathjax'
-import juice from "juice/client"
+import juice from "juice"
 import { TeX } from 'mathjax-full/js/input/tex'
 import { AllPackages } from 'mathjax-full/js/input/tex/AllPackages'
 import { SVG } from 'mathjax-full/js/output/svg'

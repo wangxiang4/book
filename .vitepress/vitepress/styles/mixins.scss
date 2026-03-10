@@ -18,7 +18,7 @@ $breakpoints: (
   'xlg': #{$breakpoint-xlg},
   'xxl': #{$breakpoint-xxl},
   'max': #{$breakpoint-max},
-  'p-825': #{$breakpoint-u-825},
+  'p-999': #{$breakpoint-u-999},
 ) !default;
 
 @mixin up-from($breakpoint) {

@@ -1,5 +1,4 @@
 import { watch } from 'vue'
-
 import { isClient } from '@vueuse/core'
 import type { Ref } from 'vue'
 

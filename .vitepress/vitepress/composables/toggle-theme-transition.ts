@@ -7,9 +7,7 @@ export const useThemeTransition = () => {
                   resolve?: (ctl: boolean) => void) => {
 
     const isAppearanceTransition =
-      // @ts-expect-error
-      document.startViewTransition &&
-      !window.matchMedia('(prefers-reduced-motion: reduce)').matches
+      document.startViewTransition && !window.matchMedia('(prefers-reduced-motion: reduce)').matches
     if (!isAppearanceTransition) {
       resolve?.(!isDark.value)
       return
@@ -38,9 +36,8 @@ export const useThemeTransition = () => {
     const referR = Math.hypot(innerWidth, innerHeight) / Math.SQRT2
     const ratioR = (100 * endRadius) / referR
 
-    // @ts-expect-error: Transition API
     const transition = document.startViewTransition(async () => {
-      resolve(!isDark.value)
+      resolve?.(!isDark.value)
       await nextTick()
     })
 

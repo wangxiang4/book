@@ -22,7 +22,7 @@ export function ensureStartingSlash(path) {
   return /^\//.test(path) ? path : `/${path}`;
 }
 
-export function removeExtention(path) {
+export function removeExtension(path) {
   return path.replace(/(index)?(\.(md|html))?$/, '') || '/';
 }
 

@@ -3,8 +3,8 @@ import { useData } from 'vitepress'
 import {
   ensureStartingSlash,
   isArray,
-  removeExtention as removeExtension,
-} from '../utils'
+  removeExtension,
+} from '~/utils'
 import { getFlatSideBarLinks, getSidebarConfig } from './sidebar'
 
 export function usePageNav() {

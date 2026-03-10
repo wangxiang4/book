@@ -1,11 +1,10 @@
 <script setup lang="ts">
-import { useNav } from '../../composables/nav'
-import VPMenuLink from './vp-menu-link.vue'
-import { Link } from '~/types';
+  import { useNav } from '~/composables/nav'
+  import VPMenuLink from './vp-menu-link.vue'
+  import { Link } from '~/types';
 
-const navs = useNav()
-const mainMenus: Link[] = navs.value.slice(0, 3)
-
+  const navs = useNav()
+  const mainMenus: Link[] = navs.value.slice(0, 3)
 </script>
 
 <template>

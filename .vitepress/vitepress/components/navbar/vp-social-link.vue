@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import type { Component } from 'vue'
+  import type { Component } from 'vue'
 
-defineProps<{
-  icon: Component
-  link: string
-  text: string
-}>()
+  defineProps<{
+    icon: Component
+    link: string
+    text: string
+  }>()
 </script>
 
 <template>
