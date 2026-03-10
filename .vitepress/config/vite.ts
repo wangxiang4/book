@@ -43,7 +43,11 @@ export const getViteConfig = ({ mode }: { mode: string }): ViteConfig => {
         resolvers: [
           // auto import icons
           // https://github.com/antfu/unplugin-icons
-          IconsResolver(),
+          IconsResolver({
+            alias: {
+              msl: 'material-symbols-light'
+            }
+          }),
         ],
 
         // allow auto import and register components used in Markdown

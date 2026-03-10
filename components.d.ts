@@ -12,6 +12,9 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     Dark: typeof import('./.vitepress/vitepress/components/icons/dark.vue')['default']
+    IMaterialSymbolsLightPlayArrowOutlineRounded: typeof import('~icons/material-symbols-light/play-arrow-outline-rounded')['default']
+    IMslArrowBack2OutlineRounded: typeof import('~icons/material-symbols-light/arrow-back2-outline-rounded')['default']
+    IMslPlayArrowOutlineRounded: typeof import('~icons/material-symbols-light/play-arrow-outline-rounded')['default']
     IRiMenuLine: typeof import('~icons/ri/menu-line')['default']
     Light: typeof import('./.vitepress/vitepress/components/icons/light.vue')['default']
     PowerFunctionTable: typeof import('./.vitepress/vitepress/components/globals/power-function-table.vue')['default']

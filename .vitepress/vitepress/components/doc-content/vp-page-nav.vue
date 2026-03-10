@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { withBase } from 'vitepress'
-import { ArrowLeft, ArrowRight } from '@element-plus/icons-vue'
 import { usePageNav } from '../../composables/page-nav'
 import { deviceBreakpoints } from '~/constant'
 
@@ -13,9 +12,7 @@ const isDesktop = deviceBreakpoints.greater('lg')
     <div class="container">
       <div class="prev">
         <a v-if="prev" class="link" :href="withBase(prev.link)">
-          <ElIcon class="mr-1">
-            <ArrowLeft />
-          </ElIcon>
+          <i-msl-arrow-back-2-outline-rounded class="nav-icon" />
           <ClientOnly>
             <ElTooltip v-if="isDesktop"
                        :content="prev.text"
@@ -40,9 +37,7 @@ const isDesktop = deviceBreakpoints.greater('lg')
             </ElTooltip>
             <span v-else class="text">{{ next.text }}</span>
           </ClientOnly>
-          <ElIcon class="ml-1">
-            <ArrowRight />
-          </ElIcon>
+          <i-msl-play-arrow-outline-rounded class="nav-icon"/>
         </a>
       </div>
     </div>
@@ -51,13 +46,12 @@ const isDesktop = deviceBreakpoints.greater('lg')
 
 <style scoped>
 .next-and-prev-link {
-  padding-top: 1rem;
+  padding: 1rem 0;
 }
 
 .container {
   display: flex;
   justify-content: space-between;
-  padding-top: 1rem;
 }
 
 .prev,
@@ -69,45 +63,33 @@ const isDesktop = deviceBreakpoints.greater('lg')
 
 .prev {
   justify-content: flex-start;
-  padding-right: 12px;
 }
 
 .next {
   justify-content: flex-end;
-  padding-left: 12px;
 }
 
 .link {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-
   max-width: 100%;
   height: 24px;
   font-size: 14px;
   font-weight: 500;
-}
 
-.text {
-  display: inline-flex;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
+  .text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
 
-.el-icon {
-  display: inline-flex;
-  flex-shrink: 0;
-  font-size: 12px;
-  color: var(--text-color);
-  transform: translateY(1px);
-}
-
-.icon-prev {
-  margin-right: 8px;
-}
-
-.icon-next {
-  margin-left: 8px;
+  svg {
+    flex-shrink: 0;
+    width: 28px;
+    height: 28px;
+    color: var(--text-color-light);
+    transform: translateY(1px);
+  }
 }
 </style>
