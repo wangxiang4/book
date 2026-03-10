@@ -31,7 +31,6 @@
       link: true,
       active: activeLink,
     }"
-    :data-path="item.link"
     @click="()=>{
       router.go(item.link)
       $emit('close')
@@ -53,6 +52,8 @@ button {
   font: inherit;
   line-height: inherit;
   text-align: inherit;
+  box-sizing: border-box;
+  width: 100%;
 }
 
 .link {
