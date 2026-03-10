@@ -10,8 +10,10 @@ import { ariaHidden } from '../plugins/permalink';
 import createWrapperContainer from '../plugins/wrapper'
 import mdContainer from 'markdown-it-container'
 import headers from '../plugins/headers'
+import { base } from '../utils'
 
 const setupConfig = (configEnv) => ({
+  base,
   title: 'Philosophy',
   themeConfig: {
     sidebars,
