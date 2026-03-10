@@ -1,6 +1,6 @@
 import type { Route } from 'vitepress'
 import { renderTeX } from './tex2svg'
-import mediumZoom from 'medium-zoom';
+import mediumZoom from 'medium-zoom'
 
 const hashRE = /#.*$/, extRE = /(index)?\.(md|html)$/;
 

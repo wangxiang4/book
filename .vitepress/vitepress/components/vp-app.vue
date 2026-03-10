@@ -6,6 +6,7 @@
   import { onMounted, watch } from 'vue'
   import { initImageZoom } from '~/utils'
   import { useRoute } from 'vitepress'
+  import { initToggleTheme } from '~/composables/dark'
 
   const [isSidebarOpen, toggleSidebar] = useToggle(false)
   const { hasSidebar } = useSidebar()
@@ -20,7 +21,10 @@
     () => route.path,
     () => initImageZoom()
   )
-  onMounted(() => initImageZoom())
+  onMounted(() => {
+    initToggleTheme()
+    initImageZoom()
+  })
 </script>
 
 <template>

@@ -5,3 +5,8 @@ export const isDark = useDark({
 })
 
 export const toggleDark = useToggle(isDark)
+
+export function initToggleTheme() {
+  const htmlEl = document.documentElement
+  isDark.value ? htmlEl.classList.add('dark') : htmlEl.classList.remove('dark')
+}

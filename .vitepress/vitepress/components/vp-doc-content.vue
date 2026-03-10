@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Content />
+    <Content class="doc-content"/>
     <VpPageNav />
   </div>
 </template>
