@@ -1,10 +1,11 @@
 <script setup lang="ts">
   import dict from "../../dictionary/pages/not-found.json"
   import { isClient } from '@vueuse/core'
+  import { homePage } from '~/constant'
 
   const goHome = () => {
     if (!isClient) return
-    window.location.href = `/`
+    window.location.href = homePage()
   }
 </script>
 

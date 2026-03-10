@@ -1,4 +1,6 @@
 import { useBreakpoints } from '@vueuse/core';
+import sidebar from '../dictionary/pages/sidebar.json'
+import { ensureStartingSlash } from '~/utils'
 
 export const breakpoints = {
   sm: 480,
@@ -10,3 +12,5 @@ export const breakpoints = {
 }
 
 export const deviceBreakpoints = useBreakpoints(breakpoints)
+
+export const homePage = (): string => ensureStartingSlash(sidebar[0].link)
