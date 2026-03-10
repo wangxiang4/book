@@ -4,7 +4,7 @@
   import { Link } from '~/types';
 
   const navs = useNav()
-  const mainMenus: Link[] = navs.value.slice(0, 3)
+  const mainMenus: Link[] = navs.value?.slice(0, 3).reverse()
 </script>
 
 <template>

@@ -1,8 +1,8 @@
 [
   {
-    "text": "Writing",
-    "link": "/writing/1 章节1 – 论证有效性分析大纲解析",
-    "activeMatch": "writing"
+    "text": "Math",
+    "link": "/math/core course/2 Chapter1 real numbers ratios absolute value Module1 integers fractions decimals part1",
+    "activeMatch": "math"
   },
   {
     "text": "Logic",
@@ -10,9 +10,9 @@
     "activeMatch": "logic"
   },
   {
-    "text": "Math",
-    "link": "/math/core course/2 Chapter1 real numbers ratios absolute value Module1 integers fractions decimals part1",
-    "activeMatch": "math"
+    "text": "Writing",
+    "link": "/writing/1 章节1 – 论证有效性分析大纲解析",
+    "activeMatch": "writing"
   },
   {
     "text": "En",

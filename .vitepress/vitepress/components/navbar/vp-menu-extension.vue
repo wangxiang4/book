@@ -7,7 +7,7 @@
   const route = useRoute()
   const navs = useNav()
   const router = useRouter()
-  const expandMenus: Link[] = navs.value.slice(3)
+  const expandMenus: Link[] = navs.value?.slice(3)
 </script>
 
 <template>
