@@ -1,30 +1,31 @@
 <template>
   <img
-    :src="imageSrc"
+    :src="src"
     :style="mergedImgStyle"
-    alt="Theme Image"
+    alt="Toggle theme image"
   />
 </template>
 
 <script setup lang="ts">
-  import { computed } from 'vue'
-  import { usePreferredColorScheme } from '@vueuse/core'
+  import { watch, computed, ref } from 'vue';
+  import { isDark } from '~/composables/dark'
 
   interface Props {
     lightSrc: string
     darkSrc: string
     imgStyle?: Record<string, string | number>
-    defaultDark?: boolean
   }
-
   const props = defineProps<Props>()
-  const colorScheme = usePreferredColorScheme()
+  const src = ref('')
 
-  const imageSrc = computed(() => {
-    if (colorScheme.value === 'dark') return props.darkSrc
-    if (colorScheme.value === 'light') return props.lightSrc
-    return props.defaultDark ? props.darkSrc : props.lightSrc
-  })
+
+  watch(() => isDark.value,
+    (newVal) => {
+      newVal ? src.value = props.darkSrc : src.value = props.lightSrc
+    },{
+      immediate: true,
+      flush: 'post'
+    })
 
   const defaultImgStyle = {
     width: '256px',
@@ -33,6 +34,6 @@
 
   const mergedImgStyle = computed(() => ({
     ...defaultImgStyle,
-    ...(props.imgStyle || {})
+    ...(props.imgStyle ?? {})
   }))
 </script>
