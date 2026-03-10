@@ -120,6 +120,7 @@ a.header-anchor {
   margin-left: -1.2em;
   font-size: 0.85em;
   opacity: 0;
+  z-index: var(--sidebar-z-index);
 }
 
 audio, canvas, embed, iframe, img, object, video {
