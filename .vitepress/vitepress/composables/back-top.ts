@@ -1,9 +1,9 @@
 import { onBeforeUnmount, onMounted, ref } from 'vue'
 import { isClient } from '@vueuse/core'
 import { throttleAndDebounce } from '~/utils'
+import { deviceBreakpoints } from '~/constant'
 
-const threshold = 960
-
+const isMobile = deviceBreakpoints.smaller('lg')
 const cubic = (value: number): number => value ** 3
 const easeInOutCubic = (value: number): number =>
   value < 0.5 ? cubic(value * 2) / 2 : 1 - cubic((1 - value) * 2) / 2
@@ -45,10 +45,8 @@ export const useBackTop = (offset = 200) => {
 
   function onResize() {
     if (!isClient) return
-
-    const { clientWidth } = document.body
-
-    if (clientWidth < threshold) {
+    shouldShow.value = false
+    if (isMobile.value) {
       window.addEventListener('scroll', throttleScroll)
     } else {
       window.removeEventListener('scroll', throttleScroll)
