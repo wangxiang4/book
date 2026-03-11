@@ -125,6 +125,10 @@ a.header-anchor {
   font-size: 0.85em;
   opacity: 0;
   z-index: var(--sidebar-z-index);
+
+  span {
+    @include with-bg;
+  }
 }
 
 audio, canvas, embed, iframe, img, object, video {
