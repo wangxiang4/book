@@ -17,17 +17,13 @@ export default (md: MarkdownRenderer): void => {
         const level = Number(token.tag.slice(1))
         const inline = tokens[idx + 1]
 
-        token.attrGet('id') ||
         token.attrSet('id', slugify(inline.content))
-
+        console.log(token.attrGet('id'))
         if (inline.type === 'inline') {
           for (const child of inline.children) {
-            console.log('child link=>', child.attrGet('href'))
-            if (child.type === 'link_open' &&
-              !cleanAnchor(child.attrGet('href')) &&
-              child.attrGet('class') === 'header-anchor') {
-              child.attrSet('href', renderHref(token.attrGet('id')))
-            }
+            child.type === 'link_open' &&
+            child.attrGet('class') === 'header-anchor' &&
+            child.attrSet('href', renderHref(token.attrGet('id')))
           }
         }
 
@@ -41,7 +37,3 @@ export default (md: MarkdownRenderer): void => {
     return render(tokens, options, env)
   }
 }
-
-
-const cleanAnchor = (href: string | null = ''): string =>
-  href.replace(/^#/, '')
