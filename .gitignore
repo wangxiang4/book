@@ -1,26 +1,12 @@
-.DS_Store
-node_modules/
-dist/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-package-lock.json
-coverage/
-.vitepress/cache/
-
-# Editor directories and files
 .idea
-.vscode
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-.eslintcache
-
-# idea ignore
-.idea/
 !/.idea/icon.svg
-!/.idea/vcs.xml
-*.ipr
-*.iml
-*.iws
+
+# Package Manager
+node_modules
+.pnpm-debug.log*
+
+# System
+.DS_Store
+
+# Cache
+.vitepress/cache/
