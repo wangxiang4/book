@@ -274,7 +274,7 @@ $
   \begin{cases}
   a & a\ge0 \\
   -a & a\lt0 \\
-  \end{cases} & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#equivalence}{\textsf{equivalence property of absolute value}} \\
+  \end{cases} & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#textcolor-1e3a5f-fbox-2-equivalence}{\textsf{equivalence property of absolute value}} \\
   \end{array}
   >$
 
@@ -341,13 +341,13 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \left|-a\right|=\left|a\right| & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#symmetry}{\textsf{symmetric property of absolute value}} \\
+  \left|-a\right|=\left|a\right| & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#textcolor-1e3a5f-fbox-1-symmetry}{\textsf{symmetric property of absolute value}} \\
   (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \sqrt{a^2}=\left|a\right|=
   \begin{cases}
   a & a\ge0 \\
   -a & a\lt0 \\
-  \end{cases} & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#equivalence}{\textsf{equivalence property of absolute value}} \\
+  \end{cases} & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#textcolor-1e3a5f-fbox-2-equivalence}{\textsf{equivalence property of absolute value}} \\
   \end{array}
   >$
 
@@ -396,7 +396,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \left|a\right|\ge0 & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#non-negativity}{\textsf{non-negativity property of absolute value}} \\
+  \left|a\right|\ge0 & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#textcolor-1e3a5f-fbox-3-non-negativity}{\textsf{non-negativity property of absolute value}} \\
   a^2-b^2=(a+b)(a-b) & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
   \end{array}
   >$
@@ -441,7 +441,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \left|a\right|\ge0 & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#non-negativity}{\textsf{non-negativity property of absolute value}} \\
+  \left|a\right|\ge0 & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#textcolor-1e3a5f-fbox-3-non-negativity}{\textsf{non-negativity property of absolute value}} \\
   \end{array}
   >$
 
@@ -501,7 +501,7 @@ $
   \begin{cases}
   1 & x\gt0 \\
   -1 & x\lt0 \\
-  \end{cases} & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#self-comparison}{\textsf{self-comparison property of absolute value}} \\
+  \end{cases} & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#textcolor-1e3a5f-fbox-4-self-comparison}{\textsf{self-comparison property of absolute value}} \\
   \end{array}
   >$
 
@@ -547,7 +547,7 @@ $
   \begin{cases}
   1 & x\gt0 \\
   -1 & x\lt0 \\
-  \end{cases} & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#self-comparison}{\textsf{self-comparison property of absolute value}} \\
+  \end{cases} & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#textcolor-1e3a5f-fbox-4-self-comparison}{\textsf{self-comparison property of absolute value}} \\
   \end{array}
   >$
 

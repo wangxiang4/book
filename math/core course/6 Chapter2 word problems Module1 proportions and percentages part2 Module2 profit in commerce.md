@@ -154,7 +154,7 @@ __The continuous rate of change__
     ::: wrap  
     $
     \begin{array}{ll}
-    S_n=\frac{a_{1}(1-q^n)}{1-q} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_3-sum-of-the-first-terms}{\textsf{geometric series sum formula}} \\
+    S_n=\frac{a_{1}(1-q^n)}{1-q} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_3-sum-of-the-first-n-terms}{\textsf{geometric series sum formula}} \\
     \frac{a[1-(1+p)^{12}]}{1-(1+p)}=\frac{a[1-(1+p)^{12}]}{1-1-p} \\
     \frac{a[(1+p)^{12}-1]}{p} \\
     \end{array}

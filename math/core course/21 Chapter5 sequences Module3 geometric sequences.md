@@ -678,7 +678,7 @@ $
   \begin{cases}
   na_1 & q=1 \\
   \frac{a_{1}(1-q^n)}{1-q}=\frac{a_{1}-a_{n}q}{1-q}=\frac{a_{1}-a_{n+1}}{1-q} & q \ne 1
-  \end{cases} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_3-sum-of-the-first-terms}{\textsf{geometric series sum formula}} \\
+  \end{cases} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_3-sum-of-the-first-n-terms}{\textsf{geometric series sum formula}} \\
   S_n=\frac{a_1}{1-q}\cdot(1-q^n)=k(1-q^n) & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#properties-of}{\textsf{geometric series sum formula properties}} \\
   x^3=a \longrightarrow x=\sqrt[3]{a} & \textsf{n-th root property} \\
   \end{array}
