@@ -1,6 +1,6 @@
 import type { MarkdownRenderer } from 'vitepress'
 import { slugify } from '@mdit-vue/shared'
-
+import { renderHref } from './permalink'
 const headLevel = [2, 3]
 
 /**
@@ -15,20 +15,33 @@ export default (md: MarkdownRenderer): void => {
     tokens.forEach((token, idx) => {
       if (token.type === 'heading_open') {
         const level = Number(token.tag.slice(1))
-        const content = tokens[idx + 1].content;
+        const inline = tokens[idx + 1]
 
-        if (headLevel.includes(level)) {
-          token.attrGet('id') &&
-          token.attrSet('id', slugify(content))
-          env.headers.push({
-            level,
-            title: content,
-            slug: token.attrGet('id')
-          })
+        token.attrGet('id') ||
+        token.attrSet('id', slugify(inline.content))
+
+        if (inline.type === 'inline') {
+          for (const child of inline.children) {
+            console.log('child link=>', child.attrGet('href'))
+            if (child.type === 'link_open' &&
+              !cleanAnchor(child.attrGet('href')) &&
+              child.attrGet('class') === 'header-anchor') {
+              child.attrSet('href', renderHref(token.attrGet('id')))
+            }
+          }
         }
 
+        headLevel.includes(level) && env.headers.push({
+          level,
+          title: inline.content,
+          slug: token.attrGet('id')
+        })
       }
     })
     return render(tokens, options, env)
   }
 }
+
+
+const cleanAnchor = (href: string | null = ''): string =>
+  href.replace(/^#/, '')
