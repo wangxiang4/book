@@ -45,7 +45,6 @@ export const useBackTop = (offset = 200) => {
 
   function onResize() {
     if (!isClient) return
-    shouldShow.value = false
     if (isMobile.value) {
       window.addEventListener('scroll', throttleScroll)
     } else {

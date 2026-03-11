@@ -18,7 +18,6 @@ export default (md: MarkdownRenderer): void => {
         const inline = tokens[idx + 1]
 
         token.attrSet('id', slugify(inline.content))
-        console.log(token.attrGet('id'))
         if (inline.type === 'inline') {
           for (const child of inline.children) {
             child.type === 'link_open' &&
