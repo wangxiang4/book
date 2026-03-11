@@ -11,7 +11,7 @@ title: Chapter2 Word Problems – Module4 Work Problems
 - $\textsf{work efficiency}=\frac{\textsf{amount of work}}{\textsf{work time}}$  
   $
   \begin{array}{ll}
-  v=\frac{s}{t} \Longrightarrow \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  v=\frac{s}{t} \Longrightarrow \frac{v_1}{v_2}=\frac{t_2}{t_1} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#textcolor-1e3a5f-fbox-1-basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   $
 :::  
@@ -19,7 +19,7 @@ title: Chapter2 Word Problems – Module4 Work Problems
 - $\textsf{amount of work}=\textsf{work efficiency}\cdot\textsf{work time}$  
   $
   \begin{array}{ll}
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}}
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#textcolor-1e3a5f-fbox-1-basic-formula}{\textsf{straight-line basic formula}}
   \end{array}
   $
 :::  
@@ -27,7 +27,7 @@ title: Chapter2 Word Problems – Module4 Work Problems
 - $\textsf{work time}=\frac{\textsf{amount of work}}{\textsf{work efficiency}}$  
   $
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#textcolor-1e3a5f-fbox-1-basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   $
 :::  

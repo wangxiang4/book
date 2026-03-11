@@ -54,7 +54,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#textcolor-1e3a5f-fbox-1-basic-formula}{\textsf{straight-line basic formula}} \\
   v=v_1-v_2 & \href{/math/core%20course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_9-relative-speed}{\textsf{same-direction relative speed formula}} \\
   v=v_1+v_2 & \href{/math/core%20course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
   \end{array}
@@ -158,8 +158,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  t=\frac{l_{\textsf{train}}+l_{\textsf{bridge}}}{v} & \href{/math/core%20course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#_13-train%E2%80%93bridge-crossing-time-formula}{\textsf{train–bridge crossing time formula}} \\
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{l_{\textsf{train}}+l_{\textsf{bridge}}}{v} & \href{/math/core%20course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#_13-train–bridge-crossing-time-formula}{\textsf{train–bridge crossing time formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#textcolor-1e3a5f-fbox-1-basic-formula}{\textsf{straight-line basic formula}} \\
   \end{array}
   >$
 
@@ -180,7 +180,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#textcolor-1e3a5f-fbox-1-basic-formula}{\textsf{straight-line basic formula}} \\
   \boldsymbol{\frac{v_{a}}{v_{b}}=\frac{s_{a}}{s_{b}}=\frac{s_{b}+n\cdot s}{s_{b}}=1+\frac{n\cdot s}{s_{b}}} \\
   \end{array}
   $  
@@ -206,7 +206,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  t=\frac{s}{v}\Longrightarrow\frac{s_1}{s_2}=\frac{v_1}{v_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#textcolor-1e3a5f-fbox-1-basic-formula}{\textsf{straight-line basic formula}} \\
   \boldsymbol{\frac{v_{a}}{v_{b}}=\frac{s_{a}}{s_{b}}=\frac{n\cdot s-s_{b}}{s_{b}}=\frac{n\cdot s}{s_{b}}-1} \\
   \end{array}
   $  
@@ -277,8 +277,8 @@ $
   >$
   \begin{array}{ll}
   t=\frac{n\cdot s}{v_{a}-v_{b}} & \href{/math/core%20course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#meeting-time}{\textsf{same-direction meeting time formula}} \\
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
-  \frac{v_{a}}{v_{b}}=\frac{s_{a}}{s_{b}}=\frac{s_{b}+n\cdot s}{s_{b}}=1+\frac{n\cdot s}{s_{b}} & \href{/math/core%20course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#same-direction-same-starting-point}{\textsf{same-direction meeting distance formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#textcolor-1e3a5f-fbox-1-basic-formula}{\textsf{straight-line basic formula}} \\
+  \frac{v_{a}}{v_{b}}=\frac{s_{a}}{s_{b}}=\frac{s_{b}+n\cdot s}{s_{b}}=1+\frac{n\cdot s}{s_{b}} & \href{/math/core%20course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#textcolor-1e3a5f-fbox-1-same-direction-same-starting-point}{\textsf{same-direction meeting distance formula}} \\
   \end{array}
   >$
 
@@ -420,7 +420,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  k=\frac{y}{x} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-between-points-and-is}{\textsf{slope of line passing through origin}} \\
+  k=\frac{y}{x} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-between-points-boldsymbol-p-x-y-and-boldsymbol-o-0-0-is-boldsymbol-k-frac-y-x}{\textsf{slope of line passing through origin}} \\
   v=\frac{s}{t} \Longleftrightarrow k=\frac{y}{x} & \boldsymbol{v=k} \\
   \end{array}
   $
@@ -556,7 +556,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/core%20course/9%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part3.html#uniform-motion-1}{v=\frac{s}{t}\textsf{ uniform motion graph}} \\
-  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#basic-formula}{\textsf{straight-line basic formula}} \\
+  s=vt \Longrightarrow \frac{s_1}{s_2}=\frac{t_1}{t_2} & \href{/math/core%20course/7%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part1.html#textcolor-1e3a5f-fbox-1-basic-formula}{\textsf{straight-line basic formula}} \\
   v=v_1+v_2 & \href{/math/core%20course/8%20Chapter2%20word%20problems%20Module3%20distance%20problems%20part2.html#_9-relative-speed}{\textsf{opposite-direction relative speed formula}} \\
   \end{array}
   >$

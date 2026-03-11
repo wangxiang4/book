@@ -644,7 +644,7 @@ $
   \begin{array}{ll}
   \frac{x}{a}+\frac{y}{b}=1 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#intercept-form}{\textsf{intercept form}} \\
   y=kx & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#special-cases}{\textsf{line passing through origin}} \\
-  k=\frac{y}{x} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-between-points-and-is}{\textsf{slope of line passing through origin}} \\
+  k=\frac{y}{x} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-between-points-boldsymbol-p-x-y-and-boldsymbol-o-0-0-is-boldsymbol-k-frac-y-x}{\textsf{slope of line passing through origin}} \\
   \end{array}
   >$
 
