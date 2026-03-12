@@ -57,7 +57,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-method-of-bundling-adjacent-items}{\textsf{adjacent-item bundling method}} \\
-  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient-https-en-wikipedia-org-wiki-multinomial-theorem-boldsymbol-frac-n-k-1-times-k-2-times-cdots-times-k-m}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 
@@ -104,7 +104,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-method-of-bundling-adjacent-items}{\textsf{adjacent-item bundling method}} \\
-  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient-https-en-wikipedia-org-wiki-multinomial-theorem-boldsymbol-frac-n-k-1-times-k-2-times-cdots-times-k-m}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 
@@ -155,7 +155,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-method-of-bundling-adjacent-items}{\textsf{adjacent-item bundling method}} \\
-  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient-https-en-wikipedia-org-wiki-multinomial-theorem-boldsymbol-frac-n-k-1-times-k-2-times-cdots-times-k-m}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 
@@ -210,8 +210,8 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
-  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
-  P_n^m=C_n^m\times m! & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient-https-en-wikipedia-org-wiki-multinomial-theorem-boldsymbol-frac-n-k-1-times-k-2-times-cdots-times-k-m}{\textsf{multinomial coefficient}} \\
+  P_n^m=C_n^m\times m! & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-permutation-formula}{\textsf{permutation formula}} \\
   \end{array}
   >$
 
@@ -255,8 +255,8 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
-  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
-  P_n^m=C_n^m\times m! & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient-https-en-wikipedia-org-wiki-multinomial-theorem-boldsymbol-frac-n-k-1-times-k-2-times-cdots-times-k-m}{\textsf{multinomial coefficient}} \\
+  P_n^m=C_n^m\times m! & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-permutation-formula}{\textsf{permutation formula}} \\
   \end{array}
   >$
 
@@ -301,7 +301,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -354,8 +354,8 @@ $
   \begin{array}{ll}
   & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-method-of-bundling-adjacent-items}{\textsf{adjacent-item bundling method}} \\
   & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
-  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
-  P_n^m=C_n^m\times m! & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient-https-en-wikipedia-org-wiki-multinomial-theorem-boldsymbol-frac-n-k-1-times-k-2-times-cdots-times-k-m}{\textsf{multinomial coefficient}} \\
+  P_n^m=C_n^m\times m! & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-permutation-formula}{\textsf{permutation formula}} \\
   \end{array}
   >$
 
@@ -404,8 +404,8 @@ $
   \begin{array}{ll}
   & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_1-method-of-bundling-adjacent-items}{\textsf{adjacent-item bundling method}} \\
   & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
-  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
-  P_n^m=C_n^m\times m! & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient-https-en-wikipedia-org-wiki-multinomial-theorem-boldsymbol-frac-n-k-1-times-k-2-times-cdots-times-k-m}{\textsf{multinomial coefficient}} \\
+  P_n^m=C_n^m\times m! & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-permutation-formula}{\textsf{permutation formula}} \\
   \end{array}
   >$
 
@@ -461,7 +461,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
-  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient-https-en-wikipedia-org-wiki-multinomial-theorem-boldsymbol-frac-n-k-1-times-k-2-times-cdots-times-k-m}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 
@@ -504,7 +504,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#_3-method-of-inserting-alternating-items}{\textsf{alternating item insertion method}} \\
-  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient-https-en-wikipedia-org-wiki-multinomial-theorem-boldsymbol-frac-n-k-1-times-k-2-times-cdots-times-k-m}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 
@@ -589,8 +589,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_{n-1}^{m-1} & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars method}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_{n-1}^{m-1} & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-3-formula}{\textsf{restricted stars and bars method}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -631,9 +631,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_{n-1}^{m-1} & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars method}} \\
-  C_n^m=C_n^{n-m} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#properties-of-combinations}{\textsf{property of combinations}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_{n-1}^{m-1} & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-3-formula}{\textsf{restricted stars and bars method}} \\
+  C_n^m=C_n^{n-m} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-4-properties-of-combinations}{\textsf{property of combinations}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -675,8 +675,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_{n-1}^{m-1} & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars method}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_{n-1}^{m-1} & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-3-formula}{\textsf{restricted stars and bars method}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -732,9 +732,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_{n-1}^{m-1} & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{restricted stars and bars method}} \\
-  C_{n+m-1}^{m-1} & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#formula}{\textsf{unrestricted stars and bars method}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_{n-1}^{m-1} & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-3-formula}{\textsf{restricted stars and bars method}} \\
+  C_{n+m-1}^{m-1} & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-3-formula}{\textsf{unrestricted stars and bars method}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -807,7 +807,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  m^n & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#usage}{\textsf{repeated-object power method}} \\
+  m^n & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-3-usage}{\textsf{repeated-object power method}} \\
   \end{array}
   >$
 
@@ -856,7 +856,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  m^n & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#usage}{\textsf{repeated-object power method}} \\
+  m^n & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-3-usage}{\textsf{repeated-object power method}} \\
   \end{array}
   >$
 
@@ -895,7 +895,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  m^n & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#usage}{\textsf{repeated-object power method}} \\
+  m^n & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-3-usage}{\textsf{repeated-object power method}} \\
   \end{array}
   >$
 
@@ -966,8 +966,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{4\textsf{ incorrect matches: }9\textsf{ ways}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-2-description-2}{4\textsf{ incorrect matches: }9\textsf{ ways}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -1008,8 +1008,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{4\textsf{ incorrect matches: }9\textsf{ ways}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-2-description-2}{4\textsf{ incorrect matches: }9\textsf{ ways}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -1056,14 +1056,14 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{\textsf{correct matches: }1\textsf{ ways}} \\
-  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{2\textsf{ incorrect matches: }1\textsf{ ways}} \\
-  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{3\textsf{ incorrect matches: }2\textsf{ ways}} \\
-  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{4\textsf{ incorrect matches: }9\textsf{ ways}} \\
-  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{5\textsf{ incorrect matches: }44\textsf{ ways}} \\
-  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#description-2}{6\textsf{ incorrect matches: }265\textsf{ ways}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
-  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient}{\textsf{multinomial coefficient}} \\
+  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-2-description-2}{\textsf{correct matches: }1\textsf{ ways}} \\
+  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-2-description-2}{2\textsf{ incorrect matches: }1\textsf{ ways}} \\
+  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-2-description-2}{3\textsf{ incorrect matches: }2\textsf{ ways}} \\
+  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-2-description-2}{4\textsf{ incorrect matches: }9\textsf{ ways}} \\
+  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-2-description-2}{5\textsf{ incorrect matches: }44\textsf{ ways}} \\
+  & \href{/math/core%20course/31%20Chapter9%20permutations%20and%20combinations%20Module2%20six%20fundamental%20methods.html#textcolor-1e3a5f-fbox-2-description-2}{6\textsf{ incorrect matches: }265\textsf{ ways}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
+  \frac{n!}{k_1!\times k_2!\times\cdots \times k_m!} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#multinomial-coefficient-https-en-wikipedia-org-wiki-multinomial-theorem-boldsymbol-frac-n-k-1-times-k-2-times-cdots-times-k-m}{\textsf{multinomial coefficient}} \\
   \end{array}
   >$
 

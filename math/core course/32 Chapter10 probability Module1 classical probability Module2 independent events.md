@@ -144,7 +144,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#impossible-event-an-event-that-never-occurs-in-any-trial-denoted-by}{\textsf{impossible event}} \\
+  & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#impossible-event-an-event-that-never-occurs-in-any-trial-denoted-by-boldsymbol-varnothing}{\textsf{impossible event}} \\
   & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_2-random-event}{\textsf{random event}} \\
   \end{array}
   >$
@@ -203,7 +203,7 @@ $
   & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_10-sampling-methods}{\textsf{single sampling method}} \\
   & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_10-sampling-methods}{\textsf{sequential sampling method}} \\
   P(A) = \frac{k}{n} & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_7-formula}{\textsf{classical probability formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   P(\overline{A})=1-P(A) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_5-properties-of-probability}{\textsf{complementary probability}} \\
   P(A)+P(\overline{A})=1 & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_6-classical-probability-experiment}{\textsf{classical probability experiment}} \\
   \end{array}
@@ -255,7 +255,7 @@ $
   \begin{array}{ll}
   P(\bigcup_{i=1}^{n}A_i)=\sum_{i=1}^{n}P(A_i) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_5-properties-of-probability}{\textsf{union probability of mutually exclusive events}} \\
   P(A) = \frac{k}{n} & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_7-formula}{\textsf{classical probability formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -306,7 +306,7 @@ $
   & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_11-sampling-with-numbered-samples}{\textsf{sampling with numbers listing method}} \\
   & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_10-sampling-methods}{\textsf{sequential sampling method}} \\
   P(A) = \frac{k}{n} & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_7-formula}{\textsf{classical probability formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -369,7 +369,7 @@ $
   \begin{array}{ll}
   & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_11-sampling-with-numbered-samples}{\textsf{sampling with numbers listing method}} \\
   P(A) = \frac{k}{n} & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_7-formula}{\textsf{classical probability formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -411,7 +411,7 @@ $
   $P(\bigcup_{i=1}^{n}A_i)=1-\prod_{i=1}^{n}P(\overline{A_i})$
 
 
-## 5.Focus 1
+## 3.Focus 1
 __The templates for two independent events__  
 - The probability that $A$ and $B$ occur simultaneously is $\boldsymbol{P_1\times P_2}$
 - The probability that $A$ and $B$ both do not occur is $\boldsymbol{(1-P_1)\times(1-P_2)}$
@@ -451,14 +451,14 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P_1\times(1-P_2)+P_2\times(1-P_1) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_5-focus-1}{\textsf{union probability of mutually exclusive events}} \\
+  P_1\times(1-P_2)+P_2\times(1-P_1) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_3-focus-1}{\textsf{union probability of mutually exclusive events}} \\
   \end{array}
   >$
 
   :::
 ---
 
-## 6.Focus 2
+## 4.Focus 2
 __The templates for three independent events__  
 ::: wrap  
 - The probability that $A, B$, and $C$ occur simultaneously is $\boldsymbol{P_1\times P_2\times P_3}$
@@ -500,7 +500,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  1-P_1\times P_2\times P_3 & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_6-focus-2}{\textsf{probability of at most two independent event}} \\
+  1-P_1\times P_2\times P_3 & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_4-focus-2}{\textsf{probability of at most two independent event}} \\
   \end{array}
   >$
 
@@ -555,8 +555,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P_1\times(1-P_2)+P_2\times(1-P_1) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_5-focus-1}{\textsf{union probability of mutually exclusive events}} \\
-  1-(1-P_1)\times(1-P_2) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_5-focus-1}{\textsf{probability of at least one independent event}} \\
+  P_1\times(1-P_2)+P_2\times(1-P_1) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_3-focus-1}{\textsf{union probability of mutually exclusive events}} \\
+  1-(1-P_1)\times(1-P_2) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_3-focus-1}{\textsf{probability of at least one independent event}} \\
   \end{array}
   >$
 
@@ -595,7 +595,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  1-(1-P_1)\times(1-P_2)\times(1-P_3) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_6-focus-2}{\textsf{probability of at least one independent event}} \\
+  1-(1-P_1)\times(1-P_2)\times(1-P_3) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_4-focus-2}{\textsf{probability of at least one independent event}} \\
   \end{array}
   >$
 
@@ -655,14 +655,14 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  1-(1-P_1)\times(1-P_2) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_5-focus-1}{\textsf{probability of at least one independent event}} \\
+  1-(1-P_1)\times(1-P_2) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_3-focus-1}{\textsf{probability of at least one independent event}} \\
   \end{array}
   >$
 
   :::
 ---
 
-## 8.Focus 4
+## 5.Focus 3
 __The competition template__  
 - For __competition problems__,
   __first draw the result diagram for each round of the competition__,
@@ -823,7 +823,7 @@ $
   :::  
 ---
 
-## 9.Focus 5
+## 6.Focus 4
 __The circuit template__  
 - __Series circuit__:
   __The probability that the system operates successfully__ equals
@@ -875,7 +875,7 @@ $
   >$
   \begin{array}{ll}
   P(\bigcap_{i=1}^{n}A_i)=\prod_{i=1}^{n}P(A_i) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_2-usage}{\textsf{simultaneous probability of independent events}} \\
-  1-(1-P_1)\times(1-P_2)\times(1-P_3) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_6-focus-2}{\textsf{probability of at least one independent event}} \\
+  1-(1-P_1)\times(1-P_2)\times(1-P_3) & \href{/math/core%20course/32%20Chapter10%20probability%20Module1%20classical%20probability%20Module2%20independent%20events.html#_4-focus-2}{\textsf{probability of at least one independent event}} \\
   \end{array}
   >$
 

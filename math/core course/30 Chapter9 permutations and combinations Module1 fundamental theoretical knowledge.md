@@ -115,7 +115,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  N=m_1+m_2+\cdots+m_n & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#definition}{\textsf{addition principle}} \\
+  N=m_1+m_2+\cdots+m_n & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-1-definition}{\textsf{addition principle}} \\
   \end{array}
   >$
 
@@ -172,7 +172,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  N=m_1+m_2+\cdots+m_n & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#definition}{\textsf{addition principle}} \\
+  N=m_1+m_2+\cdots+m_n & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-1-definition}{\textsf{addition principle}} \\
   \end{array}
   >$
 
@@ -202,7 +202,7 @@ $
            [9,8,7] \\
            \end{array}
   > $
-  >   - __[Combination formula](/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#number-of-combinations)__ $\boldsymbol{C_n^m=\frac{n!}{m!(n-m)!}}$
+  >   - __[Combination formula](/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-2-number-of-combinations)__ $\boldsymbol{C_n^m=\frac{n!}{m!(n-m)!}}$
   >     - __order does not matter, remove duplicates caused by different orders__
   > - __All distinct items can only be arranged using the multinomial coefficient $\boldsymbol{\frac{n!}{k_1!\times k_2!\times\cdots \times k_m!}=n!}$__
   >   - __combination formula not applicable, ignores order, removes ordered duplicates__
@@ -254,7 +254,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  N=m_1\times m_2\times\cdots\times m_n & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#_2-principle-of-counting-by-steps-multiplication-principle}{\textsf{multiplication principle}} \\
+  N=m_1\times m_2\times\cdots\times m_n & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-1-definition-1}{\textsf{multiplication principle}} \\
   \end{array}
   >$
 
@@ -319,9 +319,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  N=m_1\times m_2\times\cdots\times m_n & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#_2-principle-of-counting-by-steps-multiplication-principle}{\textsf{multiplication principle}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
-  N=m_1+m_2+\cdots+m_n & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#definition}{\textsf{addition principle}} \\
+  N=m_1\times m_2\times\cdots\times m_n & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-1-definition-1}{\textsf{multiplication principle}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
+  N=m_1+m_2+\cdots+m_n & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-1-definition}{\textsf{addition principle}} \\
   \end{array}
   >$
 
@@ -437,7 +437,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -505,8 +505,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=C_n^{n-m} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#properties-of-combinations}{\textsf{property of combinations}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_n^m=C_n^{n-m} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-4-properties-of-combinations}{\textsf{property of combinations}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \frac{n(n+1)}{2} & \href{https://letstalkscience.ca/educational-resources/backgrounders/gauss-summation}{\textsf{gauss summation}} \\
   \end{array}
   >$
@@ -564,8 +564,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll} 
-  P_n^m=C_n^m\times m! & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  P_n^m=C_n^m\times m! & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-permutation-formula}{\textsf{permutation formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -618,7 +618,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -657,7 +657,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#combination-formula}{\textsf{combination formula}} \\
+  C_n^m=\frac{n(n-1)\cdots(n-m+1)}{m(m-1)\cdots\times2\times1} & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-combination-formula}{\textsf{combination formula}} \\
   \end{array}
   >$
 
@@ -696,7 +696,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  P_n^m=C_n^m\times m! & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#permutation-formula}{\textsf{permutation formula}} \\
+  P_n^m=C_n^m\times m! & \href{/math/core%20course/30%20Chapter9%20permutations%20and%20combinations%20Module1%20fundamental%20theoretical%20knowledge.html#textcolor-1e3a5f-fbox-3-permutation-formula}{\textsf{permutation formula}} \\
   \end{array}
   >$
 
