@@ -943,12 +943,12 @@ $
     ::: wrap  
     $
     \begin{array}{ll}
-    V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+    V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone-v-frac-1-3-pi-r-2h}{\textsf{cone volume formula}} \\
     V=\frac{1}{3}(S_1r+S_2r+S_3r) & \href{https://www.mathsisfun.com/geometry/volume.html}{\textsf{what is volume}} \\
     V=\frac{r}{3}(S_1+S_2+S_3) \\
     3V=r(S_1+S_2+S_3) \\
     r=\frac{3V}{(S_1+S_2+S_3)} \\
-    S_{\textsf{total}}=(S_1+S_2+S_3)=\pi r(l+r) & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#total-surface-area-of-a-cone}{\textsf{cone total surface area formula}}\\
+    S_{\textsf{total}}=(S_1+S_2+S_3)=\pi r(l+r) & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#total-surface-area-of-a-cone-s-textsf-total-pi-r-l-r}{\textsf{cone total surface area formula}}\\
     \end{array}
     $  
     :::
@@ -966,7 +966,7 @@ $
   r^2+h^2-2hR=0 \\
   2hR=r^2+h^2 \\
   R=\frac{r^2+h^2}{2h} \\
-  l=\sqrt{h^2+r^2} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#slant-height-of-a-cone}{\textsf{cone slant height}} \\
+  l=\sqrt{h^2+r^2} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#slant-height-of-a-cone-l-sqrt-h-2-r-2}{\textsf{cone slant height}} \\
   \frac{r^2+h^2}{2h}=\frac{l^2}{2h} \\
   \end{array}
   $  
@@ -1011,8 +1011,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  l=\sqrt{h^2+r^2} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#slant-height-of-a-cone}{\textsf{cone slant height}} \\
-  S_{\textsf{lateral}}=\pi rl & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#lateral-surface-area-of-a-cone}{\textsf{cone lateral surface area formula}} \\
+  l=\sqrt{h^2+r^2} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#slant-height-of-a-cone-l-sqrt-h-2-r-2}{\textsf{cone slant height}} \\
+  S_{\textsf{lateral}}=\pi rl & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#lateral-surface-area-of-a-cone-s-textsf-lateral-pi-rl}{\textsf{cone lateral surface area formula}} \\
   \end{array}
   >$
 
@@ -1055,8 +1055,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \theta=\frac{2\pi r}{l} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#central-angle-of-the-developed-sector}{\textsf{cone sector central angle formula}} \\
-  S_{\textsf{lateral}}=\pi rl & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#lateral-surface-area-of-a-cone}{\textsf{cone lateral surface area formula}} \\
+  \theta=\frac{2\pi r}{l} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#central-angle-of-the-developed-sector-theta-frac-2-pi-r-l}{\textsf{cone sector central angle formula}} \\
+  S_{\textsf{lateral}}=\pi rl & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#lateral-surface-area-of-a-cone-s-textsf-lateral-pi-rl}{\textsf{cone lateral surface area formula}} \\
   \end{array}
   >$
 
@@ -1105,7 +1105,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \theta=\frac{2\pi r}{l} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#central-angle-of-the-developed-sector}{\textsf{cone sector central angle formula}} \\
+  \theta=\frac{2\pi r}{l} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#central-angle-of-the-developed-sector-theta-frac-2-pi-r-l}{\textsf{cone sector central angle formula}} \\
   c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
   \end{array}
   >$
@@ -1166,7 +1166,7 @@ $
   >$
   \begin{array}{ll}
   (9,12,15) & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples-boldsymbol-3-4-5-boldsymbol-6-8-10-boldsymbol-5-12-13-boldsymbol-7-24-25-boldsymbol-8-15-17-boldsymbol-9-12-15}{\textsf{common pythagorean triples}} \\
-  \theta=\frac{2\pi r}{l} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#central-angle-of-the-developed-sector}{\textsf{cone sector central angle formula}} \\
+  \theta=\frac{2\pi r}{l} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#central-angle-of-the-developed-sector-theta-frac-2-pi-r-l}{\textsf{cone sector central angle formula}} \\
   \end{array}
   >$
 
@@ -1214,7 +1214,7 @@ $
   \begin{array}{ll}
   S=\frac{\sqrt{3}}{4}a^2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#the-area-of-an-equilateral-triangle-is-boldsymbol-s-frac-sqrt-3-4-a-2-where-boldsymbol-a-is-the-side-length}{\textsf{equilateral triangle area formula}} \\
   x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{n-th root property} \\
-  S_{\textsf{total}}=\pi r(l+r) & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#total-surface-area-of-a-cone}{\textsf{cone total surface area formula}}\\
+  S_{\textsf{total}}=\pi r(l+r) & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#total-surface-area-of-a-cone-s-textsf-total-pi-r-l-r}{\textsf{cone total surface area formula}}\\
   \end{array}
   >$
 
@@ -1259,7 +1259,7 @@ $
   >$
   \begin{array}{ll}
   1:\sqrt{3}:2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#in-a-boldsymbol-30-circ-60-circ-90-circ-right-triangle-the-ratio-of-the-three-sides-is-boldsymbol-1-sqrt-3-2}{\textsf{30-60-90 right triangle}} \\
-  V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+  V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone-v-frac-1-3-pi-r-2h}{\textsf{cone volume formula}} \\
   \end{array}
   >$
 
@@ -1303,8 +1303,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{h_1}{h}=\frac{r_1}{r} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#properties-of-a-cross-section-parallel-to-the-base}{\textsf{properties of parallel cross-sections of cones}} \\
-  V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+  \frac{h_1}{h}=\frac{r_1}{r} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#properties-of-a-cross-section-parallel-to-the-base-frac-s-1-s-frac-h-1-2-h-2-frac-v-1-v-frac-h-1-3-h-3}{\textsf{properties of parallel cross-sections of cones}} \\
+  V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone-v-frac-1-3-pi-r-2h}{\textsf{cone volume formula}} \\
   \end{array}
   >$
 
@@ -1347,7 +1347,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+  V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone-v-frac-1-3-pi-r-2h}{\textsf{cone volume formula}} \\
   V=\pi r^2h & \href{/math/core%20course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_2-formulas-for-cylinders}{\textsf{cylinder volume formula}} \\
   \end{array}
   >$
@@ -1390,7 +1390,7 @@ $
   >$
   \begin{array}{ll}
   (6,8,10) & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples-boldsymbol-3-4-5-boldsymbol-6-8-10-boldsymbol-5-12-13-boldsymbol-7-24-25-boldsymbol-8-15-17-boldsymbol-9-12-15}{\textsf{common pythagorean triples}} \\
-  R=\frac{l^2}{2h} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#circumscribed-sphere-radius-formula}{\textsf{circumscribed sphere radius formula}} \\
+  R=\frac{l^2}{2h} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#circumscribed-sphere-radius-formula-boldsymbol-r-frac-r-2-h-2-2h-frac-l-2-2h}{\textsf{circumscribed sphere radius formula}} \\
   S=4\pi r^2 & \href{/math/core%20course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_1-volume-and-surface-area}{\textsf{sphere surface area formula}} \\
   \end{array}
   >$
@@ -1405,7 +1405,7 @@ $
   r=\frac{2\cdot48}{10+10+12}=\frac{96}{32}=3 \\
   S=4\pi r^2=4\pi3^2=36\pi \\
   S=\frac{1}{2}ah & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#textcolor-1e3a5f-fbox-1-small-s-frac-1-2-ah-where-small-h-is-the-altitude-to-side-small-a}{\textsf{triangle area formula}} \\
-  r=\frac{2S}{c} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#inscribed-circle-radius-formula-where-is-the-area-of-the-axial-cross-section-triangle-and-is-its-perimeter}{\textsf{inscribed circle radius formula}} \\
+  r=\frac{2S}{c} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#inscribed-circle-radius-formula-boldsymbol-r-frac-2s-c-where-s-is-the-area-of-the-axial-cross-section-triangle-and-c-is-its-perimeter}{\textsf{inscribed circle radius formula}} \\
   \end{array}
   >$
 
@@ -1458,10 +1458,10 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  r=\frac{\sqrt{3}a}{6} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#inscribed-circle-radius-formula-where-is-the-area-of-the-axial-cross-section-triangle-and-is-its-perimeter}{\textsf{inscribed circle radius formula}} \\
-  h=\frac{\sqrt{3}}{2}a & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#the-ratio-of-the-height-to-the-side-is}{\textsf{equilateral triangle height-side ratio formula}} \\
+  r=\frac{\sqrt{3}a}{6} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#inscribed-circle-radius-formula-boldsymbol-r-frac-2s-c-where-s-is-the-area-of-the-axial-cross-section-triangle-and-c-is-its-perimeter}{\textsf{inscribed circle radius formula}} \\
+  h=\frac{\sqrt{3}}{2}a & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#the-ratio-of-the-height-to-the-side-is-boldsymbol-sqrt-3-2-frac-sqrt-3-2-1}{\textsf{equilateral triangle height-side ratio formula}} \\
   1:\sqrt{3}:2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#in-a-boldsymbol-30-circ-60-circ-90-circ-right-triangle-the-ratio-of-the-three-sides-is-boldsymbol-1-sqrt-3-2}{\textsf{30-60-90 right triangle}} \\
-  V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+  V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone-v-frac-1-3-pi-r-2h}{\textsf{cone volume formula}} \\
   V=\frac{4}{3}\pi r^3 & \href{/math/core%20course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_1-volume-and-surface-area}{\textsf{sphere volume formula}} \\
   \end{array}
   >$
@@ -1504,7 +1504,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
+  V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone-v-frac-1-3-pi-r-2h}{\textsf{cone volume formula}} \\
   V=abc & \href{/math/core%20course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#let-the-three-adjacent-edges-have-lengths-boldsymbol-a-b-and-boldsymbol-c}{\textsf{cuboid volume formula}} \\
   \end{array}
   >$
