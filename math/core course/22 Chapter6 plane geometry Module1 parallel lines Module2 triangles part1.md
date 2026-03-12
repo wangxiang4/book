@@ -434,7 +434,7 @@ $
   AB=AC & \href{https://www.mathsisfun.com/definitions/isosceles-triangle.html}{\textsf{isosceles triangle}} \\
   \angle C= 90^\circ & \href{https://www.mathsisfun.com/right_angle_triangle.html}{\textsf{right triangle}} \\
   90^\circ=\frac{\pi}{2} & \href{https://www.mathsisfun.com/geometry/radians.html}{\textsf{degree-to-radian conversion}} \\
-  \angle A + \angle B = \textsf{exterior}\angle & \href{/math/core%20course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_1-sum-of-interior-angles-for-a-triangle}{\textsf{triangle exterior angle}} \\ 
+  \angle A + \angle B = \textsf{exterior}\angle & \href{/math/core%20course/22%20Chapter6%20plane%20geometry%20Module1%20parallel%20lines%20Module2%20triangles%20part1.html#_1-sum-of-interior-angles-of-a-triangle}{\textsf{triangle exterior angle}} \\ 
   \end{array}
   >$
 

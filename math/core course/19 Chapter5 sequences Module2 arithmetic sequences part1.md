@@ -28,7 +28,7 @@ title: Chapter5 Sequences – Module2 Arithmetic Sequences (Part1)
 :::
 - ###### Note: if __two terms are known__, __the common difference__ can be found by $\boldsymbol{d=\frac{a_n-a_m}{n-m}}$
 - Special case: $\boldsymbol{d=0}$, $a_n$ is __a constant__
-- ###### $\boldsymbol{a_n=nd+a_1-d}$ can be regarded as __a linear function $\href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#slope-intercept-form}{\boldsymbol{y=kx+b}}$__  
+- ###### $\boldsymbol{a_n=nd+a_1-d}$ can be regarded as __a linear function $\href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-1-slope-intercept-form}{\boldsymbol{y=kx+b}}$__  
   ::: wrap  
   $
   \begin{array}{ll}
@@ -214,7 +214,7 @@ title: Chapter5 Sequences – Module2 Arithmetic Sequences (Part1)
   \begin{array}{ll}
   S_n=\frac{a_1+a_n}{2}n \\
   \frac{S_{2k-1}}{T_{2k-1}}=\frac{\frac{a_1+a_{2k-1}}{2}(2k-1)}{\frac{b_1+b_{2k-1}}{2}(2k-1)} \\
-  a_1+a_{2k-1}=2a_k & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
+  a_1+a_{2k-1}=2a_k & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#textcolor-1e3a5f-fbox-1-if-small-m-n-k-t-then-small-a-m-a-n-a-k-a-t}{\textsf{property of arithmetic sequence terms}} \\
   \frac{\frac{\bcancel{2}a_k}{\bcancel{2}}\bcancel{(2k-1)}}{\frac{\bcancel{2}b_k}{\bcancel{2}}\bcancel{(2k-1)}}=\frac{a_k}{b_k} \\
   \end{array}
   $  
@@ -317,7 +317,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_n=d\cdot n+b & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#can-be-regarded-as-a-linear-function}{\textsf{general term as a linear function}} \\
+  a_n=d\cdot n+b & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#boldsymbol-a-n-nd-a-1-d-can-be-regarded-as-a-linear-function-href-math-core-20course-26-20chapter7-20analytic-20geometry-20module1-20cartesian-20coordinate-20system-20module2-20straight-20lines-20part1-html-textcolor-1e3a5f-fbox-1-slope-intercept-form-boldsymbol-y-kx-b}{\textsf{general term as a linear function}} \\
   a_n=a_1+(n-1)d=a_k+(n-k)d=nd+a_1-d & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_2-general-term}{\textsf{general term formula}} \\
   a^2-b^2=(a-b)(a+b) & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{difference of squares formula}} \\
   \end{array}
@@ -463,7 +463,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_m+a_n=a_k+a_t & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
+  a_m+a_n=a_k+a_t & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#textcolor-1e3a5f-fbox-1-if-small-m-n-k-t-then-small-a-m-a-n-a-k-a-t}{\textsf{property of arithmetic sequence terms}} \\
   \end{array}
   >$
 
@@ -474,7 +474,7 @@ $
   \begin{array}{ll}
   a_3=7 \\
   a_5=13 \\
-  d=\frac{13-7}{5-3}=\frac{6}{2}=3 & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{common difference formula}} \\
+  d=\frac{13-7}{5-3}=\frac{6}{2}=3 & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#note-if-two-terms-are-known-the-common-difference-can-be-found-by-boldsymbol-d-frac-a-n-a-m-n-m}{\textsf{common difference formula}} \\
   a_4=7+(4-3)3=10 & a_n=a_k+(n-k)d \\
   a_4+a_5=10+13=23 \\
   \end{array}
@@ -517,7 +517,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_m+a_n=a_k+a_t & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
+  a_m+a_n=a_k+a_t & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#textcolor-1e3a5f-fbox-1-if-small-m-n-k-t-then-small-a-m-a-n-a-k-a-t}{\textsf{property of arithmetic sequence terms}} \\
   \end{array}
   >$
 
@@ -610,13 +610,13 @@ $
   \begin{cases}
   a_1=S_1 & n=1 \\
   S_n-S_{n-1} & n \ge 2 \\
-  \end{cases} & \href{/math/core%20course/18%20Chapter5%20sequences%20Module1%20sequences.html#given-find}{S_n\textsf{ to general term }a_n\textsf{ formula}} \\
+  \end{cases} & \href{/math/core%20course/18%20Chapter5%20sequences%20Module1%20sequences.html#given-s-n-find-a-n}{S_n\textsf{ to general term }a_n\textsf{ formula}} \\
   (a-b)^2=a^2-2ab+b^2 & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   a_n=
   \begin{cases}
   S_1=a+b+c & n=1 \\
   2an+(b-a) & n \ge 2 \\
-  \end{cases} & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#derivation-of-the-formula-from-quadratic-to-linear}{\textsf{quadratic }S_n\textsf{ to linear }a_n\textsf{ formula}} \\
+  \end{cases} & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#derivation-of-the-formula-from-quadratic-s-n-to-linear-a-n}{\textsf{quadratic }S_n\textsf{ to linear }a_n\textsf{ formula}} \\
   \end{array}
   >$
 
@@ -710,8 +710,8 @@ $
   S_n=na_1 & d=0 \\
   an^2+bn & d \ne 0 \\
   \end{cases}
-  & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#can-be-regarded-as-a-quadratic-function}{\textsf{arithmetic series sum as a quadratic function}} \\
-  S_n=an^2+bn \longrightarrow a_n=2an+(b-a) & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#derivation-of-the-formula-from-quadratic-to-linear}{\textsf{quadratic }S_n\textsf{ to linear }a_n\textsf{ formula}} \\
+  & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#s-n-frac-d-2-n-2-a-1-frac-d-2-n-can-be-regarded-as-a-quadratic-function-href-math-core-20course-15-20chapter3-20polynomials-20rational-20expressions-20functions-20module2-20rational-20expressions-20module3-20quadratic-20functions-html-1-three-forms-of-a-quadratic-function-boldsymbol-y-ax-2-bx-c}{\textsf{arithmetic series sum as a quadratic function}} \\
+  S_n=an^2+bn \longrightarrow a_n=2an+(b-a) & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#derivation-of-the-formula-from-quadratic-s-n-to-linear-a-n}{\textsf{quadratic }S_n\textsf{ to linear }a_n\textsf{ formula}} \\
   \end{array}
   >$
 
@@ -753,7 +753,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S_n=\frac{a_1+a_n}{2}n & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
+  S_n=\frac{a_1+a_n}{2}n & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-n-terms}{\textsf{arithmetic series sum formula}} \\
   \end{array}
   >$
 
@@ -804,9 +804,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  d=\frac{a_n-a_m}{n-m} & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{common difference formula}} \\
+  d=\frac{a_n-a_m}{n-m} & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#note-if-two-terms-are-known-the-common-difference-can-be-found-by-boldsymbol-d-frac-a-n-a-m-n-m}{\textsf{common difference formula}} \\
   a_n=a_k+(n-k)d & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_2-general-term}{\textsf{general term formula}} \\
-  S_n=na_1+\frac{n(n-1)}{2}d=\frac{d}{2}n^2+(a_1-\frac{d}{2})n & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
+  S_n=na_1+\frac{n(n-1)}{2}d=\frac{d}{2}n^2+(a_1-\frac{d}{2})n & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-n-terms}{\textsf{arithmetic series sum formula}} \\
   \end{array}
   >$
 
@@ -860,8 +860,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S_n=na_1+\frac{n(n-1)}{2}d=\frac{d}{2}n^2+(a_1-\frac{d}{2})n & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
-  x=-\frac{b}{2a} & \href{/math/core%20course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#axis-of-symmetry}{\textsf{axis of symmetry}} \\
+  S_n=na_1+\frac{n(n-1)}{2}d=\frac{d}{2}n^2+(a_1-\frac{d}{2})n & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-n-terms}{\textsf{arithmetic series sum formula}} \\
+  x=-\frac{b}{2a} & \href{/math/core%20course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#axis-of-symmetry-boldsymbol-x-frac-b-2a}{\textsf{axis of symmetry}} \\
   \end{array}
   >$
 
@@ -921,8 +921,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_m+a_n=a_k+a_t & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#if-then}{\textsf{property of arithmetic sequence terms}} \\
-  S_n=\frac{a_1+a_n}{2}n & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-terms}{\textsf{arithmetic series sum formula}} \\
+  a_m+a_n=a_k+a_t & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#textcolor-1e3a5f-fbox-1-if-small-m-n-k-t-then-small-a-m-a-n-a-k-a-t}{\textsf{property of arithmetic sequence terms}} \\
+  S_n=\frac{a_1+a_n}{2}n & \href{/math/core%20course/19%20Chapter5%20sequences%20Module2%20arithmetic%20sequences%20part1.html#_3-sum-of-the-first-n-terms}{\textsf{arithmetic series sum formula}} \\
   \end{array}
   >$
 

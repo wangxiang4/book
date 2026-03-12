@@ -223,7 +223,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S=\frac{1}{2}ab\textsf{sin}C & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-included-angle-between-sides-and}{\textsf{triangle area formula (included angle)}} \\
+  S=\frac{1}{2}ab\textsf{sin}C & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#textcolor-1e3a5f-fbox-2-small-s-frac-1-2-ab-textsf-sin-c-where-small-c-is-the-included-angle-between-sides-small-a-and-small-b}{\textsf{triangle area formula (included angle)}} \\
   \end{array}
   >$
 
@@ -263,7 +263,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S=\frac{1}{2}ab\textsf{sin}C & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-included-angle-between-sides-and}{\textsf{triangle area formula (included angle)}} \\
+  S=\frac{1}{2}ab\textsf{sin}C & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#textcolor-1e3a5f-fbox-2-small-s-frac-1-2-ab-textsf-sin-c-where-small-c-is-the-included-angle-between-sides-small-a-and-small-b}{\textsf{triangle area formula (included angle)}} \\
   \end{array}
   >$
 
@@ -311,7 +311,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S=\sqrt{p(p-a)(p-b)(p-c)} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where}{\textsf{heron's formula}} \\
+  S=\sqrt{p(p-a)(p-b)(p-c)} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#textcolor-1e3a5f-fbox-3-small-s-sqrt-p-p-a-p-b-p-c-where-small-p-frac-1-2-a-b-c}{\textsf{heron's formula}} \\
   \end{array}
   >$
 
@@ -353,7 +353,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  S=\frac{1}{2}ab\textsf{sin}C & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-included-angle-between-sides-and}{\textsf{triangle area formula (included angle)}} \\
+  S=\frac{1}{2}ab\textsf{sin}C & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#textcolor-1e3a5f-fbox-2-small-s-frac-1-2-ab-textsf-sin-c-where-small-c-is-the-included-angle-between-sides-small-a-and-small-b}{\textsf{triangle area formula (included angle)}} \\
   \frac{S_{\triangle ADE}}{S_{\triangle ABC}}=\frac{\cancel{\frac{1}{2}}AD\cdot AE\cdot \cancel{\textsf{sin}A}}{\cancel{\frac{1}{2}}AB\cdot AC\cdot \cancel{\textsf{sin}A}}=\frac{AD\cdot AE}{AB\cdot AC} \\
   \end{array}
   $  

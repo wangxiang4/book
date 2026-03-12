@@ -39,7 +39,7 @@ title: Chapter7 Analytic Geometry – Module1 Cartesian Coordinate System, Modul
   ::: wrap  
   $
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
   AB=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} \\
   \end{array}
   $  
@@ -445,7 +445,7 @@ $
   \begin{array}{ll}
   \frac{x-x_1}{x_2-x_1}=\frac{y-y_1}{y_2-y_1} & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
   y-y_1=\frac{x-x_1}{x_2-x_1}(y_2-y_1) \\
-  y-y_1=\underbrace{\frac{y_2-y_1}{x_2-x_1}}_{k}(x-x_1) &\href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#point-slope-form}{\textsf{point-slope form}} \\
+  y-y_1=\underbrace{\frac{y_2-y_1}{x_2-x_1}}_{k}(x-x_1) &\href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-2-point-slope-form}{\textsf{point-slope form}} \\
   \end{array}
   $  
   :::
@@ -480,7 +480,7 @@ $
   by=-c \\
   y=-\frac{c}{b} \\
   \textsf{triangle area formed by intercepts} \\
-  S=\frac{1}{2}\cdot -\frac{c}{a}\cdot -\frac{c}{b} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}}\\
+  S=\frac{1}{2}\cdot -\frac{c}{a}\cdot -\frac{c}{b} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#textcolor-1e3a5f-fbox-1-small-s-frac-1-2-ah-where-small-h-is-the-altitude-to-side-small-a}{\textsf{triangle area formula}}\\
   S=\frac{c^2}{2|ab|} \\
   \end{array}
   $  
@@ -535,9 +535,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{x}{a}+\frac{y}{b}=1 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#intercept-form}{\textsf{intercept form}} \\
-  y=y_0+k(x-x_0) & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#point-slope-form}{\textsf{point-slope form}} \\
-  ax+by+c=0 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#general-form}{\textsf{line general form}} \\
+  \frac{x}{a}+\frac{y}{b}=1 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-3-intercept-form}{\textsf{intercept form}} \\
+  y=y_0+k(x-x_0) & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-2-point-slope-form}{\textsf{point-slope form}} \\
+  ax+by+c=0 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-5-general-form}{\textsf{line general form}} \\
   \end{array}
   >$
 
@@ -642,7 +642,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{x}{a}+\frac{y}{b}=1 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#intercept-form}{\textsf{intercept form}} \\
+  \frac{x}{a}+\frac{y}{b}=1 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-3-intercept-form}{\textsf{intercept form}} \\
   y=kx & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#special-cases}{\textsf{line passing through origin}} \\
   k=\frac{y}{x} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-between-points-boldsymbol-p-x-y-and-boldsymbol-o-0-0-is-boldsymbol-k-frac-y-x}{\textsf{slope of line passing through origin}} \\
   \end{array}
@@ -716,9 +716,9 @@ $
   >$
   \begin{array}{ll}
   k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
-  \frac{x}{a}+\frac{y}{b}=1 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#intercept-form}{\textsf{intercept form}} \\
-  y=y_0+k(x-x_0) & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#point-slope-form}{\textsf{point-slope form}} \\
-  y=kx+b & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#slope-intercept-form}{\textsf{slope-intercept form}} \\
+  \frac{x}{a}+\frac{y}{b}=1 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-3-intercept-form}{\textsf{intercept form}} \\
+  y=y_0+k(x-x_0) & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-2-point-slope-form}{\textsf{point-slope form}} \\
+  y=kx+b & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-1-slope-intercept-form}{\textsf{slope-intercept form}} \\
   \end{array}
   >$
 
@@ -761,7 +761,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  ax+by+c=0 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#general-form}{\textsf{line general form}} \\
+  ax+by+c=0 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-5-general-form}{\textsf{line general form}} \\
   \begin{cases}
   \textsf{y-intercept}=-\frac{c}{b} \\
   \textsf{x-intercept}=-\frac{c}{a} \\
@@ -870,7 +870,7 @@ $
   \textsf{x-intercept}=-\frac{c}{a} \\
   \end{cases} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-intercepts-of-the-general-form}{\textsf{intercepts of general form}} \\
   a=0 \longrightarrow by+c=0 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#special-cases-1}{\textsf{horizontal line of general form}} \\
-  k=-\frac{a}{b} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-of-the-general-form-is}{\textsf{slope of general form}} \\
+  k=-\frac{a}{b} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-of-the-general-form-is-k-frac-a-b}{\textsf{slope of general form}} \\
   90^\circ<\alpha<180^\circ, k<0 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_2-definition-of-slope}{\textsf{slope definition}} \\
   \end{array}
   >$

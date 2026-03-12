@@ -358,7 +358,7 @@ $
   >$
   \begin{array}{ll}
   \frac{a_{n+1}}{a_n}=q & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_1-definition}{\textsf{geometric sequence definition}} \\
-  \frac{a_m}{a_n}=q^{m-n} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{term ratio formula}} \\
+  \frac{a_m}{a_n}=q^{m-n} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by-boldsymbol-frac-a-n-a-m-q-n-m}{\textsf{term ratio formula}} \\
   \end{array}
   >$
 
@@ -429,12 +429,12 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_ma_n=a_ka_t & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#if-then}{\textsf{geometric sequence product property}} \\
+  a_ma_n=a_ka_t & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#textcolor-1e3a5f-fbox-1-if-small-m-n-k-t-then-small-a-ma-n-a-ka-t}{\textsf{geometric sequence product property}} \\
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
   \end{cases} & \href{/math/core%20course/16%20Chapter4%20equations%20and%20inequalities%20Module1%20linear%20equations%20Module2%20quadratic%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
-  \frac{a_m}{a_n}=q^{m-n} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{term ratio formula}} \\
+  \frac{a_m}{a_n}=q^{m-n} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by-boldsymbol-frac-a-n-a-m-q-n-m}{\textsf{term ratio formula}} \\
   x^5=a \longrightarrow x=\sqrt[5]{a} & \textsf{n-th root property} \\
   a_n=a_{k}q^{n-k} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_2-general-term}{\textsf{general term formula}}
   \end{array}
@@ -496,7 +496,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  \frac{a_m}{a_n}=q^{m-n} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by}{\textsf{term ratio formula}} \\
+  \frac{a_m}{a_n}=q^{m-n} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#note-if-two-terms-are-known-the-common-ratio-can-be-found-by-boldsymbol-frac-a-n-a-m-q-n-m}{\textsf{term ratio formula}} \\
   x^6=a \longrightarrow x=\pm\sqrt[6]{a} & \textsf{n-th root property} \\
   \end{array}
   >$
@@ -586,7 +586,7 @@ $
   S_n=na_1 & q=1 \\
   S_n=k-kq^n & q \ne 1 \\
   \end{cases}
-  & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#properties-of}{\textsf{geometric series sum formula properties}} \\
+  & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#properties-of-s-n}{\textsf{geometric series sum formula properties}} \\
   \end{array}
   >$
 
@@ -599,7 +599,7 @@ $
   \begin{cases}
   a_1=S_1 & n=1 \\
   S_n-S_{n-1} & n \ge 2 \\
-  \end{cases} & \href{/math/core%20course/18%20Chapter5%20sequences%20Module1%20sequences.html#given-find}{S_n\textsf{ to general term }a_n\textsf{ formula}} \\
+  \end{cases} & \href{/math/core%20course/18%20Chapter5%20sequences%20Module1%20sequences.html#given-s-n-find-a-n}{S_n\textsf{ to general term }a_n\textsf{ formula}} \\
   \end{array}
   >$
 
@@ -679,7 +679,7 @@ $
   na_1 & q=1 \\
   \frac{a_{1}(1-q^n)}{1-q}=\frac{a_{1}-a_{n}q}{1-q}=\frac{a_{1}-a_{n+1}}{1-q} & q \ne 1
   \end{cases} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#_3-sum-of-the-first-n-terms}{\textsf{geometric series sum formula}} \\
-  S_n=\frac{a_1}{1-q}\cdot(1-q^n)=k(1-q^n) & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#properties-of}{\textsf{geometric series sum formula properties}} \\
+  S_n=\frac{a_1}{1-q}\cdot(1-q^n)=k(1-q^n) & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#properties-of-s-n}{\textsf{geometric series sum formula properties}} \\
   x^3=a \longrightarrow x=\sqrt[3]{a} & \textsf{n-th root property} \\
   \end{array}
   >$
@@ -726,7 +726,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  a_ma_n=a_ka_t & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#if-then}{\textsf{geometric sequence product property}} \\
+  a_ma_n=a_ka_t & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#textcolor-1e3a5f-fbox-1-if-small-m-n-k-t-then-small-a-ma-n-a-ka-t}{\textsf{geometric sequence product property}} \\
   \begin{cases}
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
@@ -849,7 +849,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S_n, S_{2n}-S_n, S_{3n}-S_{2n},\cdots & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#if-is-the-sum-of-the-first-terms-of-a-geometric-sequence-then-also-form-a-geometric-sequence-with-common-ratio}{\textsf{geometric series sum property}} \\
+  S_n, S_{2n}-S_n, S_{3n}-S_{2n},\cdots & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#textcolor-1e3a5f-fbox-2-if-small-s-n-is-the-sum-of-the-first-small-n-terms-of-a-geometric-sequence-then-small-s-n-s-2n-s-n-s-3n-s-2n-cdots-also-form-a-geometric-sequence-with-common-ratio-small-q-n}{\textsf{geometric series sum property}} \\
   \end{array}
   >$
 
@@ -914,7 +914,7 @@ $
   \begin{cases}
   \frac{S_m}{S_n} = \frac{1-q^m}{1-q^n} \\
   S_n, S_{2n}-S_n, S_{3n}-S_{2n},\cdots\\
-  \end{cases} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#if-is-the-sum-of-the-first-terms-of-a-geometric-sequence-then-also-form-a-geometric-sequence-with-common-ratio}{\textsf{geometric series sum property}} \\
+  \end{cases} & \href{/math/core%20course/21%20Chapter5%20sequences%20Module3%20geometric%20sequences.html#textcolor-1e3a5f-fbox-2-if-small-s-n-is-the-sum-of-the-first-small-n-terms-of-a-geometric-sequence-then-small-s-n-s-2n-s-n-s-3n-s-2n-cdots-also-form-a-geometric-sequence-with-common-ratio-small-q-n}{\textsf{geometric series sum property}} \\
   x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{n-th root property} \\  
   \end{array}
   >$

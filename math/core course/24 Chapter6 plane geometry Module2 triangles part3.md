@@ -315,7 +315,7 @@ $
   \begin{cases}
   \textsf{find one side and acute angles }0^\circ \sim 90^\circ \\
   \textsf{find two sides (pythagorean theorem already holds)} \\
-  \end{cases} & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#identification}{\textsf{right triangles congruence}} \\
+  \end{cases} & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#textcolor-1e3a5f-fbox-2-identification}{\textsf{right triangles congruence}} \\
   \end{array}
   >$
 
@@ -385,10 +385,10 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (5,12,13)& \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  (5,12,13)& \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples-boldsymbol-3-4-5-boldsymbol-6-8-10-boldsymbol-5-12-13-boldsymbol-7-24-25-boldsymbol-8-15-17-boldsymbol-9-12-15}{\textsf{common pythagorean triples}} \\
   \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
   \frac{S_1}{S_2}=k^2 & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#for-similar-triangles-similar-figures-the-ratio-of-their-areas-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
-  S=\frac{1}{2}ah & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
+  S=\frac{1}{2}ah & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#textcolor-1e3a5f-fbox-1-small-s-frac-1-2-ah-where-small-h-is-the-altitude-to-side-small-a}{\textsf{triangle area formula}} \\
   \end{array}
   >$
 
@@ -450,7 +450,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#identification-1}{\textsf{similar triangles identification}} \\
+  & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#textcolor-1e3a5f-fbox-2-identification-1}{\textsf{similar triangles identification}} \\
   \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
   \end{array}
   >$
@@ -498,7 +498,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#definition-1}{\textsf{similar triangles definition}} \\
+  & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#textcolor-1e3a5f-fbox-1-definition-1}{\textsf{similar triangles definition}} \\
   \frac{S_1}{S_2}=k^2 & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#for-similar-triangles-similar-figures-the-ratio-of-their-areas-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
   \end{array}
   >$
@@ -549,7 +549,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#applications-1}{\textsf{similar triangles applications}} \\
+  & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#textcolor-1e3a5f-fbox-4-applications-1}{\textsf{similar triangles applications}} \\
   \frac{a_1}{a_2}=\frac{b_1}{b_2}=\frac{c_1}{c_2}=k & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#for-similar-triangles-similar-figures-the-ratios-of-corresponding-sides-are-equal-to-the-similarity-ratio}{\textsf{similar triangles sides ratio formula}} \\
   \end{array}
   >$

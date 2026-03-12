@@ -166,7 +166,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  EG=\sqrt{a^2+a^2}=\sqrt{2a^2}=a\sqrt{2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+  EG=\sqrt{a^2+a^2}=\sqrt{2a^2}=a\sqrt{2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
   AB=EG=1 \\
   AB=\sqrt{2}\cdot EF=1 \\
   EF=\frac{1}{\sqrt{2}}=\frac{1}{\sqrt{2}}\cdot \frac{\sqrt{2}}{\sqrt{2}}=\frac{\sqrt{2}}{2} \\
@@ -195,7 +195,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
   S=a^2 & \href{/math/core%20course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_4-square}{\textsf{square area formula}} \\
   \end{array}
   >$
@@ -213,7 +213,7 @@ $
   H=\textsf{midpoint of }AD \\
   EH=\textsf{midline} \\
   \triangle AEH \textsf{ and } \triangle ABD \textsf{ share vertex }A\textsf{, and its base and height are half of those of }\triangle ABD \\
-  \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-altitude-to-side}{S=\frac{1}{2}ah} \\
+  \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#textcolor-1e3a5f-fbox-1-small-s-frac-1-2-ah-where-small-h-is-the-altitude-to-side-small-a}{S=\frac{1}{2}ah} \\
   S_{\triangle ABD}=\frac{1}{2}\cdot(1\cdot a)\cdot(1\cdot h) \\
   S_{\triangle AEH}=\frac{1}{2}\cdot(\frac{1}{2}\cdot a)\cdot(\frac{1}{2}\cdot h) \\
   \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#for-similar-triangles-similar-figures-the-ratio-of-their-areas-equals-the-square-of-the-similarity-ratio}{\textsf{similar triangles area ratio formula}} \\
@@ -291,8 +291,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
-  (3,4,5) & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
+  (3,4,5) & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples-boldsymbol-3-4-5-boldsymbol-6-8-10-boldsymbol-5-12-13-boldsymbol-7-24-25-boldsymbol-8-15-17-boldsymbol-9-12-15}{\textsf{common pythagorean triples}} \\
   \end{array}
   >$
 
@@ -338,11 +338,11 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
   \begin{cases}
   \textsf{find one side and acute angles }0^\circ \sim 90^\circ \\
   \textsf{find two sides (pythagorean theorem already holds)} \\
-  \end{cases} & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#identification}{\textsf{right triangles congruence}} \\
+  \end{cases} & \href{/math/core%20course/24%20Chapter6%20plane%20geometry%20Module2%20triangles%20part3.html#textcolor-1e3a5f-fbox-2-identification}{\textsf{right triangles congruence}} \\
   S=a^2 & \href{/math/core%20course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_4-square}{\textsf{square area formula}} \\
   \end{array}
   >$
@@ -451,7 +451,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S=\frac{1}{2}ah & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
+  S=\frac{1}{2}ah & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#textcolor-1e3a5f-fbox-1-small-s-frac-1-2-ah-where-small-h-is-the-altitude-to-side-small-a}{\textsf{triangle area formula}} \\
   \end{array}
   >$
 
@@ -495,7 +495,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
   (a-b)^2=a^2-2ab+b^2 & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   S=ab & \href{/math/core%20course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_2-rectangle}{\textsf{rectangle area formula}} \\
   2ab=(a+b)^2-(a^2+b^2) & \textsf{rectangle area identity} \\
@@ -600,7 +600,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (5,12,13)& \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  (5,12,13)& \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples-boldsymbol-3-4-5-boldsymbol-6-8-10-boldsymbol-5-12-13-boldsymbol-7-24-25-boldsymbol-8-15-17-boldsymbol-9-12-15}{\textsf{common pythagorean triples}} \\
   S=\frac{l_1\cdot l_2}{2} & \href{/math/core%20course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#_3-rhombus}{\textsf{rhombus area formula}} \\
   \end{array}
   >$
@@ -648,7 +648,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (3,4,5)& \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  (3,4,5)& \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples-boldsymbol-3-4-5-boldsymbol-6-8-10-boldsymbol-5-12-13-boldsymbol-7-24-25-boldsymbol-8-15-17-boldsymbol-9-12-15}{\textsf{common pythagorean triples}} \\
   \end{array}
   >$
 
@@ -909,7 +909,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S_1\cdot S_3=S_2\cdot S_4 & \href{/math/core%20course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#area-ratio-for-any-quadrilateral-figure-6%E2%80%9323}{\textsf{any quadrilateral area ratio theorem}} \\
+  S_1\cdot S_3=S_2\cdot S_4 & \href{/math/core%20course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#textcolor-1e3a5f-fbox-1-area-ratio-for-any-quadrilateral-figure-6%E2%80%9323}{\textsf{any quadrilateral area ratio theorem}} \\
   S_1:S_3:S_2:S_4=a^2:b^2:ab:ab & \href{/math/core%20course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#combine-the-above-four-into-one-proportion}{\textsf{trapezoid area ratio theorem}} \\
   S_\triangle=\frac{1}{2}S_{ABCD} & \href{/math/core%20course/25%20Chapter6%20plane%20geometry%20Module3%20quadrilaterals.html#a-triangle-with-the-same-base-and-height-as-a-rectangle-is-half-the-area-of-the-rectangle}{\textsf{triangle is half of rectangle}}
   \end{array}
@@ -928,7 +928,7 @@ __The polygon__
   $
   \begin{array}{ll}
   \textsf{divided into }6\textsf{ equilateral triangles} \\
-  S=\frac{\sqrt{3}}{4}a^2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#the-area-of-an-equilateral-triangle-is-where-is-the-side-length}{\textsf{equilateral triangle area formula}} \\
+  S=\frac{\sqrt{3}}{4}a^2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#the-area-of-an-equilateral-triangle-is-boldsymbol-s-frac-sqrt-3-4-a-2-where-boldsymbol-a-is-the-side-length}{\textsf{equilateral triangle area formula}} \\
   S=\frac{\sqrt{3}}{4}a^2\cdot6=\frac{3\sqrt{3}}{2}a^2 \\
   \end{array}
   $  

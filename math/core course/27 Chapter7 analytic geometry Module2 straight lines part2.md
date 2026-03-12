@@ -269,7 +269,7 @@ $
   \begin{array}{ll}
   \left(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2}\right) & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_2-midpoint-coordinates-of-two-points}{\textsf{midpoint formula of two points}} \\
   k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
-  k=-\frac{a}{b} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-of-the-general-form-is}{\textsf{slope of general form}} \\
+  k=-\frac{a}{b} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-of-the-general-form-is-k-frac-a-b}{\textsf{slope of general form}} \\
   \end{array}
   >$
 
@@ -355,9 +355,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  k=-\frac{a}{b} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-of-the-general-form-is}{\textsf{slope of general form}} \\
+  k=-\frac{a}{b} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-of-the-general-form-is-k-frac-a-b}{\textsf{slope of general form}} \\
   k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
-  y=y_0+k(x-x_0) & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#point-slope-form}{\textsf{point-slope form}} \\
+  y=y_0+k(x-x_0) & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-2-point-slope-form}{\textsf{point-slope form}} \\
   \end{array}
   >$
 
@@ -561,7 +561,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  ax+by+c=0 & \href{/math/core%20course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20part2.html#general-form}{\textsf{point-line position}} \\
+  ax+by+c=0 & \href{/math/core%20course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20part2.html#general-form-ax-by-c-0}{\textsf{point-line position}} \\
   \end{array}
   >$
 
@@ -612,8 +612,8 @@ $
   >$
   \begin{array}{ll}
   k=\frac{y_2-y_1}{x_2-x_1} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_4-two-point-slope-formula}{\textsf{two-point slope formula}} \\
-  k=-\frac{a}{b} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-of-the-general-form-is}{\textsf{slope of general form}} \\
-  ax+by+c=0 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#general-form}{\textsf{line general form}} \\
+  k=-\frac{a}{b} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#the-slope-of-the-general-form-is-k-frac-a-b}{\textsf{slope of general form}} \\
+  ax+by+c=0 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-5-general-form}{\textsf{line general form}} \\
   d=\frac{|ax_0+by_0+c|}{\sqrt{a^2+b^2}} & \href{/math/core%20course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20part2.html#_14-distance-from-a-point-to-a-line}{\textsf{point-to-line distance formula}} \\
   \end{array}
   >$

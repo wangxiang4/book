@@ -278,7 +278,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#special-application-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
+  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#special-application-involving-reciprocals-boldsymbol-x-2-frac-1-x-2-x-pm-frac-1-x-2-mp2}{\textsf{reciprocal form of two-term perfect square formula}} \\
   (a+b)^2-(a-b)^2=4ab & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
   a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
   |a|=\sqrt{a^2} & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#_1-definition}{\textsf{absolute value definition}} \\
@@ -376,7 +376,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#special-application-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
+  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#special-application-involving-reciprocals-boldsymbol-x-2-frac-1-x-2-x-pm-frac-1-x-2-mp2}{\textsf{reciprocal form of two-term perfect square formula}} \\
   (a+b)^2-(a-b)^2=4ab & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_3-focus-2}{\textsf{perfect square formula for two terms}} \\
   a^3\pm b^3=(a\pm b)(a^2\mp ab+b^2) & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{sum and difference of cubes formula}} \\
   |a|=\sqrt{a^2} & \href{/math/core%20course/4%20Chapter1%20real%20numbers%20ratios%20absolute%20value%20Module3%20absolute%20value.html#_1-definition}{\textsf{absolute value definition}} \\
@@ -432,7 +432,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#special-application-involving-reciprocals}{\textsf{reciprocal form of two-term perfect square formula}} \\
+  x^2+\frac{1}{x^2}=(x\pm\frac{1}{x})^2\mp2 & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#special-application-involving-reciprocals-boldsymbol-x-2-frac-1-x-2-x-pm-frac-1-x-2-mp2}{\textsf{reciprocal form of two-term perfect square formula}} \\
   \end{array}
   >$
 

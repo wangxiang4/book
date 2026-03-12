@@ -361,7 +361,7 @@ $
   \begin{array}{ll}
   y=x^\alpha & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#_1-definition}{\textsf{standard power function definition}} \\
   a^\frac{m}{n}=\sqrt[n]{a^m} & \textsf{rational exponent rule} \\
-  x=-\frac{b}{2a} & \href{/math/core%20course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#axis-of-symmetry}{\textsf{axis of symmetry}} \\
+  x=-\frac{b}{2a} & \href{/math/core%20course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#axis-of-symmetry-boldsymbol-x-frac-b-2a}{\textsf{axis of symmetry}} \\
   \end{array}
   >$
 
@@ -792,7 +792,7 @@ $
    ::: wrap  
    $
    \begin{array}{ll}
-   c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+   c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
    \end{array}
    $  
    :::
@@ -808,7 +808,7 @@ $
    ::: wrap  
    $
    \begin{array}{ll}
-   S=\frac{1}{2}ah & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
+   S=\frac{1}{2}ah & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#textcolor-1e3a5f-fbox-1-small-s-frac-1-2-ah-where-small-h-is-the-altitude-to-side-small-a}{\textsf{triangle area formula}} \\
    S_{\textsf{lateral}}=\frac{1}{2}\cdot 2\pi r\cdot l\\
    \end{array}
    $  
@@ -849,7 +849,7 @@ $
    ::: wrap  
    $
    \begin{array}{ll}
-   l^2=h^2+r^2 &  \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+   l^2=h^2+r^2 &  \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
    h^2=4r^2-r^2=3r^2 & l=2r \\
    h=\sqrt{3}r \\
    \theta=\frac{2\pi r}{l}=\frac{2\pi r}{2r}=\pi \\
@@ -877,7 +877,7 @@ $
    \theta=\frac{2\pi r}{l}=\frac{2\pi}{3} \\
    6\pi r=2\pi l \\
    l=3r \\
-   l^2=h^2+r^2 &  \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+   l^2=h^2+r^2 &  \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
    h^2=9r^2-r^2=8r^2 \\
    h=\sqrt{8}r=\sqrt{4}\cdot\sqrt{2}r=2\sqrt{2}r \\
    \end{array}
@@ -891,7 +891,7 @@ $
    \theta=\frac{2\pi r}{l}=\frac{\pi}{2} \\
    4\pi r=\pi l \\
    l=4r \\
-   l^2=h^2+r^2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+   l^2=h^2+r^2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
    h^2=16r^2-r^2=15r^2 \\
    h=\sqrt{15}r \\
    \end{array}
@@ -924,7 +924,7 @@ $
     ::: wrap  
     $
     \begin{array}{ll}
-    S=\frac{1}{2}ah & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
+    S=\frac{1}{2}ah & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#textcolor-1e3a5f-fbox-1-small-s-frac-1-2-ah-where-small-h-is-the-altitude-to-side-small-a}{\textsf{triangle area formula}} \\
     S=\frac{1}{2}(ar+br+cr)=\frac{r}{2}(a+b+c) \\
     2S=r(a+b+c) \\
     r=\frac{2S}{(a+b+c)} \\
@@ -960,7 +960,7 @@ $
   ::: wrap  
   $
   \begin{array}{ll}
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
   r^2+(h-R)^2=R^2 \\
   r^2+h^2-2hR+R^2=R^2 \\
   r^2+h^2-2hR=0 \\
@@ -1106,7 +1106,7 @@ $
   >$
   \begin{array}{ll}
   \theta=\frac{2\pi r}{l} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#central-angle-of-the-developed-sector}{\textsf{cone sector central angle formula}} \\
-  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem}{\textsf{pythagorean theorem}} \\
+  c^2=a^2+b^2 \Rightarrow c=\sqrt{a^2+b^2} & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#pythagorean-theorem-a-2-b-2-c-2}{\textsf{pythagorean theorem}} \\
   \end{array}
   >$
 
@@ -1165,7 +1165,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (9,12,15) & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  (9,12,15) & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples-boldsymbol-3-4-5-boldsymbol-6-8-10-boldsymbol-5-12-13-boldsymbol-7-24-25-boldsymbol-8-15-17-boldsymbol-9-12-15}{\textsf{common pythagorean triples}} \\
   \theta=\frac{2\pi r}{l} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#central-angle-of-the-developed-sector}{\textsf{cone sector central angle formula}} \\
   \end{array}
   >$
@@ -1212,7 +1212,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  S=\frac{\sqrt{3}}{4}a^2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#the-area-of-an-equilateral-triangle-is-where-is-the-side-length}{\textsf{equilateral triangle area formula}} \\
+  S=\frac{\sqrt{3}}{4}a^2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#the-area-of-an-equilateral-triangle-is-boldsymbol-s-frac-sqrt-3-4-a-2-where-boldsymbol-a-is-the-side-length}{\textsf{equilateral triangle area formula}} \\
   x^2=a \longrightarrow x=\pm\sqrt{a} & \textsf{n-th root property} \\
   S_{\textsf{total}}=\pi r(l+r) & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#total-surface-area-of-a-cone}{\textsf{cone total surface area formula}}\\
   \end{array}
@@ -1258,7 +1258,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  1:\sqrt{3}:2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
+  1:\sqrt{3}:2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#in-a-boldsymbol-30-circ-60-circ-90-circ-right-triangle-the-ratio-of-the-three-sides-is-boldsymbol-1-sqrt-3-2}{\textsf{30-60-90 right triangle}} \\
   V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
   \end{array}
   >$
@@ -1389,7 +1389,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (6,8,10) & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples}{\textsf{common pythagorean triples}} \\
+  (6,8,10) & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#common-pythagorean-triples-boldsymbol-3-4-5-boldsymbol-6-8-10-boldsymbol-5-12-13-boldsymbol-7-24-25-boldsymbol-8-15-17-boldsymbol-9-12-15}{\textsf{common pythagorean triples}} \\
   R=\frac{l^2}{2h} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#circumscribed-sphere-radius-formula}{\textsf{circumscribed sphere radius formula}} \\
   S=4\pi r^2 & \href{/math/core%20course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_1-volume-and-surface-area}{\textsf{sphere surface area formula}} \\
   \end{array}
@@ -1404,7 +1404,7 @@ $
   S=\frac{1}{2}\cdot12\cdot8=\frac{96}{2}=48 \\
   r=\frac{2\cdot48}{10+10+12}=\frac{96}{32}=3 \\
   S=4\pi r^2=4\pi3^2=36\pi \\
-  S=\frac{1}{2}ah & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#where-is-the-altitude-to-side}{\textsf{triangle area formula}} \\
+  S=\frac{1}{2}ah & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#textcolor-1e3a5f-fbox-1-small-s-frac-1-2-ah-where-small-h-is-the-altitude-to-side-small-a}{\textsf{triangle area formula}} \\
   r=\frac{2S}{c} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#inscribed-circle-radius-formula-where-is-the-area-of-the-axial-cross-section-triangle-and-is-its-perimeter}{\textsf{inscribed circle radius formula}} \\
   \end{array}
   >$
@@ -1460,7 +1460,7 @@ $
   \begin{array}{ll}
   r=\frac{\sqrt{3}a}{6} & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#inscribed-circle-radius-formula-where-is-the-area-of-the-axial-cross-section-triangle-and-is-its-perimeter}{\textsf{inscribed circle radius formula}} \\
   h=\frac{\sqrt{3}}{2}a & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#the-ratio-of-the-height-to-the-side-is}{\textsf{equilateral triangle height-side ratio formula}} \\
-  1:\sqrt{3}:2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
+  1:\sqrt{3}:2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#in-a-boldsymbol-30-circ-60-circ-90-circ-right-triangle-the-ratio-of-the-three-sides-is-boldsymbol-1-sqrt-3-2}{\textsf{30-60-90 right triangle}} \\
   V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
   V=\frac{4}{3}\pi r^3 & \href{/math/core%20course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#_1-volume-and-surface-area}{\textsf{sphere volume formula}} \\
   \end{array}
@@ -1505,7 +1505,7 @@ $
   >$
   \begin{array}{ll}
   V=\frac{1}{3}\pi r^2h & \href{/math/core%20course/34%20Chapter12%20power%20functions%20and%20cones%20Module1%20power%20functions%20Module2%20cones.html#volume-of-a-cone}{\textsf{cone volume formula}} \\
-  V=abc & \href{/math/core%20course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#let-the-three-adjacent-edges-have-lengths-and}{\textsf{cuboid volume formula}} \\
+  V=abc & \href{/math/core%20course/29%20Chapter8%20solid%20geometry%20Module1%20cuboids%20Module2%20prisms%20and%20cylinders%20Module3%20spheres.html#let-the-three-adjacent-edges-have-lengths-boldsymbol-a-b-and-boldsymbol-c}{\textsf{cuboid volume formula}} \\
   \end{array}
   >$
 
@@ -1545,7 +1545,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  1:\sqrt{3}:2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
+  1:\sqrt{3}:2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#in-a-boldsymbol-30-circ-60-circ-90-circ-right-triangle-the-ratio-of-the-three-sides-is-boldsymbol-1-sqrt-3-2}{\textsf{30-60-90 right triangle}} \\
   \end{array}
   >$
 

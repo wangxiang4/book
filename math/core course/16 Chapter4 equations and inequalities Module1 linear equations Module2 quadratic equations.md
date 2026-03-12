@@ -767,7 +767,7 @@ $
   x_1+x_2=-\frac{b}{a} \\
   x_1\cdot x_2=\frac{c}{a} \\
   \end{cases} & \href{/math/core%20course/16%20Chapter4%20equations%20and%20inequalities%20Module1%20linear%20equations%20Module2%20quadratic%20equations.html#_4-relationship-between-roots-and-coefficients-vieta-s-theorem}{\textsf{vieta's theorem}} \\
-  x=-\frac{b}{2a} & \href{/math/core%20course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#axis-of-symmetry}{\textsf{axis of symmetry}} \\
+  x=-\frac{b}{2a} & \href{/math/core%20course/15%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module2%20rational%20expressions%20Module3%20quadratic%20functions.html#axis-of-symmetry-boldsymbol-x-frac-b-2a}{\textsf{axis of symmetry}} \\
   \Delta=b^2-4ac & \href{/math/core%20course/17%20Chapter4%20equations%20and%20inequalities%20Module3%20linear%20inequalities%20Module4%20quadratic%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
   \end{array}
   >$

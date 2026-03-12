@@ -316,7 +316,7 @@ $
   - $y=ax^2+c$  
     <iframe src="https://www.desmos.com/calculator/3kswxnnjis?embed" width="455" height="310" style="border: 1px solid #ccc; margin: 10px 0" />
 - Vertex coordinates: $\boldsymbol{(-\frac{b}{2a},\frac{4ac-b^2}{4a})}$
-- [y-intercept](/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#slope-intercept-form): $\boldsymbol{y=c}$
+- [y-intercept](/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-1-slope-intercept-form): $\boldsymbol{y=c}$
   - Note: when $\boldsymbol{c=0}$, the graph of the quadratic function __passes through the origin__.
   - $y=ax^2+bx$  
     <iframe src="https://www.desmos.com/calculator/yypmtw3hv4?embed" width="455" height="310" style="border: 1px solid #ccc; margin: 10px 0" />

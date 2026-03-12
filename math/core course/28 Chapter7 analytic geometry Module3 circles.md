@@ -119,9 +119,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
-  x^2+y^2+ax+by+c=0 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#general-form}{\textsf{circle general form}} \\
-  a^2+b^2-4c>0 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#note-the-condition-for-the-general-form-of-a-circle-is}{\textsf{circle general form condition}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is-boldsymbol-x-frac-a-2-2-y-frac-b-2-2-frac-a-2-b-2-4c-4}{\textsf{completing the circle standard form}} \\
+  x^2+y^2+ax+by+c=0 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#textcolor-1e3a5f-fbox-2-general-form}{\textsf{circle general form}} \\
+  a^2+b^2-4c>0 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#note-the-condition-for-the-general-form-of-a-circle-is-boldsymbol-a-2-b-2-4c-0}{\textsf{circle general form condition}} \\
   \end{array}
   >$
 
@@ -258,7 +258,7 @@ $
   >$
   \begin{array}{ll}
   |x_0|=r & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_2-special-circles-standard-form}{\textsf{special circles in standard form}} \\
-  (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
+  (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#textcolor-1e3a5f-fbox-1-standard-form}{\textsf{circle standard form}} \\
   \end{array}
   >$
 
@@ -462,13 +462,13 @@ $
   >$
   \begin{array}{ll}
   d=r & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_6-relationship-between-a-line-and-a-circle}{\textsf{line-circle relationship}} \\
-  ax+by+c=0 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#general-form}{\textsf{line general form}} \\
+  ax+by+c=0 & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-5-general-form}{\textsf{line general form}} \\
   d=\frac{|c|}{\sqrt{a^2+b^2}} & \href{/math/core%20course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20part2.html#_14-distance-from-a-point-to-a-line}{\textsf{point-to-line distance formula}} \\
-  (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
+  (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#textcolor-1e3a5f-fbox-1-standard-form}{\textsf{circle standard form}} \\
   (a\pm b)^2=a^2\pm2ab+b^2 & \href{/math/core%20course/12%20Chapter3%20polynomials%20rational%20expressions%20functions%20Module1%20polynomials%20and%20operations%20part1.html#_1-six-fundamental-formulas}{\textsf{perfect square formula}} \\
   \Delta=b^2-4ac & \href{/math/core%20course/17%20Chapter4%20equations%20and%20inequalities%20Module3%20linear%20inequalities%20Module4%20quadratic%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
-  y=y_0+k(x-x_0) & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#point-slope-form}{\textsf{point-slope form}} \\
-  1:\sqrt{3}:2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#in-a-right-triangle-the-ratio-of-the-three-sides-is}{\textsf{30-60-90 right triangle}} \\
+  y=y_0+k(x-x_0) & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-2-point-slope-form}{\textsf{point-slope form}} \\
+  1:\sqrt{3}:2 & \href{/math/core%20course/23%20Chapter6%20plane%20geometry%20Module2%20triangles%20part2.html#in-a-boldsymbol-30-circ-60-circ-90-circ-right-triangle-the-ratio-of-the-three-sides-is-boldsymbol-1-sqrt-3-2}{\textsf{30-60-90 right triangle}} \\
   30^\circ=\frac{\sqrt{3}}{3} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_3-common-inclination-angles-and-slope}{\textsf{inclination angle–slope}} \\
   \end{array}
   >$
@@ -515,9 +515,9 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  y=kx+b & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#slope-intercept-form}{\textsf{slope-intercept form}} \\
+  y=kx+b & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#textcolor-1e3a5f-fbox-1-slope-intercept-form}{\textsf{slope-intercept form}} \\
   d=\frac{|ax_0+by_0+c|}{\sqrt{a^2+b^2}} & \href{/math/core%20course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20part2.html#_14-distance-from-a-point-to-a-line}{\textsf{point-to-line distance formula}} \\
-  (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
+  (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#textcolor-1e3a5f-fbox-1-standard-form}{\textsf{circle standard form}} \\
   \end{array}
   >$
 
@@ -562,8 +562,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
-  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is-boldsymbol-x-frac-a-2-2-y-frac-b-2-2-frac-a-2-b-2-4c-4}{\textsf{completing the circle standard form}} \\
+  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is-boldsymbol-x-frac-a-2-2-y-frac-b-2-2-frac-a-2-b-2-4c-4}{\textsf{center of standard-form circle}} \\
   d=\frac{|ax_0+by_0+c|}{\sqrt{a^2+b^2}} & \href{/math/core%20course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20part2.html#_14-distance-from-a-point-to-a-line}{\textsf{point-to-line distance formula}} \\
   2\sqrt{r^2-d^2} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#chord-length-of-a-circle}{\textsf{chord length of a circle}} \\
   \end{array}
@@ -640,8 +640,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
-  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
+  (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#textcolor-1e3a5f-fbox-1-standard-form}{\textsf{circle standard form}} \\
+  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is-boldsymbol-x-frac-a-2-2-y-frac-b-2-2-frac-a-2-b-2-4c-4}{\textsf{center of standard-form circle}} \\
   d=\frac{|ax_0+by_0+c|}{\sqrt{a^2+b^2}} & \href{/math/core%20course/27%20Chapter7%20analytic%20geometry%20Module2%20straight%20lines%20part2.html#_14-distance-from-a-point-to-a-line}{\textsf{point-to-line distance formula}} \\
   ∣x∣ \le c \iff −c \le x \le c & \textsf{absolute value inequality expansion} \\
   \Delta=b^2-4ac & \href{/math/core%20course/17%20Chapter4%20equations%20and%20inequalities%20Module3%20linear%20inequalities%20Module4%20quadratic%20inequalities.html#_3-relationship-among-functions-equations-and-inequalities}{\textsf{quadratic discriminant}} \\
@@ -744,7 +744,7 @@ $
   d=r_1+r_2 \\
   d=|r_1-r_2| \\
   \end{cases} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_7-relationship-between-two-circles}{\textsf{relationship between two circles}} \\
-  (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#standard-form}{\textsf{circle standard form}} \\
+  (x-x_0)^2+(y-y_0)^2=r^2 & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#textcolor-1e3a5f-fbox-1-standard-form}{\textsf{circle standard form}} \\
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \end{array}
   >$
@@ -793,8 +793,8 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#distance-relationships-between-two-circles}{\textsf{distance relationship between two circles}} \\
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
-  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is-boldsymbol-x-frac-a-2-2-y-frac-b-2-2-frac-a-2-b-2-4c-4}{\textsf{completing the circle standard form}} \\
+  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is-boldsymbol-x-frac-a-2-2-y-frac-b-2-2-frac-a-2-b-2-4c-4}{\textsf{center of standard-form circle}} \\
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \end{array}
   >$
@@ -848,7 +848,7 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#distance-relationships-between-two-circles}{\textsf{distance relationship between two circles}} \\
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is-boldsymbol-x-frac-a-2-2-y-frac-b-2-2-frac-a-2-b-2-4c-4}{\textsf{completing the circle standard form}} \\
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   ∣x∣ \le c \iff −c \le x \le c & \textsf{absolute value inequality expansion} \\
   \end{array}
@@ -909,8 +909,8 @@ $
   >$
   \begin{array}{ll}
   & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#distance-relationships-between-two-circles}{\textsf{distance relationship between two circles}} \\
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
-  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is-boldsymbol-x-frac-a-2-2-y-frac-b-2-2-frac-a-2-b-2-4c-4}{\textsf{completing the circle standard form}} \\
+  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is-boldsymbol-x-frac-a-2-2-y-frac-b-2-2-frac-a-2-b-2-4c-4}{\textsf{center of standard-form circle}} \\
   d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   \end{array}
   >$
@@ -971,8 +971,8 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{center of standard-form circle}} \\
-  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is}{\textsf{completing the circle standard form}} \\
+  (-\frac{a}{2}, -\frac{b}{2}) & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is-boldsymbol-x-frac-a-2-2-y-frac-b-2-2-frac-a-2-b-2-4c-4}{\textsf{center of standard-form circle}} \\
+  (x+\frac{a}{2})^2+(y+\frac{b}{2})^2=\frac{a^2+b^2-4c}{4} & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#completing-the-square-the-standard-form-of-the-circle-is-boldsymbol-x-frac-a-2-2-y-frac-b-2-2-frac-a-2-b-2-4c-4}{\textsf{completing the circle standard form}} \\
   d=\sqrt{x^2+y^2} & \href{/math/core%20course/26%20Chapter7%20analytic%20geometry%20Module1%20cartesian%20coordinate%20system%20Module2%20straight%20lines%20part1.html#_3-distance-formula-between-two-points}{\textsf{distance formula between two points}} \\
   d=|r_1-r_2| & \href{/math/core%20course/28%20Chapter7%20analytic%20geometry%20Module3%20circles.html#_7-relationship-between-two-circles}{\textsf{relationship between two circles}} \\
   \end{array}

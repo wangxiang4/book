@@ -137,7 +137,7 @@ $
   ::: wrap
   >$
   \begin{array}{ll}
-   & \href{/math/core%20course/17%20Chapter4%20equations%20and%20inequalities%20Module3%20linear%20inequalities%20Module4%20quadratic%20inequalities.html#_3-basic-properties-of-inequalities-note-the-direction-of-inference-some-cannot-be-reversed}{\textsf{properties of inequalities}} \\
+   & \href{/math/core%20course/17%20Chapter4%20equations%20and%20inequalities%20Module3%20linear%20inequalities%20Module4%20quadratic%20inequalities.html#_3-basic-properties-of-inequalities-note-direction-of-inference-some-cannot-be-reversed}{\textsf{properties of inequalities}} \\
   \end{array}
   >$
 
