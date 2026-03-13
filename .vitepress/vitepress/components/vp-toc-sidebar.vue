@@ -6,10 +6,12 @@
   import { headerLevel } from '../../plugins/headers'
   import { renderHref } from '../../plugins/permalink'
   import { useRoute } from 'vitepress'
+  import { useBrowser } from '@vueuse/core'
 
   const headers = useToc()
   const { hasSidebar } = useSidebar()
   const route = useRoute()
+  const isSafari = () => /^(?:(?!chrome|android).)*safari/i.test(navigator.userAgent) && !("chrome" in window);
 
   function findPreviousHeader (element: HTMLElement) {
     const targetTop = element.getBoundingClientRect().top + window.scrollY
@@ -45,7 +47,7 @@
     setTimeout(()=> {
       const top = target.getBoundingClientRect().top + window.scrollY - offset
       window.scrollTo({ top })
-    },800)
+    },1000)
     autoActiveAnchorLink(target)
     const activeLink = document.querySelector('.toc-sidebar .el-anchor__link.is-active')
     activeLink && activeLink.scrollIntoView({ block: 'nearest' })
