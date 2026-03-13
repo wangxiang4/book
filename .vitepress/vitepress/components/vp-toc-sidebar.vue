@@ -36,9 +36,10 @@
     }
   }
 
-  function scrollToAnchor(offset = 60) {
+  async function scrollToAnchor(offset = 60) {
+    await nextTick()
     const hash = window.location.hash.replace('#', '')
-    const target = document.getElementById(hash)
+    const target = document.getElementById(decodeURIComponent(hash))
     if (!target) return
     setTimeout(()=> {
       const top = target.getBoundingClientRect().top + window.scrollY - offset
@@ -49,7 +50,7 @@
     activeLink && activeLink.scrollIntoView({ block: 'nearest' })
   }
 
-  watch(() => route.path, () => nextTick(() => scrollToAnchor()), { immediate: true })
+  watch(()=> route.path, ()=> scrollToAnchor(), { immediate: true })
 </script>
 
 <template>
