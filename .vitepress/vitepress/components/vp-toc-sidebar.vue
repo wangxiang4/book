@@ -2,7 +2,7 @@
   import { useToc } from '~/composables/use-toc'
   import { renderMarkup } from '~/utils';
   import { useSidebar } from '~/composables/sidebar';
-  import { onMounted, watch, nextTick } from 'vue';
+  import { watch, nextTick } from 'vue';
   import { headerLevel } from '../../plugins/headers'
   import { renderHref } from '../../plugins/permalink'
   import { useRoute } from 'vitepress'
@@ -24,27 +24,32 @@
     return previousHeaders.length > 0 ? previousHeaders.at(-1) : null
   }
 
-  function autoActiveAnchorLink () {
-    const hash = window.location.hash.replace('#', '')
-    const target = document.getElementById(hash)
-    if (!target) return
-    const level = Number(target.tagName.slice(1))
+  function autoActiveAnchorLink (element: HTMLElement) {
+    const level = Number(element.tagName.slice(1))
     if (!headerLevel.includes(level)) {
-      const slug = renderHref(findPreviousHeader(target)?.id)
+      const slug = renderHref(findPreviousHeader(element)?.id)
       const links = document.querySelectorAll<HTMLAnchorElement>('.toc-sidebar .el-anchor__link')
       const marker = document.querySelector('.toc-sidebar .el-anchor__marker') as HTMLElement
       const link = Array.from(links).find(l => l.hash === slug) as HTMLAnchorElement
+      link.classList.add('is-active')
       marker.setAttribute('style', `top: ${link.offsetTop + 8}px; opacity: 1;`)
     }
   }
 
-  watch(() => route.path, async () => {
-    await nextTick()
+  function scrollToAnchor(offset = 60) {
+    const hash = window.location.hash.replace('#', '')
+    const target = document.getElementById(hash)
+    if (!target) return
+    setTimeout(()=> {
+      const top = target.getBoundingClientRect().top + window.scrollY - offset
+      window.scrollTo({ top })
+    },50)
+    autoActiveAnchorLink(target)
     const activeLink = document.querySelector('.toc-sidebar .el-anchor__link.is-active')
     activeLink && activeLink.scrollIntoView({ block: 'nearest' })
-  }, { immediate: true })
+  }
 
-  onMounted(() => autoActiveAnchorLink())
+  watch(() => route.path, () => nextTick(() => scrollToAnchor()), { immediate: true })
 </script>
 
 <template>
