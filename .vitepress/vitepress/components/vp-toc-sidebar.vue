@@ -1,13 +1,15 @@
 <script setup lang="ts">
   import { useToc } from '~/composables/use-toc'
-  import { renderMarkup } from '~/utils'
+  import { renderMarkup } from '~/utils';
   import { useSidebar } from '~/composables/sidebar';
-  import { onMounted } from 'vue'
+  import { onMounted, watch, nextTick } from 'vue';
   import { headerLevel } from '../../plugins/headers'
   import { renderHref } from '../../plugins/permalink'
+  import { useRoute } from 'vitepress'
 
   const headers = useToc()
   const { hasSidebar } = useSidebar()
+  const route = useRoute()
 
   function findPreviousHeader (element: HTMLElement) {
     const targetTop = element.getBoundingClientRect().top + window.scrollY
@@ -35,6 +37,12 @@
       marker.setAttribute('style', `top: ${link.offsetTop + 8}px; opacity: 1;`)
     }
   }
+
+  watch(() => route.path, async () => {
+    await nextTick()
+    const activeLink = document.querySelector('.toc-sidebar .el-anchor__link.is-active')
+    activeLink && activeLink.scrollIntoView({ block: 'nearest' })
+  }, { immediate: true })
 
   onMounted(() => autoActiveAnchorLink())
 </script>
