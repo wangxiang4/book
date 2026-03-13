@@ -41,10 +41,11 @@
     const hash = window.location.hash.replace('#', '')
     const target = document.getElementById(decodeURIComponent(hash))
     if (!target) return
+    // Waiting for lazy loading to complete
     setTimeout(()=> {
       const top = target.getBoundingClientRect().top + window.scrollY - offset
       window.scrollTo({ top })
-    },50)
+    },800)
     autoActiveAnchorLink(target)
     const activeLink = document.querySelector('.toc-sidebar .el-anchor__link.is-active')
     activeLink && activeLink.scrollIntoView({ block: 'nearest' })
