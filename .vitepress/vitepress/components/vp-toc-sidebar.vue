@@ -1,15 +1,47 @@
 <script setup lang="ts">
   import { useToc } from '~/composables/use-toc'
   import { renderMarkup } from '~/utils'
-  import {useSidebar} from '~/composables/sidebar';
+  import { useSidebar } from '~/composables/sidebar';
+  import { onMounted } from 'vue'
+  import { headerLevel } from '../../plugins/headers'
+  import { renderHref } from '../../plugins/permalink'
 
   const headers = useToc()
   const { hasSidebar } = useSidebar()
+
+  function findPreviousHeader (element: HTMLElement) {
+    const targetTop = element.getBoundingClientRect().top + window.scrollY
+    const selector = headerLevel.map(l => `h${l}`).join(',')
+    const headings = [...document.querySelectorAll(selector)]
+
+    const previousHeaders = headings.filter(h => {
+      const hTop = h.getBoundingClientRect().top + window.scrollY
+      return hTop < targetTop
+    })
+
+    return previousHeaders.length > 0 ? previousHeaders.at(-1) : null
+  }
+
+  function autoActiveAnchorLink () {
+    const hash = window.location.hash.replace('#', '')
+    const target = document.getElementById(hash)
+    if (!target) return
+    const level = Number(target.tagName.slice(1))
+    if (!headerLevel.includes(level)) {
+      const slug = renderHref(findPreviousHeader(target)?.id)
+      const links = document.querySelectorAll<HTMLAnchorElement>('.toc-sidebar .el-anchor__link')
+      const marker = document.querySelector('.toc-sidebar .el-anchor__marker') as HTMLElement
+      const link = Array.from(links).find(l => l.hash === slug) as HTMLAnchorElement
+      marker.setAttribute('style', `top: ${link.offsetTop + 8}px; opacity: 1;`)
+    }
+  }
+
+  onMounted(() => autoActiveAnchorLink())
 </script>
 
 <template>
   <div v-if="hasSidebar" class="toc-sidebar">
-    <ElAnchor :offset="70" :bound="120">
+    <ElAnchor :offset="60" :bound="16">
       <ElAnchorLink
         v-for="{ link, text, children } in headers"
         :key="link"

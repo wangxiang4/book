@@ -1,7 +1,7 @@
 import type { MarkdownRenderer } from 'vitepress'
 import { slugify } from '@mdit-vue/shared'
 import { renderHref } from './permalink'
-const headLevel = [2, 3]
+export const headerLevel = [2, 3]
 
 /**
  * Get markdown headers info
@@ -28,7 +28,7 @@ export default (md: MarkdownRenderer): void => {
           }
         }
 
-        headLevel.includes(level) && env.headers.push({
+        headerLevel.includes(level) && env.headers.push({
           level,
           title: inline.content,
           slug: token.attrGet('id')
