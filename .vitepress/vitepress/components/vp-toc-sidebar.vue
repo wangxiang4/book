@@ -6,12 +6,12 @@
   import { headerLevel } from '../../plugins/headers'
   import { renderHref } from '../../plugins/permalink'
   import { useRoute } from 'vitepress'
-  import { useBrowser } from '@vueuse/core'
+  import { useLockScreen } from '~/composables/lock-scrollbar'
 
   const headers = useToc()
   const { hasSidebar } = useSidebar()
   const route = useRoute()
-  const isSafari = () => /^(?:(?!chrome|android).)*safari/i.test(navigator.userAgent) && !("chrome" in window);
+  const { lock, cleanup } = useLockScreen()
 
   function findPreviousHeader (element: HTMLElement) {
     const targetTop = element.getBoundingClientRect().top + window.scrollY
@@ -43,11 +43,13 @@
     const hash = window.location.hash.replace('#', '')
     const target = document.getElementById(decodeURIComponent(hash))
     if (!target) return
+    lock()
     // Waiting for lazy loading to complete
     setTimeout(()=> {
       const top = target.getBoundingClientRect().top + window.scrollY - offset
       window.scrollTo({ top })
-    },1000)
+      cleanup()
+    },1200)
     autoActiveAnchorLink(target)
     const activeLink = document.querySelector('.toc-sidebar .el-anchor__link.is-active')
     activeLink && activeLink.scrollIntoView({ block: 'nearest' })
