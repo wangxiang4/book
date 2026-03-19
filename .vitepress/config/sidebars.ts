@@ -5,6 +5,7 @@ import writing from '../dictionary/pages/writing.json'
 import materials from '../dictionary/pages/materials.json'
 import concurrent from '../dictionary/pages/concurrent.json'
 import spring from '../dictionary/pages/spring.json'
+import issues from '../dictionary/pages/issues.json'
 
 
 function getMathSideBar() {
@@ -35,6 +36,11 @@ function getSpringSideBar() {
   return Object.values(spring as Item[]).map((item) => mapPrefix(item, '/spring'))
 }
 
+function getIssuesSideBar() {
+  return Object.values(issues as Item[]).map((item) => mapPrefix(item, '/issues'))
+}
+
+
 const getSidebars = () => {
   return {
     'logic': getLogicSidebar(),
@@ -44,6 +50,7 @@ const getSidebars = () => {
     'materials': getMaterialsSideBar(),
     'concurrent': getConcurrentSideBar(),
     'spring': getSpringSideBar(),
+    'issues': getIssuesSideBar(),
   }
 }
 

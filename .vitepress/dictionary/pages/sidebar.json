@@ -33,6 +33,11 @@
   "text": "Materials",
   "link": "/materials/1 Practice",
   "activeMatch": "materials"
+  },
+  {
+    "text": "Issues",
+    "link": "/issues/1 Bean生命周期",
+    "activeMatch": "issues"
   }
 ]
 

@@ -1,0 +1,11 @@
+{
+  "issues": {
+    "text": "Spring",
+    "children": [
+      {
+        "text": "Bean生命周期",
+        "link": "/1 Bean生命周期"
+      }
+    ]
+  }
+}
