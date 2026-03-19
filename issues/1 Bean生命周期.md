@@ -1,6 +1,8 @@
 ---
-title: Bean生命周期
+title: Bean生命周期 (探索地图)
 ---
+
+# Bean生命周期 (探索地图)
 
 ## 1. 首先在类上加 @Component  
    ![0.png](../public/issues/spring/0.png)  
